@@ -29,15 +29,106 @@ Windsor Brokers由CySec（塞浦路斯）许可并受其监管，CySec（塞浦�
 
 多年来，windsor温莎外汇交易平台以其创新的产品，服务，合作伙伴计划和卓越的客户支持而获得国际奖项。
 
-\[wbcr\_text\_snippet id="24946" title="Windsor温莎外汇基本资料"\]
+<table class="tg" width="100%">
+<thead>
+<tr>
+<th colspan="4"><b>Windsor</b>温莎外汇开户基本资料</th>
+</tr>
+</thead>
+<tbody>
+<tr class="dark">
+<td>公司名称</td>
+<td>所属国家</td>
+<td>成立时间</td>
+<td>经营模式</td>
+</tr>
+<tr class="light">
+<td><b><span style="color: #787269;">Windsor温莎</span></b></td>
+<td>英国</td>
+<td>1988年</td>
+<td>ECN/STP</td>
+</tr>
+<tr class="dark">
+<td>平台软件</td>
+<td>监管信息</td>
+<td>最低入金</td>
+<td>主要点差</td>
+</tr>
+<tr class="light">
+<td><b>MT4</b></td>
+<td>FCA 463727
+CySEC 030/04
+BaFin 120311
+欧盟MiFID,多国监管</td>
+<td><b><span style="color: #ff7800;">无限制</span></b></td>
+<td>外汇平均0.1
+黄金低至1.0</td>
+</tr>
+<tr class="dark">
+<td>点差类型</td>
+<td>最小头寸</td>
+<td>剥头皮</td>
+<td>锁仓</td>
+</tr>
+<tr class="light">
+<td>原始浮动点差 + ECN手续费</td>
+<td>0.01</td>
+<td>允许</td>
+<td>允许</td>
+</tr>
+<tr class="dark">
+<td>入金方式</td>
+<td>交易品种</td>
+<td>出金优惠</td>
+<td>爆仓比例</td>
+</tr>
+<tr class="light">
+<td><b><span style="color: #f56d09;">银联入金，即时到账，约银行汇率</span></b></td>
+<td>外汇、贵金属、原油和股指CFD</td>
+<td>银联出金，当日到账</td>
+<td>50%</td>
+</tr>
+</tbody>
+</table>
 
 * * *
 
-\[wbcr\_text\_snippet id="24945" title="Windsor温莎外汇出入金"\]
+<table class="tg" width="100%">
+<thead>
+<tr>
+<th colspan="4">Windsor出入金平台相关</th>
+</tr>
+</thead>
+<tbody>
+<tr class="dark">
+<td>公司名称</td>
+<td>最低入金</td>
+<td>入金方式</td>
+<td>出金优惠</td>
+</tr>
+<tr class="light">
+<td>Windsor
+<span style="color: #afafaf;">温莎</span></td>
+<td><b><span style="color: #7da572;">无限制</span></b></td>
+<td>银联入金，即时到账，约银行汇率</td>
+<td>银联出金，当日到账，最快2小时，约银行汇率</td>
+</tr>
+<tr class="dark">
+<td>使用平台软件</td>
+<td>服务器区时</td>
+<td>交易品种</td>
+<td>最大杠杆</td>
+</tr>
+<tr class="light">
+<td><b><span style="color: #0b8630;">MT4</span></b></td>
+<td>GMT+2(夏令时GMT+3）</td>
+<td>外汇、贵金属、原油和股指CFD</td>
+<td><b><span style="color: #215ba9;">400倍</span></b></td>
+</tr>
+</tbody>
+</table>
 
 * * *
-
-\[wbcr\_text\_snippet id="21529" title="平台推荐列表-NEW"\]
 
 温莎外汇交易平台是一家老牌、经验丰富和受监管的在线交易外汇交易平台，通过现代平台为网上交易提供了各种各样的资产。他们向客户提供详细的市场分析、教材和交易工具。然而，与其他交易平台相比，这些费用并不是最便宜的，最好的交易条件需要有较大存款的账户。
 
