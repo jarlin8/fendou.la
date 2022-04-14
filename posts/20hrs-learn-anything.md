@@ -2,13 +2,12 @@
 ID: 12816
 title: '20小时学习法#学会任何你想学的东西！'
 slug: 20hrs-learn-anything
-author: 复利哥
 post_date: 2020-03-15 13:49:17
 post_excerpt: >
   你可以用这20个小时学各种各样有意思的事，一门新的语言、弹吉他、瑜伽、下棋、冲浪等等。更重要的是，这“20个小时”
   能让你在繁忙琐碎的日常生活中时刻保持新鲜感和学习的热情，时刻能为自己喜欢的、想做的、想了解的事情付出努力，永远当一个年轻、上进而有趣的人！
 layout: post
-post_excerpt: https://fendou.la/12816.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

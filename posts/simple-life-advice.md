@@ -2,10 +2,9 @@
 ID: 12761
 title: 81条简洁的人生建议值得收藏
 slug: simple-life-advice
-author: 复利哥
 post_date: 2020-03-02 12:49:14
 layout: post
-post_excerpt: https://fendou.la/12761.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

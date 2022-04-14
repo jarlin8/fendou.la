@@ -4,10 +4,9 @@ title: >
   How
   to和FAQ形式的营销内容如何创作？
 slug: how-to-schema
-author: 复利哥
 post_date: 2021-01-14 19:03:35
 layout: post
-post_excerpt: https://fendou.la/13433.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

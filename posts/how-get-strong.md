@@ -3,10 +3,9 @@ ID: 12702
 title: >
   怎样支撑一个人走过人生低谷和迷茫？
 slug: how-get-strong
-author: 复利哥
 post_date: 2020-02-14 16:33:17
 layout: post
-post_excerpt: https://fendou.la/12702.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

@@ -3,10 +3,9 @@ ID: 12769
 title: >
   如何学习懂得更多，让别人觉得自己挺厉害？
 slug: how-learn-more
-author: 复利哥
 post_date: 2020-03-04 13:33:29
 layout: post
-post_excerpt: https://fendou.la/12769.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

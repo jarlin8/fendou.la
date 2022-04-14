@@ -3,10 +3,9 @@ ID: 12717
 title: >
   想把副业变事业？你需要4个元模型
 slug: make-money-better
-author: 复利哥
 post_date: 2020-02-18 08:00:35
 layout: post
-post_excerpt: https://fendou.la/12717.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

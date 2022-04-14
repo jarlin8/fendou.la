@@ -3,10 +3,9 @@ ID: 13828
 title: >
   7个有用的wordpress图片云储存方案
 slug: oss-wordpress
-author: 复利哥
 post_date: 2021-04-10 22:19:03
 layout: post
-post_excerpt: https://fendou.la/13828.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

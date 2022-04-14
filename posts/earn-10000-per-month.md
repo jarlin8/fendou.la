@@ -2,10 +2,9 @@
 ID: 12686
 title: 读书拆书，用你读过的书变现
 slug: earn-10000-per-month
-author: 复利哥
 post_date: 2020-01-15 14:18:36
 layout: post
-post_excerpt: https://fendou.la/12686.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

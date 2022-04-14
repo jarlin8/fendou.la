@@ -2,10 +2,9 @@
 ID: 13570
 title: 相关关键词建站文案模板
 slug: keyword-site-copywriting
-author: 复利哥
 post_date: 2021-02-22 11:59:45
 layout: post
-post_excerpt: https://fendou.la/13570.html
+post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:
