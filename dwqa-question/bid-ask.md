@@ -2,7 +2,7 @@
 title: "外汇交易中买价、卖价、点差原来是这个意思啊!"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 

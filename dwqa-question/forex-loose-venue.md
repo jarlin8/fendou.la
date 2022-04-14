@@ -2,7 +2,7 @@
 title: "EXNESS外汇交易中的止损是什么意思,如何设置止损?"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: EXNESS外汇
     dwqa-question_tag:
 ---
 

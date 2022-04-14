@@ -2,7 +2,7 @@
 title: "国内有没有正规合法的外汇交易平台？"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 

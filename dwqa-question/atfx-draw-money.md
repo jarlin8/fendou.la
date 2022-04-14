@@ -3,7 +3,7 @@ title: "ATFX外汇的出入金快吗？ATFX外汇出入金有哪些方式？"
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ATFX外汇卡和移动支付入金都是及时到账的。

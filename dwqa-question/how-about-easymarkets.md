@@ -2,7 +2,7 @@
 title: "easymarkets易信外汇平台可靠吗?"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 易信easymarkets
     dwqa-question_tag:
 ---
 

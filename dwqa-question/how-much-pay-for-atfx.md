@@ -3,7 +3,7 @@ title: "ATFX外汇mt4平台开户要多少钱？"
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ATFX外汇mt4平台开户的最低入金是722美元。

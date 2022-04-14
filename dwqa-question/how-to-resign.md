@@ -3,7 +3,7 @@ title: "ATFX外汇实盘注册开户需要什么资料？ATFX外汇平台怎么�
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ## ATFX外汇平台怎么样？

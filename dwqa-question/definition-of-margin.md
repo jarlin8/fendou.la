@@ -2,7 +2,7 @@
 title: "外汇交易中的保证金是什么意思？"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 

@@ -2,7 +2,7 @@
 title: "Exness外汇可以交易哪些指数类产品?"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: EXNESS外汇
     dwqa-question_tag:
 ---
 

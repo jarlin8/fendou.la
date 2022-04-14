@@ -2,7 +2,7 @@
 title: "外柜小白做交易，为什么一定要从模拟账户开始？"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 

@@ -2,7 +2,7 @@
 title: "Exness外汇账户有多少种,各有什么区别?"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: EXNESS外汇
     dwqa-question_tag:
 ---
 

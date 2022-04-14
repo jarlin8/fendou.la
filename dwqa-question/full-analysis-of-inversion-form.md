@@ -2,7 +2,7 @@
 title: "三种最基础的K线形态解析-纺锤线实体线和十字星"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 

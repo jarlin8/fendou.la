@@ -3,7 +3,7 @@ title: "ATFX外汇是黑平台吗？ATFX外汇是正规的外汇交易平台吗?
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ATFX外汇是成立于2015年，总部位于英国伦敦，由英国fca监管的正规外汇平台。

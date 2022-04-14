@@ -3,7 +3,7 @@ title: "ATFX外汇杠杆是多少？"
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ATFX外汇杠杆是最高200。

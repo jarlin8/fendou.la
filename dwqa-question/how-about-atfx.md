@@ -3,7 +3,7 @@ title: "ATFX外汇平台怎么样？ATFX外汇平台可靠吗?"
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ATFX外汇是一家于2015年成立的外汇[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)交易平台。

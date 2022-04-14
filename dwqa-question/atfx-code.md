@@ -3,7 +3,7 @@ title: "ATFX推荐人编号 IBSH127CW「ATFX官方0手续费」"
 post_status: publish
 taxonomy:
     dwqa-question_category: ATFX外汇
-    dwqa-question_tag:
+    dwqa-question_tag: ATFX
 ---
 
 ## atfx推荐人编号 推荐人编号 IBSH127CW

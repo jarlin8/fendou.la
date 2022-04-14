@@ -2,7 +2,7 @@
 title: "做外汇选择离岸监管意味着资金得不到安全保障吗？"
 post_status: publish
 taxonomy:
-    dwqa-question_category:
+    dwqa-question_category: 外汇平台
     dwqa-question_tag:
 ---
 
