@@ -3,7 +3,7 @@ title: "什么是固定点差？『固定点差的5大优点』"
 post_status: publish
 taxonomy:
     dwqa-question_category:
-        - ATFX外汇
+    dwqa-question_tag:
 ---
 
 ## 什么是固定点差？
