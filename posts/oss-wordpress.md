@@ -4,8 +4,6 @@ title: >
   7个有用的wordpress图片云储存方案
 slug: oss-wordpress
 post_date: 2021-04-10 22:19:03
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

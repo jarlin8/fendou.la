@@ -4,8 +4,6 @@ title: >
   商品房公摊面积的3笔糊涂账找谁结?
 slug: commercial-housing-pool-area
 post_date: 2020-08-07 16:39:52
-layout: post
-post_excerpt:
 post_status: publish
 post_tag:
   - 投资

@@ -4,8 +4,6 @@ title: >
   一篇博客文章最佳的SEO状态应该是这样的！
 slug: best-seo
 post_date: 2021-01-18 22:50:44
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

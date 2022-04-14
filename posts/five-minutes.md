@@ -3,8 +3,6 @@ ID: 765
 title: '5分钟搞定对方#心理学#精读笔记'
 slug: five-minutes
 post_date: 2021-01-11 14:11:54
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

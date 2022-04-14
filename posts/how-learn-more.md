@@ -4,8 +4,6 @@ title: >
   如何学习懂得更多，让别人觉得自己挺厉害？
 slug: how-learn-more
 post_date: 2020-03-04 13:33:29
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

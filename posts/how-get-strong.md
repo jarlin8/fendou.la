@@ -4,8 +4,6 @@ title: >
   怎样支撑一个人走过人生低谷和迷茫？
 slug: how-get-strong
 post_date: 2020-02-14 16:33:17
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

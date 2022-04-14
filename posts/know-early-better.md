@@ -4,8 +4,6 @@ title: >
   有哪些越早知道越好的人生经验？
 slug: know-early-better
 post_date: 2020-03-04 11:58:33
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

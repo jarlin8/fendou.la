@@ -3,8 +3,6 @@ ID: 13870
 title: Backlinko的7种经典文案样式
 slug: backlinko
 post_date: 2021-04-29 11:15:36
-layout: post
-post_excerpt:
 post_status: publish
 post_tag: [ ]
 category:

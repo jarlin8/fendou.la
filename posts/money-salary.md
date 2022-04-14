@@ -4,8 +4,6 @@ title: >
   刚工作不久，收入不高如何进一步提升自己？
 slug: money-salary
 post_date: 2020-03-07 23:23:35
-layout: post
-post_excerpt:
 post_status: publish
 post_tag:
   - 投资
