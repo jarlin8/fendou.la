@@ -9,6 +9,7 @@ taxonomy:
       - 投资
     category:
       - 靠谱项目
+      - smartbook
 ---
 
 天下购房者苦“公摊面积”久矣！
