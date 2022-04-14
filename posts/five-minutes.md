@@ -4,9 +4,10 @@ title:  '5分钟搞定对方#心理学#精读笔记'
 slug: five-minutes
 post_date: 2021-01-11 14:11:54
 post_status: publish
-post_tag: [ ]
-category:
-  - 好书精读
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 好书精读
 ---
 
 > - 当一个人受到指责时，受委屈的更多处于攻势，而心里有愧的，更多的时候处于守势。

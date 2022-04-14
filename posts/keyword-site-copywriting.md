@@ -4,9 +4,10 @@ title:  相关关键词建站文案模板
 slug: keyword-site-copywriting
 post_date: 2021-02-22 11:59:45
 post_status: publish
-post_tag: [ ]
-category:
-  - 靠谱项目
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 靠谱项目
 ---
 
 ## 列表文章classic-list-post

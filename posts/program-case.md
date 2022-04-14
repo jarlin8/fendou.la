@@ -4,9 +4,10 @@ title:  '[案例分析]提前找到客户-最大化收益售课'
 slug: program-case
 post_date: 2021-01-18 22:01:30
 post_status: publish
-post_tag: [ ]
-category:
-  - 靠谱项目
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 靠谱项目
 ---
 
 > 在线课程项目流程图：

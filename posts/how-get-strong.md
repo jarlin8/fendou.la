@@ -4,9 +4,10 @@ title: 怎样支撑一个人走过人生低谷和迷茫？
 slug: how-get-strong
 post_date: 2020-02-14 16:33:17
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+    post_tag: [ ]
+    category:
+    - 杂谈系列
 ---
 
 ## 低谷期最重要的四件事情

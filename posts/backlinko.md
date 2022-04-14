@@ -4,9 +4,10 @@ title:  Backlinko的7种经典文案样式
 slug: backlinko
 post_date: 2021-04-29 11:15:36
 post_status: publish
-post_tag: [ ]
-category:
-  - 工作日志
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 工作日志
 ---
 
 这是什么奇葩操作呀？

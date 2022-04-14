@@ -4,9 +4,10 @@ title: 最会赚钱的人给我的20个启发！坚持比什么都重要！
 slug: 20-enlightens
 post_date: 2020-02-05 20:49:31
 post_status: publish
-post_tag: [ ]
-category:
-  - 靠谱项目
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 靠谱项目
 ---
 
 01、商业的逻辑是简单的，不要想得太复杂了，五花八门的技巧容易把自己绕进去了。

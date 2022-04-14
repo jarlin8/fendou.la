@@ -4,9 +4,10 @@ title:  '20小时学习法#学会任何你想学的东西！'
 slug: 20hrs-learn-anything
 post_date: 2020-03-15 13:49:17
 post_status: publish
-post_tag: [ ]
-category:
-  - 好书精读
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 好书精读
 ---
 
 * * *

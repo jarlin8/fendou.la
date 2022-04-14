@@ -4,9 +4,10 @@ title: 【精读节选】高效休息的方法-久贺谷亮
 slug: ways-to-rest-effectively
 post_date: 2020-01-15 13:55:03
 post_status: publish
-post_tag: [ ]
-category:
-  - 好书精读
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 好书精读
 ---
 
 ## 金 句 精 选

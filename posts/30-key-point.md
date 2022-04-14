@@ -4,9 +4,10 @@ title: 新媒体人如何系统地做复盘和反思？这里有30个关键词+3
 slug: 30-key-point
 post_date: 2020-03-14 10:18:11
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 杂谈系列
 ---
 
 01.【目标】你到底想做什么？如何用数字来表达你的目标？ （如读100本书的100.赚50万的50万.涨粉10万的10万，都是明确的数字）

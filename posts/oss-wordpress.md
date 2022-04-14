@@ -4,9 +4,10 @@ title: 7个有用的wordpress图片云储存方案
 slug: oss-wordpress
 post_date: 2021-04-10 22:19:03
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 杂谈系列
 ---
 
 储存图片一直是我们这些小站长的难题，本地占用空间大，速度还提不起来。

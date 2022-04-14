@@ -4,9 +4,10 @@ title: 6个简单的步骤快速创建内容营销策略
 slug: 6-simple-strategy
 post_date: 2021-01-08 10:47:45
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 杂谈系列
 ---
 
 如何开始内容营销？

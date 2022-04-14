@@ -4,9 +4,10 @@ title: 有哪些越早知道越好的人生经验？
 slug: know-early-better
 post_date: 2020-03-04 11:58:33
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 杂谈系列
 ---
 
 ## 当一件事只能让你产生短期快感，建议少做

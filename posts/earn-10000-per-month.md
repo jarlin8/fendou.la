@@ -4,9 +4,10 @@ title:  读书拆书，用你读过的书变现
 slug: earn-10000-per-month
 post_date: 2020-01-15 14:18:36
 post_status: publish
-post_tag: [ ]
-category:
-  - 好书精读
+taxonomy:
+    post_tag: [ ]
+    category:
+      - 好书精读
 ---
 
 一： 月入过万的读书人，是靠什么赚钱的

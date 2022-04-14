@@ -4,11 +4,12 @@ title: 刚工作不久，收入不高如何进一步提升自己？
 slug: money-salary
 post_date: 2020-03-07 23:23:35
 post_status: publish
-post_tag:
-  - 投资
-  - 阅读
-category:
-  - 靠谱项目
+taxonomy:
+    post_tag:
+      - 投资
+      - 阅读
+    category:
+      - 靠谱项目
 ---
 
 **①增加对身体的投资，让身体始终好用，**

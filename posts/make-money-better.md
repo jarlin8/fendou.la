@@ -4,9 +4,10 @@ title: 想把副业变事业？你需要4个元模型
 slug: make-money-better
 post_date: 2020-02-18 08:00:35
 post_status: publish
-post_tag: [ ]
-category:
-  - 杂谈系列
+taxonomy:
+        post_tag: [ ]
+        category:
+        - 杂谈系列
 ---
 
 - 听说微信公众号打开率不行了，写公众号还有意义吗？
