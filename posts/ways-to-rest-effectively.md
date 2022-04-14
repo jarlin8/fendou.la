@@ -5,7 +5,9 @@ slug: ways-to-rest-effectively
 post_date: 2020-01-15 13:55:03
 post_status: publish
 taxonomy:
-    post_tag: [ ]
+    post_tag:
+      - 效率
+      - 学习
     category:
       - 好书精读
 ---
