@@ -1,6 +1,7 @@
 ---
 title: "如何选择一个最适合自己的外汇交易平台？"
 date: "2020-06-05"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

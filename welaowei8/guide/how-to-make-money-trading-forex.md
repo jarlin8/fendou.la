@@ -1,6 +1,7 @@
 ---
 title: "如何在外汇交易中赚钱？「5000字长文」"
 date: "2020-08-20"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

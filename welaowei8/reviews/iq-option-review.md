@@ -1,6 +1,7 @@
 ---
 title: "IQ Option外汇平台评测2022"
 date: "2020-09-12"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

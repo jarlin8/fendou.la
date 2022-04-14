@@ -1,6 +1,7 @@
 ---
 title: "ThinkMarkets智汇交易平台开户测评"
 date: "2020-08-03"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

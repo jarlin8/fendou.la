@@ -1,6 +1,7 @@
 ---
 title: "2021最新easyMarkets易信外汇固定点差表"
 date: "2020-07-31"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

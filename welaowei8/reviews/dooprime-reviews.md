@@ -1,6 +1,7 @@
 ---
 title: "DooPrime德璞资本外汇平台开户"
 date: "2020-08-06"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

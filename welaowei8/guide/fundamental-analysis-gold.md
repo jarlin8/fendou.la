@@ -1,6 +1,7 @@
 ---
 title: "如何用基本面分析炒黄金『伦敦金』？"
 date: "2020-08-12"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

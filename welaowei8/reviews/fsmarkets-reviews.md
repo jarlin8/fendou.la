@@ -1,6 +1,7 @@
 ---
 title: "FSmarkets外汇交易平台开户测评"
 date: "2020-08-02"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

@@ -1,6 +1,7 @@
 ---
 title: "WeTrade众汇平台交易评测"
 date: "2020-08-02"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

@@ -1,6 +1,7 @@
 ---
 title: "GKFX捷凯金融外汇交易平台评测"
 date: "2020-08-01"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

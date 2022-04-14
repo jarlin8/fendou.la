@@ -1,6 +1,7 @@
 ---
 title: "外汇是什么？「2022外汇交易新手必读」"
 date: "2022-01-26"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

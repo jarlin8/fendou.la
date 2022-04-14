@@ -1,6 +1,7 @@
 ---
 title: "以交易为生，外汇行业面试找工作，你一定要知道的这些坑！"
 date: "2020-08-19"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

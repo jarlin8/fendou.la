@@ -1,6 +1,7 @@
 ---
 title: "外汇交易中何时买入卖出货币对呢？"
 date: "2020-08-20"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

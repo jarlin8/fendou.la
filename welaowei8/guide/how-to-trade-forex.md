@@ -1,6 +1,7 @@
 ---
 title: "如何进行外汇交易赚钱-简洁开户的行动指南"
 date: "2020-08-08"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

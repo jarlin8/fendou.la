@@ -1,6 +1,7 @@
 ---
 title: "外汇交易中的点是什么意思？「最详解答」"
 date: "2020-06-27"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

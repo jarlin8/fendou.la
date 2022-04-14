@@ -1,6 +1,7 @@
 ---
 title: "294家外汇黄金交易平台评测排行榜"
 date: "2022-01-05"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

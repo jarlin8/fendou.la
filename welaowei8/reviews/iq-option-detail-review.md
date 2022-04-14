@@ -1,6 +1,7 @@
 ---
 title: "IQ Option新手开户使用指南，交易测试全方位测评"
 date: "2020-09-05"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

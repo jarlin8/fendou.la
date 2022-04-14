@@ -1,6 +1,7 @@
 ---
 title: "怎样找到一个正规的外汇交易平台？"
 date: "2020-07-12"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

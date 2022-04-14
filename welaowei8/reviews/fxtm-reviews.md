@@ -1,6 +1,7 @@
 ---
 title: "FXTM富拓外汇评测2022"
 date: "2020-09-12"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

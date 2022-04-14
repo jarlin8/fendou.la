@@ -1,6 +1,7 @@
 ---
 title: "2022最适合新手的外汇平台推荐"
 date: "2020-07-12"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

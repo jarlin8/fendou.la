@@ -1,6 +1,7 @@
 ---
 title: "AUSFOREX外汇开户指南-澳汇开户前必读"
 date: "2020-06-12"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

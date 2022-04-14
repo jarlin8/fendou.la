@@ -1,6 +1,7 @@
 ---
 title: "激石外汇Pepperstone入门指南"
 date: "2020-09-09"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

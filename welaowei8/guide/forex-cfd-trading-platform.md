@@ -1,6 +1,7 @@
 ---
 title: "外汇差价合约CFD在线交易平台LongHornFX"
 date: "2020-09-08"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

@@ -1,6 +1,7 @@
 ---
 title: "外汇市场的规模和流动性"
 date: "2020-06-28"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

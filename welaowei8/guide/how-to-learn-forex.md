@@ -1,6 +1,7 @@
 ---
 title: "外汇新手如何系统的学习外汇交易?「2022版」"
 date: "2022-01-31"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

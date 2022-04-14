@@ -1,6 +1,7 @@
 ---
 title: "外汇货币对是什么？直盘交叉盘的由来"
 date: "2020-06-28"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

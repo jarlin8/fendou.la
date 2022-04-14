@@ -1,6 +1,7 @@
 ---
 title: "ATFX外汇期货平台开户前必读清单「2022最新」"
 date: "2020-07-09"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

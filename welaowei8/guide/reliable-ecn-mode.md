@@ -1,6 +1,7 @@
 ---
 title: "靠谱的ECN模式的外汇黄金平台有哪些?"
 date: "2020-09-01"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

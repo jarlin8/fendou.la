@@ -1,6 +1,7 @@
 ---
 title: "怎样查询外汇交易平台是否受到FCA监管？"
 date: "2020-06-25"
+post_status: publish
 taxonomy:
     category: 
        - 监管机构

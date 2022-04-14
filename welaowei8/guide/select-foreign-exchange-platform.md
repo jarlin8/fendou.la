@@ -1,6 +1,7 @@
 ---
 title: "选外汇平台，你必须要注意的那些事"
 date: "2020-08-23"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

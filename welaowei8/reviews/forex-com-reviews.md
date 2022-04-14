@@ -1,6 +1,7 @@
 ---
 title: "Forex.com嘉盛外汇平台开户交易测评"
 date: "2020-09-11"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

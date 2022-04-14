@@ -1,6 +1,7 @@
 ---
 title: "做外汇交易的到底赚不赚钱？"
 date: "2020-05-02"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

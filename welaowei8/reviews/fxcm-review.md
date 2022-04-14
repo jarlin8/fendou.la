@@ -1,6 +1,7 @@
 ---
 title: "FXCM福汇是骗局黑平台吗？"
 date: "2020-09-13"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

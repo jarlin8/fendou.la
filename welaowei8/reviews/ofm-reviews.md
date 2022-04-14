@@ -1,6 +1,7 @@
 ---
 title: "OFM欧福市场外汇交易平台"
 date: "2020-08-03"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

@@ -1,6 +1,7 @@
 ---
 title: "国内炒伦敦金黄金外汇平台如何选择？"
 date: "2020-08-12"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

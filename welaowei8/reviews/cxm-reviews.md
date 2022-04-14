@@ -1,6 +1,7 @@
 ---
 title: "CXM希盟外汇外汇交易平台开户测评"
 date: "2020-08-08"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

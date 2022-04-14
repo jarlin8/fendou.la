@@ -1,6 +1,7 @@
 ---
 title: "Valutrades瓦鲁外汇交易开户测评"
 date: "2020-08-02"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

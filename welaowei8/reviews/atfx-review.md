@@ -1,6 +1,7 @@
 ---
 title: "ATFX外汇开户指南 ATFX代理开户前必读"
 date: "2020-05-02"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

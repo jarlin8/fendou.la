@@ -1,6 +1,7 @@
 ---
 title: "赴香港办理境外银行卡攻略「招商永隆银行」"
 date: "2020-04-13"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

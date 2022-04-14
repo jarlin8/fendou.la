@@ -1,6 +1,7 @@
 ---
 title: "ActivTrades爱汇平台交易开户评测"
 date: "2020-08-02"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

@@ -1,6 +1,7 @@
 ---
 title: "2022无限杠杆外汇平台EXNESS精准评测"
 date: "2022-01-27"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

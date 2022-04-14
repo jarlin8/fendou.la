@@ -1,6 +1,7 @@
 ---
 title: "AVATrade在线交易平台入门指南"
 date: "2022-01-09"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

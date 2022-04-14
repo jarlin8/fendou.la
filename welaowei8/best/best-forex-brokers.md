@@ -1,6 +1,7 @@
 ---
 title: "2022最佳黄金原油外汇交易平台推荐"
 date: "2020-06-27"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

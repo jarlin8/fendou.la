@@ -1,6 +1,7 @@
 ---
 title: "XM外汇开户指南-XM外汇开户前必读"
 date: "2022-01-12"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

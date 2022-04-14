@@ -1,6 +1,7 @@
 ---
 title: "USGFX联准国际交易平台测评"
 date: "2020-09-12"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

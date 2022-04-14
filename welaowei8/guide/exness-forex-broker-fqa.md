@@ -1,6 +1,7 @@
 ---
 title: "外汇期货贵金属交易平台exness开户前必读清单「2022更新」"
 date: "2022-02-03"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

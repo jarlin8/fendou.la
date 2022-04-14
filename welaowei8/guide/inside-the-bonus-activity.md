@@ -1,6 +1,7 @@
 ---
 title: "外汇交易平台的赠金活动内幕，教你如何辨别避免上当受骗！"
 date: "2020-08-20"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

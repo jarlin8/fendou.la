@@ -1,6 +1,7 @@
 ---
 title: "全球外汇十大平台排名是什么？"
 date: "2020-07-26"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

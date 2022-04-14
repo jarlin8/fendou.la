@@ -1,6 +1,7 @@
 ---
 title: "最佳外汇期货黄金ECN外汇交易平台推荐"
 date: "2020-08-18"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

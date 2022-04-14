@@ -1,6 +1,7 @@
 ---
 title: "NAGA在线交易平台测评2022"
 date: "2021-06-24"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

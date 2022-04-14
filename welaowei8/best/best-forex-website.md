@@ -1,6 +1,7 @@
 ---
 title: "2022最佳期货贵金属外汇平台排行榜"
 date: "2022-01-24"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

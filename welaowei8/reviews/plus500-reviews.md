@@ -1,6 +1,7 @@
 ---
 title: "Plus500是黑平台吗?资金安全评测"
 date: "2020-09-10"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

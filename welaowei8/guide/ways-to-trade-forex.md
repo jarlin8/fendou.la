@@ -1,6 +1,7 @@
 ---
 title: "外汇交易有哪些的不同方式？"
 date: "2020-06-28"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

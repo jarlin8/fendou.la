@@ -1,6 +1,7 @@
 ---
 title: "Dukascopy杜高斯贝在线交易平台开户评测"
 date: "2022-01-07"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

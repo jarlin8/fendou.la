@@ -1,6 +1,7 @@
 ---
 title: "SMFX外汇交易平台开户流程"
 date: "2020-08-02"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

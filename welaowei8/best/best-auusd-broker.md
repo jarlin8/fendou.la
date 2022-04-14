@@ -1,6 +1,7 @@
 ---
 title: "2022最佳贵金属交易平台推荐"
 date: "2020-11-18"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

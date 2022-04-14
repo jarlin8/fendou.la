@@ -1,6 +1,7 @@
 ---
 title: "外汇如何稳定长期盈利？你需要知道的那些事!"
 date: "2020-08-23"
+post_status: publish
 taxonomy:
     category: 
        - 交易常识

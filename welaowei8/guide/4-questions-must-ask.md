@@ -1,6 +1,7 @@
 ---
 title: "全职外汇交易前必须要问自己的4个问题"
 date: "2020-08-08"
+post_status: publish
 taxonomy:
     category: 
        - 交易指南

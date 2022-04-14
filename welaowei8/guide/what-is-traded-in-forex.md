@@ -1,6 +1,7 @@
 ---
 title: "外汇交易的是什么？「外汇交易的本质」"
 date: "2020-05-27"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐

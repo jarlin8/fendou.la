@@ -1,6 +1,7 @@
 ---
 title: "EightCap易汇外汇交易平台"
 date: "2020-08-04"
+post_status: publish
 taxonomy:
     category: 
        - 平台推荐
