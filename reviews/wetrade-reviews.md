@@ -7,12 +7,12 @@ taxonomy:
        - 平台推荐
 ---
 
-\[wbcr\_text\_snippet id="24901" title="WeTrade众汇基本资料"\]
+[wbcr_text_snippet id="24901" title="WeTrade众汇基本资料"]
 
 * * *
 
-\[wbcr\_text\_snippet id="24896" title="VTmarkets外汇出入金"\]
+[wbcr_text_snippet id="24896" title="VTmarkets外汇出入金"]
 
 * * *
 
-\[wbcr\_text\_snippet id="21529" title="平台推荐列表-NEW"\]
+[wbcr_text_snippet id="21529" title="平台推荐列表-NEW"]
