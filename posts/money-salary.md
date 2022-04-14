@@ -1,17 +1,17 @@
 ---
 ID: 2175
-post_title: >
+title: >
   刚工作不久，收入不高如何进一步提升自己？
-post_name: money-salary
+slug: money-salary
 author: 复利哥
 post_date: 2020-03-07 23:23:35
 layout: post
-link: https://fendou.la/2175.html
-published: true
-tags:
+post_excerpt: https://fendou.la/2175.html
+post_status: publish
+post_tag:
   - 投资
   - 阅读
-categories:
+category:
   - 靠谱项目
 ---
 **①增加对身体的投资，让身体始终好用，** **②增加对社交的投资，扩大你的人脉，** **③增加对学习的投资，加强你的自信，** **④增加对旅游的投资，扩大你的见闻，** **⑤增加对未来的投资，增加你的收益。** 生活形形色色，充满新鲜诱惑的东西数不胜数。但很多人就是因为自己没钱，而将这些梦想扼杀在自己的脑海中。 其实，只要你学会整理生活，就会发现一切都变得轻而易举。无论你的工资有多少，无论你的花销有多大，记得这些，你就是个快乐的人！ 

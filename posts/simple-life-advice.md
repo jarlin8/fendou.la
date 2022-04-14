@@ -1,14 +1,14 @@
 ---
 ID: 12761
-post_title: 81条简洁的人生建议值得收藏
-post_name: simple-life-advice
+title: 81条简洁的人生建议值得收藏
+slug: simple-life-advice
 author: 复利哥
 post_date: 2020-03-02 12:49:14
 layout: post
-link: https://fendou.la/12761.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12761.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 <a href="https://fendou.la/how-get-strong.html" data-schema-attribute="">怎样支撑一个人走过人生低谷和迷茫？</a>

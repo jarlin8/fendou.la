@@ -1,16 +1,16 @@
 ---
 ID: 2531
-post_title: >
+title: >
   商品房公摊面积的3笔糊涂账找谁结?
-post_name: commercial-housing-pool-area
+slug: commercial-housing-pool-area
 author: 复利哥
 post_date: 2020-08-07 16:39:52
 layout: post
-link: https://fendou.la/2531.html
-published: true
-tags:
+post_excerpt: https://fendou.la/2531.html
+post_status: publish
+post_tag:
   - 投资
-categories:
+category:
   - 靠谱项目
 ---
 <!-- wp:paragraph -->

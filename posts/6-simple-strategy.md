@@ -1,15 +1,15 @@
 ---
 ID: 13379
-post_title: >
+title: >
   6个简单的步骤快速创建内容营销策略
-post_name: 6-simple-strategy
+slug: 6-simple-strategy
 author: 复利哥
 post_date: 2021-01-08 10:47:45
 layout: post
-link: https://fendou.la/13379.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13379.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 如何开始内容营销？ 当竞争比以往任何时候都激烈时，您将来如何为您的业务运行内容营销活动？ 如果您热衷于创建一种可以为您的企业创造奇迹的内容营销策略，那么这两个问题肯定会在您的脑海中浮现。 

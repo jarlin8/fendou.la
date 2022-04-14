@@ -1,15 +1,15 @@
 ---
 ID: 12801
-post_title: >
+title: >
   新媒体人如何系统地做复盘和反思？这里有30个关键词+30个问题
-post_name: 30-key-point
+slug: 30-key-point
 author: 复利哥
 post_date: 2020-03-14 10:18:11
 layout: post
-link: https://fendou.la/12801.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12801.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 <div>

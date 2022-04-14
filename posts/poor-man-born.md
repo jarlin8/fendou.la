@@ -1,16 +1,16 @@
 ---
 ID: 12760
-post_title: 一个人没有出息的九大根源！
-post_name: poor-man-born
+title: 一个人没有出息的九大根源！
+slug: poor-man-born
 author: 复利哥
 post_date: 2020-03-02 09:21:07
 post_excerpt: >
   学习需要费脑子，自我成长需要不断和自己作斗争，多痛苦啊！还不如舒舒服服躺在家玩手机看电影，然后等看到同龄人薪资比你高、生活过得比你好时，你又在朋友圈感叹时运不济。很少见到，每天从早忙到玩，拖着疲惫身子回家的人空虚寂寞。
 layout: post
-link: https://fendou.la/12760.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12760.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 <div>

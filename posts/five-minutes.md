@@ -1,14 +1,14 @@
 ---
 ID: 765
-post_title: '5分钟搞定对方#心理学#精读笔记'
-post_name: five-minutes
+title: '5分钟搞定对方#心理学#精读笔记'
+slug: five-minutes
 author: 复利哥
 post_date: 2021-01-11 14:11:54
 layout: post
-link: https://fendou.la/765.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/765.html
+post_status: publish
+post_tag: [ ]
+category:
   - 好书精读
 ---
 <div>

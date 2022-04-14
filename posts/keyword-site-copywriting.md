@@ -1,14 +1,14 @@
 ---
 ID: 13570
-post_title: 相关关键词建站文案模板
-post_name: keyword-site-copywriting
+title: 相关关键词建站文案模板
+slug: keyword-site-copywriting
 author: 复利哥
 post_date: 2021-02-22 11:59:45
 layout: post
-link: https://fendou.la/13570.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13570.html
+post_status: publish
+post_tag: [ ]
+category:
   - 靠谱项目
 ---
 <!-- wp:heading -->

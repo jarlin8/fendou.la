@@ -1,15 +1,15 @@
 ---
 ID: 12769
-post_title: >
+title: >
   如何学习懂得更多，让别人觉得自己挺厉害？
-post_name: how-learn-more
+slug: how-learn-more
 author: 复利哥
 post_date: 2020-03-04 13:33:29
 layout: post
-link: https://fendou.la/12769.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12769.html
+post_status: publish
+post_tag: [ ]
+category:
   - 好书精读
 ---
 > 在探索的过程中，书籍、付费知识、别人的总结都不是终点，它们是你探索的过程，千万不要以为买了一节课就得到了。用不加整理的方式收集、用优秀的工具去做笔记梳理、用自己的语言重新表达出来，甚至写出来，我们才最终得到。

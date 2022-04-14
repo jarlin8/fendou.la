@@ -1,15 +1,15 @@
 ---
 ID: 13471
-post_title: >
+title: >
   一篇博客文章最佳的SEO状态应该是这样的！
-post_name: best-seo
+slug: best-seo
 author: 复利哥
 post_date: 2021-01-18 22:50:44
 layout: post
-link: https://fendou.la/13471.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13471.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 <span style="font-weight: bold;">文章标题的写法</span>

@@ -1,15 +1,15 @@
 ---
 ID: 12702
-post_title: >
+title: >
   怎样支撑一个人走过人生低谷和迷茫？
-post_name: how-get-strong
+slug: how-get-strong
 author: 复利哥
 post_date: 2020-02-14 16:33:17
 layout: post
-link: https://fendou.la/12702.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12702.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 ## 低谷期最重要的四件事情

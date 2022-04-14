@@ -1,15 +1,15 @@
 ---
 ID: 12698
-post_title: >
+title: >
   最会赚钱的人给我的20个启发！坚持比什么都重要！
-post_name: 20-enlightens
+slug: 20-enlightens
 author: 复利哥
 post_date: 2020-02-05 20:49:31
 layout: post
-link: https://fendou.la/12698.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12698.html
+post_status: publish
+post_tag: [ ]
+category:
   - 靠谱项目
 ---
 <div>

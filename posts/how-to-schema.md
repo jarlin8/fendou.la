@@ -1,16 +1,16 @@
 ---
 ID: 13433
-post_title: >
+title: >
   How
   to和FAQ形式的营销内容如何创作？
-post_name: how-to-schema
+slug: how-to-schema
 author: 复利哥
 post_date: 2021-01-14 19:03:35
 layout: post
-link: https://fendou.la/13433.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13433.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 <div style="font-size: 14px; margin: 0; padding: 0; width: 100%;">

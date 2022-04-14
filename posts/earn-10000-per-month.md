@@ -1,14 +1,14 @@
 ---
 ID: 12686
-post_title: 读书拆书，用你读过的书变现
-post_name: earn-10000-per-month
+title: 读书拆书，用你读过的书变现
+slug: earn-10000-per-month
 author: 复利哥
 post_date: 2020-01-15 14:18:36
 layout: post
-link: https://fendou.la/12686.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12686.html
+post_status: publish
+post_tag: [ ]
+category:
   - 好书精读
 ---
 <div style="font-size: 14px; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none;">

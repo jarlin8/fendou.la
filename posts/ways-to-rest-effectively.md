@@ -1,15 +1,15 @@
 ---
 ID: 12678
-post_title: >
+title: >
   【精读节选】高效休息的方法-久贺谷亮
-post_name: ways-to-rest-effectively
+slug: ways-to-rest-effectively
 author: 复利哥
 post_date: 2020-01-15 13:55:03
 layout: post
-link: https://fendou.la/12678.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12678.html
+post_status: publish
+post_tag: [ ]
+category:
   - 好书精读
 ---
 ## 金 句 精 选

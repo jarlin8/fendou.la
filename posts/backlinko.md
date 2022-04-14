@@ -1,14 +1,14 @@
 ---
 ID: 13870
-post_title: Backlinko的7种经典文案样式
-post_name: backlinko
+title: Backlinko的7种经典文案样式
+slug: backlinko
 author: 复利哥
 post_date: 2021-04-29 11:15:36
 layout: post
-link: https://fendou.la/13870.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13870.html
+post_status: publish
+post_tag: [ ]
+category:
   - 工作日志
 ---
 

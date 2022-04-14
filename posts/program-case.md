@@ -1,14 +1,14 @@
 ---
 ID: 13463
-post_title: '[案例分析]提前找到客户-最大化收益售课'
-post_name: program-case
+title: '[案例分析]提前找到客户-最大化收益售课'
+slug: program-case
 author: 复利哥
 post_date: 2021-01-18 22:01:30
 layout: post
-link: https://fendou.la/13463.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/13463.html
+post_status: publish
+post_tag: [ ]
+category:
   - 靠谱项目
 ---
 <div>

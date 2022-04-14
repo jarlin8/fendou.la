@@ -1,15 +1,15 @@
 ---
 ID: 12763
-post_title: >
+title: >
   有哪些越早知道越好的人生经验？
-post_name: know-early-better
+slug: know-early-better
 author: 复利哥
 post_date: 2020-03-04 11:58:33
 layout: post
-link: https://fendou.la/12763.html
-published: true
-tags: [ ]
-categories:
+post_excerpt: https://fendou.la/12763.html
+post_status: publish
+post_tag: [ ]
+category:
   - 杂谈系列
 ---
 ## 当一件事只能让你产生短期快感，建议少做
