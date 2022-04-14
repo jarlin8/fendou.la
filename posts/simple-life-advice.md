@@ -1,6 +1,6 @@
 ---
 ID: 12761
-title: 81条简洁的人生建议值得收藏
+title:  81条简洁的人生建议值得收藏
 slug: simple-life-advice
 post_date: 2020-03-02 12:49:14
 post_status: publish

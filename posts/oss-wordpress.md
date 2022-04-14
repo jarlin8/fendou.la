@@ -1,7 +1,6 @@
 ---
 ID: 13828
-title: >
-  7个有用的wordpress图片云储存方案
+title: 7个有用的wordpress图片云储存方案
 slug: oss-wordpress
 post_date: 2021-04-10 22:19:03
 post_status: publish

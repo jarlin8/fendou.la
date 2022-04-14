@@ -1,6 +1,6 @@
 ---
 ID: 13570
-title: 相关关键词建站文案模板
+title:  相关关键词建站文案模板
 slug: keyword-site-copywriting
 post_date: 2021-02-22 11:59:45
 post_status: publish
@@ -964,7 +964,7 @@ Before you start on your first link, make sure to leave a quick comment to let m
 
 <!-- wp:paragraph -->
 
-Here are the two things to include in your Product Showdown title:
+Here are the two things to include in your Product Showdown title: 
 
 <!-- /wp:paragraph -->
 
@@ -1191,7 +1191,7 @@ Also, when you roundup a bunch of “best practices”, and prove that they’re
 
 <!-- wp:paragraph -->
 
-You have two options with your Myth Debunker title:
+You have two options with your Myth Debunker title: 
 
 <!-- /wp:paragraph -->
 

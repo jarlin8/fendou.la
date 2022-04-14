@@ -1,7 +1,6 @@
 ---
 ID: 2531
-title: >
-  商品房公摊面积的3笔糊涂账找谁结?
+title: 商品房公摊面积的3笔糊涂账找谁结?
 slug: commercial-housing-pool-area
 post_date: 2020-08-07 16:39:52
 post_status: publish

@@ -1,7 +1,6 @@
 ---
 ID: 13379
-title: >
-  6个简单的步骤快速创建内容营销策略
+title: 6个简单的步骤快速创建内容营销策略
 slug: 6-simple-strategy
 post_date: 2021-01-08 10:47:45
 post_status: publish

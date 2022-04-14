@@ -1,7 +1,6 @@
 ---
 ID: 12702
-title: >
-  怎样支撑一个人走过人生低谷和迷茫？
+title: 怎样支撑一个人走过人生低谷和迷茫？
 slug: how-get-strong
 post_date: 2020-02-14 16:33:17
 post_status: publish

@@ -1,7 +1,6 @@
 ---
 ID: 13433
-title: >
-  How
+title: How
   to和FAQ形式的营销内容如何创作？
 slug: how-to-schema
 post_date: 2021-01-14 19:03:35
