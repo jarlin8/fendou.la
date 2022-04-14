@@ -68,7 +68,7 @@ taxonomy:
 <table class="tg" width="100%">
 <thead>
 <tr>
-<th colspan="4">WeTrade出入金&平台相关</th>
+<th colspan="4">WeTrade出入金平台相关</th>
 </tr>
 </thead>
 <tbody>
