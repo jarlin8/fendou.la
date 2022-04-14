@@ -5,13 +5,13 @@ taxonomy:
     category: 
        - 平台推荐
 ---
-
-\[wbcr\_text\_snippet id="24909" title="ActivTrades爱汇基本资料"\]
-
-* * *
-
-\[wbcr\_text\_snippet id="24910" title="ActivTrades爱汇出入金"\]
+这是什么平台？
+[wbcr_text_snippet id="24909" title="ActivTrades爱汇基本资料"]
 
 * * *
 
-\[wbcr\_text\_snippet id="21529" title="平台推荐列表-NEW"\]
+[wbcr_text_snippet id="24910" title="ActivTrades爱汇出入金"]
+
+* * *
+
+[wbcr_text_snippet id="21529" title="平台推荐列表-NEW"]
