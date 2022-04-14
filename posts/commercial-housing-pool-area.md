@@ -7,7 +7,7 @@ post_status: publish
 post_tag:
   - 投资
 category:
-  - 靠谱项目
+  - project
 ---
 
 天下购房者苦“公摊面积”久矣！
