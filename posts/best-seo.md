@@ -8,116 +8,135 @@ post_tag: [ ]
 category:
   - 杂谈系列
 ---
-<span style="font-weight: bold;">文章标题的写法</span>
 
-*   <span style="font-weight: bold;">标题中使用数字</span>
+文章标题的写法
 
-*   <span style="text-indent: 13mm; min-height: 20pt; font-size: 12pt; color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; line-height: 20pt;">数字标题产生点击的可能性高出36％。对一项15万条头条新闻的研究显示，奇数标题的头条新闻的点击率比偶数的标题高出20％。</span>
+- 标题中使用数字
+    
 
-*   <span style="font-weight: bold;">标题中使用括号</span>
+- 数字标题产生点击的可能性高出36％。对一项15万条头条新闻的研究显示，奇数标题的头条新闻的点击率比偶数的标题高出20％。
+    
 
-*   <span style="text-indent: 13mm; min-height: 20pt; font-size: 12pt; color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; line-height: 20pt;">在对超过300万条头条新闻的分析中，Outbrain在标题中使用[方括号]将点击率提高了38％。</span>
+- 标题中使用括号
+    
 
-<span style="font-size: 14pt; font-weight: bold;">网址链接的注意点</span>
+- 在对超过300万条头条新闻的分析中，Outbrain在标题中使用\[方括号\]将点击率提高了38％。
+    
 
-*   <span style="font-weight: bold;">使用短的URL</span>
+网址链接的注意点
 
-*   <span style="text-indent: 13mm; min-height: 20pt; font-size: 12pt; color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; line-height: 20pt;">短网址吸引点击的可能性要高2.5倍。</span>
+- 使用短的URL
+    
 
-*   **描述性URL**
+- 短网址吸引点击的可能性要高2.5倍。
+    
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">微软研究发现，可信域名的点击次数增加了25％。</span>
+- **描述性URL**
+    
 
-*   <span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">/</span><span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">example.com/awesome-post</span><span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">  <b> √</b></span>
-
-*   <span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">/</span><span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">xexample.com/blog/post?id=54 </span> <span style="font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm; text-align: justify;">×</span>
+- 微软研究发现，可信域名的点击次数增加了25％。
+    
+- /example.com/awesome-post   **√**
+    
+- /xexample.com/blog/post?id=54  ×
+    
 
 **开篇使用一张有吸引力的美图**
 
-<span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">丰富多彩的视觉效果让人们更有可能阅读产品指南80％。</span>
+丰富多彩的视觉效果让人们更有可能阅读产品指南80％。
 
 **在开始文章之前放分享按钮**
 
-分享按钮放在开头的比<span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12pt;">在页面下方的人数增加了63％。</span>
+分享按钮放在开头的比在页面下方的人数增加了63％。
 
 **用短句子做引导开头**
 
-*   人们之后阅读文章内容的28%，所以要快速引起注意力。
+- 人们之后阅读文章内容的28%，所以要快速引起注意力。
+    
+- 如何做？用短句子做引导
+    
 
-*   如何做？用短句子做引导
-
-*   短句子比长句子的读完率提高了58%
+- 短句子比长句子的读完率提高了58%
+    
 
 **用图片增加可信度**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">一张图片 - 任何形象 - 将内容可信度提高了75％。</span>
+- 一张图片 - 任何形象 - 将内容可信度提高了75％。
+    
 
 **让内容容易被扫读**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">像短段，副标题和项目符号列表.“可扫描的”在线内容将可读性提高了57％。</span>
+- 像短段，副标题和项目符号列表.“可扫描的”在线内容将可读性提高了57％。
+    
 
-<span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><img src="https://fendou.la/wp-content/uploads/2021/01/982ca83afdfc9c7fc96faf387f7bef24.png" style="" width="378" height="" /></span>
+![](https://fendou.la/wp-content/uploads/2021/01/982ca83afdfc9c7fc96faf387f7bef24.png)
 
 **可以实操的文章易于被分享**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">高度实用的文章病毒传播率高出34％。</span>
-
-*   <span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><img src="https://fendou.la/wp-content/uploads/2021/01/3a8c0e3fd0d904eeae2d576bb95fb1fe.png" style="" width="404" height="" /></span>
+- 高度实用的文章病毒传播率高出34％。
+    
+- ![](https://fendou.la/wp-content/uploads/2021/01/3a8c0e3fd0d904eeae2d576bb95fb1fe.png)
+    
 
 **使用高质量的图片**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">图像质量产生了巨大的差异。一项内部营销Sherpa研究发现，专业图像获得的Facebook份额比“半专业”照片多45％。</span>
+- 图像质量产生了巨大的差异。一项内部营销Sherpa研究发现，专业图像获得的Facebook份额比“半专业”照片多45％。
+    
 
 **情感带入**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">引发情绪&apos;敬畏&apos;，&apos;惊讶&apos;或&apos;愤怒&apos;的内容更容易传播病毒。</span>
-
-*   <span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><img src="https://fendou.la/wp-content/uploads/2021/01/e1668b97f2534dfdb7a06a9b93ffe93f.png" style="" width="258" height="" /></span>
-
-<span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><b></b></span>
+- 引发情绪'敬畏'，'惊讶'或'愤怒'的内容更容易传播病毒。
+    
+- ![](https://fendou.la/wp-content/uploads/2021/01/e1668b97f2534dfdb7a06a9b93ffe93f.png)
+    
 
 **使用信息图表**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">信息图表产生的社交分享比操作方法更多2-3倍。</span>
-
-*   **图片刺激分享**
-
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">Skyword研究发现，至少有一张图片的文字内容在社交媒体上的观看次数增加了94％。</span>
+- 信息图表产生的社交分享比操作方法更多2-3倍。
+    
+- **图片刺激分享**
+    
+- Skyword研究发现，至少有一张图片的文字内容在社交媒体上的观看次数增加了94％。
+    
 
 **提到某个领域的影响力人物**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">链接到你职位上有影响力的人（并告诉他们）。哥伦比亚大学的一项研究发现，为了让你的内容成为病毒，<b>影响者的分享</b>是“至关重要的”。</span>
+- 链接到你职位上有影响力的人（并告诉他们）。哥伦比亚大学的一项研究发现，为了让你的内容成为病毒，**影响者的分享**是“至关重要的”。
+    
 
 **要求-呼吁别人分享你的文章**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; font-size: 12pt;">在帖子的末尾添加CTA并使其个性化.Hubspot发现目标CTA（“<b>分享这些减肥秘诀</b>”</span><span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">）的表现优于通用CTA（“分享此帖子”）<b>42％。</b></span>
+- 在帖子的末尾添加CTA并使其个性化.Hubspot发现目标CTA（“**分享这些减肥秘诀**”）的表现优于通用CTA（“分享此帖子”）**42％。**
+    
+- **CTA（call to action）**
+    
 
-*   <span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><b>CTA（call to action）</b></span>
-
-<span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><b><img src="https://fendou.la/wp-content/uploads/2021/01/f7f7ed1766fecef2a26f061e4c158c82.png" style="" width="362" height="" /></b></span>
+**![](https://fendou.la/wp-content/uploads/2021/01/f7f7ed1766fecef2a26f061e4c158c82.png)**
 
 **发布长文章**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; font-size: 12pt;">Jonah Berger教授发现，<b style="color: rgb(1, 1, 1);">较长的内容可能会被 大量分享的几率高出52％</b>。目标是每篇<b>文章至少2,000字。</b></span>
-
-<span style="color: rgb(173, 0, 0); font-family: &quot;Times New Roman&quot;;"><b></b></span>
+- Jonah Berger教授发现，**较长的内容可能会被 大量分享的几率高出52％**。目标是每篇**文章至少2,000字。**
+    
 
 **始终这只一个特色图片**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">设置特色图像可确保您的社交分享包含图像。<b>与图像的社交分享在Twitter上获得150％以上的转发和53％</b></span><span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;; font-size: 12pt; text-indent: 13mm;"><b>更多喜欢Facebook。</b></span>
+- 设置特色图像可确保您的社交分享包含图像。**与图像的社交分享在Twitter上获得150％以上的转发和53％****更多喜欢Facebook。**
+    
 
 **SEO的标签就是adword ads**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">Adwords广告旨在最大限度地提高点击次数。根据Adwords广告设置您的SEO标题和说明标签，以最大限度地提高搜索引擎的流量。</span>
+- Adwords广告旨在最大限度地提高点击次数。根据Adwords广告设置您的SEO标题和说明标签，以最大限度地提高搜索引擎的流量。
+    
 
 **包含主题标签的推文**
 
-<span style="color: rgb(1, 1, 1); font-family: &quot;Times New Roman&quot;;"><b><img src="https://fendou.la/wp-content/uploads/2021/01/daef07467b7b6aee4c7306f9c725f1a6.png" style="" width="394" height="" /></b></span>
+**![](https://fendou.la/wp-content/uploads/2021/01/daef07467b7b6aee4c7306f9c725f1a6.png)**
 
-<span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1);"><b>发布时间为早上8点到中午12点</b></span>
+**发布时间为早上8点到中午12点**
 
-*   <span style="text-indent: 13mm; line-height: 20pt; min-height: 20pt; font-family: &quot;Times New Roman&quot;; color: rgb(1, 1, 1); font-size: 12.0pt;">Shareaholic发现，27％的社交分享发生在美国东部时间上午8点到下午12点之间。</span>
+- Shareaholic发现，27％的社交分享发生在美国东部时间上午8点到下午12点之间。
+    
 
 **下面是全部内容的图片附件：**
 
-<img src="https://fendou.la/wp-content/uploads/2021/01/f43feba72c3939f74ec41cdc8577cf62.png" style="" width="" height="" />
+![](https://fendou.la/wp-content/uploads/2021/01/f43feba72c3939f74ec41cdc8577cf62.png)
