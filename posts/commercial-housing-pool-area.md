@@ -4,10 +4,11 @@ title: 商品房公摊面积的3笔糊涂账找谁结?
 slug: commercial-housing-pool-area
 post_date: 2020-08-07 16:39:52
 post_status: publish
-post_tag:
-  - 投资
-category:
-  - project
+taxonomy:
+    post_tag:
+      - 投资
+    category:
+      - 靠谱项目
 ---
 
 天下购房者苦“公摊面积”久矣！
