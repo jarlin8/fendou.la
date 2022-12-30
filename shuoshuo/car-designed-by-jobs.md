@@ -3,7 +3,6 @@ title: 如果乔布斯造车......
 post_status: publish
 post_date: 2022-10-30 10:03:40
 ---
-**最后更新于: 2022-12-30 14:05:26**
 
 ![如果乔布斯设计轿车](https://cdn.fendou.la/fendou/2022/04/design-by-jobs.jpg)
 
