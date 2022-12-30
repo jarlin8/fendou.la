@@ -1,6 +1,10 @@
 ---
 title: 2022最后两天,时间即将耗尽
 post_status: publish
+taxonomy:
+    post_tag:
+        - 日记
+        - 2022
 ---
 
 ## 2022最后两天
@@ -14,3 +18,4 @@ post_status: publish
 - 好的一方面是目前并不着急住
 - 每年这个时候总是苦恼,为什么? 目标没完成呗!
 - 今天老同学结婚?
+[car-designed-by-jobs](/car-designed-by-jobs.md)
