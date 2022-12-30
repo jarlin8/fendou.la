@@ -1,6 +1,5 @@
 ---
-title: "如果乔布斯造车......"
-date: "2022-04-10"
+title: 如果乔布斯造车......
 post_status: publish
 ---
 

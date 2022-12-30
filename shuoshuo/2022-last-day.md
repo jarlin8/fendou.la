@@ -1,6 +1,5 @@
 ---
-title: "2022最后两天,时间即将耗尽"
-date: "2022-12-30"
+title: 2022最后两天,时间即将耗尽
 post_status: publish
 ---
 
