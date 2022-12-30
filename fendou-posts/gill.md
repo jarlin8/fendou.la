@@ -9,6 +9,8 @@ taxonomy:
    - yaml
 ---
 
+![YAML](https://cdn.fendou.la/tuoss/what-is-yaml.png)
+
 ## Git it write支持的yaml字段
 
 -   `title`– 帖子标题
@@ -77,3 +79,4 @@ add_filter( 'use_widgets_block_editor', '__return_false' );
 
 ## 参考文档
 - [Git it write官网文档](https://www.aakashweb.com/docs/git-it-write/faq/)
+- [YAML是什么？](https://spacelift.io/blog/yaml)
