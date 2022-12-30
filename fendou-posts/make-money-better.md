@@ -10,7 +10,6 @@ taxonomy:
 ## Feed模块
 
 - feed是保存在自己服务器上
-
 - feed每天重新加载用来更新价格
 
 保存feed模块的设置后，csv/xml文件会在回来导入到本地服务器，更新了csv文件可重新保存下相应feed模块的设置（点一下保存就好）。
@@ -20,15 +19,10 @@ taxonomy:
 ![](https://cdn.fendou.la/fendou/2022/04/feed-maping.png)
 
 - `id` - 每个产品对应的独立ID.
-
 - `affiliate link` – 你的联盟链接（可追踪收益）.
-
 - `is in stock` – 支持的值: "1", "true", "on" and "yes", "0", "false", "off", "no".
-
 - `availability` - 支持的值: "in stock", "out of stock".
-
 - `direct link` – 原始产品页面上的直接 URL，没有重定向和附属参数.
-
 - `gtin` - EAN 13位数字，如：3001234567892.
 
 #### 大规模数据导入
@@ -42,7 +36,6 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 ## 利用feed功能导入京东联盟
 
 - 利用京东排行榜获取产品链接、标题、图片、价格信息
-
 - 利用产品链接获取永久固定推广链接
 
 ```
@@ -76,7 +69,14 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 **content-egg/application/admin/LicConfig.php** 83:95
 
 ```
-public function licFormat($value)    {        return true;    }public function activatingLicense($value)    {        return true;    }
+public function licFormat($value)    
+{  
+return true; 
+}
+public function activatingLicense($value)    
+{
+return true;
+}
 ```
 
 ### 2.解除限制B
@@ -84,7 +84,9 @@ public function licFormat($value)    {        return true;    }public func
 **content-egg/application/components/LManager.php** 373
 
 ```
-public static function isNulled(){        return false;​ }
+public static function isNulled(){
+return false;​ 
+}
 ```
 
 ### 3\. 比价模板添加商家logo ✔
@@ -118,9 +120,9 @@ public static function isNulled(){        return false;​ }
 
 ```
 <div class="cegg-no-top-margin cegg-list-logo-title">
-                        <img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
-                        <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo \esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
-                    </div>
+ <img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+ <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo \esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+ </div>
 ```
 
 ### 5.单个产品list展示 显示商家logo ✖ 未解决
@@ -140,7 +142,6 @@ fccm: 使用https://icon.horse/icon/
 
 ```
 https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
-
 <img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
 ```
 
@@ -151,13 +152,33 @@ https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
 **affiliate-egg/application/admin/LicConfig.php**:76
 
 ```
-public function licFormat($value)    {        if (preg_match('/[^0-9a-zA-Z_~\-]/', $value))            return false;        if (strlen($value) !== 32 && !preg_match('/^\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$/', $value))            return false;        return true;    }​    public function activatingLicense($value)    {        return true;        $response = AffiliateEgg::apiRequest(array('method' => 'POST', 'timeout' => 15, 'httpversion' => '1.0', 'blocking' => true, 'headers' => array(), 'body' => array('cmd' => 'activate', 'key' => $value, 'd' => parse_url(site_url(), PHP_URL_HOST), 'p' => AffiliateEgg::product_id, 'v' => AffiliateEgg::version()), 'cookies' => array()));        if (!$response)            return false;        $result = json_decode(\wp_remote_retrieve_body($response), true);        if ($result && !empty($result['status']) && $result['status'] === 'valid')            return true;        else            return false;    }
+public function licFormat($value)    { 
+if (preg_match('/[^0-9a-zA-Z_~\-]/', $value)) 
+return false; 
+if (strlen($value) !== 32 && !preg_match('/^\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$/', $value))
+return false; 
+return true;  }​   
+public function activatingLicense($value)    { 
+return true; 
+$response = AffiliateEgg::apiRequest(array('method' => 'POST', 'timeout' => 15, 'httpversion' => '1.0', 'blocking' => true, 'headers' => array(), 'body' => array('cmd' => 'activate', 'key' => $value, 'd' => parse_url(site_url(), PHP_URL_HOST), 'p' => AffiliateEgg::product_id, 'v' => AffiliateEgg::version()), 'cookies' => array()));
+if (!$response) 
+return false; 
+$result = json_decode(\wp_remote_retrieve_body($response), true); 
+if ($result && !empty($result['status']) && $result['status'] === 'valid')  
+return true;
+else 
+return false; 
+}
 ```
 
 替换成
 
 ```
-public function licFormat($value)    {        return true;    }public function activatingLicense($value)    {        return true;    }
+public function licFormat($value)    {  
+return true; 
+}public function activatingLicense($value)    {
+return true;
+}
 ```
 
 ### 2.解除限制B
@@ -165,13 +186,22 @@ public function licFormat($value)    {        return true;    }public func
 **affiliate-egg/application/admin/LManager.php**:302
 
 ```
-public static function isNulled()​    {​        $l = LicConfig::getInstance()->option('license_key');​​        if (!$l && Plugin::isEnvato())​            return false;​​        if (!LManager::isValidLicFormat($l))​            return true;​​        if (in_array(md5($l), LManager::getNulledLics()))​            return true;​​        return false;​}
+public static function isNulled()​    {​ 
+$l = LicConfig::getInstance()->option('license_key');​​ 
+if (!$l && Plugin::isEnvato())​ 
+return false;​​
+if (!LManager::isValidLicFormat($l))​  
+return true;
+if (in_array(md5($l), LManager::getNulledLics()))​ 
+return true;​​ 
+return false;​}
 ```
 
 替换成
 
 ```
-public static function isNulled(){        return false;​ }
+public static function isNulled(){ 
+return false;​ }
 ```
 
 ## Linux批量删除.DS\_Store
@@ -273,37 +303,21 @@ del /a /f /s /q  "*.iml"
 ### impact加入的商家
 
 - bluehost `https://bluehost.sjv.io/c/2469506/795082/11352?u={{url_encoded}}`
-
 - bluehost(旧) [https://www.bluehost.com/track/jarlin8/](https://www.bluehost.com/track/jarlin8/) 【[后台](https://www.bluehost.com/hosting/partner)】
-
 - Envato(卖wordpress主题插件etc) `https://1.envato.market/c/2469506/275988/4415?u={{url_encoded}}`
-
 - Hostinger `https://hostinger.sjv.io/c/2469506/888231/12282?u={{url_encoded}}`
-
 - Hostgator(恐龙) `https://partners.hostgator.com/c/2469506/177309/3094?u={{url_encoded}}`
-
 - InMotion `https://partners.inmotionhosting.com/c/2469506/260033/4222?u={{url_encoded}}`
-
 - LiquidWeb `https://liquidweb.i3f2.net/c/2469506/278394/4464?u={{url_encoded}}`
-
 - NameCheap `https://namecheap.pxf.io/c/2469506/386170/5618?u={{url_encoded}}`
-
 - SiteGround `https://www.siteground.com/index.htm?afcode=7dca1a3d149d92812da634af29bdad6b` (`{{url}}?afcode=7dca1a3d149d92812da634af29bdad6b`)
-
 - Justhost `https://www.justhost.com/track/jialinwei/`
-
 - interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) \[https://www.interserver.net/r/667363?url={{url\_encoded}}\]
-
 - HostPapa [`https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313`](https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313)
-
 - A2hosting [](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)[`http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3`](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)
-
 - Hostwinds `https://www.hostwinds.com/10193.html`\[ https://affiliates.hostwinds.com/hostwinds.php?id=10193 \]
-
 - WISE: `https://wise.prf.hn/click/camref:1101lqnyb/destination:{{url_encoded}}`
-
 - tradingview 后台【`[https://tradingview.hasoffers.com/](https://tradingview.hasoffers.com/)】 [https://www.tradingview.com/?offer_id=10&aff_id=22792](https://www.tradingview.com/?offer_id=10&aff_id=22792)`
-
 - shareasale: [https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47](https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47)
 
 ### 亚马逊
@@ -313,7 +327,6 @@ Amazon `tag=jarlin-20`
 ### FIVERR
 
 - [fiverr.com](https://affiliates.fiverr.com/) (混合模式)`https://go.fiverr.com/visit/?bta=498363&brand=fiverrhybrid&landingPage={{url_encoded}}`
-
 - sub-affiliate `https://go.fiverr.com/visit/?bta=498363&brand=fiverraffiliates&landingPage={{url_encoded}}`
 
 ### VULTR

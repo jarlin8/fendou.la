@@ -114,11 +114,7 @@ argontheme.js:2611
 
 argon: Theme Header (header.php):421
 
-```
-<div id="banner_container" class="banner-container container text-center">
-	<?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?>
-</div>
-```
+![](https://cdn.fendou.la/tuoss/ajax-search-config.jpg)
 
 ## 禁用wp-emoji-release.min.js
 
