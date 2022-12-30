@@ -1,6 +1,7 @@
 ---
 title: Git it write支持的yaml格式和使用说明
 post_status: publish
+post_post_status: publish
 post_date: 2022-12-30 17:59:01
 taxonomy:
  category: 工作日志
@@ -8,8 +9,6 @@ taxonomy:
    - code
    - yaml
 ---
-
-![YAML](https://cdn.fendou.la/tuoss/what-is-yaml.png)
 
 ## Git it write支持的yaml字段
 
@@ -52,6 +51,7 @@ custom_fields:
 
 - 自定义图床
 - 全部放在`_images`目录下
+![YAML](https://cdn.fendou.la/tuoss/what-is-yaml.png)
 
 >图片可以正常插入markdown文件。所有图像都应存在于`_images`存储库根目录的文件夹中，而无需组织为文件夹。然后可以将它们用在比较像`![alt text](/_images/pic4.jpg "This is pic4")`.
 文件夹中的所有图像`_images`都将上传到 WordPress 库，并且图像将在上传时自动链接到帖子。
