@@ -4,7 +4,9 @@ post_status: publish
 post_date: 2022-12-30 17:59:01
 taxonomy:
  category: 工作日志
- post_tag: code,yaml
+ post_tag: 
+   - code
+   - yaml
 ---
 
 ## Git it write支持的yaml字段
@@ -73,4 +75,5 @@ add_filter( 'gutenberg_use_widgets_block_editor', '__return_false', 100 );
 add_filter( 'use_widgets_block_editor', '__return_false' );
 ```
 
-[Git it write官网文档](https://www.aakashweb.com/docs/git-it-write/faq/)
+## 参考文档
+- [Git it write官网文档](https://www.aakashweb.com/docs/git-it-write/faq/)
