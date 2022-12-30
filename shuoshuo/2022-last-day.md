@@ -1,10 +1,7 @@
 ---
 title: 2022最后两天,时间即将耗尽
 post_status: publish
-taxonomy:
-    post_tag:
-        - 日记
-        - 2022
+post_date: 2022-09-01 20:14:59
 ---
 
 ## 2022最后两天

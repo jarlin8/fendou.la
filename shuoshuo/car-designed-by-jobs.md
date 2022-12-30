@@ -1,8 +1,6 @@
 ---
 title: 如果乔布斯造车......
 post_status: publish
-taxonomy:
-    post_tag: 乔布斯
 ---
 
 ![如果乔布斯设计轿车](https://cdn.fendou.la/fendou/2022/04/design-by-jobs.jpg)
