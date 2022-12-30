@@ -5,6 +5,10 @@ post_date: "2022-08-24"
 taxonomy:
  category: 
   - 靠谱项目
+ post_tag: 
+   - code
+   - PHP
+   - Redis
 ---
 
 ## PHP安装Redis扩展
