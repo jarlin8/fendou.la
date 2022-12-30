@@ -4,7 +4,7 @@ post_status: publish
 post_date: 2022-12-30 17:59:01
 taxonomy:
  category: 工作日志
- post_tag: 狂风
+ post_tag: code yaml
 ---
 
 ## Git it write支持的yaml字段
@@ -56,3 +56,15 @@ custom_fields:
 
 **示例：** 将从相对上一级的文件夹`../guide/doc1.md`中链接一个`doc1.md`文件。`guide`同样`.`可用于当前目录并`/`从存储库的根目录引用文件，即`/folder1/folder2/doc2.md`.
 
+## HTML和Gutenberg古腾堡编辑器
+
+目前已经实测支持Gutenberg编辑器,如果不能使用,可以使用下面代码禁用Gutenberg
+```
+//Wordpress 5.0+ 禁用 Gutenberg 编辑器
+add_filter('use_block_editor_for_post', '__return_false');
+remove_action( 'wp_enqueue_scripts', 'wp_common_block_scripts_and_styles' );
+// Disables the block editor from managing widgets in the Gutenberg plugin.
+add_filter( 'gutenberg_use_widgets_block_editor', '__return_false', 100 );
+// Disables the block editor from managing widgets.
+add_filter( 'use_widgets_block_editor', '__return_false' );
+```
