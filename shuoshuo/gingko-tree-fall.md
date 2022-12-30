@@ -3,7 +3,6 @@ title: 明天就是双11,2022年又度过90%了…
 post_status: publish
 post_date: 2022-11-10 21:53:16
 ---
-[progressbar progress="90"]2022[/progressbar]
 
 国家不强大,就没有话语权；[label color='orange']重大新闻[/label]
 
