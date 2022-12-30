@@ -18,4 +18,4 @@ taxonomy:
 - 好的一方面是目前并不着急住
 - 每年这个时候总是苦恼,为什么? 目标没完成呗!
 - 今天老同学结婚???
-- [链接到加入乔布斯造车](/shuoshuo/car-designed-by-jobs.md)
+- [链接到假如乔布斯造车](/shuoshuo/car-designed-by-jobs.md)
