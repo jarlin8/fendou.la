@@ -210,4 +210,4 @@ proxy_set_header REMOTE-HOST $remote_addr;
 
 ### 360静态库：`cdn.baomitu.com`
 
-complete synchronization of cdnjs content, and have to provide Google fonts acceleration, through their own CDN acceleration, some time ago enabled the AWS CloudFront overseas nodes, is currently the domestic public CDN to do a better job.
+完全同步的cdnjs内容，又要提供谷歌字体的加速，通过自己的CDN加速，前段时间启用了AWS CloudFront的海外节点，是目前国内公共CDN做的比较好的。
