@@ -1,7 +1,7 @@
 ---
 title: "PHP&Linux服务器配置基本操作笔记"
 post_status: publish
-post_date: "2022-08-24"
+post_date: 2022-08-24 20:05:20
 taxonomy:
  category: 
   - 靠谱项目

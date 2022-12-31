@@ -136,7 +136,7 @@ nano .htaccess
 
 要在Apache中拦截单个IP（IPV4或IPV6）地址，请使用以下规则：
 
-**\# Apache 2.2**
+Apache 2.
 
 > order allow, deny
 > 
@@ -144,7 +144,7 @@ nano .htaccess
 > 
 > deny from all
 
-**#Apache 2.4**
+Apache 2.4
 
 > **Require** all granted
 > 
@@ -154,7 +154,7 @@ nano .htaccess
 
 要在Apache中拦截IP范围地址，请使用以下规则：
 
-**\# Apache 2.2**
+ Apache 2.2
 
 > order allow, deny
 > 
@@ -162,8 +162,7 @@ nano .htaccess
 > 
 > deny from all
 
-**#Apache 2.4**
-
+Apache 2.4
 > **Require** all granted
 > 
 > **Require** not ip 192.168.0.0/16

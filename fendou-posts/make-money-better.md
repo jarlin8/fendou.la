@@ -1,7 +1,7 @@
 ---
 title: "Content Egg Pro自助配置文档"
 post_status: publish
-post_date: "2022-08-19"
+post_date: 2022-08-19  22:05:20
 taxonomy:
  category: 
   - 杂谈系列
@@ -157,7 +157,7 @@ if (preg_match('/[^0-9a-zA-Z_~\-]/', $value))
 return false; 
 if (strlen($value) !== 32 && !preg_match('/^\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$/', $value))
 return false; 
-return true;  }​   
+return true;  }
 public function activatingLicense($value)    { 
 return true; 
 $response = AffiliateEgg::apiRequest(array('method' => 'POST', 'timeout' => 15, 'httpversion' => '1.0', 'blocking' => true, 'headers' => array(), 'body' => array('cmd' => 'activate', 'key' => $value, 'd' => parse_url(site_url(), PHP_URL_HOST), 'p' => AffiliateEgg::product_id, 'v' => AffiliateEgg::version()), 'cookies' => array()));

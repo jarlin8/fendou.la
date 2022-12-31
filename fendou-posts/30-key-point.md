@@ -1,5 +1,5 @@
 ---
-title: "新媒体人如何系统地做复盘和反思？这里有30个关键词+30个问题"
+title: 新媒体人如何系统地做复盘和反思？
 post_status: publish
 post_date: 2022-05-20 22:05:20
 taxonomy:
