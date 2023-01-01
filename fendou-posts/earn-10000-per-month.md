@@ -1097,7 +1097,7 @@ eg:
 
 这个事为什么重要，怎么做，有什么收益
 
-5\. 3W:Why, How, What
+5. 3W:Why, How, What
 
 why:目的，观念
 

@@ -89,11 +89,11 @@ return false;​
 }
 ```
 
-### 3\. 比价模板添加商家logo ✔
+### 3. 比价模板添加商家logo ✔
 
-**content-egg/templates/block\_price\_comparison\_card.php:43** &45
+**content-egg/templates/block_price_comparison_card.php:43** &45
 
-**使用自定义模板解决**：block\_ComparePrice
+**使用自定义模板解决**：block_ComparePrice
 
 ```
 <?php foreach ($all_items as $key => $item): ?>    
@@ -114,9 +114,9 @@ return false;​
 
 ### 4.top-list列表添加商家logo ✔
 
-**content-egg/templates/block\_top\_listing.php:53**
+**content-egg/templates/block_top_listing.php:53**
 
-**使用自定义模板解决**： block\_TopListing
+**使用自定义模板解决**： block_TopListing
 
 ```
 <div class="cegg-no-top-margin cegg-list-logo-title">
@@ -127,7 +127,7 @@ return false;​
 
 ### 5.单个产品list展示 显示商家logo ✖ 未解决
 
-**content-egg/application/templates/blocks/list\_row.php**：20&7
+**content-egg/application/templates/blocks/list_row.php**：20&7
 
 ```
 <div class="cegg-no-top-margin cegg-list-logo-title">
@@ -204,7 +204,7 @@ public static function isNulled(){
 return false;​ }
 ```
 
-## Linux批量删除.DS\_Store
+## Linux批量删除.DS_Store
 
 ```
 find . -name ".DS_Store" -print -delete
@@ -312,10 +312,10 @@ del /a /f /s /q  "*.iml"
 - NameCheap `https://namecheap.pxf.io/c/2469506/386170/5618?u={{url_encoded}}`
 - SiteGround `https://www.siteground.com/index.htm?afcode=7dca1a3d149d92812da634af29bdad6b` (`{{url}}?afcode=7dca1a3d149d92812da634af29bdad6b`)
 - Justhost `https://www.justhost.com/track/jialinwei/`
-- interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) \[https://www.interserver.net/r/667363?url={{url\_encoded}}\]
+- interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) [https://www.interserver.net/r/667363?url={{url_encoded}}]
 - HostPapa [`https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313`](https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313)
 - A2hosting [](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)[`http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3`](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)
-- Hostwinds `https://www.hostwinds.com/10193.html`\[ https://affiliates.hostwinds.com/hostwinds.php?id=10193 \]
+- Hostwinds `https://www.hostwinds.com/10193.html`[ https://affiliates.hostwinds.com/hostwinds.php?id=10193 ]
 - WISE: `https://wise.prf.hn/click/camref:1101lqnyb/destination:{{url_encoded}}`
 - tradingview 后台【`[https://tradingview.hasoffers.com/](https://tradingview.hasoffers.com/)】 [https://www.tradingview.com/?offer_id=10&aff_id=22792](https://www.tradingview.com/?offer_id=10&aff_id=22792)`
 - shareasale: [https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47](https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47)

@@ -420,11 +420,11 @@ Also, when you roundup a bunch of “best practices”, and prove that they’re
 
 You have two options with your Myth Debunker title:
 
-**Highlight a single myth:** “The \_\_\_\_ Myth Debunked (Plus 5 More \_\_\_\_ Myths That Drive Me Nuts)”
+**Highlight a single myth:** “The  Myth Debunked (Plus 5 More Myths That Drive Me Nuts)”
 
 Or
 
-**Outline the number (and type) of myths you’re going to cover:** 13 \_\_\_\_ Myths That Every \_\_\_\_ Should Know
+**Outline the number (and type) of myths you’re going to cover:** 13  Myths That Every  Should Know
 
 **Example:** “13 SEO Myths That Every Online Business Owner Needs to Know”
 
@@ -450,25 +450,25 @@ Preview what’s coming next. Also highlight the fact that your post will be bas
 
 Here’s where you highlight (and break down) common myths in your space.
 
-**1\. Background on the myth**
+**1. Background on the myth**
 
 Give your reader context on how this myth came to be.
 
 **Example:** “Back in the early days of blogging and SEO, publishing content on a regular basis did work. Which is why this approach to content creation got so popular”.
 
-**2\. Data or case study**
+**2. Data or case study**
 
 Now it’s time to show your reader why this concept is a myth… and prove it with data.
 
 **Example:** “However, fresh content isn’t as effective as it used to be. The main reason? There’s more content out there than ever before. So to grow your blog today, you can’t just publish a bunch of content. You need to publish epic stuff (like in-depth case studies and infographics). In fact, I grew my blog to over 5,000 visitors per month with only 11 total pieces of blog content.”
 
-**3\. Why the myth is a myth**
+**3. Why the myth is a myth**
 
 You’ve shown them the evidence. Now it’s time to explain why the myth is a myth.
 
 **Example:** “How did I grow my blog with 11 posts while other blogs struggled to take off. Here’s the explanation…”
 
-**4\. What to do instead**
+**4. What to do instead**
 
 **Example:** “So if you’re looking for an alternative to publishing a new post every week, here’s the approach that I recommend trying out…”
 
