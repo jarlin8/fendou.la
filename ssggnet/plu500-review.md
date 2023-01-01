@@ -10,7 +10,7 @@ taxonomy:
   - "forex-com"
 ---
 
-[mark_a]CFD Service. Your capital is at risk.差价合约服务，请留意投资风险！[/mark_a][link href=https://we.laowei8.com/broker/plus500-review]Plus500嘉五百官网开户[/link]
+[mark_a] CFD Service. Your capital is at risk.差价合约服务，请留意投资风险！[/mark_a] [link href=https://we.laowei8.com/broker/plus500-review] Plus500嘉五百官网开户 [/link]
 
 **Plus500** 是一家市场领先的差价合约(CFD) 服务提供商，为您提供无可比拟的股票、外汇、商品、加密数字货币、ETF、期权和指数交易条件以及创新的交易技术。Plus500 在正规监管的环境下为客户提供与可靠及稳固的供应商进行舒适交易。
 
