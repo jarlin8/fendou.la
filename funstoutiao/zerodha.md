@@ -1,5 +1,5 @@
 ---
-title: "Zerodha交易评论2022"
+title: "Zerodha外汇经纪商测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
