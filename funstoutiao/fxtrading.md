@@ -19,7 +19,7 @@ FXTRADING.com是一家受监管的澳大利亚外汇和CFD经纪公司，旨在�
 - 不允许美国客户
 
 
-## 摘要
+## 经纪商简介
 
 FXTRADING.com于2009年以Rubix FX的身份成立，但于2020年2月更名为FXTRADING.com。它由澳大利亚公司Gleneagles Securities Pty Limited拥有。
 
@@ -159,7 +159,7 @@ FXTRADING.com允许使用Visa和MasterCard付款。最低起存金额为5美元�
 
 当您通过经纪商平台申请时，必须确保清楚阅读所有经纪商平台的条款，条件和政策。仅在您完全理解并同意后再继续。
 
-## 结论
+## 总体评价
 
 FXTRADING.com的法规可以使大多数潜在客户放心。交易者的资金应存放在独立账户中。经纪商平台作为ECN经纪商平台的身份可以帮助确保可靠的交易执行速度和竞争性交易条件。
 

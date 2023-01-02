@@ -213,7 +213,7 @@ $25,000是开设该帐户所需的最低金额。最大可能的杠杆为1:400�
 
 ![注册表](https://cdn.fendou.la/funstoutiao/2020/11/12-Trader-Review-Registration-Form.png "注册表")
 
-## 结论
+## 总体评价
 
 12 Trader具有一些可能吸引交易者的优势。其中包括可用的教育资源以及为全球客户提供的众多便捷的付款方式。
 

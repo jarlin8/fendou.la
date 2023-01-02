@@ -15,12 +15,12 @@ IFC Markets是一家创新的在线外汇和CFD经纪商，通过其专有的交
 - 投资组合报价方法和综合工具
 - 教育中心
 - 国际运作规定
-- 没有美国客户
+- 不接受美国客户
 - 没有社交交易网络
-- 不是最低点差
+- 点差偏高
 
 
-## 摘要
+## 经纪商简介
 
 IFC Markets Group由IFCM Cyprus Limited，IFCMARKETS.CORP，IFC Markets Ltd和NetTradeX Limited组成。NetTradeX Limited是软件开发商，而IFCM Cyprus Limited，IFCMARKETS.CORP和IFC Markets Ltd提供在线经纪服务。
 
@@ -167,7 +167,7 @@ IFCM接受多种付款方式，用于资金存入和提取。交易费用随交�
 
 注册后，您将需要确认您的电子邮件地址并上传您的身份证明和地址证明。这些文件可能需要一些时间进行验证，但是一旦完成验证，您就可以为您的帐户注资并开始交易。必须确保您清楚阅读所有经纪商的条款，条件和政策。仅在您完全理解并同意后再继续。
 
-## 结论
+## 总体评价
 
 IFC Markets是一家不断成长的在线外汇和差价合约经纪商，提供许多创新。除了流行的MT4和MT5交易平台外，他们还提供了专有的NetTradeX交易分析平台，其中包含一些专用工具。
 
