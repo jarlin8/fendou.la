@@ -26,7 +26,7 @@ taxonomy:
   
 孙子兵法有云：＂以正合，以奇(ji)胜＂，点破了分兵的战法是基本原则，胜利的关键不在于取巧，稳步发展壮大直到取胜才是正道。  
   
-以上这些都是将毛泽东思想的精华点串联起来的关键，主要集中在第一、二卷中。  
+以上这些都是将毛泽东思想的精华点串联起来的关键，主要集中在1. 二卷中。  
 大格局成就大作为，水无常形，战无定法。  
 实战中无时无刻不在用的思维方式及策略，在几十年前伟人早就已经说的极为详尽、深入、透彻了，如同一个宝藏，取之不尽，用之不竭！
 
@@ -333,7 +333,7 @@ taxonomy:
 这种方法可以倒推出你的交易系统是否能够赢利。  
 打字好累
 
-一、风险控制与仓位管理 
+1. 风险控制与仓位管理 
 
 推荐书目：《通向金融王国的自由之路》（现名《通向财务自由之路》）
 
@@ -342,7 +342,7 @@ taxonomy:
 我一直认为期货市场上生存的重要性要远远超过盈利的重要性，因为若不找到长期生存的办法，那么就难以得到发展。  
 看透了这一本书，在期货市场生存已不成问题，爆仓也就成了不可能之事。  
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113231118.png "图片15.png")二、基本而全面的技术分析
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113231118.png "图片15.png")2. 基本而全面的技术分析
 
 推荐书目：《期货市场技术分析》与《日本蜡烛图技术》
 
@@ -352,7 +352,7 @@ taxonomy:
 前者相当于期货市场的《股票趋势技术分析》，可以说是期货市场的技术分析类教科书。  
 后者蜡烛图的分析是根本之作，不得不看。  
 另外，书中也讲了很多将蜡烛图分析法与其他分析方法结合的思想，这一点颇值得探讨。  
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431195.png "图片16.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431257.png "图片17.png")三、心理分析 
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431195.png "图片16.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113431257.png "图片17.png")3. 心理分析 
 
 推荐书目：《交易心理分析》与《以交易为生》
 
@@ -362,7 +362,7 @@ taxonomy:
 后一本由亚历山大·埃尔德所著，作者是一位精神分析医生，所以重点从群体与个体心理两个角度探讨了交易。  
 值得一提的是，著名的“三重过滤网交易系统”出自其手、其书。  
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113500648.png "图片19.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113501414.png "图片18.png")四、实战日记
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113500648.png "图片19.png")![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113501414.png "图片18.png")4. 实战日记
 
 推荐书目：《1000%的男人》
 
@@ -371,7 +371,7 @@ taxonomy:
 
 对于此书，尽管翻译得很烂，但是一本难得的实战日记，重视实战的朋友在有了一定的交易经验之后，个人推荐一定要尝试看看这本书，他的思路我觉得非常适合大部分带有一点主观判断的交易者，当然也不仅仅局限于日内，可以衍生到周内、月内、季内甚至年内交易。  
 
-![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113526179.png "图片20.png")五、传记与访谈
+![dachshund](https://img.dgrhw.net/upload/files/huihu/2019/06/19/113526179.png "图片20.png")5. 传记与访谈
 
 推荐书目：《股票作手回忆录》与《金融怪杰》
 
