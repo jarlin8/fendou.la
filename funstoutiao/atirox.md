@@ -1,5 +1,5 @@
 ---
-title: "Atirox外汇交易平台开户测评2022"
+title: "Atirox外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ Atirox由Saint Vincent和Grenadines经营，是一家纯粹的STP / ECN经纪商
 ## Atirox  优点＆缺点
 
 - 完善的MT4交易平台
-    
+
 - 多种交易工具
-    
+
 - 教育资源
-    
+
 - 多种交易工具
-    
+
 - 多种账户资金选择
-    
+
 - 离岸经纪商
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader 5平台
-    
+
 - 没有DMA的FIX API
-    
+
 - 不是最低点差
-    
+
 
 ## 摘要
 

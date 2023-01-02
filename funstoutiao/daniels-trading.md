@@ -1,5 +1,5 @@
 ---
-title: "Daniels Trading外汇交易平台测评2022"
+title: "Daniels Trading外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -10,17 +10,17 @@ taxonomy:
 Daniels Trading是一家独立的期货经纪公司，成立于1995年，位于芝加哥金融区的中心。 经纪商建立在信任的文化基础上，致力于公司独立，客观和可靠的使命。
 
 - 先进的交易平台
-    
+
 - 一系列有用的交易工具
-    
+
 - 精选教材
-    
+
 - 最低存款$ 2,000
-    
+
 - 没有MetaTrader平台
-    
+
 - 有限的出入金方式
-    
+
 
 ## 摘要
 

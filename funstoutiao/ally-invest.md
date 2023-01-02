@@ -1,5 +1,5 @@
 ---
-title: "Ally Invest 交易平台测评2022"
+title: "Ally Invest 交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

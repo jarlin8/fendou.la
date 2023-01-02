@@ -1,5 +1,5 @@
 ---
-title: "Fullerton Markets外汇交易平台开户测评2022"
+title: "Fullerton Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,32 +9,32 @@ taxonomy:
 
 Fullerton Markets是一家不受监管的在线经纪公司，它通过用户友好的MetaTrader 4（MT4）平台为部分国家/地区的客户提供有限范围的交易资产。他们拥有专有的应用程序，复制交易解决方案和各种资金选择。与其他一些交易经纪商相比，我们没有发现经纪商的息差最窄或佣金最低。但是，他们确实进行了值得称赞的慈善工作，以帮助各个社区并拥有一支出色的支持团队。
 
-## FullertonMarkets评测
+## FullertonMarkets测评
 
 - MetaTrader 4平台
-    
+
 - 多种存款/取款选项
-    
+
 - 24/5支持
-    
+
 - PipProfit！移动应用
-    
+
 - 复制点
-    
+
 - 镜像交易
-    
+
 - 慈善工作
-    
+
 - 离岸不受监管经纪
-    
+
 - 点差和佣金不是最低的
-    
+
 - 受限账户类型
-    
+
 - 贸易工具有限
-    
+
 - 不接受来自美国，英国和其他一些国家的商人
-    
+
 
 ## 摘要
 

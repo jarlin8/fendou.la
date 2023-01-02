@@ -1,5 +1,5 @@
 ---
-title: "STForex外汇交易平台开户测评2022"
+title: "STForex外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ STForex成立于2014年，是一家在线金融服务提供商，声称可为5�
 ## 优点和缺点
 
 - 热门的MetaTrader 4交易平台
-    
+
 - 教育资源
-    
+
 - 多种交易工具
-    
+
 - 许多金融工具
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 不是最低的佣金
-    
+
 - 没有MetaTrader 5或cTrader平台
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

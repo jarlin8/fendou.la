@@ -10,25 +10,25 @@ taxonomy:
 FortFS是一个在线经纪商，可为多种设备提供一系列强大的交易平台，并为所有类型的交易者提供灵活的交易账户。但是，它们的交易工具范围有限，并且仅在离岸市场受到监管。经纪商的费用也不是最便宜的，您可以在其他地方找到更小的点差。
 
 - 在MT4，MT5，CQG或NinjaTrader平台上进行交易的权限
-    
+
 - 托管帐户可用
-    
+
 - 社交交易以复制其他交易者的信号
-    
+
 - 每日技术和基本市场分析以及交易信号
-    
+
 - 离岸监管
-    
+
 - 不接受来自美国的客户
-    
+
 - 高佣金费用，而不是最窄的点差
-    
+
 - 与其他在线经纪商相比交易工具有限
-    
+
 - 不全面的市场分析，仅针对少数资产
-    
+
 - 顶级帐户需要大量存款
-    
+
 
 ## 摘要
 
@@ -40,9 +40,9 @@ FortFS使用直通式处理（STP）经纪模式。他们具有合理的交易�
 
 FortFS赢得了25多个交易奖项，以奖励其交易服务经纪商。其中一些奖项包括2015年在上海外汇博览会上获得的“最佳ECN / STN外汇经纪商”和2017年“ forex-awards.com”授予的“最佳执行经纪商”。
 
-![FortFS测评：经纪商奖](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Broker-Awards.png "FortFS测评：经纪商奖")
+![经纪商奖](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Broker-Awards.png "经纪商奖")
 
-FortFS测评：经纪商奖
+经纪商奖
 
 ## 法规
 
@@ -75,9 +75,9 @@ NinjaTrader是由美国公司“ NinjaTrader Group LLC”于2003年设计的专�
 - “市场回放”工具下载历史数据，可用于分析和测试。
 - 带有“市场分析器”，可以扫描市场并在发现交易机会时通知交易者。
 
-![FortFS测评：NinjaTrader平台](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-NinjaTrader-Platform.png "FortFS测评：NinjaTrader平台")
+![NinjaTrader平台](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-NinjaTrader-Platform.png "NinjaTrader平台")
 
-FortFS测评：NinjaTrader平台
+NinjaTrader平台
 
 ### CQG交易员
 
@@ -100,9 +100,9 @@ CQG的价格如下：
 - 多种订单类型和风险管理。
 - 通过RTD语法轻松将实时市场价值提取到Excel工作表中。
 
-![FortFS测评：CQG WebTrader](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-CQG-WebTrader-1024x407.png "FortFS测评：CQG WebTrader")
+![CQG WebTrader](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-CQG-WebTrader-1024x407.png "CQG WebTrader")
 
-FortFS测评：CQG WebTrader
+CQG WebTrader
 
 ### MT4平台
 
@@ -124,9 +124,9 @@ MetaTrader 4（MT4）是全世界交易者使用的最受欢迎的交易平台�
 - 多种订单类型和风险管理工具。
 - 通过短信，电子邮件和弹出窗口的价格警报通知。
 
-![FortFS测评：MT4交易平台](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-MT4-Trading-Platform.png "FortFS测评：MT4交易平台")
+![MT4交易平台](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-MT4-Trading-Platform.png "MT4交易平台")
 
-FortFS测评：MT4交易平台
+MT4交易平台
 
 ### MT5
 
@@ -154,25 +154,25 @@ MetaTrader 5（MT5）是一个旨在取代MT4的交易平台，尽管前者可�
 
 该计算器可帮助交易者计算保证金，交易成本，掉期费和合约规模。交易者只需输入他希望交易的资产，手数，杠杆和账户货币。这在计划交易和资金管理策略时会有所帮助。
 
-![FortFS测评：交易员计算器](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Traders-Calculator.png "FortFS测评：交易员计算器")
+![交易员计算器](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Traders-Calculator.png "交易员计算器")
 
-FortFS测评：交易员计算器
+交易员计算器
 
 ### 短期资产收入（STAR）
 
 这是一项投资服务，投资者可以根据其业绩历史选择经理。投资经理代表投资者进行交易，任何利润均被分享。不能保证此托管服务的性能，并且不应依赖历史结果作为将来结果的指示。
 
-![FortFS测评：STAR](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-S.T.A.R.png "FortFS测评：STAR")
+![STAR](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-S.T.A.R.png "STAR")
 
-FortFS测评：STAR
+STAR
 
 ### 财务日历
 
 可在网站上找到经济事件日历。顾名思义，它显示了经济事件的确切日期，时间，以及对特定资产价格的估计影响。它还显示历史记录，并将其与分析师的预测进行比较。使用基本分析方法的交易者最有可能需要此工具作为其分析的一部分。
 
-![FortFS测评：经济日历](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Economic-Calendar-1024x541.png "FortFS测评：经济日历")
+![经济日历](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Economic-Calendar-1024x541.png "经济日历")
 
-FortFS测评：经济日历
+经济日历
 
 ### 基本技术分析
 
@@ -186,9 +186,9 @@ FortFS交易信号主要集中在主要的外汇对上，并经常更新。
 
 FortFS提供了一个社交交易平台，订阅者可以在其中自动从主帐户复制交易。根据主帐户的效果向订户显示等级和统计信息。他们可以选择要复制的帐户，进行存款并激活CopyTrading。订户可以随时监视其交易或停止其订阅。复制交易信号的过去表现绝不保证未来表现。
 
-![FortFS测评：CopyTrading](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-CopyTrading-1024x175.png "FortFS测评：CopyTrading")
+![CopyTrading](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-CopyTrading-1024x175.png "CopyTrading")
 
-FortFS测评：CopyTrading
+CopyTrading
 
 ## 教育
 
@@ -218,9 +218,9 @@ FortFS提供以下交易帐户类型：
 
 适用于Fort和Flex帐户的无掉期帐户。新手帐户是无掉期的，没有免费掉期的Pro帐户。在MT4和MT5平台上，模拟帐户免费且无限制。NinjaTrader平台上提供了模拟帐户，但两个星期后就会过期。模拟账户可能是在使用真金白银进行交易之前测试不同交易策略和平台的好方法。
 
-![FortFS测评：交易账户类型](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Trading-Account-Types-1024x457.png "FortFS测评：交易账户类型")
+![交易账户类型](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Trading-Account-Types-1024x457.png "交易账户类型")
 
-FortFS测评：交易账户类型
+交易账户类型
 
 由于经纪商费用可能会发生变化，因此，FortFS审查中可能未列出其他费用。在打开FortFS帐户进行在线交易之前，必须确保您检查并了解所有最新信息。
 
@@ -239,23 +239,23 @@ FortFS客户支持团队的工作时间为星期一至星期五的凌晨5点至�
 - FasaPay：最低交易金额为5美元，而充值和提款均收取0.5％的佣金。
 - 本地转帐：这涉及同一国家/地区银行之间的银行转帐。它在马来西亚，越南，泰国和印度尼西亚可用。最低存款额为20美元，而最低提款额为15美元。当地交通通常在一天之内完成，并且不收取任何费用。
 
-![FortFS测评：帐户付款选项](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Account-Payment-Options-1024x95.png "FortFS测评：帐户付款选项")
+![帐户付款选项](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Account-Payment-Options-1024x95.png "帐户付款选项")
 
-FortFS测评：帐户付款选项
+帐户付款选项
 
 ## 开户
 
 使用FortFS创建新的交易帐户很简单。访问该网站，然后单击菜单栏上方每个页面顶部的“打开帐户”按钮。将显示显示所有四种帐户类型的页面。单击您要打开的帐户类型下的“打开帐户”按钮。显示注册表。
 
-![FortFS审核：帐户注册表](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Account-Registration-Form.png "FortFS审核：帐户注册表")
+![FortFS：帐户注册表](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Account-Registration-Form.png "FortFS：帐户注册表")
 
-FortFS审核：帐户注册表
+FortFS：帐户注册表
 
 填写您的居住国家/地区，电子邮件，密码并选中“我不是机器人”，然后单击“继续”。将显示第二个询问个人详细信息的页面，然后需要确认电子邮件。确认电子邮件后，将打开该帐户，您可以登录交易员室，在此处可以完成个人资料，完成KYC验证，进行存款并开始进行交易。
 
-![FortFS测评：交易员室](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Traders-Room-1024x499.png "FortFS测评：交易员室")
+![交易员室](https://cdn.fendou.la/funstoutiao/2020/10/FortFS-Review-Traders-Room-1024x499.png "交易员室")
 
-FortFS测评：交易员室
+交易员室
 
 ## 结论
 

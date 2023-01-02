@@ -1,5 +1,5 @@
 ---
-title: "Sandton Direct外汇交易平台开户测评2022"
+title: "Sandton Direct外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Sandton Direct在圣文森特，格林纳丁斯和迪拜设有注册办事处，
 ## 优点和缺点
 
 - 先进的交易平台
-    
+
 - 教育资源
-    
+
 - 离岸监管
-    
+
 - 有限的帐户资金选择
-    
+
 - 没有实时聊天支持
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader或cTrader平台
-    
+
 
 ## 摘要
 

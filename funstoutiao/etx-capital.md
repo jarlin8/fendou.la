@@ -1,5 +1,5 @@
 ---
-title: "ETX Capital外汇交易平台开户测评2022"
+title: "ETX Capital外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ ETX Capital是英国的一家受监管经纪商。他们为来自全球的客户
 ## 优点与缺点
 
 - 成立并受监管的经纪商
-    
+
 - 适用于所有类型交易者的尖端平台
-    
+
 - 超过5,000种交易工具
-    
+
 - 多种付款方式
-    
+
 - 不接受来自美国，比利时，加拿大，新加坡及更多国家的客户
-    
+
 - 没有托管帐户，也没有社交交易
-    
+
 - 不全面的分析；没有专家或第三方分析师的深入分析
-    
+
 - 有限的交易工具
-    
+
 - 做市商经纪商
-    
+
 
 ## 摘要
 
@@ -154,9 +154,9 @@ ETX Capital不接受第三方存款。所有存款必须来自交易帐户上的
 
 使用ETX Capital创建交易账户非常容易。访问该网站，然后单击该网站任何页面右上角的“创建帐户”按钮。显示下面的表格。
 
-![ETX资金审查：帐户注册表](https://cdn.fendou.la/funstoutiao/2020/11/ETX-Capital-Review-Account-Registration-Form.png "ETX资金审查：帐户注册表")
+![帐户注册表](https://cdn.fendou.la/funstoutiao/2020/11/ETX-Capital-Review-Account-Registration-Form.png "帐户注册表")
 
-ETX资金审查：帐户注册表
+帐户注册表
 
 填写详细信息，然后单击“继续”。另一个显示4页的表格要求提供更多详细信息，例如出生日期，地址，交易知识评估等。最后一步是文档验证，要求客户进行KYC验证。验证文件（可能需要几天时间）后，您就可以为您的帐户注资并开始在线交易。
 

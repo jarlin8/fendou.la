@@ -1,5 +1,5 @@
 ---
-title: "Global Prime外汇交易平台开户测评2022"
+title: "Global Prime外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,30 +9,30 @@ taxonomy:
 
 Global Prime为正在寻求透明，灵活和具有成本效益的交易解决方案的零售和机构交易者提供定制的流动性解决方案。他们使用带有MT4和FIX API交易平台的ECN NDD模型。
 
-## Global Prime评测
+## Global Prime测评
 
 - 规范的
-    
+
 - 客户资金隔离
-    
+
 - FIX API
-    
+
 - ECN / NDD
-    
+
 - VPS优惠
-    
+
 - 多种账户资金选择
-    
+
 - 有用的交易工具和教材
-    
+
 - 没有美国客户
-    
+
 - 无固定利差账户
-    
+
 - 有限的非外汇工具
-    
+
 - 没有MAM ​​/ PAMM
-    
+
 
 ## 摘要
 

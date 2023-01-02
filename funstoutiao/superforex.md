@@ -1,5 +1,5 @@
 ---
-title: "Super外汇交易平台开户测评2022"
+title: "Super外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,22 +9,22 @@ taxonomy:
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/SuperForex-Logo.svg)SuperForex是位于伯利兹的在线外汇经纪商平台。他们为交易者提供了300多种交易工具，可通过流行的MetaTrader 4平台进行在线交易。尽管经纪商平台提供多种账户类型，高杠杆和社交交易平台，但监管并不理想，因此我们会格外谨慎，宁愿使用受更多监管的经纪商平台。
 
-## SuperForex评测
+## SuperForex测评
 
 - 通过SuperForex银行管理的帐户
-    
+
 - 通过外汇复制进行社会交易
-    
+
 - 多种交易工具和培训资源
-    
+
 - 离岸监管不理想
-    
+
 - 不接受来自美国的客户
-    
+
 - 除了MT4之外，没有专有平台或其他选择
-    
+
 - 点差不是最低
-    
+
 
 ## 摘要
 

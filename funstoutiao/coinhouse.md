@@ -1,5 +1,5 @@
 ---
-title: "Coinhouse外汇交易平台开户测评2022"
+title: "Coinhouse外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Coinhouse是一个加密货币交易所，可让客户购买，出售，交流�
 ## Coinhouse 优点与缺点
 
 - 直观的交易平台
-    
+
 - 多种加密货币
-    
+
 - 一系列交易和学习工具
-    
+
 - 几种付款方式
-    
+
 - 没有美国客户
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader或cTrader交易平台
-    
+
 
 ## 摘要
 

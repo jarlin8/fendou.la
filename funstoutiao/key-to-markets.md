@@ -1,5 +1,5 @@
 ---
-title: "Key to Markets外汇交易平台开户测评2022"
+title: "Key to Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ Key to Markets是受严格监管的ECN在线经纪商，通过MT4和FIX API提�
 ## 优点和缺点
 
 - 严格监管
-    
+
 - 客户资金隔离
-    
+
 - 免佣金交易
-    
+
 - FIX API
-    
+
 - 免费的VPS
-    
+
 - PAMM
-    
+
 - Myfxbook自动交易
-    
+
 - 没有美国客户
-    
+
 - 没有加密货币
-    
+
 - 有限的交易工具
-    
+
 - 教材有限
-    
+
 
 ## 摘要
 

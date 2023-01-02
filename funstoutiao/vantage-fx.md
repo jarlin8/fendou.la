@@ -1,5 +1,5 @@
 ---
-title: "Vantage FX外汇交易平台开户测评2022"
+title: "Vantage FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,33 +12,33 @@ Vantage FX是一个受多方监管的ECN在线经纪商，具有灵活的交易�
 ## Vantage FX的优缺点
 
 - 严格监管
-    
+
 - 客户资金隔离
-    
+
 - ECN / STP执行模型
-    
+
 - 300多种差价合约交易工具
-    
+
 - 免佣金账户
-    
+
 - MT4智能交易工具
-    
+
 - 专业交易工具
-    
+
 - 教育资源
-    
+
 - 交易中心
-    
+
 - ZuluTrade
-    
+
 - MAM / PAMM帐户
-    
+
 - 没有美国客户
-    
+
 - 限制欧盟客户的杠杆
-    
+
 - 无固定利差账户
-    
+
 
 ## 摘要
 

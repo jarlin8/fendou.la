@@ -1,5 +1,5 @@
 ---
-title: "InstaForex 外汇交易平台测评2022"
+title: "InstaForex 外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ taxonomy:
 ## 优点和缺点
 
 - 300多种乐器
-    
+
 - 严格监管
-    
+
 - 免佣金账户
-    
+
 - 免费的VPS
-    
+
 - 教材
-    
+
 - 模式graphix
-    
+
 - ForexCopy系统
-    
+
 - PAMM系统
-    
+
 - 没有美国客户
-    
+
 - 限制欧盟客户的杠杆
-    
+
 - 做市商
-    
+
 
 ## 摘要
 

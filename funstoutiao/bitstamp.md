@@ -1,5 +1,5 @@
 ---
-title: "Bitstamp交易平台开户评测2022"
+title: "Bitstamp交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,22 +9,22 @@ taxonomy:
 
 Bitstamp是基于欧洲的[加密货币](https://baike.baidu.com/item/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/22415288?fr=aladdin "加密货币")交易所，它允许来自世界各地的交易者在线购买和出售加密货币。 他们为交易者提供了直观的Bitstamp交易平台，可用于多种加密货币的在线交易，包括[比特币](https://funstoutiao.com/%e6%af%94%e7%89%b9%e5%b8%81%e8%bd%ae%e6%8d%a2%e5%8a%a0%e5%89%a7%ef%bc%8c%e9%87%91%e4%bb%b7%e5%9b%9e%e8%90%bd%e5%a4%96%e6%b1%87%e5%a4%b4%e6%9d%a1.html)，以太坊，比特币现金，XRP，Litecoin和Stellar。 客户可以使用各种交易工具和教育资源。 但是，经纪商不受监管，仅提供加密交易。
 
-## Bitstamp评测：优点和缺点
+## 优点和缺点
 
 - 直观的交易平台
-    
+
 - 多种交易工具
-    
+
 - 各种资金选择
-    
+
 - 不规范
-    
+
 - 没有MetaTrader平台
-    
+
 - 仅加密货币交易
-    
+
 - 没有在线聊天支持
-    
+
 
 ## 摘要
 

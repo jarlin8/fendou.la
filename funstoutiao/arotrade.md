@@ -1,5 +1,5 @@
 ---
-title: "Arotrade外汇交易平台开户测评2022"
+title: "Arotrade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ Arotrade是CFD经纪商，经IFSC许可，可提供进入全球金融市场的�
 ## Arotrade 利弊
 
 - 专有交易平台
-    
+
 - 一些交易工具
-    
+
 - 精选教材
-    
+
 - 1,000多种交易工具
-    
+
 - 离岸经纪商
-    
+
 - 没有MetaTrader交易平台
-    
+
 - 没有美国客户
-    
+
 - 最低$ 250入金
-    
+
 - 不是最低点差
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

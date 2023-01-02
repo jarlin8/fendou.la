@@ -1,5 +1,5 @@
 ---
-title: "Bulbrokers外汇交易平台开户测评2022"
+title: "Bulbrokers外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Bulbrokers总部位于保加利亚的索非亚，是一家在线交易经纪商�
 ## Bulbrokers  优点与缺点
 
 - 多个交易平台
-    
+
 - 各种各样的交易产品
-    
+
 - 教育资源
-    
+
 - 没有美国客户
-    
+
 - 没有独立的交易工具
-    
+
 - 没有MetaTrader 5平台
-    
+
 - 不是最低点差
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

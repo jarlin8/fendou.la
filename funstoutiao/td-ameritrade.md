@@ -1,5 +1,5 @@
 ---
-title: "TD Ameritrade外汇交易平台开户测评2022"
+title: "TD Ameritrade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,34 +9,34 @@ taxonomy:
 
 TD Ameritrade是一家美国经纪商，提供各种投资产品，强大的平台，交易工具和丰富的教育资源。它们不提供差价合约或MetaTrader平台，与其他在线经纪商相比，它们没有限制。
 
-## TD Ameritrade评测
+## TD Ameritrade测评
 
 - 严格监管
-    
+
 - 证券投资者保护公司（SIPC）
-    
+
 - 广泛的投资产品
-    
+
 - 有竞争力的费用
-    
+
 - 先进的交易工具
-    
+
 - 丰富的教育资源
-    
+
 - 受限制的国家
-    
+
 - 受限制的杠杆
-    
+
 - 没有差价合约
-    
+
 - 没有MetaTrader平台
-    
+
 - 资金选择有限
-    
+
 - 帐户货币限制为美元
-    
+
 - 开户流程
-    
+
 
 ## 摘要
 

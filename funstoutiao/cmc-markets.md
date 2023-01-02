@@ -1,5 +1,5 @@
 ---
-title: "CMC Markets外汇交易平台开户测评2022"
+title: "CMC Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,32 +9,32 @@ taxonomy:
 
 CMC Markets成立于1989年，在复杂的多功能交易平台上提供10,000多种交易工具。他们还提供全面的分析，交易工具和教材。
 
-## CMC Markets评测
+## CMC Markets测评
 
 - 严格监管
-    
+
 - 客户资金隔离
-    
+
 - 金融服务补偿计划（FSCS）
-    
+
 - 强大的平台：下一代＆MT4
-    
+
 - 创新的平台工具，包括“模块链接”和“模式识别”
-    
+
 - 没有最低开户保证金
-    
+
 - 没有美国客户
-    
+
 - 价差加价
-    
+
 - 无固定利差账户
-    
+
 - 没有复制交易平台
-    
+
 - 没有PAMM / MAM
-    
+
 - 没有FIX API
-    
+
 
 ## 摘要
 

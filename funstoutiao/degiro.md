@@ -1,5 +1,5 @@
 ---
-title: "Degiro外汇交易平台开户测评2022"
+title: "Degiro外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -17,7 +17,7 @@ taxonomy:
   - "银行"
   - "测评"
   - "经纪商"
-  - "评测"
+  - "测评"
   - "交易"
   - "交易者"
 ---

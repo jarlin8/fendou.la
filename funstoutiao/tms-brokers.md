@@ -1,5 +1,5 @@
 ---
-title: "TMS Brokers外汇交易平台开户测评2022"
+title: "TMS Brokers外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ Dom Maklerski TMS Brokers，简称TMS Brokers，是一家在线交易经纪商�
 ## 优点与缺点
 
 - 先进的交易平台
-    
+
 - 一系列交易工具和教材
-    
+
 - 各种各样的交易工具
-    
+
 - 有限的交易账户选项
-    
+
 - 受限制的杠杆
-    
+
 - 有限的资助方式
-    
+
 - 没有MetaTrader 4或cTrader平台
-    
+
 - 不是最低点差
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Axiory外汇交易平台开户测评2022"
+title: "Axiory外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ Axiory是一家知名的在线经纪商，可通过cTrader，MetaTrader和FIX AP
 ## 优点与缺点
 
 - 金融委员会委员
-    
+
 - 客户资金隔离
-    
+
 - cTrader，MT4和FIX API
-    
+
 - PAMM / MAM帐户
-    
+
 - 自动图表绘制
-    
+
 - 慈善工作
-    
+
 - 没有美国客户
-    
+
 - 贸易工具有限
-    
+
 - 没有加密货币
-    
+
 - 无固定利差账户
-    
+
 
 ## 摘要
 

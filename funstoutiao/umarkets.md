@@ -1,5 +1,5 @@
 ---
-title: "Umarkets外汇交易平台开户测评2022"
+title: "Umarkets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 Umarkets是一家不受监管的离岸贸易经纪商，它通过灵活的平台（包括广受欢迎的MetaTrader 4（MT4））为全球交易者提供一系列资产，供他们在线交易。与许多其他交易经纪商相比，该经纪商的最低存款要求高，而点差也​​不是最低的。他们也有有限的账户资金选择选项，并且不提供任何社交交易平台，PAMM或MetaTrader 5。
 
-## Umarkets评测
+## Umarkets测评
 
 - 自动制图师
-    
+
 - xCritical交易平台
-    
+
 - MetaTrader平台
-    
+
 - 教育中心
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 高点差
-    
+
 - 最低入金$ 500
-    
+
 - 没有美国客户
-    
+
 - 没有加密货币交易
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Velocity Trade外汇交易平台开户测评2022"
+title: "Velocity Trade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,18 +9,18 @@ taxonomy:
 
 Velocity Trade成立于2007年，是一家领先的全球经纪交易商，结合执行力和领先技术为国际机构客户提供服务。 经纪品牌作为独立但附属的实体运作，在世界各地设有办事处，并且它们提供大量的金融服务-从公司融资和咨询到经纪服务。
 
-## VelocityTrade评测
+## VelocityTrade测评
 
 - 多种金融服务
-    
+
 - 多种可交易资产
-    
+
 - 受多个司法管辖区监管
-    
+
 - 付款方式有限
-    
+
 - 教育资源有限
-    
+
 
 ## 摘要
 

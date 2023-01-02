@@ -1,5 +1,5 @@
 ---
-title: "Hirose UK外汇交易平台开户测评2022"
+title: "Hirose UK外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Hirose UK公司是一家在线经纪公司，为全球超过200,000个客户提�
 ## Hirose Financial UK
 
 - 监管经纪商
-    
+
 - 24小时客户支持
-    
+
 - 在线外汇教育
-    
+
 - 高性能交易平台
-    
+
 - 不支持美国客户
-    
+
 - 价差加价
-    
+
 - 限制欧盟客户的杠杆
-    
+
 
 ## 摘要
 

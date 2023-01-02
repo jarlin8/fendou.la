@@ -1,5 +1,5 @@
 ---
-title: "ActivTrades外汇交易平台开户测评2022"
+title: "ActivTrades外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ ActivTrades成立于2001年，是一家屡获殊荣且受监管的在线经纪�
 ## 优缺点
 
 - 规范的
-    
+
 - 客户资金隔离
-    
+
 - 负余额保护
-    
+
 - 投资者赔偿计划
-    
+
 - 专有交易平台
-    
+
 - 独家交易工具
-    
+
 - 免佣金交易
-    
+
 - 一对一培训
-    
+
 - 没有美国客户
-    
+
 - 受限账户类型
-    
+
 - 无固定利差账户
-    
+
 
 ## 摘要
 
@@ -42,15 +42,15 @@ ActivTrades最初成立于瑞士，于2005年移至伦敦，以满足来自欧�
 
 ActivTrades提供更多种类的金融产品和服务。他们在没有交易柜台的情况下运作，没有重新报价的政策和具有竞争力的点差。这有助于确保您的交易以尽可能最佳的价格执行，并且完全透明。他们不断寻求创新，以适应交易者不断变化的需求。
 
-![ActivTrades测评：公司价值观](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Company-Values-1024x235.png "ActivTrades测评：公司价值观")
+![公司价值观](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Company-Values-1024x235.png "公司价值观")
 
-ActivTrades测评：公司价值观
+公司价值观
 
 ActivTrades为客户提供适用于多种设备的强大交易平台，以及广泛的网络研讨会，一对一培训，教材和独家交易工具。
 
 ActivTrades在金融行业赢得了无数奖项，包括被《星期日泰晤士报》快速道100评为2017年英国发展最快的公司第90名。其他著名奖项还包括2019年度最佳在线交易服务（ADVFN国际金融奖），外汇2017年度最佳经纪商（Le Fonti），2017最佳在线交易服务（Shares Magazine），2017最佳非交易台经纪商（在线个人财富奖）等。
 
-![ActivTrades测评：屡获殊荣的在线经纪商](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Award-Winning-Online-Broker.png "ActivTrades测评：屡获殊荣的在线经纪商")
+![屡获殊荣的在线经纪商](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Award-Winning-Online-Broker.png "屡获殊荣的在线经纪商")
 
 ## 法规
 
@@ -76,9 +76,9 @@ ActivTrades可以接受来自世界各地的交易者，但OFAC列表中不包�
 
 ActivTrades有自己的专有交易平台ActivTrader。他们还提供了流行的MetaTrader 4和MetaTrader 5平台。交易平台可在台式机（Windows / Mac），网络和移动电话（iPhone / iPad / Android /平板电脑）上使用。
 
-![ActivTrades测评：交易平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Trading-Platforms.png "ActivTrades测评：交易平台")
+![交易平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Trading-Platforms.png "交易平台")
 
-ActivTrades测评：交易平台
+交易平台
 
 ### ActivTrader
 
@@ -110,9 +110,9 @@ MT4通过使用专家顾问（EA）支持自动交易。有一个内置的MetaEd
 
 MT4可用于台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）。Web平台直接在大多数流行的Web浏览器中运行，因此不需要下载或安装任何软件。对于那些希望在旅途中从世界上任何具有互联网连接的位置进行交易的人来说，移动平台都非常有用。
 
-![ActivTrades测评：MetaTrader 4（MT4）平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-MetaTrader-4-MT4-Platform.png "ActivTrades测评：MetaTrader 4（MT4）平台")
+![MetaTrader 4（MT4）平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-MetaTrader-4-MT4-Platform.png "MetaTrader 4（MT4）平台")
 
-ActivTrades测评：MetaTrader 4（MT4）平台
+MetaTrader 4（MT4）平台
 
 ### MetaTrader 5（MT5）
 
@@ -124,9 +124,9 @@ MT5提供21种时间表和8种订单类型以及一键交易。帐户交易报�
 
 MT5可用于台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）。就像MT4一样，网络平台直接在您的网络浏览器中运行，而移动应用程序对于那些希望随时随地进行交易的人非常有用。
 
-![ActivTrades测评：MetaTrader 5（MT5）平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-MetaTrader-5-MT5-Platform.png "ActivTrades测评：MetaTrader 5（MT5）平台")
+![MetaTrader 5（MT5）平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-MetaTrader-5-MT5-Platform.png "MetaTrader 5（MT5）平台")
 
-ActivTrades测评：MetaTrader 5（MT5）平台
+MetaTrader 5（MT5）平台
 
 ## 交易工具
 
@@ -136,65 +136,65 @@ ActivTrades有各种有用的交易工具，可用于帮助计划，分析市场
 
 SmartOrder由ActivTrades开发，旨在帮助您提高交易速度和头寸管理流程，从而进一步增强了MT4和MT5。它与交易平台无缝集成，并具有易于使用的界面，可以同时使用多种功能。
 
-![ActivTrades测评：SmartOrder 2](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartOrder-2.jpg "ActivTrades测评：SmartOrder 2")
+![SmartOrder 2](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartOrder-2.jpg "SmartOrder 2")
 
-ActivTrades测评：SmartOrder 2
+SmartOrder 2
 
 ### 智能线
 
 SmartLines是一款易于使用的MT4和MT5应用程序，可根据图表上的趋势线自动执行。可以根据您设置的趋势线的价格水平打开和关闭订单。这很有用，因为这意味着一旦达到特定级别就等待执行某项操作，则无需持续观察图表。SmartLines可以使用预设的自动止损并同时为每张图表设置利润来同时管理多个图表。
 
-![ActivTrades测评：SmartLines](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartLines.jpg "ActivTrades测评：SmartLines")
+![SmartLines](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartLines.jpg "SmartLines")
 
-ActivTrades测评：SmartLines
+SmartLines
 
 ### 智能计算器
 
 SmartCalculator允许您查看交易的潜在风险和报酬，从而可以帮助您进行资金管理。它可以根据账户余额，杠杆，工具，手数，价格水平和头寸模拟各种交易方案。
 
-![ActivTrades测评：SmartCalculator](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartCalculator-1024x622.png "ActivTrades测评：SmartCalculator")
+![SmartCalculator](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartCalculator-1024x622.png "SmartCalculator")
 
-ActivTrades测评：SmartCalculator
+SmartCalculator
 
 ### 智能模板
 
 SmartTemplate是MT4的指标，可以帮助您进行计算得出的交易决策。它可以基于技术图表信号的组合来指示潜在的多头和空头交易，并根据市场强度和每日市场趋势对其进行评估。它显示跨多个时间帧的彩色编码信号。
 
-![ActivTrades测评：SmartTemplate](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartTemplate.jpg "ActivTrades测评：SmartTemplate")
+![SmartTemplate](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartTemplate.jpg "SmartTemplate")
 
-ActivTrades测评：SmartTemplate
+SmartTemplate
 
 ### SmartForecast
 
 SmartForecast是一个MT4指标，它结合了图表回撤和市场趋势分析，以概述当前市场。它会自动计算短期和长期的支撑和阻力。
 
-![ActivTrades测评：SmartForecast](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartForecast.jpg "ActivTrades测评：SmartForecast")
+![SmartForecast](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartForecast.jpg "SmartForecast")
 
-ActivTrades测评：SmartForecast
+SmartForecast
 
 ### 智能模式
 
 SmartPattern是MT4和MT5的指示器，可检测图表模式并可以扫描历史数据以发现此类模式的重复发生。它会生成有关潜在市场走势的详细统计数据，这些数据可以直接在图表上轻松识别，从而通过突出显示潜在的贸易机会来节省您的时间。SmartPattern可以供所有级别的交易者使用，并且可以应用于所有图表时间范围，以增加预测频率。
 
-![ActivTrades测评：SmartPattern](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartPattern.jpg "ActivTrades测评：SmartPattern")
+![SmartPattern](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartPattern.jpg "SmartPattern")
 
-ActivTrades测评：SmartPattern
+SmartPattern
 
 ### 枢轴点指示器
 
 ActivTrades提供MT4和MT5的枢轴指标，具有3个支撑和阻力水平，可用于帮助分析潜在的市场走势。
 
-![ActivTrades测评：枢轴点指标](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Pivot-Points-Indicator.jpg "ActivTrades测评：枢轴点指标")
+![枢轴点指标](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Pivot-Points-Indicator.jpg "枢轴点指标")
 
-ActivTrades测评：枢轴点指标
+枢轴点指标
 
 ### 经济日历
 
 ActivTrades网站上的经济日历显示最新经济新闻事件的列表。它显示时间，日期，预期影响程度（低，中到高），国家/地区，类别和结果（先前，预测和实际）。可以根据您的要求过滤新闻，并且经常将其用作基本分析的一部分。
 
-![ActivTrades测评：经济日历](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Economic-Calendar-1024x571.png "ActivTrades测评：经济日历")
+![经济日历](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Economic-Calendar-1024x571.png "经济日历")
 
-ActivTrades测评：经济日历
+经济日历
 
 ## 教育
 
@@ -218,9 +218,9 @@ ActivTrades支持经理说：_“我们的一对一培训课程旨在为交易�
 
 在ActivTrades网站上，您会找到适合所有类型的交易者（从新手到经验丰富的交易员）的一系列教育性交易视频。涵盖的主题包括如何使用交易平台和交易工具。视频的呈现和注释都很好，使它们易于理解。
 
-![ActivTrades测评：教育视频](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Educational-Videos.png "ActivTrades测评：教育视频")
+![教育视频](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Educational-Videos.png "教育视频")
 
-ActivTrades测评：教育视频
+教育视频
 
 ### 交易手册
 
@@ -292,9 +292,9 @@ ActivTrades的大多数代表都参加了客户功能考试，概述了他们致
 
 平均电子邮件响应时间是业界最快的响应时间之一，仅需27分钟。一项调查显示，ActivTrades的总体客户体验被9/10的客户评为好或优秀，而95％的客户会推荐给其他人。
 
-![ActivTrades测评：客户支持](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Customer-Support-1024x277.png "ActivTrades测评：客户支持")
+![客户支持](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Customer-Support-1024x277.png "客户支持")
 
-ActivTrades测评：客户支持
+客户支持
 
 ## 存款和取款
 
@@ -310,9 +310,9 @@ ActivTrades允许您使用各种方便的选项为帐户注资，包括银行转
 
 开设ActivTrades帐户是一个简单的过程。您只需填写简短的在线申请表，然后验证您的电子邮件地址。然后，您需要上传一些文档以验证您的身份和地址证明。这可以是护照和水电费账单。帐户小组验证了您的文件后，您就可以为帐户注资并开始交易。
 
-![ActivTrades测评：在线申请](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Online-Application.png "ActivTrades测评：在线申请")
+![在线申请](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Online-Application.png "在线申请")
 
-ActivTrades测评：在线申请
+在线申请
 
 ## 结论
 

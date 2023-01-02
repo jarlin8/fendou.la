@@ -1,5 +1,5 @@
 ---
-title: "MaxiTrade外汇交易平台开户测评2022"
+title: "MaxiTrade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ MaxiTrade由Day Dreams Investment Limited在马绍尔群岛成立，是一家创
 ## 优点和缺点
 
 - 多个交易平台
-    
+
 - 教育资源
-    
+
 - 有用的交易工具
-    
+
 - 没有美国客户
-    
+
 - 与其他经纪商相比交易工具有限
-    
+
 - 不是最低点差
-    
+
 - 没有DMA的FIX API
-    
+
 
 ## 摘要
 

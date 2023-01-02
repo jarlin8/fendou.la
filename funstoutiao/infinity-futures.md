@@ -1,5 +1,5 @@
 ---
-title: "Infinity Futures外汇交易平台开户测评2022"
+title: "Infinity Futures外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Infinity Futures，LLC是一家独立介绍经纪公司。 Infinity期货公司总部位于伊利诺伊州芝加哥市，自1995年成立以来，一直为全球客户提供进入全球衍生产品市场的机会。无论您对在线交易设施还是对托管程序的使用感兴趣，Infinity均可提供针对个人客户需求量身定制的程序。
 
-## Infinity Futures评测
+## Infinity Futures测评
 
 - 规范的经纪公司
-    
+
 - 专有交易平台
-    
+
 - 多个帐户选项
-    
+
 - 专门的客户支持团队
-    
+
 - 没有MetaTrader平台
-    
+
 - 最低存款$ 3,000
-    
+
 - 网上交易的资产类别有限
-    
+
 - 有限的帐户资金选择
-    
+
 
 ## 摘要
 

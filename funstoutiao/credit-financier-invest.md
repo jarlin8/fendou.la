@@ -1,5 +1,5 @@
 ---
-title: "Credit Financier Invest外汇交易平台开户测评2022"
+title: "Credit Financier Invest外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ Credit Financier Invest，简称CFI，是一家在线交易经纪商，为交易
 ## 优点和缺点
 
 - 监管经纪商
-    
+
 - 先进的MetaTrader 5交易平台
-    
+
 - 多种金融工具
-    
+
 - 一系列交易工具和教育资源
-    
+
 - 有限的出入金方式
-    
+
 - 不是最低的佣金
-    
+
 - 不是最紧密的点差
-    
+
 - 没有在线聊天支持
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

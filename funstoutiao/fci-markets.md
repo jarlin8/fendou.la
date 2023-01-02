@@ -1,5 +1,5 @@
 ---
-title: "FCI Markets外汇交易平台开户测评2022"
+title: "FCI Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 FCI Markets总部位于英国埃塞克斯，是一家在线交易经纪商，为客户提供一些直观的交易平台，用于交易外汇，商品，指数和其他金融资产。 为客户提供了不同的交易和学习工具。
 
-## FCI Markets评测
+## FCI Markets测评
 
 - 规范的经纪公司
-    
+
 - 复杂的交易平台
-    
+
 - 一系列交易和学习工具
-    
+
 - 几个金融市场
-    
+
 - 付款方式有限
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader 4平台
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

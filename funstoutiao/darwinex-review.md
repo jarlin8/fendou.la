@@ -1,5 +1,5 @@
 ---
-title: "Darwinex 外汇交易平台开户测评2022"
+title: "Darwinex 外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,29 +12,29 @@ taxonomy:
 ## 优点与缺点
 
 - 严格监管
-    
+
 - FSCS保险
-    
+
 - 隔离帐户
-    
+
 - 社会交易
-    
+
 - 达尔文
-    
+
 - 直接市场准入（DMA）
-    
+
 - FIX API
-    
+
 - 免费报价数据
-    
+
 - 没有美国客户
-    
+
 - 有限的交易工具
-    
+
 - 教材有限
-    
+
 - 最低入金$ 500
-    
+
 
 ## 摘要
 

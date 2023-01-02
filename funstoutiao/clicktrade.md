@@ -1,5 +1,5 @@
 ---
-title: "ClickTrades外汇交易平台开户测评2022"
+title: "ClickTrades外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,30 +9,30 @@ taxonomy:
 
 ClickTrades是一家离岸贸易经纪商，拥有2,100多种外汇和CFD资产，可通过其专有的WebTrader平台进行在线交易。他们确实有很好的交易工具选择，但是缺乏帮助交易者增加交易知识和技能的教材。与其他经纪商相比，付款选项也非常有限，并且未提供流行的MetaTrader平台。
 
-## ClickTrades评测：
+## ClickTrades测评：
 
 - 拥有多种内置交易工具的WebTrader平台
-    
+
 - 交易中心
-    
+
 - 免佣金账户和固定点差
-    
+
 - 2,100多种交易工具
-    
+
 - 离岸监管
-    
+
 - 没有MetaTrader平台
-    
+
 - 资金选择有限
-    
+
 - 缺乏针对新商人的教育资源
-    
+
 - 最低入金$ 1,000
-    
+
 - 没有来自日本，加拿大和美国的客户
-    
+
 - 没有在线聊天支持
-    
+
 
 ## 摘要
 

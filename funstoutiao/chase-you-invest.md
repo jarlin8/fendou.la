@@ -1,5 +1,5 @@
 ---
-title: "Chase You Invest交易平台开户测评2022"
+title: "Chase You Invest交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ JP Morgan的Chase You Invest提供具有竞争力的费用的自指导投资和�
 ## ChaseYouInvest 优点和缺点
 
 - 严格监管
-    
+
 - 证券投资者保护公司（SIPC）
-    
+
 - 托管投资组合
-    
+
 - 无最低存款要求
-    
+
 - 受限制的杠杆
-    
+
 - 平台和工具有限
-    
+
 - 没有MetaTrader平台
-    
+
 - 没有外汇，差价合约或加密交易
-    
+
 - 没有在线支付处理器
-    
+
 - 仅电话支持
-    
+
 
 在这份详尽的“追逐您投资”评论中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
 
@@ -42,7 +42,7 @@ Chase You Invest是JP Morgan Securities LLC的业务，为投资者提供自我�
 
 Chase You Invest为现有的Chase银行和非Chase银行客户提供了一种简便且具有竞争力的价格方式，可以在线交易股票，交易所交易基金（ETF），共同基金，债券等。
 
-## ChaseYouInvest评测：
+## ChaseYouInvest测评：
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Chase-You-Invest-Trading-Platforms.png "交易平台")
 

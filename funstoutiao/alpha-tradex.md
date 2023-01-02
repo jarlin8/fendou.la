@@ -1,5 +1,5 @@
 ---
-title: "Alpha Tradex外汇交易平台开户测评2022"
+title: "Alpha Tradex外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Alpha Tradex总部位于金斯敦，圣文森特和格林纳丁斯，是一家�
 ## Alpha Tradex 优点＆缺点
 
 - 直观的交易平台
-    
+
 - 一系列有用的交易工具
-    
+
 - 多种交易工具
-    
+
 - 不受管制
-    
+
 - 位于海上
-    
+
 - 没有DMA的FIX API
-    
+
 - 不是最低点差
-    
+
 - 缺乏教育资源
-    
+
 
 ## 摘要
 
@@ -111,9 +111,9 @@ Alpha Tradex提供以下交易工具的在线交易：金属，外汇，指数�
 
 要开户，请点击经纪商网站上的“注册帐户”按钮，并正确填写帐户申请表，然后提交。
 
-![Alpha Tradex审查：开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Alpha-Tradex-Review-Account-Opening-Page--527x1024.jpg "Alpha Tradex审查：开户页面")
+![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Alpha-Tradex-Review-Account-Opening-Page--527x1024.jpg "开户页面")
 
-Alpha Tradex审查：开户页面
+开户页面
 
 当您通过经纪商申请时，必须确保清楚阅读经纪商的所有条款，条件和政策。 仅在您完全理解并同意后再继续。
 

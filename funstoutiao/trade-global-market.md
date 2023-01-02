@@ -1,5 +1,5 @@
 ---
-title: "Trade Global Market外汇交易平台开户测评2022"
+title: "Trade Global Market外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Trade Global Market是一家在线交易经纪公司，运营STP执行模型，�
 ## 优点和缺点
 
 - 多个交易平台
-    
+
 - 一系列交易和学习工具
-    
+
 - 超过89种金融工具
-    
+
 - 不受监管的经纪商
-    
+
 - 没有美国客户
-    
+
 - 与其他经纪商相比交易工具有限
-    
+
 - 有限的帐户资金选择
-    
+
 
 ## 摘要
 

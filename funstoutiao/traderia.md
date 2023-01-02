@@ -1,5 +1,5 @@
 ---
-title: "Traderia外汇交易平台开户测评2022"
+title: "Traderia外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Traderia是一家贸易经纪商，通过流行且直观的MetaTrader 4交易平
 ## 优点与缺点
 
 - MetaTrader 4交易平台
-    
+
 - 多个帐户选项
-    
+
 - 精选教育资源
-    
+
 - 不受监管的经纪商
-    
+
 - 最低入金$ 1,000
-    
+
 - 付款方式有限
-    
+
 - 贸易工具有限
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

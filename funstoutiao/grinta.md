@@ -1,5 +1,5 @@
 ---
-title: "Grinta invest外汇交易平台开户测评2022"
+title: "Grinta invest外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -10,25 +10,25 @@ taxonomy:
 Grinta Invest是一家不受监管的在线交易经纪商，在马绍尔群岛的马朱罗（Marjuro）经营，提供多种交易工具，例如外汇，金属，能源，商品等。 交易者可以使用一些有用的交易和学习工具。
 
 - 多种交易工具
-    
+
 - 热门的MetaTarder 4交易平台
-    
+
 - 多种交易工具
-    
+
 - 教材
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 不是最低点差
-    
+
 - 没有MetaTrader 5平台
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

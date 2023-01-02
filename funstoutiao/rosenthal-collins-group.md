@@ -1,5 +1,5 @@
 ---
-title: "Rosenthal Collins Group外汇交易平台开户测评2022"
+title: "Rosenthal Collins Group外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 Rosenthal Collins Group（RCG）是一家经纪公司，商品经纪商和受监管的期货佣金商人（FCM）。RCG在大量复杂和高级的交易平台上提供了多种交易工具。经纪商受美国CFTC的监管。
 
-## RosenthalCollinsGroup评测
+## RosenthalCollinsGroup测评
 
 - 可以在10多个交易平台上进行交易
-    
+
 - 规范的经纪公司
-    
+
 - 每日提供市场新闻和技术分析
-    
+
 - 多种可交易资产
-    
+
 - 模拟账户限制为14天
-    
+
 - 付款方式有限
-    
+
 - 没有培训资源
-    
+
 - 最低入金$ 5,000
-    
+
 - 复杂的交易平台
-    
+
 - 没有MetaTrader平台
-    
+
 
 ## 摘要
 
@@ -232,9 +232,9 @@ RCG仅接受美国银行的支票。
 
 要开设一个新的交易帐户，只需访问经纪商网站，然后单击每个网页右侧的“打开帐户”按钮即可。从显示的列表中，选择“在线申请”以显示“帐户申请”页面。您可以按照屏幕上的说明开始申请过程。仔细填写表格以创建您的新交易帐户。
 
-![RCG审查：帐户申请表](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-Account-Application-Form-1024x560.png "RCG审查：帐户申请表")
+![帐户申请表](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-Account-Application-Form-1024x560.png "帐户申请表")
 
-RCG审查：帐户申请表
+帐户申请表
 
 必须确保您清楚阅读所有经纪商的条款，条件和政策。仅在您完全理解并同意后再继续。
 

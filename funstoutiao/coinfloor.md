@@ -1,5 +1,5 @@
 ---
-title: "Coinfloor交易平台开户测评2022"
+title: "Coinfloor交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ Coinfloor是一种加密货币交易所，被认为是英国运行时间最长�
 ## Coinfloor 优点与缺点
 
 - 直观的交易平台
-    
+
 - 精选的教育资源
-    
+
 - 一些有用的交易工具
-    
+
 - 各种加密货币
-    
+
 - 没有MetaTrader交易平台
-    
+
 - 金融产品有限公司
-    
+
 - 资金选择有限
-    
+
 - 没有电话或实时聊天支持
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

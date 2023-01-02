@@ -1,5 +1,5 @@
 ---
-title: "CoinsBank外汇交易平台测评2022"
+title: "CoinsBank外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 CoinsBank是获得许可的加密货币交易所，可为客户提供直观的移动应用程序，用于买卖不同的加密货币，例如比特币，莱特币，Ripple，以太坊等。 为交易者提供了多种简单的付款方式。
 
-## CoinsBank评测：优点＆缺点
+## CoinsBank测评：优点＆缺点
 
 - 多种加密货币
-    
+
 - 直观的交易平台
-    
+
 - 多种付款方式
-    
+
 - 教育资源
-    
+
 - 不受管制的交易所
-    
+
 - 仅加密货币
-    
+
 - 没有MetaTrader交易平台
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

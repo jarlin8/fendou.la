@@ -1,5 +1,5 @@
 ---
-title: "Bibox外汇交易平台开户测评2022"
+title: "Bibox外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Bibox是一个在线加密货币交易所，交易者可以通过提供的交易平台买卖多种加密货币，例如比特币，以太坊，Litecoin，比特币现金，以太坊经典，DASH，Ripple等。
 
-## Bibox评测 优点＆缺点
+## Bibox测评 优点＆缺点
 
 - 完善的交易平台
-    
+
 - 多种加密货币
-    
+
 - 大量的教育资源
-    
+
 - 不规范
-    
+
 - 仅加密货币交易
-    
+
 - 仅加密货币资金
-    
+
 - 没有MetaTrader平台
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

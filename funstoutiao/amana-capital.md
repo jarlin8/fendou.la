@@ -1,5 +1,5 @@
 ---
-title: "Amana Capital外汇交易平台开户测评2022"
+title: "Amana Capital外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ Amana Capital是受多种监管的外汇和差价合约经纪商，提供超过3
 ## Amana Capital利弊
 
 - 多种规定
-    
+
 - MT4和MT5平台
-    
+
 - 由ZuluTrade支持的社交交易
-    
+
 - 自动图表交易信号
-    
+
 - MAM代表理财经理和投资者
-    
+
 - 没有美国客户
-    
+
 - 培训主要使用阿拉伯语的电子书，网络研讨会和其他知识资源
-    
+
 - 做市商
-    
+
 - 限制欧盟客户的杠杆
-    
+
 - 没有加密货币交易
-    
+
 - 最佳交易条件需要更大的投资
-    
+
 
 ## 摘要
 

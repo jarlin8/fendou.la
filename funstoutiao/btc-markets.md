@@ -1,5 +1,5 @@
 ---
-title: "BTC Markets外汇交易平台开户测评2022"
+title: "BTC Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ BTC Markets是一个澳大利亚市场，交易员在这里交易和买卖区块
 ## BTC Markets 优点和缺点
 
 - 直观的交易平台
-    
+
 - 精选教育资源
-    
+
 - 多种交易工具
-    
+
 - 不规范
-    
+
 - 没有MetaTrader平台
-    
+
 - 仅加密交易
-    
+
 - 仅限澳大利亚客户
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

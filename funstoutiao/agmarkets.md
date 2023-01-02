@@ -1,5 +1,5 @@
 ---
-title: "AGMarkets外汇交易平台开户测评2022"
+title: "AGMarkets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

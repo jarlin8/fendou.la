@@ -1,5 +1,5 @@
 ---
-title: "IFS Markets外汇交易平台开户测评2022"
+title: "IFS Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,40 +9,40 @@ taxonomy:
 
 IFS Markets是一家受监管的交易经纪商，通过MetaTrader 4平台和FIX API连接提供在线外汇和CFD交易。经纪商的非外汇资产交易范围有限，但确实提供了一系列灵活的资金选择和账户类型。有针对资金管理者和投资者的MAM帐户，而ZuluTrade可用于信号提供者和关注者。
 
-## IFS Markets评测
+## IFS Markets测评
 
 - 监管经纪商
-    
+
 - 免佣金账户
-    
+
 - FIX API交易
-    
+
 - ZuluTrade
-    
+
 - MAM帐户
-    
+
 - 多种资金选择
-    
+
 - 开户最低入金$ 1
-    
+
 - 模拟帐户在30天后过期
-    
+
 - 没有免费交换账户
-    
+
 - 免佣金账户的高点差
-    
+
 - 没有美国客户
-    
+
 - 有限的其他交易工具
-    
+
 - 非外汇资产有限
-    
+
 - 没有商人学院
-    
+
 - 没有每日市场分析
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

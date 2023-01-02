@@ -1,5 +1,5 @@
 ---
-title: "土耳其1997-2003年案例#债务危机的应对"
+title: "土耳其1997-2003年案例"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -49,6 +49,3 @@ taxonomy:
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/180041035.png)
 
-  
-
-上一章节：厄瓜多尔1995-2009年案例文本自动摘要下一章节：阿根廷1998-2012 年案例文本自动摘要

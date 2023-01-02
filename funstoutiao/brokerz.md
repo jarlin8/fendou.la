@@ -1,5 +1,5 @@
 ---
-title: "Brokerz外汇交易平台开户测评2022"
+title: "Brokerz外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Brokerz是不受监管的在线交易平台，可通过功能强大且完善的MetaTrader 4（MT4）交易平台提供差价合约，商品，股票和指数。 MT4可作为台式机，Web和移动平台使用。 Brokerz拥有丰富的教育材料选择和多种帐户选项供您选择。
 
-## Brokerz评测：Brokerz 优点和缺点
+## Brokerz 优点和缺点
 
 - 用户友好的MetaTrader 4交易平台
-    
+
 - 多个交易账户选项
-    
+
 - 精选的教学资料
-    
+
 - 不受监管的经纪商位于离岸
-    
+
 - 最低$ 250入金
-    
+
 - 有限的帐户资金选择
-    
+
 - 没有美国客户
-    
+
 - 不是最紧密的点差
-    
+
 
 ## B摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Tier1FX外汇交易平台开户测评2022"
+title: "Tier1FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ taxonomy:
 ## Tier1FX的优缺点
 
 - MAM帐户
-    
+
 - 多个交易平台；JForex，Fortex 6和MT4
-    
+
 - 由Beeks Financial Cloud支持的高级VPS服务
-    
+
 - 不收取闲置费
-    
+
 - 贸易工具有限
-    
+
 - 最低€1,000存款
-    
+
 - 有限的存款选项：无电子钱包和在线支付
-    
+
 - 来自美国，伊朗，朝鲜，日本和西班牙的客户不得注册
-    
+
 - 没有研究，市场新闻或分析
-    
+
 - 没有交易者教育资料
-    
+
 
 ## 摘要
 

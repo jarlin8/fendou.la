@@ -1,5 +1,5 @@
 ---
-title: "Stratton Markets外汇交易平台开户测评2022"
+title: "Stratton Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Stratton Markets是一家在塞浦路斯运营的在线金融服务提供商。 
 ## 优点和缺点
 
 - 超过293种金融工具
-    
+
 - 多个复杂的交易平台
-    
+
 - 教育资源
-    
+
 - 有限的独立交易工具
-    
+
 - 仅限欧盟商人
-    
+
 - 没有英国或美国客户
-    
+
 - 不是最紧密的点差
-    
+
 - 没有用于DMA交易的FIX API
-    
+
 
 ## 摘要
 

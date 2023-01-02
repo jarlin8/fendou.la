@@ -1,5 +1,5 @@
 ---
-title: "2022最佳黄金原油外汇交易平台推荐"
+title: "最佳黄金原油外汇交易平台推荐"
 post_status: publish
 post_date: "2020-06-27"
 taxonomy:

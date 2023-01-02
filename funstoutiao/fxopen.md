@@ -1,5 +1,5 @@
 ---
-title: "FXOpen外汇交易平台开户测评2022"
+title: "FXOpen外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ FXOpen是最早的在线经纪商之一，并且仍然是当今最成熟的经�
 ## 优点和缺点
 
 - 严格监管
-    
+
 - 电子通讯网络（ECN）
-    
+
 - 专有价格汇总技术
-    
+
 - 一键交易和Level2插件
-    
+
 - 利差低，佣金低
-    
+
 - 多种加密
-    
+
 - 免费的VPS
-    
+
 - 没有美国客户
-    
+
 - 限制欧盟客户的杠杆
-    
+
 - 无固定利差账户
-    
+
 - 教材有限
-    
+
 
 ## 摘要
 
@@ -78,9 +78,9 @@ FXOpen还是金融委员会的成员，该委员会是一个独立的自我监�
 
 FXOpen拥有来自“我的交易”的执行质量证书，该证书每月将5,000笔交易与其他经纪商和流动性提供商的基准进行比较。他们已经满意并继续保持执行质量标准。
 
-![FXOpen审查：执行验证证书](https://cdn.fendou.la/funstoutiao/2020/12/FXOpen-Execution-Verification-Certificate.png "FXOpen审查：执行验证证书")
+![执行验证证书](https://cdn.fendou.la/funstoutiao/2020/12/FXOpen-Execution-Verification-Certificate.png "执行验证证书")
 
-FXOpen审查：执行验证证书
+执行验证证书
 
 FXOpen指出，保护客户和合作伙伴的机密个人信息是首要任务。
 

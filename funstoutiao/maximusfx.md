@@ -1,5 +1,5 @@
 ---
-title: "MaximusFX外汇交易平台开户测评2022"
+title: "MaximusFX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ MaximusFX是一家提供在线经纪和咨询服务的外汇经纪商。 Maximus
 ## 优点和缺点
 
 - 超过200种交易工具
-    
+
 - MetaTrader 4交易平台
-    
+
 - 多种交易工具
-    
+
 - 教育资源
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 有限的帐户资金选择
-    
+
 - 不是最紧密的点差
-    
+
 - 不是最低的佣金
-    
+
 - 没有DMA的FIX API
-    
+
 
 ## 摘要
 

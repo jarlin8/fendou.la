@@ -1,5 +1,5 @@
 ---
-title: "Mercuryo外汇交易平台开户测评2022"
+title: "Mercuryo外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Mercuryo是欧洲的一种加密货币交易所，为交易者提供使用银行
 ## 优点与缺点
 
 - 直观的交易平台
-    
+
 - 教育资源
-    
+
 - 多种数字货币
-    
+
 - 不受管制的交易所
-    
+
 - 没有MetaTrader平台
-    
+
 - 贸易工具有限
-    
+
 - 资金选择有限
-    
+
 
 ## 摘要
 

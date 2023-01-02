@@ -1,5 +1,5 @@
 ---
-title: "Infinox 交易平台开户评测2022"
+title: "Infinox 交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Infinox是一家全球在线经纪公司，提供有限的外汇和CFD工具，用于在三个交易平台上进行交易；MT4，IXO和CQG。像Autochartist一样，通过ZuluTrade支持社交交易，以进行市场分析。
 
-## Infinox评测
+## Infinox测评
 
 - 严格监管
-    
+
 - 金融服务补偿计划（FSCS）
-    
+
 - 由ZuluTrade支持的社交交易
-    
+
 - 通过Autochartist进行技术分析
-    
+
 - 多个交易平台，包括流行的MT4
-    
+
 - 不接受来自美国和比利时的客户
-    
+
 - 贸易工具有限
-    
+
 - 没有全面的交易者教育资源
-    
+
 
 ## 摘要
 

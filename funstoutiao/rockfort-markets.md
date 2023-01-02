@@ -1,5 +1,5 @@
 ---
-title: "Rockfort Markets外汇交易平台开户测评2022"
+title: "Rockfort Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,20 +9,20 @@ taxonomy:
 
 Rockfort Markets是一家位于新西兰的在线交易经纪商，为在线交易提供股票，期权，指数，外汇，ETF，差价合约和期货。经纪商为交易者提供MetaTrader 4和Trader Workstation交易平台。他们的最低存款要求仅为$ 1，但与交易经纪商团队审查的某些其他在线经纪商相比，价差并不是最低的。
 
-## RockfortMarkets评测
+## RockfortMarkets测评
 
 - 多种强大的交易平台
-    
+
 - 多种交易账户类型
-    
+
 - 一系列有用的交易工具
-    
+
 - 有限的帐户注资和提款选项
-    
+
 - 没有美国客户
-    
+
 - 不是最低点差
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "FIBO Group外汇交易平台开户测评2022"
+title: "FIBO Group外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ FIBO Group是一家在线经纪公司，提供外汇和差价合约以进行在�
 ## FIBO Group FIBO Group
 
 - PAMM账户
-    
+
 - 灵活的交易平台（MT4，MT5，cTrader）
-    
+
 - 社会交易
-    
+
 - 多种账户类型
-    
+
 - 客户支持团队会讲12种语言
-    
+
 - 做市商
-    
+
 - 贸易工具有限
-    
+
 - 教育资源有限
-    
+
 - 不接受来自美国，澳大利亚，伊拉克，比利时，奥地利等地的商人
-    
+
 
 ## 摘要
 

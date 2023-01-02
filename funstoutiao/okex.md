@@ -1,5 +1,5 @@
 ---
-title: "OKEx外汇交易平台开户测评2022"
+title: "OKEx外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -11,22 +11,22 @@ OKEx是在线加密货币交易所，使用区块链技术为全球交易者提�
 
 他们平台上提供的加密货币包括比特币，以太坊，Ripple，Tether，比特币现金，Litecoin，OKB等。
 
-## OKEx评测
+## OKEx测评
 
 - 先进的交易平台
-    
+
 - 一系列交易工具和教育资源
-    
+
 - 24/7全天候客户支持
-    
+
 - 不规范
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader平台
-    
+
 - 贸易工具有限
-    
+
 
 ## 摘要
 

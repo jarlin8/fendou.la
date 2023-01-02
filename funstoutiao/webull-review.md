@@ -1,5 +1,5 @@
 ---
-title: "微牛Webull交易平台开户评测2022"
+title: "微牛Webull交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -16,7 +16,7 @@ taxonomy:
   - "银行"
   - "moving-average"
   - "技术指标"
-  - "评测"
+  - "测评"
   - "交易"
   - "交易者"
 ---
@@ -224,7 +224,7 @@ webull接受ACH或美国国内电汇。ACH是免费的，但是你每天只能�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/09/word-image-vxr.png)
 
-微牛Webull审查：帐户登记表
+帐户登记表
 
 要打开微牛Webull帐户，你必须年满18岁，拥有有效的SSN(社会保险号码)，在美国和美国边远地区有合法的居住地址，有美国公民身份，美国永久居民证，或有效的美国签证。
 

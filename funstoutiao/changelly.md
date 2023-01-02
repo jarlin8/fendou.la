@@ -1,5 +1,5 @@
 ---
-title: "Changelly外汇交易平台开户测评2022"
+title: "Changelly外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Changelly是一个加密货币交易所，使交易者可以购买，出售，�
 ## Changelly  优点和缺点
 
 - 直观的交易平台
-    
+
 - 精选教育资源
-    
+
 - 24/7全天候客户支持
-    
+
 - 不规范
-    
+
 - 没有美国客户
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader平台
-    
+
 
 ## 摘要
 
@@ -76,7 +76,7 @@ Changelly：移动交易平台
 
 Changelly有专门的客户支持团队，可通过实时聊天和多种社交媒体功能提供24/7全天候服务。
 
-## Changelly审查：存款和取款
+## 存款和取款
 
 Changelly提供以下付款方式：
 

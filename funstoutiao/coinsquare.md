@@ -1,5 +1,5 @@
 ---
-title: "Coinsquare外汇交易平台开户测评2022"
+title: "Coinsquare外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,17 +12,17 @@ Coinsquare是已建立的加密货币交易所，它允许加密货币爱好者�
 ## Coinsquare 优点＆缺点
 
 - 用户友好的专有交易平台
-    
+
 - 精选的教育资源和交易工具
-    
+
 - 不受管制
-    
+
 - 没有MetaTrader平台
-    
+
 - 仅加密货币交易
-    
+
 - 没有电话或在线聊天支持
-    
+
 
 ## 摘要
 

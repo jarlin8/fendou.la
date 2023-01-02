@@ -1,5 +1,5 @@
 ---
-title: "Traders Trust外汇交易平台开户测评2022"
+title: "Traders Trust外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 Traders Trust是一家零售经纪商，通过MetaTrader 4平台提供各种金融资产用于在线交易。 它们提供有竞争力的点差和执行速度以及负余额保护。
 
-## Traders Trust评测
+## Traders Trust测评
 
 - 规范的经纪公司
-    
+
 - 各种资金选择
-    
+
 - 其他交易工具
-    
+
 - 多种账户类型
-    
+
 - 教育资源有限
-    
+
 - 交易工具范围有限
-    
+
 - 没有MetaTrader 5平台
-    
+
 - 没有许多国家（包括美国）接受客户
-    
+
 - 没有社交交易平台集成
-    
+
 - 没有每日市场分析
-    
+
 
 ## 摘要
 

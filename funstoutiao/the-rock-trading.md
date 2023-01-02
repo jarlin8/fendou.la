@@ -1,5 +1,5 @@
 ---
-title: "The Rock Trading外汇交易平台开户测评2022"
+title: "The Rock Trading外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 The Rock Trading成立于2011年6月，是运营时间最长的欧洲加密货币交易所。 交易所致力于确保欧洲人在完全遵守欧洲法规的前提下可以轻松进入加密货币世界。 他们提供了购买加密货币最快最简单的方法之一，这使其成为一种 方便 适用于初学者和没有时间的人的解决方案。
 
-## TheRockTrading评测
+## TheRockTrading测评
 
 - 专有交易平台
-    
+
 - 有用的交易工具
-    
+
 - 一些学习资料
-    
+
 - 不受管制的交易所
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 没有美国客户
-    
+
 - 没有实时聊天或联系电话
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Phoenix Markets外汇交易平台开户测评2022"
+title: "Phoenix Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -11,26 +11,26 @@ Phoenix Markets总部位于塞浦路斯尼科西亚，是一家在线金融服�
 
 用于在线交易的资产包括外汇，商品，指数和差价合约。
 
-## PhoenixMarkets评测
+## PhoenixMarkets测评
 
 - 复杂的交易平台
-    
+
 - 多种交易工具
-    
+
 - 教育资源
-    
+
 - 各种金融工具
-    
+
 - 没有美国或加拿大客户
-    
+
 - 有限的帐户资金选择
-    
+
 - 不是最低的佣金
-    
+
 - 没有MetaTrader 5平台
-    
+
 - 没有FIX API交易
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Ontega外汇交易平台开户测评2022"
+title: "Ontega外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Ontega是一家位于塞浦路斯尼科西亚的在线交易经纪商，为交�
 ## 优点和缺点
 
 - 先进的专有交易平台
-    
+
 - 超过97种金融资产
-    
+
 - AutoChartist和其他有用的交易工具
-    
+
 - 精选教育资源
-    
+
 - 没有MetaTrader或cTrader平台
-    
+
 - 有限的帐户资金选择
-    
+
 - 没有实时聊天支持
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

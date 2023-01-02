@@ -1,5 +1,5 @@
 ---
-title: "GMT Markets外汇交易平台开户测评2022"
+title: "GMT Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ GMT Markets总部位于澳大利亚墨尔本，是一家受监管的交易经纪
 ## 优点和缺点
 
 - 各种可交易资产
-    
+
 - MetaTrader 4交易平台
-    
+
 - 一系列交易和学习工具
-    
+
 - 没有美国客户
-    
+
 - 没有DMA的FIX API
-    
+
 - 不是最低点差
-    
+
 - 最低入金$ 500
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

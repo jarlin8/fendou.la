@@ -1,5 +1,5 @@
 ---
-title: "XtreamForex外汇交易平台开户测评2022"
+title: "XtreamForex外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 XtreamForex是一家贸易经纪商，拥有各种不同的资产，可通过直观的MetaTrader平台进行桌面，Web和移动（iOS和Android）交易。经纪商平台的账户类型和资金选择非常灵活，同时还提供了一些额外的交易工具和信号复制服务。还有一个信息丰富的交易商学院，里面充满了有用的学习材料。
 
-## XtreamForex评测
+## XtreamForex测评
 
 - 交易者学院
-    
+
 - 交易工具
-    
+
 - 用户友好的MetaTrader平台
-    
+
 - 灵活的账户类型和资金选择
-    
+
 - 24/5客户支持
-    
+
 - $ 5最低存款
-    
+
 - 交易工具范围
-    
+
 - 没有规定
-    
+
 - 没有美国客户
-    
+
 - 仅美元账户货币
-    
+
 
 ## 摘要
 

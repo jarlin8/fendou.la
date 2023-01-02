@@ -1,5 +1,5 @@
 ---
-title: "Alpari外汇交易平台开户测评2022"
+title: "Alpari外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ Alpari是一家成熟的经纪商，拥有全球客户群，一系列灵活的�
 ## Alpari的优点和缺点
 
 - 金融委员会（FC）成员
-    
+
 - MetaTrader平台；MT4和MT5
-    
+
 - 来自Autochartist的信号
-    
+
 - PAMM账户
-    
+
 - 来自FxWirePro的新闻流
-    
+
 - 提供30多种语言的客户支持
-    
+
 - 不接受来自美国，日本，俄罗斯及更多国家的客户
-    
+
 - 贸易工具有限
-    
+
 - 缺乏针对交易员的综合教育材料
-    
+
 - 无固定利差账户
-    
+
 - 没有FCA，ASIC或CySEC法规
-    
+
 
 ## 摘要
 

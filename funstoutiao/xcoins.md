@@ -1,5 +1,5 @@
 ---
-title: "Xcoins外汇交易平台开户测评2022"
+title: "Xcoins外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ taxonomy:
 ## 优点＆缺点
 
 - 直观的交易平台
-    
+
 - 精选教育资源
-    
+
 - 多种加密货币
-    
+
 - 不受管制的交易所
-    
+
 - 没有MetaTrader平台
-    
+
 - 仅限数字货币
-    
+
 - 资金选择有限
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

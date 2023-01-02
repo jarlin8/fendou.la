@@ -1,5 +1,5 @@
 ---
-title: "CVC Markets外汇交易平台开户测评2022"
+title: "CVC Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ CVC Markets是一家在线交易经纪商，从圣文森特和格林纳丁斯经
 ## 优点与缺点
 
 - 几种金融工具
-    
+
 - MT4交易平台
-    
+
 - 经济日历和其他交易工具
-    
+
 - 教育资源
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader 5或cTrader平台
-    
+
 
 ## 摘要
 

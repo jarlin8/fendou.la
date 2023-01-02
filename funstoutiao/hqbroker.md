@@ -1,5 +1,5 @@
 ---
-title: "HQBroker外汇交易平台开户测评2022"
+title: "HQBroker外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ HQBroker是一家零售交易经纪商，为交易者提供多个直观平台，
 ## 优点＆缺点
 
 - 多个交易平台
-    
+
 - 多种交易工具
-    
+
 - 教育资源
-    
+
 - 多种交易账户选择
-    
+
 - 不受监管的经纪商
-    
+
 - 没有美国客户
-    
+
 - 不是最低点差
-    
+
 - 有限的帐户资金选择
-    
+
 - 没有加密货币交易
-    
+
 - 最低$ 250入金
-    
+
 - 没有模拟交易账户
-    
+
 
 ## 摘要
 
@@ -58,9 +58,9 @@ HQBroker不向某些司法管辖区的居民提供服务，例如美国，法国
 
 经纪商为客户提供流行的MetaTrader 4桌面交易平台。 MT4支持EA交易，一键交易和复制交易功能，并且可在Android，iOS设备的桌面版，网络版和移动版中使用。 网络版本可以在大多数流行的浏览器中运行，而无需下载或安装任何其他软件，而移动版本对于那些需要在旅途中访问其帐户并进行交易的人来说非常有用。
 
-![HQBroker测评：MT4交易平台](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-MT4-Platform-.jpg "HQBroker测评：MT4交易平台")
+![MT4交易平台](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-MT4-Platform-.jpg "MT4交易平台")
 
-HQBroker测评：MT4交易平台
+MT4交易平台
 
 ### HQBroker交易平台
 
@@ -82,7 +82,7 @@ HQBroker为交易者提供了交易200多种可交易资产的机会，例如外
 
 经纪商提供多种不同交易账户类型的选择，以满足不同客户的交易需求。 账户类型及其相应的最低存款要求如下：入门账户（$ 250），白银账户（$ 5,000），黄金账户（$ 20,000），白金账户（$ 50,000）和投资者账户（$ 100,000）。 账户的最小交易量为0.01手。 经纪商不提供模拟账户。
 
-![总部经纪测评：交易账户类型](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-Account-Types-1024x259.jpg "总部经纪测评：交易账户类型")
+![交易账户类型](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-Account-Types-1024x259.jpg "交易账户类型")
 
 交易账户类型
 
@@ -105,9 +105,9 @@ HQBroker为交易者提供了交易200多种可交易资产的机会，例如外
 
 在经纪商处开设账户需要填写简短表格，只需单击“打开真实账户”按钮并填写表格； 然后，点击“注册”。
 
-![HQBroker审查：帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-Account-Opening-Page-270x1024.jpg "HQBroker审查：帐户开设页面")
+![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/HQBroker-Review-Account-Opening-Page-270x1024.jpg "帐户开设页面")
 
-HQBroker审查：帐户开设页面
+帐户开设页面
 
 当您通过经纪商申请时，必须确保清楚阅读经纪商的所有条款，条件和政策。 仅在您完全理解并同意后再继续。
 

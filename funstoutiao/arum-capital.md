@@ -1,5 +1,5 @@
 ---
-title: "Arum Capital外汇交易平台开户测评2022"
+title: "Arum Capital外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,31 +12,31 @@ Arum Capital是受CySEC监管的经纪商，可在功能强大的MetaTrader 5平
 ## Arum Capital 优点与缺点
 
 - 欧盟法规
-    
+
 - 强大的MT5平台和一系列内置工具
-    
+
 - 免佣金账户
-    
+
 - 有竞争力的点差，执行和费用
-    
+
 - 没有来自美国的客户
-    
+
 - 没有MT4平台
-    
+
 - 没有商人学院
-    
+
 - 没有社交交易平台
-    
+
 - 没有PAMM帐户
-    
+
 - 有限的非外汇工具
-    
+
 - 没有每日市场分析
-    
+
 - 最低$ 500的入金
-    
+
 - 受限制的杠杆
-    
+
 
 ## 摘要
 

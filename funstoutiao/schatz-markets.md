@@ -1,5 +1,5 @@
 ---
-title: "SCHATZ Markets外汇交易平台开户测评2022"
+title: "SCHATZ Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ SCHATZ Markets是一家外汇和商品经纪商，为零售和机构客户提供
 ## 优点和缺点
 
 - 用户友好的MetaTrader 4平台
-    
+
 - 多种交易工具
-    
+
 - 一些教育资源
-    
+
 - 充值和提款选项范围
-    
+
 - 离岸注册
-    
+
 - 不受监管的经纪
-    
+
 - 没有独立的交易工具
-    
+
 - 没有MetaTrader 5或cTrader平台
-    
+
 - 没有实时聊天支持
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

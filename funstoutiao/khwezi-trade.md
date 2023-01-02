@@ -1,5 +1,5 @@
 ---
-title: "Khwezi Trade外汇交易平台开户测评2022"
+title: "Khwezi Trade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 Khwezi Trade是一家在南非运营的在线贸易经纪商。它们使客户可以通过MetaTrader 4交易平台以高达1：200的杠杆率交易货币对，金属，能源，软商品和指数。Khwezi Trade纯粹是STP经纪商，因此他们可以以一些最佳的可用价格以及具有竞争力的价差快速执行交易。
 
-## Khwezi Trade评测
+## Khwezi Trade测评
 
 - 监管经纪商
-    
+
 - MetaTrader 4交易平台
-    
+
 - 交易教程和市场分析
-    
+
 - 专属客户经理
-    
+
 - 有限的帐户存款和取款选项
-    
+
 - 没有美国客户
-    
+
 - 受限帐户货币选项
-    
+
 - 最低$ 150入金
-    
+
 - 没有个人股票交易
-    
+
 - 最佳交易条件所需的最高账户
-    
+
 
 ## 摘要
 

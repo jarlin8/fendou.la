@@ -1,5 +1,5 @@
 ---
-title: "GO Markets高汇外汇交易平台测评2022"
+title: "GO Markets高汇外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,32 +9,32 @@ taxonomy:
 
 GO Markets成立于2006年，是一家受监管的经纪商，提供250多种交易工具。他们为功能强大的交易平台提供了一系列交易工具和专门的交易员培训中心。
 
-## GO Markets评测
+## GO Markets测评
 
 - 严格监管
-    
+
 - 客户资金隔离
-    
+
 - 免佣金交易
-    
+
 - 免费的VPS
-    
+
 - 交易中心
-    
+
 - Myfxbook自动交易
-    
+
 - 自动制图师
-    
+
 - MT4 / 5创世记
-    
+
 - a-Quant工具
-    
+
 - 教育中心
-    
+
 - 没有美国客户
-    
+
 - 无固定利差账户
-    
+
 
 ## 摘要
 

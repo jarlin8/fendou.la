@@ -1,5 +1,5 @@
 ---
-title: "Optionfield外汇交易平台开户测评2022"
+title: "Optionfield外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Optionfield是一家全球二元期权和外汇经纪商，提供世界上最受欢迎的在线交易平台之一，MetaTrader 4和功能强大的基于浏览器的WebTrader。尽管我们的经纪商确实具有不错的交易执行速度，但与我们所审查的其他经纪商相比，它们的息差并不紧。他们提供各种交易账户选择，灵活的杠杆比例高达1：200。
 
-## Optionfield评测
+## Optionfield测评
 
 - MetaTrader 4交易平台
-    
+
 - 多种可交易资产
-    
+
 - 客户资金隔离
-    
+
 - 24/5客户支持
-    
+
 - 缺乏监管
-    
+
 - 不是最紧密的点差
-    
+
 - 没有美国客户
-    
+
 - 没有联系电话
-    
+
 
 ## 摘要
 

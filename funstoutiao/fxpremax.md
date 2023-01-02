@@ -1,5 +1,5 @@
 ---
-title: "FXPremax外汇交易平台开户测评2022"
+title: "FXPremax外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ FXPremax是一家在线外汇经纪商，致力于通过为交易者提供直观
 ## 优点和缺点
 
 - MetaTrader 4交易平台
-    
+
 - 一系列有用的交易工具
-    
+
 - 精选教材
-    
+
 - 多种可交易资产
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 不是最紧密的点差
-    
+
 - 没有FIX API连接
-    
+
 - 没有MetaTrader 5交易平台
-    
+
 
 ## 摘要
 

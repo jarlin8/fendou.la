@@ -1,5 +1,5 @@
 ---
-title: "bitFlyer外汇交易平台开户测评2022"
+title: "bitFlyer外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ bitFlyer是一种加密货币交易所，在美国，欧盟和日本已经获得
 ## bitFlyer 优缺点
 
 - 直观的交易平台
-    
+
 - 一系列有用的交易工具
-    
+
 - 教育资源
-    
+
 - 不受管制的交易所
-    
+
 - 没有MetaTrader平台
-    
+
 - 贸易产品有限
-    
+
 - 资金选择有限
-    
+
 - 没有电话或实时聊天支持
-    
+
 
 ## 摘要
 
@@ -87,13 +87,13 @@ bitFlyer允许交易者使用以下任何一种付款方式从其交易帐户中
 - 钱包应用
 - 便利店
 
-## bitFlyer评测：bitFlyer审查：开户
+## 开户
 
 在联交所首页上可以轻松地开设交易账户； 您只需要填写您的电子邮件地址，确认您不是机器人，然后单击“免费注册”按钮即可。
 
-![bitFlyer审核：开户页面](https://cdn.fendou.la/funstoutiao/2020/11/bitFlyer-Review-Account-Opening-Page.jpg "bitFlyer审核：开户页面")
+![bitFlyer：开户页面](https://cdn.fendou.la/funstoutiao/2020/11/bitFlyer-Review-Account-Opening-Page.jpg "bitFlyer：开户页面")
 
-bitFlyer审核：开户页面
+bitFlyer：开户页面
 
 当您通过经纪商申请时，必须确保清楚阅读经纪商的所有条款，条件和政策。 仅在您完全理解并同意后再继续。
 

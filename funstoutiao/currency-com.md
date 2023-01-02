@@ -1,5 +1,5 @@
 ---
-title: "Currency.com外汇交易平台开户测评2022"
+title: "Currency.com外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Currency.com是一家在线金融服务提供商，提供超过1,500种令牌化
 ## 优点＆缺点
 
 - 多种加密货币和代币化资产
-    
+
 - 一系列交易工具和学习资料
-    
+
 - 24/7客户支持
-    
+
 - 最低入金$ 500
-    
+
 - 资产类别有限
-    
+
 - 没有MetaTrader或cTrader平台
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

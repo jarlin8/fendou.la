@@ -1,5 +1,5 @@
 ---
-title: "Renesource Capital交易平台开户测评2022"
+title: "Renesource Capital交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,26 +9,26 @@ taxonomy:
 
 Renesource Capital是拉脱维亚最古老，最大的投资经纪公司，不隶属于银行。该公司成立于1998年，是一家提供多种服务的经纪公司，在金融和资本市场拥有20多年的经验，提供广泛的服务，包括即期和远期外汇交易，差价合约交易，期货和期权，经纪商-协助交易，资产管理，对冲和风险管理以及托管和结算。
 
-## RenesourceCapital评测
+## RenesourceCapital测评
 
 - 监管经纪
-    
+
 - 多个平台
-    
+
 - 进入一系列市场
-    
+
 - 最低入金$ 10
-    
+
 - 没有美国客户
-    
+
 - 仅银行电汇付款
-    
+
 - 没有加密货币交易
-    
+
 - 教育资源很少
-    
+
 - 繁琐的帐户开设流程
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "ICE FX外汇交易平台开户测评2022"
+title: "ICE FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -14,25 +14,25 @@ taxonomy:
 ## 优点与缺点
 
 - MetaTrader 4交易平台
-    
+
 - 多种交易工具
-    
+
 - 多种金融工具
-    
+
 - 精选教育资源
-    
+
 - 多种账户资金选择
-    
+
 - 限制法规
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 不是最紧密的点差
-    
+
 - 没有MetaTrader 5交易平台
-    
+
 
 ## 摘要
 

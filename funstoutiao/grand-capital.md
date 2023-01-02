@@ -1,5 +1,5 @@
 ---
-title: "Grand Capital外汇交易平台开户测评2022"
+title: "Grand Capital外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Grand Capital是一家离岸经纪商，在其专有的WebTrader平台以及广受欢迎的MT4和MT5交易平台上提供330多种交易工具。LAMM，PAMM和市场分析是可帮助其客户的可用工具。尽管如此，缺乏监管对我们的经纪商审查团队是一个危险信号。
 
-## Grand Capital评测
+## Grand Capital测评
 
 - 强大而直观的交易平台
-    
+
 - 多种出入金方式
-    
+
 - RAMM和LAMM投资选择
-    
+
 - 多语种客户支持团队
-    
+
 - 不接受来自美国和日本的客户
-    
+
 - 缺乏监管
-    
+
 - 没有培训资源，例如电子书，视频课程和文章
-    
+
 - 提供的市场分析不是很全面
-    
+
 
 ## 摘要
 

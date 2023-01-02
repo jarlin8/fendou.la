@@ -1,5 +1,5 @@
 ---
-title: "Interactive Investor外汇交易平台测评2022"
+title: "Interactive Investor外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ Interactive Investor是一家受监管的英国经纪商，提供跨多种金融
 ## Interactive Investor
 
 - 规范的
-    
+
 - 金融服务补偿计划（FSCS）
-    
+
 - 多种投资选择
-    
+
 - 符合道德的投资选择
-    
+
 - 教育资源有限
-    
+
 - 通过其他经纪商提供的外汇和差价合约
-    
+
 - 没有MetaTrader平台
-    
+
 - 受限制的杠杆
-    
+
 - 资金选择有限
-    
+
 
 ## 摘要
 

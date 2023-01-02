@@ -1,5 +1,5 @@
 ---
-title: "Skilling外汇交易平台开户测评2022"
+title: "Skilling外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Skilling是一家受监管的在线交易经纪商，提供跨不同资产类别
 ## Skilling优缺点
 
 - 监管交易经纪商
-    
+
 - 直观而强大的交易平台
-    
+
 - 多种账户类型和资金选择
-    
+
 - 超过800种金融工具
-    
+
 - 教育资源有限
-    
+
 - 没有MetaTrader平台
-    
+
 - 不是最低点差
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

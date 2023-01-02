@@ -1,5 +1,5 @@
 ---
-title: "Generic Trade外汇交易平台开户测评2022"
+title: "Generic Trade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,22 +9,22 @@ taxonomy:
 
 Generic Trade是一家在线交易经纪商，专门致力于通过多个复杂的交易平台进行期货和期权交易。 他们提供多种账户选择，而没有最低存款要求，并且他们对交易收取$ 0.59的佣金。
 
-## Generic Trade评测
+## Generic Trade测评
 
 - 直观的交易平台
-    
+
 - 多个帐户选项
-    
+
 - 无需最低存款
-    
+
 - 24/7全天候客户支持
-    
+
 - 没有MetaTrader平台
-    
+
 - 有限的金融工具
-    
+
 - 有限的帐户资金选择
-    
+
 
 在这份详尽的Generic Trade评论中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
 

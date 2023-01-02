@@ -1,5 +1,5 @@
 ---
-title: "Zacks Trade 外汇交易平台开户测评2022"
+title: "Zacks Trade 外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,30 +9,30 @@ taxonomy:
 
 Zacks Trade是一家美国经纪公司，提供灵活的交易平台和研究工具。资金选择和教育资源有限。没有MetaTrader平台，也没有期货，商品或外汇交易。与其他在线经纪商相比，它们非常有限。
 
-## ZacksTrade评测
+## ZacksTrade测评
 
 - 规范的
-    
+
 - 证券投资者保护公司（SIPC）
-    
+
 - 高级研究工具
-    
+
 - 灵活的交易平台
-    
+
 - 有竞争力的费用
-    
+
 - 最低存款$ 2,000
-    
+
 - 不支持期货，商品或外汇
-    
+
 - 教育资源有限
-    
+
 - 没有MetaTrader平台
-    
+
 - 受限制的杠杆
-    
+
 - 资金选择有限
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Discovery FX外汇交易平台开户测评2022"
+title: "Discovery FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Discovery FX总部位于萨摩亚阿皮亚，是一家在线交易经纪商，�
 ## Discovery FX 优缺点
 
 - 适用于多种设备的MetaTrader 4交易平台
-    
+
 - 教育资源和交易工具
-    
+
 - 各种交易工具
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 有限的帐户资金选择
-    
+
 - 没有实时聊天支持
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

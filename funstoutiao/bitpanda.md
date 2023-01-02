@@ -1,5 +1,5 @@
 ---
-title: "Bitpanda外汇交易平台开户测评2022"
+title: "Bitpanda外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,22 +9,22 @@ taxonomy:
 
 自2014年推出以来，Bitpanda已发展成为欧洲领先的加密货币在线交易的零售经纪商之一，包括比特币，以太坊，Litecoin，XRP，DASH，以太坊经典，Stellar，Tether等。 他们为交易者提供专有的Bitpanda交易平台，以及一系列有用的交易工具。
 
-## Bitpanda评测：Bitpanda 优点＆缺点
+## Bitpanda 优点＆缺点
 
 - 专有交易平台
-    
+
 - 精选教材
-    
+
 - 不规范
-    
+
 - 没有MetaTrader平台
-    
+
 - 仅加密货币交易
-    
+
 - 没有美国客户
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 
@@ -87,9 +87,9 @@ Exchange每个客户只允许一个帐户，称为Bitpanda客户帐户。 有兴
 - 电子支付，例如Neteller和Skrill
 - 加密货币
 
-![存款和提款方法](https://cdn.fendou.la/funstoutiao/2020/11/Bitpanda-Review-Deposit-And-Withdrawal-Methods.jpg "Bitpanda审查：存款和取款方法")
+![存款和提款方法](https://cdn.fendou.la/funstoutiao/2020/11/Bitpanda-Review-Deposit-And-Withdrawal-Methods.jpg "存款和取款方法")
 
-Bitpanda审查：存款和取款方法
+存款和取款方法
 
 ## 开户
 

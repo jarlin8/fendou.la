@@ -1,5 +1,5 @@
 ---
-title: "AJ Bell Youinvest外汇交易平台测评2022"
+title: "AJ Bell Youinvest外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ AJ Bell Youinvest是一家英国经纪商，提供具有基本交易平台的各
 ## AJ Bell Youinvest 优点＆缺点
 
 - 规范的
-    
+
 - 易于使用的平台
-    
+
 - 手机交易
-    
+
 - 有竞争力的费用
-    
+
 - 没有外汇，差价合约或加密交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 受限制的杠杆
-    
+
 - 缺乏教材
-    
+
 - 资金选择有限
-    
+
 
 ## 摘要
 

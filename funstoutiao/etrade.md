@@ -1,5 +1,5 @@
 ---
-title: "E*TRADE 外汇交易平台开户测评2022"
+title: "E*TRADE 外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,31 +12,31 @@ ETRADE是一家知名的美国经纪商，提供多种选择的投资产品，�
 ## 优点和缺点
 
 - 严格监管
-    
+
 - 证券投资者保护公司（SIPC）
-    
+
 - 投资选择范围
-    
+
 - 有竞争力的费用
-    
+
 - 直观的交易平台
-    
+
 - 先进的交易工具
-    
+
 - 丰富的教育资源
-    
+
 - 受限制的国家
-    
+
 - 受限制的杠杆
-    
+
 - 没有外汇，加密货币或差价合约
-    
+
 - 没有MetaTrader平台
-    
+
 - 资金选择有限
-    
+
 - 开户过程缓慢
-    
+
 
 ## ETRADE摘要
 
@@ -90,7 +90,7 @@ Power ETRADE功能包括：
 
 ![ETRADEWeb平台](https://cdn.fendou.la/funstoutiao/2020/10/ETRADE-Web-Platform-1024x671.jpg "ETRADEWeb平台")
 
-ETRADE测评：Web平台
+Web平台
 
 您还可以通过ETRADE在线网络平台访问您的帐户并进行交易。它易于导航，并且包含交易者研究潜在交易，跟踪市场，下达和管理交易等所需的许多工具。
 

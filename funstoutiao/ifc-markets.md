@@ -1,5 +1,5 @@
 ---
-title: "IFC Markets外汇交易平台开户测评2022"
+title: "IFC Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 IFC Markets是一家创新的在线外汇和CFD经纪商，通过其专有的交易平台NetTradeX提供综合工具和投资组合报价方法。他们还提供MT4和MT5平台，并提供600多种可交易的工具。
 
-## IFC Markets评测
+## IFC Markets测评
 
 - 对欧盟运营的严格监管
-    
+
 - 先进的专有平台
-    
+
 - 投资组合报价方法和综合工具
-    
+
 - 教育中心
-    
+
 - 国际运作规定
-    
+
 - 没有美国客户
-    
+
 - 没有社交交易网络
-    
+
 - 不是最低点差
-    
+
 
 ## 摘要
 

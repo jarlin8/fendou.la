@@ -1,5 +1,5 @@
 ---
-title: "Ainvestments外汇交易平台开户测评2022"
+title: "Ainvestments外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,7 +9,7 @@ taxonomy:
 
 Ainvestments是一家在线经纪公司，在马绍尔群岛（Marshall Islands）的马祖罗（Majuro）运营，为交易者提供专有的交易平台，使他们可以交易多种金融工具，包括外汇，指数，股票，商品，加密货币，ETF和债券。 为交易者提供了交易工具，教育资源和客户支持团队。
 
-## Ainvestments评测
+## Ainvestments测评
 
 - 直观的专有交易平台
 - 一系列交易和学习工具

@@ -1,5 +1,5 @@
 ---
-title: "NordFX评测-是正规平台吗？"
+title: "NordFX测评-是正规平台吗？"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -11,7 +11,7 @@ NordFX成立于2008年，是一家在线交易平台，在MT4和MT5交易平台�
 
 有竞争力的费用和执行速度灵活的帐户和杠杆。
 
-## NordFX评测
+## NordFX测评
 
 - 严格规定
 - 杠杆比率高达1：1000
@@ -76,7 +76,7 @@ NordFX亲科技基金
 
 ![](https://cdn.fendou.la/funstoutiao/2020/09/word-image-4rc.png)
 
-NordFX审查：亲专家基金
+亲专家基金
 
 ### Nord FX PAMM
 
@@ -269,7 +269,7 @@ NordFX坚持不收取存款和提款费。然而，交易平台在处理付款�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/09/word-image-pr8.png)
 
-NordFX审查：供资备选方案
+供资备选方案
 
 ## NordFX开户
 

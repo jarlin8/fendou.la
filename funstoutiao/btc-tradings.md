@@ -1,5 +1,5 @@
 ---
-title: "BTC Tradings外汇交易平台开户测评2022"
+title: "BTC Tradings外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ BTC Tradings是一个在线交易经纪商，为交易者提供专有的交易�
 ## BTC Tradings 利弊
 
 - 专有交易平台
-    
+
 - 几种金融工具
-    
+
 - 一系列交易和学习工具
-    
+
 - 不受监管的经纪商
-    
+
 - 最低$ 5,000存款
-    
+
 - 不是最低点差
-    
+
 - 没有MetaTrader或cTrader平台
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "NPBFX外汇交易平台开户测评2022"
+title: "NPBFX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,30 +9,30 @@ taxonomy:
 
 NPBFX是在线经纪商，可在可用于Web，台式机和移动设备的MT4平台上提供有竞争力的点差和交易执行。他们以STP经纪商的身份获得SVGFSA和FinaCom会员的许可。经纪商提供社交交易平台，交易员培训，交易信号，市场新闻和分析。
 
-## NPBFX评测
+## NPBFX测评
 
 - STP交易执行，无利益冲突，无交易台（NDD）
-    
+
 - 通过ZuluTrade，MyDigiTrade和Myfxbook AutoTrade进行社交交易
-    
+
 - 交易资金低；只需10美元即可开始实时交易
-    
+
 - 多种工具上的实时交易信号
-    
+
 - 由Claws＆Horns提供支持的新闻与分析
-    
+
 - 离岸受监管经纪商
-    
+
 - 有限的可交易资产
-    
+
 - 价差加价
-    
+
 - 没有股票交易
-    
+
 - 仅MT4平台可用
-    
+
 - 没有接受美国客户
-    
+
 
 ## 摘要
 

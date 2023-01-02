@@ -1,5 +1,5 @@
 ---
-title: "2022最佳外汇交易平台推荐"
+title: "最佳外汇交易平台推荐"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

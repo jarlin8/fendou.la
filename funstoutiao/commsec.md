@@ -1,5 +1,5 @@
 ---
-title: "CommSec外汇交易平台开户测评2022"
+title: "CommSec外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 CommSec（联邦证券有限公司）自1995年开始运营，是一家在线经纪公司，在在线经纪业务方面拥有20多年的经验。他们位于澳大利亚悉尼，主要通过其专有的网络和移动交易平台提供具有直观界面，先进的图表工具和快速交易位置的澳大利亚和国际股票交易。
 
-## CommSec评测
+## CommSec测评
 
 - 最低入学要求
-    
+
 - 国际象棋赞助的股票
-    
+
 - 获得国际证券
-    
+
 - 多种教育资源
-    
+
 - 7,000多个差价合约
-    
+
 - 没有美国客户，仅澳大利亚客户
-    
+
 - 很少的帐户资金选择
-    
+
 - 开户困难
-    
+
 - 没有MetaTrader平台
-    
+
 - 受限帐户货币
-    
+
 
 ## 摘要
 
@@ -184,9 +184,9 @@ CommSec提供多渠道的客户支持服务，包括电子邮件，电话，在�
 
 选择所需的选项后，在进入到看到开设帐户要求的位置之前，系统将询问您一系列问题。
 
-![CommSec审核：开户要求](https://cdn.fendou.la/funstoutiao/2020/11/CommSec-Review-Account-Opening-Requirements.png "CommSec审核：开户要求")
+![CommSec：开户要求](https://cdn.fendou.la/funstoutiao/2020/11/CommSec-Review-Account-Opening-Requirements.png "CommSec：开户要求")
 
-CommSec审核：开户要求
+CommSec：开户要求
 
 如果您有要求，然后单击“继续”，则将转到一个页面，您可以在其中分批填写详细信息。
 

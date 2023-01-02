@@ -1,5 +1,5 @@
 ---
-title: "Coinbase数字货币和电子钱包交易平台开户测评2022"
+title: "Coinbase数字货币和电子钱包交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Coinbase是一个数字货币钱包和交易平台，交易商和消费者可以
 ## Coinbase 优点＆缺点
 
 - 灵活成熟的交易平台
-    
+
 - 专门的客户服务团队
-    
+
 - 有用的交易工具，例如Coinbase Pro API
-    
+
 - 精选教材
-    
+
 - 不规范
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 没有在线聊天支持
-    
+
 
 ## 总结
 

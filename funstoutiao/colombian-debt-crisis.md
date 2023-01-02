@@ -1,5 +1,5 @@
 ---
-title: "哥伦比亚1995-2008年案例#债务危机的应对"
+title: "哥伦比亚1995-2008年案例"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -51,6 +51,3 @@ taxonomy:
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/174939151.png)
 
-  
-
-上一章节：俄罗斯1996-2006年案例文本自动摘要下一章节：厄瓜多尔1995-2009年案例文本自动摘要

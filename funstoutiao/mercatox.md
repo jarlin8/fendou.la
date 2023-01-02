@@ -1,5 +1,5 @@
 ---
-title: "Mercatox交易平台评测2022"
+title: "Mercatox交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Mercatox是一种加密货币交易所，可让交易者进入数字货币和加
 ## 优点与缺点
 
 - 直观的交易平台
-    
+
 - 多种加密货币
-    
+
 - 多币种钱包
-    
+
 - 不规范
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 资金选择有限
-    
+
 - 没有在线聊天支持
-    
+
 
 ## 摘要
 

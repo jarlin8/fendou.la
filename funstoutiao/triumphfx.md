@@ -1,5 +1,5 @@
 ---
-title: "TriumphFX外汇交易平台开户测评2022"
+title: "TriumphFX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ TriumphFX主要是一家外汇交易经纪商，通过针对台式机，Web和�
 ## TriumphFX的优缺点
 
 - 监管经纪商
-    
+
 - 无交易台（NDD）干扰
-    
+
 - Equinix数据中心
-    
+
 - 每日市场分析
-    
+
 - 教材
-    
+
 - 没有美国商人
-    
+
 - 不是最低点差
-    
+
 - 贸易工具有限
-    
+
 - 资金选择有限
-    
+
 - 没有电话联系号码
-    
+
 - 没有在线实时聊天支持
-    
+
 
 ## 摘要
 

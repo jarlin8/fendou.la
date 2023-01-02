@@ -1,5 +1,5 @@
 ---
-title: "BullsEye Markets外汇交易平台开户测评2022"
+title: "BullsEye Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 BullsEye Markets总部位于马绍尔群岛马朱罗，是一家提供差价合约交易的在线零售外汇经纪商。 经纪商提供多种账户类型，不同的交易平台和营销工具，以帮助个人和公司在线进行外汇交易。
 
-## BullsEyeMarkets评测
+## BullsEyeMarkets测评
 
 - 多种可交易资产
-    
+
 - MetaTrader 4交易平台
-    
+
 - 一系列交易工具和教育资源
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 不是最紧密的点差
-    
+
 - 没有FIX API交易
-    
+
 
 ## 摘要
 

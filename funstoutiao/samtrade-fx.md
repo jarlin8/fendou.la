@@ -1,5 +1,5 @@
 ---
-title: "Samtrade FX外汇交易平台开户测评2022"
+title: "Samtrade FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,28 +9,28 @@ taxonomy:
 
 Samtrade FX是一家金融经纪公司，专门为零售和机构交易者提供外汇和差价合约的在线交易服务。Samtrade FX由经验丰富的交易员创建，采用STP / ECN经纪模式，可以为全球市场的在线交易提供负担得起，快速且可靠的访问权限。
 
-## SamtradeFX评测
+## SamtradeFX测评
 
 - 在通用且流行的MT4交易平台上进行交易
-    
+
 - 受ASIC，FINTRAC，FSA SVG监管
-    
+
 - 通过CopySam进行社交交易
-    
+
 - 通过SamTrack进行投资组合管理
-    
+
 - 贸易信号由第三方合作伙伴提供
-    
+
 - 没有电子付款选项，例如Skrill，Neteller，PayPal等
-    
+
 - 没有全面的市场新闻，见解和分析
-    
+
 - 不接受来自多个国家的居民
-    
+
 - 贸易工具有限
-    
+
 - 没有联系电话
-    
+
 
 ## 摘要
 

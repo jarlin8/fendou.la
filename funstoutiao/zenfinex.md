@@ -1,5 +1,5 @@
 ---
-title: "Zenfinex外汇交易平台开户测评2022"
+title: "Zenfinex外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Zenfinex在英国伦敦设有注册办事处，是一家由交易员为交易员
 ## Zenfinex 优点和缺点
 
 - 监管经纪商
-    
+
 - 多个交易平台
-    
+
 - 各种金融工具
-    
+
 - FIX API交易
-    
+
 - 没有独立的交易工具
-    
+
 - 教育资源有限
-    
+
 - 资金选择有限
-    
+
 - 没有美国客户
-    
+
 
 ## 摘要
 

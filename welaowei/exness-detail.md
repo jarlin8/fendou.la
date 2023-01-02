@@ -1,5 +1,5 @@
 ---
-title: "2022无限杠杆外汇平台EXNESS精准评测"
+title: "无限杠杆外汇平台EXNESS精准评测"
 post_status: publish
 post_date: "2022-01-27"
 taxonomy:
@@ -7,7 +7,7 @@ taxonomy:
   - "compare-forex-brokers"
 ---
 
-[![](https://cdn.fendou.la/welaowei8/2019/05/exness_logo_new.png)](https://www.ifttt.fun/go/exness-cn/)exness外汇公司是俄罗斯的一家外汇交易平台，全球唯一支持**1:2000**杠杆，提供最佳的市价订单执行服务和拥有主要货币对的记录小点差。
+exness外汇公司是俄罗斯的一家外汇交易平台，全球唯一支持**1:2000**杠杆，提供最佳的市价订单执行服务和拥有主要货币对的记录小点差。
 
 EXNESS公司成立于2008年，已成为业内领导者，目前客户月交易量超过**1800**亿美元，月开立交易账户数量超过15,000个。
 

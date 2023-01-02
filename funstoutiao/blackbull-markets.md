@@ -1,5 +1,5 @@
 ---
-title: "BlackBull Markets外汇交易平台开户测评2022"
+title: "BlackBull Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ BlackBull Markets成立于2014年，是一家屡获殊荣的在线经纪公司�
 ## BlackBull Markets利弊
 
 - 免佣金账户
-    
+
 - FIX API交易
-    
+
 - 电子通讯网络（ECN）
-    
+
 - 直通处理（STP）
-    
+
 - 无交易台（NDD）
-    
+
 - 主要流动资金提供者
-    
+
 - 全球Equinix服务器
-    
+
 - 没有美国客户
-    
+
 - 无固定利差账户
-    
+
 - 有限的交易工具
-    
+
 
 ## 摘要
 

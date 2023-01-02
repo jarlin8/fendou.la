@@ -1,5 +1,5 @@
 ---
-title: "BlackStone Futures外汇交易平台开户测评2022"
+title: "BlackStone Futures外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,27 +12,27 @@ BlackStone Futures是一家南非经纪商，隶属于Trade Nation，后者是�
 ## BlackStone期货的利弊
 
 - 监管经纪
-    
+
 - 多种可交易资产
-    
+
 - 多种设备的直观交易平台
-    
+
 - 多种交易工具
-    
+
 - 收集教育资源
-    
+
 - 24/5客户支持
-    
+
 - 受限帐户选项
-    
+
 - 付款方式有限
-    
+
 - 没有美国客户
-    
+
 - 不是最低点差
-    
+
 - 没有加密货币交易
-    
+
 
 ## 摘要
 

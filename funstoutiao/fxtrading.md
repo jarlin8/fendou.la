@@ -1,5 +1,5 @@
 ---
-title: "FXTRADING外汇交易平台开户测评2022"
+title: "FXTRADING外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,22 +9,22 @@ taxonomy:
 
 FXTRADING.com是一家受监管的澳大利亚外汇和CFD经纪公司，旨在为交易者提供更快更轻松的进入金融市场的机会。该经纪商平台通过MetaTrader 4平台提供外汇，商品，指数和加密货币的在线交易。
 
-## FXTRADINGcom评测
+## FXTRADINGcom测评
 
 - 监管经纪商平台
-    
+
 - 进入流行的MT4交易平台
-    
+
 - 没有存款和提款费
-    
+
 - MAMM / PAMM帐户可用
-    
+
 - 模拟帐户在30天后过期
-    
+
 - 点差不是最低
-    
+
 - 不允许美国客户
-    
+
 
 ## 摘要
 

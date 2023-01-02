@@ -1,5 +1,5 @@
 ---
-title: "ForexStart外汇交易平台开户测评2022"
+title: "ForexStart外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ ForexStart是一个在线零售交易经纪商，为交易者提供直观的Meta
 ## 优点和缺点
 
 - 多个交易平台
-    
+
 - 多种交易工具
-    
+
 - 精选教材
-    
+
 - 不同的金融市场
-    
+
 - 不受监管的经纪商
-    
+
 - 没有MetaTrader 5或cTrader平台
-    
+
 - 不是最低的佣金
-    
+
 - 不是最紧密的点差
-    
+
 - 没有美国客户
-    
+
 - 没有实时聊天支持
-    
+
 
 ## 摘要
 

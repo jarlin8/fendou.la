@@ -1,5 +1,5 @@
 ---
-title: "Hargreaves Lansdown外汇交易平台测评2022"
+title: "Hargreaves Lansdown外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,25 +12,25 @@ Hargreaves Lansdown是一家英国经纪商，提供各种具有灵活账户类�
 ## 优点和缺点
 
 - 规范的
-    
+
 - 金融服务补偿计划（FSCS）
-    
+
 - 研究工具范围
-    
+
 - 大量的交易工具
-    
+
 - 没有外汇，差价合约或加密交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 受限制的杠杆
-    
+
 - 资金选择有限
-    
+
 - 费用不是最低的
-    
+
 - 没有在线实时聊天支持
-    
+
 
 ## 摘要
 

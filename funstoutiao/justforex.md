@@ -1,5 +1,5 @@
 ---
-title: "JustForex外汇交易平台开户测评2022"
+title: "JustForex外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ JustForex在MetaTrader交易平台上提供在线外汇交易。该经纪商提�
 ## 优点与缺点
 
 - MAM帐户
-    
+
 - 支持社交交易
-    
+
 - 网站上提供了一些培训文章的选择
-    
+
 - 缺乏法规
-    
+
 - 不接受来自美国的客户
-    
+
 - 收取提款费
-    
+
 - 点差和佣金不是最低的
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "Varianse外汇交易平台测评2022"
+title: "Varianse外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,23 +12,23 @@ Varianse在线经纪公司利用创新技术进行外汇和差价合约交易。
 ## 优点与缺点
 
 - 严格监管
-    
+
 - 金融服务补偿计划（FSCS）
-    
+
 - MAMM帐户
-    
+
 - 汤森路透的MetaStock XENITH研究与分析
-    
+
 - BeeksFX，UltraFX和CNS的低延迟VPS
-    
+
 - 有限的交易工具；没有股票和加密货币
-    
+
 - 不接受来自美国的客户
-    
+
 - 没有教育资源
-    
+
 - 最低入金$ 500
-    
+
 
 ## 摘要
 

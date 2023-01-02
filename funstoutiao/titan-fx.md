@@ -1,5 +1,5 @@
 ---
-title: "Titan FX外汇交易平台开户测评2022"
+title: "Titan FX外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -16,21 +16,21 @@ Titan FX是ECN外汇和商品经纪商，致力于提供技术驱动的下一代
 ## 优点＆缺点
 
 - 用户友好的MetaTrader平台
-    
+
 - ZuluTrade
-    
+
 - 交易工具
-    
+
 - 允许所有交易策略
-    
+
 - 离岸监管
-    
+
 - Titan FX在美国，新西兰，澳大利亚和瓦努阿图禁止交易
-    
+
 - 最低入金$ 200
-    
+
 - 有限的非外汇资产用于交易
-    
+
 
 ## 摘要
 

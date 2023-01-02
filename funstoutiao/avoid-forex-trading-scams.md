@@ -1,5 +1,5 @@
 ---
-title: "2022年如何避免外汇交易骗局"
+title: "如何避免外汇交易骗局"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

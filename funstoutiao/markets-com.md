@@ -1,5 +1,5 @@
 ---
-title: "Markets.com外汇交易平台开户测评2022"
+title: "Markets.com外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,26 +9,26 @@ taxonomy:
 
 Markets.com通过屡获殊荣的交易平台为全球交易者提供广泛的交易资产，低点差和先进的交易工具。
 
-## Marketscom评测
+## Marketscom测评
 
 - 广泛的交易工具
-    
+
 - 固定点差
-    
+
 - 严格监管
-    
+
 - 免佣金账户
-    
+
 - 先进的交易工具
-    
+
 - 客户资金隔离
-    
+
 - 没有美国客户
-    
+
 - 最佳交易条件需要专业账户
-    
+
 - 未受FCA监管
-    
+
 
 ## 摘要
 

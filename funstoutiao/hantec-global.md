@@ -1,5 +1,5 @@
 ---
-title: "Hantec Global外汇交易平台开户测评2022"
+title: "Hantec Global外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Hantec Global是Hantec Group的子公司，Hantec Group成立于1990年，旨在
 ## 优点与缺点
 
 - FIX API，用于高频交易
-    
+
 - ZuluTrade进行社交交易
-    
+
 - 最低存款相对较低
-    
+
 - 离岸监管
-    
+
 - 没有美国客户
-    
+
 - 没有库存
-    
+
 - 教育资源不足
-    
+
 
 ## 摘要
 

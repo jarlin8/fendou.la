@@ -1,5 +1,5 @@
 ---
-title: "Coinmama外汇交易平台开户测评2022"
+title: "Coinmama外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ Coinmama是一家在线金融服务提供商，在斯洛伐克注册，向全球
 ## Coinmama 优点与缺点
 
 - 多种加密货币
-    
+
 - 一系列有用的交易工具
-    
+
 - 教育资源
-    
+
 - 没有美国客户
-    
+
 - 仅加密货币交易
-    
+
 - 没有MetaTrader或cTrader交易平台
-    
+
 - 最低入金$ 500
-    
+
 
 ## 摘要
 

@@ -1,5 +1,5 @@
 ---
-title: "AAFX Trading外汇交易平台开户测评2022"
+title: "AAFX Trading外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,19 +12,19 @@ AAFX Trading是一家在线外汇和差价合约经纪公司，通过流行的Me
 ## 优点与缺点
 
 - 可在其平台上交易超过250种资产
-    
+
 - 没有交易佣金
-    
+
 - 全面的商人培训包
-    
+
 - MetaTrader 4和MetaTrader 5平台
-    
+
 - 监管有限的离岸经纪商
-    
+
 - 高额的银行转账提款费
-    
+
 - 没有社交交易平台
-    
+
 
 在这份详细的AAFX Trading评论中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
 

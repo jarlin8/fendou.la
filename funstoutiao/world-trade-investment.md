@@ -1,5 +1,5 @@
 ---
-title: "World Trade Investment外汇交易平台开户测评2022"
+title: "World Trade Investment外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,20 +9,20 @@ taxonomy:
 
 World Trade Investment集团（World Trade Investment）于2010年在伦敦成立，是一家不受监管的在线经纪商，为交易者提供具有竞争力点差的外汇和差价合约交易机会，同时对交易收取零佣金。 经纪商不受监管，这可能是许多潜在客户的危险信号。
 
-## WorldTradeInvestment评测
+## WorldTradeInvestment测评
 
 - 用户友好的MetaTrader 4交易平台
-    
+
 - 多种交易账户期权
-    
+
 - 多种金融工具
-    
+
 - 不规范
-    
+
 - 没有实时聊天支持
-    
+
 - 没有美国商人
-    
+
 
 在这份详尽的《World Trade Investment评论》中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
 

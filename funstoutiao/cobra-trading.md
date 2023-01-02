@@ -1,5 +1,5 @@
 ---
-title: "Cobra Trading外汇交易平台开户测评2022"
+title: "Cobra Trading外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,24 +9,24 @@ taxonomy:
 
 Cobra Trading是一家美国经纪商，为专业交易员提供高级交易平台，最低入金为30,000美元。 他们只提供没有外汇，差价合约或加密货币的股票和期权交易。
 
-## Cobra Trading评测：
+## Cobra Trading测评：
 
 - 严格监管
-    
+
 - 证券投资者保护公司（SIPC）
-    
+
 - 高级交易平台和工具
-    
+
 - 最低$ 30,000存款
-    
+
 - 没有外汇，差价合约或加密交易
-    
+
 - 没有MetaTrader平台
-    
+
 - 资金选择有限
-    
+
 - 多种费用
-    
+
 
 ## 摘要
 

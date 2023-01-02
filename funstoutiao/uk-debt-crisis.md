@@ -1,5 +1,5 @@
 ---
-title: "英国1927-1936年案例#债务危机的应对"
+title: "英国1927-1936年案例"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -53,4 +53,3 @@ taxonomy:
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/21/154355172.png)
 
-上一章节：美国1926一1936年案例文本自动摘要下一章节：日本1925-1936年案例文本自动摘要

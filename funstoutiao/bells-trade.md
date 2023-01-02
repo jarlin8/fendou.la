@@ -1,5 +1,5 @@
 ---
-title: "Bells Trade外汇交易平台开户测评2022"
+title: "Bells Trade外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Bells Trade公司是一家在线金融服务提供商，在圣文森特和格林
 ## Bells Trade 利弊
 
 - 用户友好的交易平台
-    
+
 - 多种交易工具
-    
+
 - 教育资源
-    
+
 - 多种交易产品
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 没有MetaTrader 5或cTrader平台
-    
+
 - 最低入金$ 500
-    
+
 
 ## 摘要
 

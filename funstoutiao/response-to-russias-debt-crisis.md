@@ -1,5 +1,5 @@
 ---
-title: "俄罗斯2005-2011年案例#债务危机的应对"
+title: "俄罗斯2005-2011年案例"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -51,6 +51,3 @@ taxonomy:
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/181921362.png)
 
-  
-
-上一章节：冰岛2005-2016年案例文本自动摘要下一章节：俄罗斯2012-2016年案例文本自动摘要

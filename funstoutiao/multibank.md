@@ -1,5 +1,5 @@
 ---
-title: "MultiBank外汇交易平台开户测评2022"
+title: "MultiBank外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,30 +9,30 @@ taxonomy:
 
 MultiBank Group是受多重监管的ECN经纪商，可在MT4交易平台上为台式机，Web和移动设备提供1000多种外汇和CFD工具的交易。他们还提供社交交易平台，MAM帐户，免费的VPS和Autochartist信号软件。但是，经纪商收取额外费用，并且没有教育材料来帮助交易者。
 
-## MultiBank评测
+## MultiBank测评
 
 - 受多个司法管辖区监管
-    
+
 - 可以进行社交交易
-    
+
 - MAM / PAMM帐户
-    
+
 - 向所有客户提供免费的VPS
-    
+
 - Autochartist提供的分析和交易信号
-    
+
 - 不接受来自美国的客户
-    
+
 - 没有提供教学材料
-    
+
 - 没有每日的内部团队可以提供每日的市场新闻和专家分析
-    
+
 - 从休眠帐户中收取60美元的闲置费
-    
+
 - 无固定利差账户
-    
+
 - 费用和点差不是最低的
-    
+
 
 ## 摘要
 

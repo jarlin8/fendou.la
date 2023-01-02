@@ -1,5 +1,5 @@
 ---
-title: "CMSTrader交易平台开户测评2022"
+title: "CMSTrader交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,26 +9,26 @@ taxonomy:
 
 CMSTrader是一家在线交易经纪商，已在全球开展业务，提供多种账户选择和市场竞争价差。 他们通过其创新和用户友好的交易平台为交易者提供了交易外汇，金属，商品，指数，股票和加密货币的机会。
 
-## CMSTrader评测：
+## CMSTrader测评：
 
 - MetaTrader 5交易平台
-    
+
 - 一系列有用的交易工具
-    
+
 - 多种交易工具
-    
+
 - 众多账户资金选择
-    
+
 - 不受监管的经纪商
-    
+
 - 位于海上
-    
+
 - 没有美国客户
-    
+
 - 最低入金$ 500
-    
+
 - 没有MetaTrader 4交易平台
-    
+
 
 ## 摘要
 

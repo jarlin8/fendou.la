@@ -1,5 +1,5 @@
 ---
-title: "Blueberry Markets外汇交易平台开户测评2022"
+title: "Blueberry Markets外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -12,21 +12,21 @@ Blueberry Markets是一家位于澳大利亚的在线经纪商，在MT4平台上
 ## Blueberry Markets 优点和缺点
 
 - 规范
-    
+
 - 客户资金隔离
-    
+
 - 免佣金交易
-    
+
 - 免费的VPS
-    
+
 - 没有美国客户
-    
+
 - 没有加密货币
-    
+
 - 有限的交易工具
-    
+
 - 教材有限
-    
+
 
 ## 摘要
 

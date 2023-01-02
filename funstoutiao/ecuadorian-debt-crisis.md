@@ -1,5 +1,5 @@
 ---
-title: "厄瓜多尔1995-2009年案例#债务危机的应对"
+title: "厄瓜多尔1995-2009年案例"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -53,6 +53,3 @@ taxonomy:
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/175537020.png)
 
-  
-
-上一章节：哥伦比亚1995-2008年案例文本自动摘要下一章节：土耳其1997-2003年案例文本自动摘要

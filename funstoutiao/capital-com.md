@@ -1,5 +1,5 @@
 ---
-title: "Capital.com外汇交易平台开户测评2022"
+title: "Capital.com外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -9,20 +9,20 @@ taxonomy:
 
 Capital.com是一家经过严格监管且经过全面审核的在线经纪商，来自世界各地的360,000多名注册客户在使用。通过其屡获殊荣的平台，交易者可以参与指数，商品，加密货币，股票和外汇货币对的2,000多个市场的差价合约交易。
 
-## Capitalcom评测
+## Capitalcom测评
 
 - 严格监管
-    
+
 - 投资人
-    
+
 - 丰富的教育资源
-    
+
 - 没有美国客户
-    
+
 - 非专业交易者的最大1:30杠杆
-    
+
 - 没有MetaTrader 4平台
-    
+
 
 ## 摘要
 

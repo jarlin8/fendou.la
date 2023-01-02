@@ -1,5 +1,5 @@
 ---
-title: "24option外汇交易平台开户测评2022"
+title: "24option外汇交易平台开户测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -58,17 +58,17 @@ MT4的功能包括多种订单类型，多种图表时间表，50多种技术指
 
 MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于台式机（Windows / Mac），网络和移动电话（iPhone / iPad / Android /平板电脑）。
 
-![24option测评：MetaTrader 4（MT4）交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-MetaTrader-4-MT4-Trading-Platform-1024x682.png "24option测评：MetaTrader 4（MT4）交易平台")
+![MetaTrader 4（MT4）交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-MetaTrader-4-MT4-Trading-Platform-1024x682.png "MetaTrader 4（MT4）交易平台")
 
-24option测评：MetaTrader 4（MT4）交易平台
+MetaTrader 4（MT4）交易平台
 
 ### 24option Web平台
 
 24option拥有自己专有的交易平台，用户可以在其中访问和交易所有可用的差价合约工具，例如外汇，股票，商品和指数。该平台可在大多数流行的Web浏览器中运行，因此不需要下载或安装任何其他软件。它具有简单的布局，非常用户友好，提供了干净整洁的自由交易环境。
 
-![24option测评：交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Platform-1024x417.png "24option测评：交易平台")
+![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Platform-1024x417.png "交易平台")
 
-24option测评：交易平台
+交易平台
 
 您可以使用左侧的窗口从不同的资产类别中选择工具。这将加载所选仪器的图表窗口，该窗口可以显示为6种不同的图表类型（烛台，HeikinAshi，Hlc，折线图，圆点图和面积图）以及8分钟（从1分钟到1个月）。用户只需输入所需的手数并使用购买/出售按钮即可方便地下订单。您可以保存自己喜欢的资产列表，以轻松访问它们。
 
@@ -76,9 +76,9 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 该平台还具有内置的经济日历，可显示最新的金融新闻稿，包括日期，影响等级，国家/地区以及先前/预测/实际结果。这通常用于跟上最新的市场动向并作为基本分析的一部分。
 
-![24option测评：交易平台经济日历](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Platform-Economic-Calendar-1024x406.png "24option测评：交易平台经济日历")
+![交易平台经济日历](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Platform-Economic-Calendar-1024x406.png "交易平台经济日历")
 
-24option测评：交易平台经济日历
+交易平台经济日历
 
 ### 24option移动平台
 
@@ -86,9 +86,9 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 24option应用程序维护与Web平台相同的功能。移动应用程序的功能包括下达多种订单类型，在多个时间范围内绘制图表，实时报价，用于技术分析的80多个指标，止损，获利和账户资金/提款。
 
-![24option测评：移动交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Mobile-Trading-Platform.jpg "24option测评：移动交易平台")
+![移动交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Mobile-Trading-Platform.jpg "移动交易平台")
 
-24option测评：移动交易平台
+移动交易平台
 
 ## 交易工具
 
@@ -98,9 +98,9 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 24option具有经济日历，您可以在其中查看最新的财务新闻发布以及每个新闻发布和相关国家/地区的预期影响，时间/日期以及先前/预测/实际结果。您可以在日历中过滤新闻以仅显示符合特定条件的新闻。经济日历也内置在24option平台中，是协助交易者进行基本分析的一种方式。
 
-![24option测评：经济日历](https://cdn.fendou.la/funstoutiao/2020/11/24option-Economic-Calendar.png "24option测评：经济日历")
+![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/24option-Economic-Calendar.png "经济日历")
 
-24option测评：经济日历
+经济日历
 
 ### 交易中心
 
@@ -110,9 +110,9 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 交易中心通过了独立研究机构Investorside，Euro IRP和Asia IRP的认证，并受法国的Autorite des Marches金融家（AMF），美国的SEC以及香港证券及期货事务监察委员会的监管。
 
-![24option测评：交易中心](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Central.png "24option测评：交易中心")
+![交易中心](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Central.png "交易中心")
 
-24option测评：交易中心
+交易中心
 
 ## 教育
 
@@ -122,17 +122,17 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 24option网站上有一部分专门介绍针对不同级别交易者的交易视频教程。这些视频易于观看，涵盖了从订单类型到进行市场分析等一系列主题。
 
-![24option测评：教程视频](https://cdn.fendou.la/funstoutiao/2020/11/24option-Tutorial-Videos-1024x580.png "24option测评：教程视频")
+![教程视频](https://cdn.fendou.la/funstoutiao/2020/11/24option-Tutorial-Videos-1024x580.png "教程视频")
 
-24option测评：教程视频
+教程视频
 
 ### 网络研讨会
 
 24option定期举办免费的在线网络研讨会，交易者可以借此提高他们的知识和技能，熟悉交易平台和各种其他交易概念。在GotoMeeting平台上查看了网络研讨会，并鼓励提出问题。网络研讨会涵盖了各种基本和高级交易主题。
 
-![24option测评：网络研讨会](https://cdn.fendou.la/funstoutiao/2020/11/24option-Webinars-1024x645.png "24option测评：网络研讨会")
+![网络研讨会](https://cdn.fendou.la/funstoutiao/2020/11/24option-Webinars-1024x645.png "网络研讨会")
 
-24option测评：网络研讨会
+网络研讨会
 
 ## 交易工具
 
@@ -146,49 +146,49 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 外汇交易是指购买一种货币并同时出售另一种货币，以期从货币对的价值随时间的变化中获利。外汇以欧元/美元，英镑/美元，美元/日元和美元/瑞士法郎等货币对进行交易。外汇市场以其庞大的交易量和动荡的性质而闻名，这使其具有风险，尤其是在进行杠杆交易时。24option提供了一系列的外汇货币对，包括主要，次要和异国交叉。
 
-![24option测评：外汇交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Forex-Trading.png "24option测评：外汇交易")
+![外汇交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Forex-Trading.png "外汇交易")
 
-24option测评：外汇交易
+外汇交易
 
 ### 加密货币交易
 
 加密货币是一种分散的在线数字货币，它基于复杂的数学算法。有超过800多种不同的加密货币，由于它们不与任何银行或单个国家/地区绑定，因此可以24/7全天候交易。24option是首批提供加密货币差价合约的在线经纪商之一，拥有许多最受欢迎的交易品种，包括比特币，以太坊，莱特币，达什币和瑞波币XRP。
 
-![24option测评：加密货币交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Cryptocurrency-Trading.png "24option测评：加密货币交易")
+![加密货币交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Cryptocurrency-Trading.png "加密货币交易")
 
-24option测评：加密货币交易
+加密货币交易
 
 ### 商品交易
 
 24option提供的交易商品包括贵金属，例如黄金和白银。有多种软商品，例如糖，玉米和小麦。还提供包括石油和天然气在内的能源。
 
-![24option测评：商品交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Commodities-Trading.png "24option测评：商品交易")
+![商品交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Commodities-Trading.png "商品交易")
 
-24option测评：商品交易
+商品交易
 
 ### 股票交易
 
 24option提供多种股票作为CFD交易在全球一些最大的公司，例如亚马逊，耐克，索尼，eBay和Facebook。
 
-![24option测评：股票交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Stocks-Trading.png "24option测评：股票交易")
+![股票交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Stocks-Trading.png "股票交易")
 
-24option测评：股票交易
+股票交易
 
 ### 指数交易
 
 可供选择的全球交易指数包括FTSE，DOW，DAX，NASDAQ，SP500等。
 
-![24option测评：指数交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Indices-Trading.png "24option测评：指数交易")
+![指数交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Indices-Trading.png "指数交易")
 
-24option测评：指数交易
+指数交易
 
 ## 交易帐户和费用
 
 24option具有多种灵活多样的帐户类型，可满足每个交易者的不同需求。最低存款从250欧元起，杠杆率从1:30到1：400不等，具体取决于您是否有资格成为零售或专业客户。开设真实账户之前，可以使用模拟账户测试不同的交易平台和条件。
 
-![24option审核：帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Types-1024x747.png "24option审核：帐户类型")
+![24option：帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Types-1024x747.png "24option：帐户类型")
 
-24option审核：帐户类型
+24option：帐户类型
 
 ### 基本账户
 
@@ -226,17 +226,17 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 24option通过使用Thawte提供的128位SSL加密证书来保护所有传输，从而保护您的帐户信息。
 
-![24option审查：资助方法](https://cdn.fendou.la/funstoutiao/2020/11/24option-Funding-Methods.png "24option审查：资助方法")
+![资助方法](https://cdn.fendou.la/funstoutiao/2020/11/24option-Funding-Methods.png "资助方法")
 
-24option审查：资助方法
+资助方法
 
 ## 开户
 
 要使用24option开户，您只需填写简短的在线表格，然后确认您的电子邮件地址。之后，您将需要上传身份证明和地址证明，例如护照或驾驶执照以及水电费账单。文件通过验证后，您就可以为您的帐户注资，登录到您选择的交易平台并开始交易。
 
-![24option审查：开户表格](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Opening-Form.png "24option审查：开户表格")
+![开户表格](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Opening-Form.png "开户表格")
 
-24option审查：开户表格
+开户表格
 
 ## 结论
 
