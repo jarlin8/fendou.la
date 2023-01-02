@@ -7,24 +7,16 @@ taxonomy:
   - "toutiao-basic"
 ---
 
-PrimeBit是一种点对点的加密货币交易所，为交易者提供先进的MetaTrader 5交易平台和直观的PrimeBit WebTrader，用于交易多种加密货币，包括比特币，以太坊，Litecoin，Tether等，杠杆率最高为1： 200 客户可以使用各种有用的交易工具和教育资源。
+PrimeBit是一种点对点的加密货币交易所，为交易者提供先进的MetaTrader 5交易平台和直观的PrimeBit WebTrader，用于交易多种加密货币，包括比特币，以太坊，Litecoin，Tether等，杠杆率最高为1: 200 客户可以使用各种有用的交易工具和教育资源。
 
 ## 优点和缺点
-
 - 灵活且用户友好的交易平台
-
 - 加密货币范围
-
 - 精选教育资源
-
 - 不受监管的经纪商
-
 - 有限的帐户资金选择
-
 - 有限的交易工具选择
-
 - 不接受美国客户
-
 - 没有在线聊天支持
 
 
@@ -106,6 +98,6 @@ PrimeBit仅接受比特币和Tether存款。 他们不收取任何存款费用�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/PrimeBit-Logo.png)
 
-#### 最低交易需 $ 1 存款
+#### 最低交易需 $1 存款
 
 PrimeBit是一种点对点的加密货币交易平台，为交易者提供MetaTrader 5和PrimeBit平台，用于交易多种加密货币，包括比特币，以太坊，Litecoin和Tether。

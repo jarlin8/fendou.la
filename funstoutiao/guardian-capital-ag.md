@@ -10,27 +10,16 @@ taxonomy:
 Guardian Capital AG，简称GCG，是在线外汇（FX）贸易，CFD交易和相关服务的提供商。 他们为交易者提供了著名的MetaTrader 4交易平台，以及一些教育资源和交易工具。 有多种账户类型可以满足交易者的个人交易需求。
 
 ## 优点与缺点
-
 - MetaTrader 4交易平台
-
 - 精选教育资源
-
 - 经济日历和其他有用的交易工具
-
 - 超过120种金融工具
-
 - 不受监管的经纪商
-
 - 没有美国客户
-
 - 不是最紧密的点差
-
 - 没有DMA的FIX API
-
 - MetaTrader 4交易平台
-
 - 没有在线聊天支持
-
 - 没有联系电话
 
 
@@ -93,7 +82,6 @@ Guardian Capital AG提供超过120种可交易资产的在线交易，包括外�
 ## 存款和取款
 
 Guardian Capital AG接受以下用于帐户存款和取款的付款方式：
-
 - 信用卡/借记卡，包括Visa和MasterCard
 - 银行电汇
 - 电子钱包，例如Neteller和Skrill。
@@ -116,6 +104,6 @@ Guardian Capital AG是一家在线金融服务提供商，使交易者可以使�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Guardian-Capital-AG-Logo.png)
 
-#### 最低交易需 $ 1 存款
+#### 最低交易需 $1 存款
 
 Guardian Capital AG，简称GCG，是通过MetaTrader平台进行在线外汇（FX）交易和CFD交易的提供商。

@@ -10,23 +10,14 @@ taxonomy:
 Euro Pacific Bank是波多黎各的一家持牌银行，其子公司在英属维尔京群岛，圣文森特和格林纳丁斯从事经纪和投资业务。作为一家经纪公司，他们通过屡获殊荣的Euro Pacific Trader和MT4交易平台提供20多个全球交易所，期货​​，外汇，ETF，差价合约等的访问权限。
 
 ## EuroPacificBank测评
-
 - 多种金融工具
-
 - 复杂的交易平台
-
 - 一系列交易和学习工具
-
 - 没有美国客户
-
 - 资金选择有限
-
 - 不是最低点差
-
 - 位于海上
-
-- 最低存款$ 2,500
-
+- 最低存款$2,500
 - 没有实时聊天支持
 
 
@@ -106,6 +97,6 @@ Euro Pacific Bank允许交易者开设个人账户或公司账户。
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Euro-Pacific-Bank-Logo.png)
 
-#### 最低$ 2,500存款
+#### 最低$2,500存款
 
 Euro Pacific Bank是波多黎各的持牌银行。作为一家经纪公司，他们通过屡获殊荣的Euro Pacific Trader＆MT4交易平台提供20多个全球交易所的访问权限。

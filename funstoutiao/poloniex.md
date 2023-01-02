@@ -10,19 +10,12 @@ taxonomy:
 Poloniex是一家成熟的在线加密货币交易所，交易员可以买卖多种加密货币，包括TRON，Swiftcoin，Tether，QTUM，Litecoin，以太坊，EOS，比特币等。 交易所不受监管，因此无法提供受监管交易所可以提供的相同保护。
 
 ## 优点与缺点
-
 - 直观的移动交易平台
-
 - 交易API和其他有用的交易工具
-
 - 交易博客存在
-
 - 没有MetaTrader平台
-
 - 仅加密货币交易
-
 - 没有美国客户
-
 - 没有联系电话
 
 
@@ -100,6 +93,6 @@ Poloniex是一个在线加密货币交易所，提供多种加密货币，可通
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Poloniex-Logo.png)
 
-#### 最低 $ 1 存款
+#### 最低 $1 存款
 
 Poloniex是一个在线加密货币交易所，允许交易者买卖多种加密货币，包括TRON，Swiftcoin，Tether，QTUM，Litecoin，以太坊，EOS，比特币等。

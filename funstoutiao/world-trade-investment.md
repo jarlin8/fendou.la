@@ -10,23 +10,12 @@ taxonomy:
 World Trade Investment集团（World Trade Investment）于2010年在伦敦成立，是一家不受监管的在线经纪商，为交易者提供具有竞争力点差的外汇和差价合约交易机会，同时对交易收取零佣金。 经纪商不受监管，这可能是许多潜在客户的危险信号。
 
 ## WorldTradeInvestment测评
-
 - 用户友好的MetaTrader 4交易平台
-
 - 多种交易账户期权
-
 - 多种金融工具
-
 - 不规范
-
 - 没有实时聊天支持
-
 - 没有美国商人
-
-
-在这份详尽的《World Trade Investment评论》中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
-
-在我们的最佳外汇经纪商，最佳股票经纪商，最佳CFD经纪商，最佳加密货币经纪商或最佳在线经纪商类别中，World Trade Investment并未排名。 您可以使用我们的免费经纪商比较工具比较在线经纪商，包括World Trade Investment公司。
 
 ## 摘要
 
@@ -70,7 +59,7 @@ World Trade Investment公司（World Trade Investment）为其客户提供跨不
 
 ## 交易账户和费用
 
-World Trade Investment公司的客户可以从拥有良好交易条件的各种类型的账户中受益。 帐户类型及其相应的最低存款要求如下：W-Standard（$ 100），W-Premium（$ 500），W-Pro（$ 1,000），W-Elite（$ 7,000），W-Fix（$ 99）和W-加密（0.078BTC）帐户。模拟帐户也可用于练习。
+World Trade Investment公司的客户可以从拥有良好交易条件的各种类型的账户中受益。 帐户类型及其相应的最低存款要求如下：W-Standard（$100），W-Premium（$500），W-Pro（$1,000），W-Elite（$7,000），W-Fix（$99）和W-加密（0.078BTC）帐户。模拟帐户也可用于练习。
 
 ![贸易账户类型](https://cdn.fendou.la/funstoutiao/2020/11/World-Trade-Investment-Account-Types-1024x238.jpg "贸易账户类型")
 
@@ -85,7 +74,6 @@ World Trade Investment公司的客户可以从拥有良好交易条件的各种�
 ## 存取款
 
 World Trade Investment公司接受以下付款方式：
-
 - 银行转帐
 - 信用卡/借记卡-例如Visa，MasterCard等
 - 电子付款-包括Neteller和Skrill
@@ -107,6 +95,6 @@ World Trade Investment公司是一家总部位于伦敦的在线贸易经纪商�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/World-Trade-Investment-Logo.png)
 
-#### 最低$ 100 存款
+#### 最低$100 存款
 
 总部位于伦敦，但不受监管，World Trade Investment是一家在线经纪商，为交易者提供具有竞争性交易条件的外汇和差价合约交易。

@@ -252,13 +252,9 @@ taxonomy:
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/112655284.jpg "换骨岩.jpg")
 
 现在市面上与交易有关的主要业务主要是四方面：
-
 - 盘手
-
 - 资金
-
 - 训练
-
 - 资讯
 
 

@@ -10,21 +10,13 @@ taxonomy:
 Olympus Markets是一家在线交易经纪商，为全球交易者提供服务，使他们能够通过其专有的交易平台（网络和移动版本）进行200多种金融工具的交易。
 
 ## 优点＆缺点
-
 - 专有交易平台
-
 - 贸易学院
-
 - 不同的账户类型
-
 - 多种金融工具
-
 - 不受监管的经纪商
-
 - 位于海上
-
 - 没有美国客户
-
 - 没有MetaTrader平台
 
 
@@ -72,7 +64,7 @@ Olympus Markets提供200多种资产，包括差价合约，外汇，股票，�
 
 ## 交易账户和费用
 
-经纪商为其注册客户提供七种不同的交易账户类型。 帐户类型包括Ruby，Emerald，Sapphire，Diamond，Islamic Sapphire，Islamic Diamond和Jade Accounts。 每种帐户类型的最大杠杆比例为1：500，并提供一系列自定义功能。 还为练习目的提供了预装有10,000美元虚拟资金的模拟帐户。
+经纪商为其注册客户提供七种不同的交易账户类型。 帐户类型包括Ruby，Emerald，Sapphire，Diamond，Islamic Sapphire，Islamic Diamond和Jade Accounts。 每种帐户类型的最大杠杆比例为1:500，并提供一系列自定义功能。 还为练习目的提供了预装有10,000美元虚拟资金的模拟帐户。
 
 由于经纪商费用可能会发生变化，因此可能会有其他费用未在此Olympus Markets评论中列出。 在打开Olympus Markets经纪商帐户进行在线交易之前，必须确保您检查并了解所有最新信息。
 
@@ -83,7 +75,6 @@ Olympus Markets提供200多种资产，包括差价合约，外汇，股票，�
 ## 存款和取款
 
 经纪商接受以下付款方式：
-
 - 银行电汇
 - 信用卡/借记卡-包括Visa，MasterCard，Discover和American Express。
 - 在线支付处理器-如Neteller，Bay等。
@@ -100,10 +91,10 @@ Olympus Markets提供200多种资产，包括差价合约，外汇，股票，�
 
 ## 结论
 
-Olympus Markets是一个在线交易经纪商，使交易者可以通过其专有的交易平台进行多种金融工具的在线交易。 他们提供了多种帐户选项，速度极低，杠杆高达1：500。
+Olympus Markets是一个在线交易经纪商，使交易者可以通过其专有的交易平台进行多种金融工具的在线交易。 他们提供了多种帐户选项，速度极低，杠杆高达1:500。
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Olympus-Markets-Logo.png)
 
-#### 最低 $ 1 存款
+#### 最低 $1 存款
 
 Olympus Markets是一家在线交易经纪商，为全球交易者提供服务，使他们能够通过其专有的Web和移动设备交易平台来交易200多种金融工具。

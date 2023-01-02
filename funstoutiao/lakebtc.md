@@ -112,6 +112,6 @@ LakeBTC是在中国上海运营的加密货币交易所。 他们为客户提供
 
 ![lakebtc](https://cdn.fendou.la/funstoutiao/2020/10/LakeBTC-Logo.png)
 
-#### 最低 $ 50 存款
+#### 最低 $50 存款
 
 LakeBTC是一种加密货币交易所，为交易者提供用于各种加密货币在线交易的平台和工具。

@@ -10,25 +10,13 @@ taxonomy:
 Juno Markets是一家基于瓦努阿图的在线经纪商，通过MetaTrader 4平台及其专有的Juno Auto Trader（用于复制交易）提供外汇，金属，指数和能源进行交易。 经纪商提供了几种交易工具和教育资源，但法规有限。
 
 ## Juno Markets测评
-
 - 复制交易平台
-
 - 一些教育资料
-
 - 多种付款方式
-
 - 限制法规
-
 - 没有美国客户
-
 - 不是最低点差
-
 - 网站上没有联系电话
-
-
-在这份详尽的Juno Markets评论中，我们的在线经纪商研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商时考虑。
-
-Juno Markets在我们的最佳外汇经纪商，最佳股票经纪商，最佳CFD经纪商，最佳加密货币经纪商或最佳在线经纪商类别中未排名。 您可以使用我们的免费经纪商比较工具比较包括Juno Markets在内的在线经纪商。
 
 ## 摘要
 
@@ -110,6 +98,6 @@ Juno Markets是一家离岸经纪商，通过MT4平台及其专有的Juno Auto T
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Juno-Markets-Logo.png)
 
-#### 最低 $ 100 存款
+#### 最低 $100 存款
 
 Juno Markets是一家贸易经纪商，通过MetaTrader 4平台和用于复制交易的专有Juno Auto Trader提供外汇和差价合约在线交易。 经纪商还提供交易工具和教育资源。

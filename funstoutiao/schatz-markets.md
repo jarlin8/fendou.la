@@ -10,25 +10,15 @@ taxonomy:
 SCHATZ Markets是一家外汇和商品经纪商，为零售和机构客户提供交易服务和设施。 它们提供了一系列竞争性的交易条件，例如低点差，不重新报价，绝对透明以及真正的ECN技术，有助于确保可以以最佳的价格执行交易。
 
 ## 优点和缺点
-
 - 用户友好的MetaTrader 4平台
-
 - 多种交易工具
-
 - 一些教育资源
-
 - 充值和提款选项范围
-
 - 离岸注册
-
 - 不受监管的经纪
-
 - 没有独立的交易工具
-
 - 没有MetaTrader 5或cTrader平台
-
 - 没有实时聊天支持
-
 - 没有美国客户
 
 
@@ -70,7 +60,7 @@ Schatz Marketz LLC是一家在圣文森特和格林纳丁斯注册的国际商�
 
 ## 交易账户和费用
 
-经纪商提供多种不同的交易账户类型供您选择。 他们的最低存款要求如下：Schatz Lite（$ 100），Schatz Pro（$ 1,000），Schatz Premium（$ 2,000）和Schatz Islamic（$ 1,000）。
+经纪商提供多种不同的交易账户类型供您选择。 他们的最低存款要求如下：Schatz Lite（$100），Schatz Pro（$1,000），Schatz Premium（$2,000）和Schatz Islamic（$1,000）。
 
 ![账户类型](https://cdn.fendou.la/funstoutiao/2020/11/SCHATZ-Markets-Review-Account-Types-1024x492.jpg "账户类型")
 

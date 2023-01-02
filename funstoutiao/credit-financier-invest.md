@@ -10,23 +10,14 @@ taxonomy:
 Credit Financier Invest，简称CFI，是一家在线交易经纪商，为交易者提供高度先进的MetaTrader 5交易平台，用于跨不同资产类别（包括外汇货币对，股票，指数和商品）的多种金融工具进行交易。 他们提供多种账户类型，没有最低存款要求，点差从0.2点开始。
 
 ## 优点和缺点
-
 - 监管经纪商
-
 - 先进的MetaTrader 5交易平台
-
 - 多种金融工具
-
 - 一系列交易工具和教育资源
-
 - 有限的出入金方式
-
 - 不是最低的佣金
-
 - 不是最紧密的点差
-
 - 没有在线聊天支持
-
 - 没有美国客户
 
 
@@ -106,6 +97,6 @@ Credit Financier Invest Limited是一家受监管的在线交易经纪商，使�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Credit-Financier-Invest-Logo.png)
 
-#### 最低 **$ 1** 存款
+#### 最低 **$1** 存款
 
 Credit Financier Invest（CFI）是一个在线交易经纪商，为交易者提供MetaTrader 5交易平台，用于交易外汇和差价合约。

@@ -10,19 +10,12 @@ taxonomy:
 Changelly是一个加密货币交易所，使交易者可以购买，出售，持有和投资150多种加密货币，包括比特币，以太坊，XRP，DASH，Digibyte，狗狗币，以太坊经典，QTUM，Tron，Tether USD等。 他们为交易者提供了一个直观且用户友好的交易平台，以及一些交易工具，教育资源和24/7全天候支持。 但是，Changelly不受监管，仅提供加密货币交易。
 
 ## Changelly  优点和缺点
-
 - 直观的交易平台
-
 - 精选教育资源
-
 - 24/7全天候客户支持
-
 - 不规范
-
 - 没有美国客户
-
 - 仅加密货币交易
-
 - 没有MetaTrader平台
 
 
@@ -79,7 +72,6 @@ Changelly有专门的客户支持团队，可通过实时聊天和多种社交�
 ## 存款和取款
 
 Changelly提供以下付款方式：
-
 - 银行转帐（SEPA）
 - 信用卡/借记卡
 - 加密货币
@@ -100,6 +92,6 @@ Changelly：开户页面
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Changelly-Logo.png)
 
-#### 最低交易需 **$ 1** 存款
+#### 最低交易需 **$1** 存款
 
 Changelly是一个加密货币交易所，使交易者可以购买，出售，持有和投资150多种加密货币，包括比特币，以太坊，XRP，DASH，Digibyte，狗狗币，以太坊经典，QTUM，Tron，Tether USD等。

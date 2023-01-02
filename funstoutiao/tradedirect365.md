@@ -10,19 +10,12 @@ taxonomy:
 TradeDirect365是一家经纪公司，其成立是为了提供一种经济实惠且简便的方法，以便在适用于不同经验水平和交易方式的尖端平台上进行外汇和差价合约交易。该经纪商仅在其专有的CloudTrade平台和流行的MetaTrader 4（MT4）平台上提供固定点差。
 
 ## TradeDirect365测评
-
 - 规范的经纪公司
-
 - MetaTrader 4和CloudTrade交易平台
-
 - 大量选择股票交易工具
-
 - 缺乏独立的新闻或市场分析
-
 - 有限的外部库存工具
-
 - 仅通过银行电汇提款
-
 - 不是最低点差
 
 
@@ -99,7 +92,6 @@ TradeDirect365网站上的此页面专用于CFD术语和短语及其解释的列
 ## 交易工具
 
 TradeDirect365提供以下交易工具。
-
 - 34种外汇货币对
 - 14个指数
 - 12种商品
@@ -185,6 +177,6 @@ TradeDirect365是一家受监管的澳大利亚经纪商，为全球客户提供
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/TradeDirect365-Logo.png)
 
-#### 最低$ 1存款
+#### 最低$1存款
 
 TradeDirect365是一个在线经纪商，通过其专有的CloudTrade平台和MT4提供具有竞争性交易条件的在线外汇和CFD交易。

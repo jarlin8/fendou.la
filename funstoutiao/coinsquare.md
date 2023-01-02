@@ -10,17 +10,11 @@ taxonomy:
 Coinsquare是已建立的加密货币交易所，它允许加密货币爱好者通过Coinsquare专有交易平台交易多种加密货币，例如比特币，以太坊，Litecoin，比特币现金，狗狗币，Dash，Ripple，Ethereum Classic和Stellar。 该交易所提供有竞争力的透明费用，并且没有最低交易量，因此，大多数交易者都可以在线进行加密货币交易。
 
 ## Coinsquare 优点＆缺点
-
 - 用户友好的专有交易平台
-
 - 精选的教育资源和交易工具
-
 - 不受管制
-
 - 没有MetaTrader平台
-
 - 仅加密货币交易
-
 - 没有电话或在线聊天支持
 
 
@@ -79,7 +73,6 @@ Coinsquare拥有专门的客户支持团队，可以通过社交媒体，电子�
 ## 入金与出金
 
 对于存款和提款，Coinsquare支持以下方法：
-
 - 银行电汇
 - 直接银行存款
 - Interac电子转帐
@@ -102,6 +95,6 @@ Coinsquare是位于加拿大的在线加密货币交易所。 他们通过专有
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Coinsquare-Logo.png)
 
-#### 最低交易需 **$ 1** 存款
+#### 最低交易需 **$1** 存款
 
 Coinsquare是在线加密货币交易平台，允许用户通过Coinsquare交易平台交易多种加密货币，例如比特币，以太坊，莱特币，比特币现金，狗狗币，达世币，瑞波币，以太坊经典和Stellar。
