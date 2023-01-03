@@ -22,7 +22,7 @@ taxonomy:
 
 ## 2021最佳外汇交易平台推荐
 
-**[嘉盛集团Forex.com](https://we.laowei8.com/go/forexcomchina)**极好的全方位服务【中国内地体验好】 -IG-最佳整体，最值得信赖【不接受中国客户】。 -盛宝银行**SaxoBank**最适合研究。 -CMCMarkets-最佳网络平台，最多货币对。 -**InteractiveBrokers** -非常适合专业人士和机构。 -TDameritradeFX-卓越的交易平台，仅限美国使用。 -**CityIndex**城市指数-优秀的全方位服务平台。 -XTB-最佳客户服务、卓越平台。 -EToro-最佳拷贝交易平台
+**[嘉盛集团Forex.com](https://www.ifttt.fun/go/forexcom)**极好的全方位服务【中国内地体验好】 -IG-最佳整体，最值得信赖【不接受中国客户】。 -盛宝银行**SaxoBank**最适合研究。 -CMCMarkets-最佳网络平台，最多货币对。 -**InteractiveBrokers** -非常适合专业人士和机构。 -TDameritradeFX-卓越的交易平台，仅限美国使用。 -**CityIndex**城市指数-优秀的全方位服务平台。 -XTB-最佳客户服务、卓越平台。 -EToro-最佳拷贝交易平台
 
 ## 嘉盛集团Forex.com-极佳全方位服务
 

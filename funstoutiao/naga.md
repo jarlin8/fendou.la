@@ -7,17 +7,6 @@ taxonomy:
   - "toutiao-basic"
  post_tag: 
   - "naga"
-  - "交易"
-  - "复制"
-  - "交易者"
-  - "帐户"
-  - "策略"
-  - "损失"
-  - "资金"
-  - "货币"
-  - "提供"
-  - "股票"
-  - "foreign-exchange"
   - "银行"
   - "技术指标"
   - "加密"
@@ -25,7 +14,7 @@ taxonomy:
   - "测评"
 ---
 
-NAGA是一个社会投资网络，交易者可以在其中喜欢，共享和复制500多种交易工具（包括外汇，股票和CFDS）上的投资。Naga具有竞争性的交易条件，以及适用于多种设备的用户友好的交易平台，以及便捷的帐户注资选项供您选择。 [![](https://cdn.jsdelivr.net/gh/jarlin8/img@main/imgHD/1622700989493-hot-naga.jpg)](https://we.laowei8.com/go/naga/)
+NAGA是一个社会投资网络，交易者可以在其中喜欢，共享和复制500多种交易工具（包括外汇，股票和CFDS）上的投资。Naga具有竞争性的交易条件，以及适用于多种设备的用户友好的交易平台，以及便捷的帐户注资选项供您选择。 [![](https://cdn.jsdelivr.net/gh/jarlin8/img@main/imgHD/1622700989493-hot-naga.jpg)](https://www.ifttt.fun/go/naga/)
 
 ## NAGA摘要
 
