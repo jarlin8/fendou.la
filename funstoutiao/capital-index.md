@@ -60,7 +60,7 @@ Capital Index（UK）Limited由英国金融行为监管局（FCA）授权和监�
 
 该法规可以使潜在客户放心，他们可以在出现问题时获得某种形式的保护，经纪商必须遵守为保护投资者而制定的严格规则。
 
-## 国家
+## 交易者国籍限制
 
 Capital index可以满足大多数国家/地区的交易者的需求，尽管有些国家由于法律原因无法提供经纪服务，其中包括美国。美国交易者不妨参考我们美国最佳经纪商页面。
 
@@ -112,7 +112,7 @@ Capital Index可以为希望在不开启自己的计算机的情况下以24/7远
 
 Capital index评论–经济日历
 
-## 教育
+## 投资者教育
 
 Capital index提供全面的教育计划，可通过姊妹公司“学习交易”来满足所有级别的交易经验。
 
@@ -124,9 +124,9 @@ Capital index评论–交易指南
 
 经纪商网站上有大量的交易术语表，使您可以熟悉一些常见的交易和投资术语。
 
-![ 贸易和投资术语](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Trading-and-Investment-Glossary-Capital-Index.png " 贸易和投资术语")
+![ 交易和投资术语](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Trading-and-Investment-Glossary-Capital-Index.png " 交易和投资术语")
 
-Capital index评论–贸易和投资术语
+Capital index评论–交易和投资术语
 
 该网站的一部分专门介绍市场新闻和分析，可帮助您发现市场内正在发生的事情以及研究总监的评论。不幸的是，这似乎不再经常更新。
 
@@ -221,7 +221,7 @@ Capital Index的客户可以通过两个安全的支付服务提供商之一进�
 
 与提供PayPal，Skrill和Neteller等在线支付处理器的其他一些在线经纪公司相比，我们发现这些资金选择受到限制。一些经纪商还接受包括比特币在内的加密货币的资金。
 
-## 开户
+## 开户步骤
 
 申请 Capital index帐户既快速又容易。在线申请大约需要5分钟才能完成，可以使用经纪商网站上的“创建帐户”链接进行访问。
 
@@ -245,6 +245,6 @@ Capital index是一家受监管的交易经纪商，其产品范围灵活，可�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Logo.png)
 
-#### 最低入金100美元
+## 最低入金100美元
 
 Capital index是一家英国的受监管经纪商，通过MT4平台提供差价合约和点差交易。他们拥有可以满足全球零售，专业和机构客户需求的交易解决方案。我们发现点差不是最低的，并且资金选择有限。

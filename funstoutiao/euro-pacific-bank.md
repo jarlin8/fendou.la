@@ -18,7 +18,7 @@ Euro Pacific Bank是波多黎各的一家持牌银行，其子公司在英属维
 - 点差偏高
 - 位于海上
 - 最低存款$2,500
-- 没有实时聊天支持
+- 无实时聊天支持
 
 
 ## 经纪商简介
@@ -29,7 +29,7 @@ Euro Pacific Bank总部位于波多黎各圣胡安，是一家获得许可的金
 
 欧洲太平洋国际机场 Bank Inc.是波多黎各金融机构专员办公室（OCIF）的许可并受其监管，是国际金融实体，许可证号为IFE-033。
 
-## 国家
+## 交易者国籍限制
 
 来自世界各地的交易者可以向他们开设培训帐户，前提是这样做不会与任何当地法律或法规相抵触。
 
@@ -47,19 +47,19 @@ Euro Pacific Bank总部位于波多黎各圣胡安，是一家获得许可的金
 
 MT4交易平台
 
-### 欧元太平洋贸易商
+### 欧元太平洋交易者
 
 Euro Pacific Trader由Euro Pacific Securities Inc.开发，是一个多资产经纪平台。它允许交易者使用最先进的算法和交易工具来交易多种产品。该平台可通过以下四个终端进行访问：客户门户，最适合希望以24/7访问提供全包，易于导航的便利的交易者和投资者；TraderPro，一个旗舰平台，可在Windows，OSX和Linux上使用；专为Android和iOS设备设计的Mobile Trader，以及无需下载或安装的WebTrader。
 
-![欧洲太平洋贸易商交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Euro-Pacific-Bank-Review-Euro-Pacific-Trader-Platform.jpg "欧洲太平洋贸易商交易平台")
+![欧洲太平洋交易者交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Euro-Pacific-Bank-Review-Euro-Pacific-Trader-Platform.jpg "欧洲太平洋交易者交易平台")
 
-欧洲太平洋贸易商交易平台
+欧洲太平洋交易者交易平台
 
 ## 交易工具
 
 包括交易API在内的一系列独立交易工具可用于帮助客户进行交易。
 
-## 教育
+## 投资者教育
 
 网站的支持部分包含广泛的教育资源，包括用户指南，帮助文章，新闻和博客。
 
@@ -81,7 +81,7 @@ Euro Pacific Bank允许交易者开设个人账户或公司账户。
 
 交易者可以通过银行转账和银行卡存款和取款。
 
-## 开户
+## 开户步骤
 
 开户很简单；只需单击主页上的“打开帐户”按钮，填写帐户申请表，然后提交即可。
 
@@ -97,6 +97,6 @@ Euro Pacific Bank允许交易者开设个人账户或公司账户。
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Euro-Pacific-Bank-Logo.png)
 
-#### 最低$2,500存款
+## 最低$2,500存款
 
 Euro Pacific Bank是波多黎各的持牌银行。作为一家经纪公司，他们通过屡获殊荣的Euro Pacific Trader＆MT4交易平台提供20多个全球交易所的访问权限。

@@ -16,8 +16,8 @@ FCI Markets总部位于英国埃塞克斯，是一家在线交易经纪商，为
 - 几个金融市场
 - 付款方式有限
 - 不接受美国客户
-- 没有MetaTrader 4平台
-- 没有实时聊天支持
+- 无MetaTrader 4平台
+- 无实时聊天支持
 
 
 ## 经纪商简介
@@ -28,7 +28,7 @@ FCI Markets是一家在线金融服务提供商，可满足从初学者到经验
 
 FCI-Markets是Foreign Currency Innovations Ltd的商品名，Foreign Currency Innovations Ltd是在英格兰和威尔士注册的公司，公司代码为07274218。ForeignCurrency Innovations Ltd由金融行为监管局授权和监管，公司参考编号为616985。
 
-## 国家
+## 交易者国籍限制
 
 经纪商网站上发布的信息无意分发给可能违反任何当地法律或法规要求的任何国家/地区的居民。
 
@@ -58,7 +58,7 @@ FCI-Markets是Foreign Currency Innovations Ltd的商品名，Foreign Currency In
 
 除了内置在各种交易平台中的工具之外，交易者还可以从一系列交易工具中受益，其中包括3C Analysis，专用客户管理器，API等。
 
-## 教育
+## 投资者教育
 
 经纪商网站的“钻研”部分包含一系列教育资料，例如词汇表，短期交易课程，交易学院，FCI新闻等。
 
@@ -84,7 +84,7 @@ FCI Markets提供各种不同的交易账户类型，以满足客户的个人交
 
 交易者可以通过银行转账在他们的交易账户中存入和提取资金。
 
-## 开户
+## 开户步骤
 
 要开设一个帐户，请单击“真实帐户”按钮，然后选择零售帐户或专业帐户，然后继续正确填写表格。
 
@@ -100,6 +100,6 @@ FCI Markets是一个在线交易经纪商，提供广泛的资产，可以使用
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/FCI-Markets-Logo.png)
 
-#### 最低交易需 $100 存款
+## 最低交易需 $100 存款
 
 FCI Markets是一个在线交易经纪商，为客户提供直观的交易平台，用于交易外汇，商品，指数和其他金融资产。

@@ -17,11 +17,11 @@ Robinhood通过直观的交易应用程序为美国客户提供无佣金股票�
 - 用户友好的移动应用
 - 仅限美国客户
 - 金融市场有限
-- 没有Metatrader
-- 没有外汇交易
+- 无Metatrader
+- 无外汇交易
 - 黄金账户最低入金$2,000
 - 资金选择有限
-- 没有在线聊天支持
+- 无在线聊天支持
 
 
 ## 经纪商简介
@@ -44,7 +44,7 @@ Robinhood还通过其经纪帐户提供借记卡，将未投资的现金转移�
 
 借记卡
 
-## 法规
+## 监管信息
 
 Robinhood Financial是金融业监管局（FINRA）的成员。Robinhood Financial向自营客户提供证券交易。
 
@@ -54,7 +54,7 @@ Robinhood Financial LLC是证券投资者保护公司（SIPC）的成员，该�
 
 Robinhood International，Ltd.是Robinhood的子公司，由金融行为监管局（FCA）授权并受其监管，参考编号为823590，可以在英国（UK）进行经纪业务。
 
-## 国家
+## 交易者国籍限制
 
 Robinhood在未注册Robinhood Financial的任何辖区均不提供客户帐户。目前，他们计划向美国提供服务，尽管他们计划将业务扩展到英国，因此制定了FCA法规。由于法律限制，某些Robinhood审查中提到的某些Robinhood经纪商功能和产品可能不适用于来自特定国家/地区的交易者。
 
@@ -70,9 +70,9 @@ Robinhood在未注册Robinhood Financial的任何辖区均不提供客户帐户�
 
 除古巴，伊朗，朝鲜，叙利亚和乌克兰的克里米亚地区以外，大多数国家都支持Robinhood。在这些国家/地区，您无法访问您的帐户，尝试从这些区域内登录可能会导致帐户限制。
 
-![移动应用贸易管理](https://cdn.fendou.la/funstoutiao/2020/10/Robinhood-Mobile-App-Trade-Management.png "移动应用贸易管理")
+![移动应用交易管理](https://cdn.fendou.la/funstoutiao/2020/10/Robinhood-Mobile-App-Trade-Management.png "移动应用交易管理")
 
-移动应用贸易管理
+移动应用交易管理
 
 纳斯达克（Nasdaq）的II级市场数据可在Robinhood Gold上获得，它具有一套强大的工具，数据和策略。II级数据显示所选股票的不同买入/卖出价水平，这有助于确定特定价格下的库存量。
 
@@ -153,7 +153,7 @@ Robinhood提供通过银行转账的存款和提款。这是有限的，如果�
 
 帐户注资
 
-## 开户
+## 开户步骤
 
 如果您想申请开设Robinhood帐户，则必须年满18岁，并具有有效的社会保险号，并且位于美国或波多黎各的50个州之一。
 
@@ -169,6 +169,6 @@ Robinhood在易于使用和灵活的交易应用程序上提供免佣金的股�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/10/Robinhood-Logo.png)
 
-#### 最低$1存款
+## 最低$1存款
 
 Robinhood通过直观的交易应用程序为美国客户提供无佣金股票交易。他们提供交易工具和市场研究。但是，金融产品和资金选择的范围是有限的。

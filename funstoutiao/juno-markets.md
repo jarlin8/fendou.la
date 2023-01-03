@@ -26,7 +26,7 @@ Juno Markets成立于2014年，是一家基于瓦努阿图的经纪商，在多�
 
 Juno Markets Limited在瓦努阿图共和国注册成立，注册地址为瓦努阿图维拉港Kumul公路Law Partners House。 经纪商受瓦努阿图金融服务委员会（VFSC）的监管，并具有用于证券交易的委托人许可证（编号40099）。
 
-## 国家
+## 交易者国籍限制
 
 Juno Markets向全球不同地区的客户提供服务，但特别声明它不接受来自某些国家/地区（包括美国和香港）的客户。 有关受限制国家/地区的完整列表，请联系其客户服务团队。
 
@@ -54,7 +54,7 @@ MT4平台
 
 除MT4平台内置的工具外，经纪商还提供其他一些工具，例如Alpha生成器指示器，实时信号，经济日历和用于帐户管理器的MAM / PAMM帐户。
 
-## 教育
+## 投资者教育
 
 Juno Markets为他们的客户提供了许多教育资源，以帮助他们提高交易知识。 其中一些资源包括“交易初学者指南”，“ Juno Insights”和“每日新闻通讯”。
 
@@ -80,7 +80,7 @@ Juno Markets提供多种账户类型，以适应不同交易者的目标和投�
 
 Juno Markets接受以下付款方式：即时本地银行转账，国际银行转账和电子钱包，例如Skrill，Neteller，Fasapay，Ngan Luong，Union Pay和Alipay。
 
-## 开户
+## 开户步骤
 
 与该经纪商进行交易涉及两个简单步骤：首先，完成下面的交易申请并验证您的电子邮件地址：
 
@@ -98,6 +98,6 @@ Juno Markets是一家离岸经纪商，通过MT4平台及其专有的Juno Auto T
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Juno-Markets-Logo.png)
 
-#### 最低 $100 存款
+## 最低 $100 存款
 
-Juno Markets是一家贸易经纪商，通过MetaTrader 4平台和用于复制交易的专有Juno Auto Trader提供外汇和差价合约在线交易。 经纪商还提供交易工具和教育资源。
+Juno Markets是一家交易经纪商，通过MetaTrader 4平台和用于复制交易的专有Juno Auto Trader提供外汇和差价合约在线交易。 经纪商还提供交易工具和教育资源。

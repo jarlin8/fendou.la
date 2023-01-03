@@ -17,4 +17,4 @@ taxonomy:
 
 根据美国国会于2000年12月通过的Futures Modernization Act 2000法案，经营外汇业务需有外汇交易商执照，FXCM成为首批获取执照的外汇交易机构，英国 Forex Capital Markets Limited FCA 登记编号: 217689为美国CFTC (US Commodity Futures Trading Commission)认可的执照外汇交易商，并为美国NFA(National Futures Association)的一员(ID No.： 0308179)。 福汇集团也是一间在香港证券及 期货 事务监察委员会(SFC) 合法登记注册的杠杆外汇交易商，注册ID为：AIM232。
 
-福汇集团(Forex Capital Markets，FXCM)是全球最大外汇交易商成员之一(根据美国 商品期货 交易委员会(CFTC)公布的成员财务报告)，为零售客户提供网上外汇交易服务。 FXCM(福汇)集团专门提供网上外汇交易及其他金融产品服务于全世界的私人客户。 FXCM(福汇集团)集团成员包括: Forex Capital Markets LLC (福汇美国), Forex Capital Markets Limited (福汇英国) ，FXCM Australia Limited (福汇澳洲)等除了 FXCM Markets外， 福汇旗下还有FXCM JINHUI GROUP(FXCM环球金汇),和 Forex Capital Markets Japan(FXCM日本) 。 其中外汇交易商福汇(FXCM)旗下 Markets在2015年宣布将成为衍生品交叉资产提供商，并开始在MT4平台提供单一股票差价合约(CFDs)贸易。
+福汇集团(Forex Capital Markets，FXCM)是全球最大外汇交易商成员之一(根据美国 商品期货 交易委员会(CFTC)公布的成员财务报告)，为零售客户提供网上外汇交易服务。 FXCM(福汇)集团专门提供网上外汇交易及其他金融产品服务于全世界的私人客户。 FXCM(福汇集团)集团成员包括: Forex Capital Markets LLC (福汇美国), Forex Capital Markets Limited (福汇英国) ，FXCM Australia Limited (福汇澳洲)等除了 FXCM Markets外， 福汇旗下还有FXCM JINHUI GROUP(FXCM环球金汇),和 Forex Capital Markets Japan(FXCM日本) 。 其中外汇交易商福汇(FXCM)旗下 Markets在2015年宣布将成为衍生品交叉资产提供商，并开始在MT4平台提供单一股票差价合约(CFDs)交易。

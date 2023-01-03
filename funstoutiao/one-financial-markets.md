@@ -18,8 +18,8 @@ One Financial Markets是一家受监管的在线经纪商，为世界各地的�
 - 最低$250入金
 - 价差加价
 - 有限的交易工具选择
-- 没有社交交易平台
-- 没有每日市场分析
+- 无社交交易平台
+- 无每日市场分析
 - 不接受来自美国和其他一些国家的客户
 
 
@@ -45,7 +45,7 @@ One Financial Markets是CB Financial Services Ltd（在英格兰注册的公司�
 
 FCA和FSCA通过执行金融服务提供商必须遵守的严格规则和法规来帮助保护投资者。使用受监管的交易经纪商可以使客户安心，如果出现问题，他们可以得到某种形式的保护。
 
-## 国家
+## 交易者国籍限制
 
 One Financial Markets无法向美国，比利时，波兰或英国境外的任何特定国家/地区的居民提供经纪服务，并且该One Financial Markets不旨在分发给任何国家/地区或管辖范围内的任何人或使用使用将违反当地法律或法规。
 
@@ -59,7 +59,7 @@ One Financial Markets为客户提供了MetaTrader 4（MT4）和MetaTrader 5（MT
 
 ### MetaTrader 4（MT4）
 
-MT4仍然是初学者和经验丰富的交易者的首选平台之一。它以其友好的用户界面和丰富的内置交易工具而闻名。该平台具有直观的界面和足够的功能，可以满足大多数零售贸易商的需求。您可以使用MT4分析图表，放置和管理头寸。
+MT4仍然是初学者和经验丰富的交易者的首选平台之一。它以其友好的用户界面和丰富的内置交易工具而闻名。该平台具有直观的界面和足够的功能，可以满足大多数零售交易者的需求。您可以使用MT4分析图表，放置和管理头寸。
 
 ![MT4交易平台](https://cdn.fendou.la/funstoutiao/2020/11/One-Financial-Markets-Review-MT4-Trading-Platform.png "MT4交易平台")
 
@@ -121,7 +121,7 @@ One Financial Markets有一个经济日历，这对于基础市场分析而言�
 
 经济日历
 
-## 教育
+## 投资者教育
 
 交易者可以通过获得经纪商殊荣的教育来获得对One Financial Markets交易的信心和知识。One Financial Markets为客户提供了屡获殊荣的专业分析师团队提供的免费市场研究和新闻。他们还提供免费的交易研讨会和网络研讨会，供帐户持有者和非帐户持有者使用。
 
@@ -230,6 +230,6 @@ One Financial Markets是受监管的在线经纪商，可以通过功能强大�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/One-Financial-Markets-Logo.png)
 
-#### 最低$250入金
+## 最低$250入金
 
 One Financial Markets是一家受多方监管的经纪商，可通过MetaTrader平台提供在线外汇和CFD交易。经纪商提供各种教育材料，交易工具和资金选择。但是，它们可以提高点差和执行速度。

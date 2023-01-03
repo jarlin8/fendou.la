@@ -15,7 +15,7 @@ Coinmama是一家在线金融服务提供商，在斯洛伐克注册，向全球
 - 教育资源
 - 不接受美国客户
 - 仅加密货币交易
-- 没有MetaTrader或cTrader交易平台
+- 无MetaTrader或cTrader交易平台
 - 最低入金$500
 
 
@@ -27,11 +27,11 @@ Coinmama是一家在线金融服务提供商，在斯洛伐克注册，向全球
 
 功能概述
 
-## 法规
+## 监管信息
 
 Coinmama是NBV International sro的财产，NBV International sro是New Bit Ventures Ltd与公司的子公司，公司＃514907880。 两家公司都是在FinCEN（New Bit Ventures Ltd＃31000084489239，NBV International sro＃31000124311540）注册为货币服务业务的受监管实体。 与NBV international sro进行交易，并由New Bit Ventures Ltd处理。
 
-## 国家
+## 交易者国籍限制
 
 经纪商不向使用违反当地法律或法规的国家或地区的居民提供服务。
 
@@ -51,7 +51,7 @@ Coinmama是NBV International sro的财产，NBV International sro是New Bit Vent
 
 比特币计算器
 
-## 教育
+## 投资者教育
 
 Coinmama网站上有大量的教育材料，可以帮助交易者提高他们的交易知识，同时更新他们在市场上的最新动态。 其中包括交易博客，新闻，文章，“常见问题”部分等等。
 
@@ -81,7 +81,7 @@ Coinmama网站上有大量的教育材料，可以帮助交易者提高他们的
 
 存款和提款方法
 
-## 开户
+## 开户步骤
 
 您可以通过单击交易所主页上的“注册”按钮来打开交易帐户，然后填写您的电子邮件和密码，然后继续填写您的帐户申请表。
 
@@ -97,6 +97,6 @@ Coinmama是一种加密货币交易所，自2013年以来一直在斯洛伐克�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/Coinmama-Logo.png)
 
-#### 最低交易需 **$500** 存款
+## 最低交易需 **$500** 存款
 
 Coinmama是一家在斯洛伐克注册的在线金融服务提供商，提供各种数字货币，例如比特币，以太坊，Litecoin，比特币现金，Ripple和以太坊。
