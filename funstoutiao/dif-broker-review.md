@@ -33,11 +33,12 @@ DIF交易平台公司成立于1999年，是一家总部设在欧洲的在线交�
 
 ![](https://cdn.fendou.la/funstoutiao/2020/09/word-image-rpf.png)
 
-## 监管
+## 监管信息
 
 DIF Broker是DIF Broker Sociedad Financiera DE CORRETAGEM S.A.的交易平台公司名称，由葡萄牙的Comiss o do Mercado de Valores Mobiliários(CMVM)和西班牙的CNMV(CNMV)授权提供投资服务和其他相关辅助服务。
 
 交易平台有权在金融市场提供投资服务和其他辅助服务，包括外汇、股票、期货和CFDs(差额合同)的在线交易。该交易平台持有MiFID II护照，为所有28个欧洲联盟成员国以及列支敦士登和挪威等欧洲经济区其他成员提供金融服务。
+
 - DIF交易平台公司在下列国家的有关监管机构注册：
 - 保加利亚，财务委员会：19333/dipr/2012/11067
 - 德国，德国联邦金融局：编号：120502
@@ -54,7 +55,7 @@ DIF Broker是DIF Broker Sociedad Financiera DE CORRETAGEM S.A.的交易平台公
 
 DIF交易平台公司是投资者赔偿制度(SII)的成员之一，其目的是保证在不符合规定的情况下，所有客户的索赔都包括在内。
 
-## 各国客户
+## 客户国籍限制
 
 DIF交易平台主要向葡萄牙和西班牙的居民提供服务，并通过MiFID II护照向欧洲经济区的所有居民提供服务。交易平台还为乌拉圭居民以及其他国际客户提供服务，只要居住国的当地法律允许交易者与国际交易平台进行交易。他们不能接受美国交易者。
 

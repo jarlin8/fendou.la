@@ -44,9 +44,9 @@ MT4平台
 
 他们还为客户提供其专有的副本交易平台Juno Auto Trader，该平台有台式机版本和移动版版本，可用于将他人的交易复制到您自己的帐户中。
 
-![朱诺汽车商人](https://cdn.fendou.la/funstoutiao/2020/11/Juno-Markets-Review-Juno-Auto-Trader.png "朱诺汽车商人")
+![朱诺汽车交易者](https://cdn.fendou.la/funstoutiao/2020/11/Juno-Markets-Review-Juno-Auto-Trader.png "朱诺汽车交易者")
 
-朱诺汽车商人
+朱诺汽车交易者
 
 应当特别强调，不能保证复制交易的执行，您应该对在线交易涉及的所有重大风险有清晰的了解。
 

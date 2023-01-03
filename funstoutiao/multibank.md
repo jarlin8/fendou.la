@@ -121,7 +121,7 @@ MultiBank提供了Multi Account Manager（MAM）软件，用于同时管理多�
 
 ### 自动制图师
 
-这是一种持续扫描市场并为交易者提供优质交易信号的工具。MultiBank免费为所有客户提供了“ Autochartist MT4插件应用程序”。确定图表样式后，自动图表会通知商人。它还执行波动率分析并带有风险计算器。
+这是一种持续扫描市场并为交易者提供优质交易信号的工具。MultiBank免费为所有客户提供了“ Autochartist MT4插件应用程序”。确定图表样式后，自动图表会通知交易者。它还执行波动率分析并带有风险计算器。
 
 ![Autochartist](https://cdn.fendou.la/funstoutiao/2020/11/MultiBank-Review-Autochartist.png "Autochartist")
 

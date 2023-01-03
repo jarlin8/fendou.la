@@ -126,7 +126,7 @@ Coinbase网站的“学习”部分提供了大量涵盖各种主题的教育文
 
 ## 充值和提款
 
-Coinbase允许交易者使用Coinbase Commerce将资金直接存入他们的钱包。 Coinbase Commerce是一个平台，可帮助世界各地的商人以完全分散的方式接受加密货币付款。
+Coinbase允许交易者使用Coinbase Commerce将资金直接存入他们的钱包。 Coinbase Commerce是一个平台，可帮助世界各地的交易者以完全分散的方式接受加密货币付款。
 
 如果您在欧洲或美国，则可以使用加密货币，银行转账，信用卡/借记卡或PayPal为Coinbase Commerce帐户注资。 使用Coinbase Commerce不收取任何费用，但是，您将需要向加密货币矿工支付网络费，第三方处理器也可能会收取额外费用。
 

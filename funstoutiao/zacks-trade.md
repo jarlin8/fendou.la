@@ -74,7 +74,7 @@ Zacks Trade有多种平台可供选择，以适应不同经验水平和风格的
 
 客户可以访问自己的在线客户门户，在其中可以查看其帐户，进行交易和管理交易，进行存款和取款，调整设置和订阅等。
 
-### Zacks商人
+### Zacks交易者
 
 ![Zacks Trade Review：r平台](https://cdn.fendou.la/funstoutiao/2020/10/Zacks-Trader-Platform.png "Zacks Trade Review：r平台")
 
