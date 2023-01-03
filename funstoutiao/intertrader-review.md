@@ -1,5 +1,5 @@
 ---
-title: "InterTrader 交易平台测评 2022"
+title: "InterTrader 外汇交易平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

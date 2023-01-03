@@ -1,5 +1,5 @@
 ---
-title: "Khwezi Trade测评 2022"
+title: "Khwezi Trade经纪商平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:

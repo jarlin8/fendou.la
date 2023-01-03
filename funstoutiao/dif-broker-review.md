@@ -1,5 +1,5 @@
 ---
-title: "Dif 外汇经纪平台测评 2022"
+title: "Dif 外汇经纪平台测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
@@ -110,7 +110,7 @@ ETF：超过1,000只可供交易的交易所买卖基金
 
 CFDs：有超过9,000 CFD，包括股票，指数，原材料，和其他
 
-![](https://cdn.fendou.la/funstoutiao/2020/09/word-image-jra.png)
+![DIF外汇](https://cdn.fendou.la/funstoutiao/2020/09/word-image-jra.png)
 
 交易工具
 

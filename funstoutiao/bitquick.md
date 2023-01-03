@@ -1,5 +1,5 @@
 ---
-title: "BitQuick加密数字货币交易经纪商2022"
+title: "BitQuick加密数字货币交易经纪商测评"
 post_status: publish
 post_date: "2022-03-08"
 taxonomy:
