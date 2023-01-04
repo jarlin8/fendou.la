@@ -9,6 +9,8 @@ taxonomy:
 
 ## 列表文章classic-list-post
 
+^ae70be
+
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889378057-classic-list-post.png)
 
 classic-list-post经典列表式文章
