@@ -10,6 +10,8 @@ taxonomy:
    - yaml
 ---
 
+[github author="vaakash" project="git-it-write"]
+
 ## Git it write支持的yaml字段
 
 -   `title`– 帖子标题
