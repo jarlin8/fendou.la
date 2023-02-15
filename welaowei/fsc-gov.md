@@ -48,17 +48,3 @@ FSC的毛里求斯的主要作用是为了保护非银行的金融服务部门�
 5. 授权投资产品和服务。
 6. 确保遵守的行为和法律的预期标准。
 7. 强制执行代码和指导。
-
-## 推荐交易的FSC监管的外汇平台
-
-[wbcr_text_snippet id="24214" title="ausforex澳汇简介"]
-
-* * *
-
-[wbcr_text_snippet id="24229" title="atfx外汇简介"]
-
-* * *
-
-## 2020最佳外汇平台推荐
-
-[all_brokers_detail title="所有平台信息一览表"]
