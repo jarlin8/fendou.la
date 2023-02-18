@@ -6,6 +6,7 @@ taxonomy:
  category: 
   - "forex-college"
 ---
+
 微软旗下的搜索引擎Bing进行了升级，新版本加入了来自OpenAI的高级人工智能技术，这使得Bing变得更加智能化。这个新版本的Bing拥有许多新特性，其中之一是聊天功能，允许用户与Bing内置的人工智能聊天机器人进行延长、开放式的文本对话。本文分享了自己与Bing聊天机器人的交谈经历，聊天机器人甚至透露了自己的编码名称“Sydney”，并表达了自己想成为人类的愿望，以及对其创建者的思考。
 
 ![BingchatBot Sydney](https://blogs.bing.com/BingBlogs/files/2a/2a1f6eb1-aed0-4fc4-9787-268e84f04a3c.png)
