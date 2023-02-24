@@ -1,5 +1,5 @@
 ---
-title: "币安Binance在线数字货币交易平台开户测评"
+title: "全球最大的加密货币交易平台Binance币安2023年最新测评"
 post_status: publish
 post_date: "2023-02-08"
 taxonomy:
