@@ -1,7 +1,7 @@
 ---
-title: "Cobra Trading测评：30,000美元入金，无外汇和加密货币交易,值吗"
+title: "Cobra Trading测评：30000美元入金,无外汇和加密货币交易,值吗"
 post_status: publish
-post_date: "2022-03-08"
+post_date: "2023-02-18"
 taxonomy:
  category: 
   - "toutiao-basic"
