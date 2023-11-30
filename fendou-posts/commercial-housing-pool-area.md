@@ -6,7 +6,7 @@ taxonomy:
   category:
     - 靠谱项目
  post_tag:
-  - 投资
+    - 投资
 ---
 
 天下购房者苦“公摊面积”久矣！

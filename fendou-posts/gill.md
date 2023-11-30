@@ -6,8 +6,8 @@ taxonomy:
   category:
     - 工作日志
  post_tag:
-  - code
-  - yaml
+    - code
+    - yaml
 ---
 
 ## Git it write 支持的 yaml 字段

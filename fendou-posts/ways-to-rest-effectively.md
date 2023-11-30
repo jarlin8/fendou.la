@@ -6,7 +6,7 @@ taxonomy:
   category:
     - 好书精读
  post_tag:
-  - 投资
+    - 投资
 ---
 
 WordPress 多站点是指安装一个程序，就可以用来建立管理多个站点，属于自带功能。
