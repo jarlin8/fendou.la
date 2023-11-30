@@ -1,26 +1,26 @@
 ---
-title: "PHP&Linux服务器配置基本操作笔记"
+title: "PHP&Linux服务器配置基本笔记"
 post_status: publish
-post_date: 2022-08-24 20:05:20
+post_date: 2022-08-24
 taxonomy:
- category: 
-  - 靠谱项目
- post_tag: 
-   - code
-   - PHP
-   - Redis
+  category:
+    - 靠谱项目
+ post_tag:
+  - code
+  - php
+  - redis
 ---
 
-## PHP安装Redis扩展
+## PHP 安装 Redis 扩展
 
-开始在 PHP 中使用 Redis 前，我们需要确保已经安装了redis服务，且你的机器上能正常使用PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
+https://www.gwern.net/index开始在 PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
 
-## oneinstack中的igbinary编译问题
+## oneinstack 中的 igbinary 编译问题
 
 ```
- C:\Users\hank\OneDrive - teleworm\桌面\oneinstack\include\redis.sh （匹配2次）
-	行 50:   if [ -e "${php_install_dir}/bin/phpize" ]; then
-	行 60:     ${php_install_dir}/bin/phpize
+ C:UsershankOneDrive - teleworm桌面oneinstackincluderedis.sh （匹配2次）
+    行 50:   if [ -e "${php_install_dir}/bin/phpize" ]; then
+    行 60:     ${php_install_dir}/bin/phpize
 
 ./configure --enable-redis-igbinary  --with-php-config=${php_install_dir}/bin/php-config
 ```
@@ -39,7 +39,7 @@ sudo apt update && sudo apt install libzstd-dev
 
 // 设置的淘汰策略：
  通过redis.conf 配置文件设置 重启redis
-maxmemory-policy allkeys-lru 
+maxmemory-policy allkeys-lru
 
 // object-redis-pro插件配置文件wp-config
 define('WP_REDIS_CONFIG', [
@@ -65,23 +65,23 @@ define('WP_REDIS_CONFIG', [
 define('WP_REDIS_DISABLED', getenv('WP_REDIS_DISABLED') ?: false);
 ```
 
-### redis配置文件
+### redis 配置文件
 
 在网上查询了许多的资料都是直接在`php.ini`文件中添加`extension=redis.so`.当我添加之后会出现错误:
 
 ```
-PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so' 
+PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so'
 (tried: /usr/lib64/php/modules/redis.so (/usr/lib64/php/modules/redis.so: ....
 ```
 
-不要在php.ini里加入`extension=redis.so`这行，可在php.d(`whereis php.d`查看在哪)文件夹下创建新文件redis.ini，在redis.ini里加入`extension=redis.so`这行.  
-重启php
+不要在 php.ini 里加入`extension=redis.so`这行，可在 php.d(`whereis php.d`查看在哪)文件夹下创建新文件 redis.ini，在 redis.ini 里加入`extension=redis.so`这行.  
+重启 php
 
-### 查看PHP启动了哪些扩展和服务
+### 查看 PHP 启动了哪些扩展和服务
 
-`php -m` 发现redis扩展加载上了
+`php -m` 发现 redis 扩展加载上了
 
-## 主题底部版权申明
+## argon 主题底部版权申明
 
 argon: Theme Footer (footer.php):5
 
@@ -94,15 +94,15 @@ argon: Theme Functions (functions.php):2007
 ```
 //检测页面底部版权是否被修改
 function alert_footer_copyright_changed(){ ?>
-	<div class='notice notice-warning is-dismissible'>
-		<p><?php _e("警告：你可能修改了 Argon 主题页脚的版权声明，Argon 主题要求你至少保留主题的 Github 链接或主题的发布文章链接。", 'argon');?></p>
-	</div>
+    <div class='notice notice-warning is-dismissible'>
+        <p><?php _e("警告：你可能修改了 Argon 主题页脚的版权声明，Argon 主题要求你至少保留主题的 Github 链接或主题的发布文章链接。", 'argon');?></p>
+    </div>
 <?php }
 function check_footer_copyright(){
-	$footer = file_get_contents(get_theme_root() . "/" . wp_get_theme() -> template . "/footer.php");
-	if ((strpos($footer, "github.com/solstice23/argon-theme") === false) && (strpos($footer, "solstice23.top") === false)){
-		add_action('admin_notices', 'alert_footer_copyright_changed');
-	}
+    $footer = file_get_contents(get_theme_root() . "/" . wp_get_theme() -> template . "/footer.php");
+    if ((strpos($footer, "github.com/solstice23/argon-theme") === false) && (strpos($footer, "solstice23.top") === false)){
+        add_action('admin_notices', 'alert_footer_copyright_changed');
+    }
 }
 check_footer_copyright();
 ```
@@ -114,13 +114,16 @@ argontheme.js:2611
 !function(){...}();
 ```
 
-## 主题顶部ajax搜索添加
+## 主题顶部 ajax 搜索添加
 
-argon: Theme Header (header.php):421
+```
+// argon: Theme Header (header.php):421
+<div id="banner_container" class="banner-container container text-center">
+<?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?>
+</div>
+```
 
-![](https://cdn.fendou.la/tuoss/ajax-search-config.jpg)
-
-## 禁用wp-emoji-release.min.js
+## 禁用 wp-emoji-release.min.js
 
 ```
 // Disable the emoji's
@@ -128,9 +131,9 @@ function disable_emojis() {
  remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
  remove_action( 'admin_print_scripts', 'print_emoji_detection_script' );
  remove_action( 'wp_print_styles', 'print_emoji_styles' );
- remove_action( 'admin_print_styles', 'print_emoji_styles' ); 
+ remove_action( 'admin_print_styles', 'print_emoji_styles' );
  remove_filter( 'the_content_feed', 'wp_staticize_emoji' );
- remove_filter( 'comment_text_rss', 'wp_staticize_emoji' ); 
+ remove_filter( 'comment_text_rss', 'wp_staticize_emoji' );
  remove_filter( 'wp_mail', 'wp_staticize_emoji_for_email' );
  add_filter( 'tiny_mce_plugins', 'disable_emojis_tinymce' );
  add_filter( 'wp_resource_hints', 'disable_emojis_remove_dns_prefetch', 10, 2 );
@@ -139,7 +142,7 @@ add_action( 'init', 'disable_emojis' );
 
 /**
  * Filter function used to remove the tinymce emoji plugin.
- * @param array $plugins 
+ * @param array $plugins
  * @return array Difference betwen the two arrays
  */
 function disable_emojis_tinymce( $plugins ) {
@@ -168,15 +171,15 @@ return $urls;
 }
 ```
 
-## sharelist安装避雷
+## sharelist 安装避雷
 
 ### 忘记后台密码？
 
 ```
-// 一般在路径./cache/config.jason里面 token="#$$%******"
+// 一般在路径./cache/config.jason里面 token="#$%******"
 ```
 
-### nginx配置反向代理
+### nginx 配置反向代理
 
 ```
 端口：33001
@@ -186,17 +189,21 @@ return $urls;
 不难发现PATH指定了NodeJs的路径，本人配置了全局NodeJs环境，所以注释掉该行（前面加个#号），保存即可。
 ```
 
-## jsDelivr域名遭DNS污染解决方案
+## jsDelivr 域名遭 DNS 污染解决方案
 
 ### 官方子域
 
 - CloudFlare：test1.jsdelivr.net
+
 - CloudFlare：testingcf.jsdelivr.net
+
 - Fastly：fastly.jsdelivr.net
+
 - GCORE：gcore.jsdelivr.net
+
 - originfastly.jsdelivr.net
 
-### 针对GH的反向代理
+### 针对 GH 的反向代理
 
 ```
 #针对/gh目录的反代
@@ -212,6 +219,24 @@ proxy_set_header REMOTE-HOST $remote_addr;
 }
 ```
 
-### 360静态库：`cdn.baomitu.com`
+### 360 静态库：`cdn.baomitu.com`
 
-完全同步的cdnjs内容，又要提供谷歌字体的加速，通过自己的CDN加速，前段时间启用了AWS CloudFront的海外节点，是目前国内公共CDN做的比较好的。
+完全同步的 cdnjs 内容，又要提供谷歌字体的加速，通过自己的 CDN 加速，前段时间启用了 AWS CloudFront 的海外节点，是目前国内公共 CDN 做的比较好的。
+
+## begin 主题将标题下的日期改为更新日期
+
+原代码以及替换后的代码
+
+```
+		echo '<span class="meta-date">';
+		echo '<time datetime="';
+		echo get_the_date('Y-m-d');
+		echo ' ' . get_the_time('H:i:s');
+		echo '">';
+		time_ago( $time_type ='posts' );
+		echo '</time></span>';
+	-----------
+       echo '<span class="meta-date">';
+        echo '<time title="' . __('发布于') . ' ' . get_the_time('Y-n-d G:i:s') . ' | ' . __('编辑于',) . ' ' . get_the_modified_time('Y-n-d G:i:s') . '">' . get_the_modified_time('Y-n-d G:i') . '</time>';
+		echo '</span>';
+```

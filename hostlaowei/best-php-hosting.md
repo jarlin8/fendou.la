@@ -15,7 +15,7 @@ taxonomy:
 
 [wpsm_woobox id="22"]
 
-- 提供多个版本的PHP 5和PHP 7
+- Bluehost提供多个版本的PHP 5和PHP 7
 - 以PHP编写代码，支持MySQL和Ruby。
 - 使用PHP处理程序定制你的PHP版本
 - 使用php.ini轻松配置PHP环境。
@@ -24,7 +24,6 @@ taxonomy:
 ## # A2Hosting.com
 
 [wpsm_woobox id="51"]
-
 - 选择你的PHP版本，从4.4到7.4+。
 - 在cPanel中易于使用的PHP版本切换器。
 - 支持MySQL、MariaDB和phpMyAdmin。

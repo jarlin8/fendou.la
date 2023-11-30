@@ -1,10 +1,10 @@
 ---
 title: "Backlinko的7种经典文案样式"
 post_status: publish
-post_date: 2022-05-20 22:05:20
+post_date: 2022-05-20
 taxonomy:
- category: 
-  - 工作日志
+  category:
+    - 工作日志
 ---
 
 这是什么奇葩操作呀？
@@ -37,6 +37,6 @@ taxonomy:
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889392384-the-how-they-did-it-post.png)
 
-## X之后必做的事情
+## X 之后必做的事情
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889401339-things-to-do-after-x.png)

@@ -1,29 +1,35 @@
 ---
 title: "Content Egg Pro自助配置文档"
 post_status: publish
-post_date: 2022-08-19  22:05:20
+post_date: 2022-08-19
 taxonomy:
- category: 
-  - 杂谈系列
+  category:
+    - 杂谈系列
 ---
 
-## Feed模块
+## Feed 模块
 
-- feed是保存在自己服务器上
-- feed每天重新加载用来更新价格
+- feed 是保存在自己服务器上
 
-保存feed模块的设置后，csv/xml文件会在回来导入到本地服务器，更新了csv文件可重新保存下相应feed模块的设置（点一下保存就好）。
+- feed 每天重新加载用来更新价格
 
-### Feed中csv文件映射
+保存 feed 模块的设置后，csv/xml 文件会在回来导入到本地服务器，更新了 csv 文件可重新保存下相应 feed 模块的设置（点一下保存就好）。
+
+### Feed 中 csv 文件映射
 
 ![](https://cdn.fendou.la/fendou/2022/04/feed-maping.png)
 
-- `id` - 每个产品对应的独立ID.
+- `id` - 每个产品对应的独立 ID.
+
 - `affiliate link` – 你的联盟链接（可追踪收益）.
+
 - `is in stock` – 支持的值: "1", "true", "on" and "yes", "0", "false", "off", "no".
+
 - `availability` - 支持的值: "in stock", "out of stock".
+
 - `direct link` – 原始产品页面上的直接 URL，没有重定向和附属参数.
-- `gtin` - EAN 13位数字，如：3001234567892.
+
+- `gtin` - EAN 13 位数字，如：3001234567892.
 
 #### 大规模数据导入
 
@@ -33,9 +39,10 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 ![](https://cdn.fendou.la/fendou/2022/08/EAN-import.png)
 
-## 利用feed功能导入京东联盟
+## 利用 feed 功能导入京东联盟
 
 - 利用京东排行榜获取产品链接、标题、图片、价格信息
+
 - 利用产品链接获取永久固定推广链接
 
 ```
@@ -54,9 +61,9 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 <a href=[jd]https://item.jd.com/100017043075.html[/jd]>京东联盟链接</a>
 ```
 
-## EAN编码自动生成校验
+## EAN 编码自动生成校验
 
-使用Excel对批量生成的产品码进行EAN校验
+使用 Excel 对批量生成的产品码进行 EAN 校验
 
 ```
 =A799&RIGHT(SUM(LEFT($A799,{0,1}+{1;3;5;7;9;11})*{9,7}))
@@ -64,81 +71,77 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 ## ContentEGG RPO
 
-### 1.解除限制A
+### 1.解除限制 A
 
-**content-egg/application/admin/LicConfig.php** 83:95
+**content-egg/application/admin/LicConfig.php** 92:107
 
 ```
-public function licFormat($value)    
+public function licFormat($value)  
 {  
-return true; 
+return true;
 }
-public function activatingLicense($value)    
+public function activatingLicense($value)  
 {
 return true;
 }
 ```
 
-### 2.解除限制B
+### 2.解除限制 B
 
-**content-egg/application/components/LManager.php** 373
+**content-egg/application/components/LManager.php** 379
 
 ```
 public static function isNulled(){
-return false;​ 
+return false;​
 }
 ```
 
-### 3. 比价模板添加商家logo ✔
+### 3\. 比价模板添加商家 logo ✔
 
-**content-egg/templates/block_price_comparison_card.php:43** &45
+**content-egg/templates/block_price_comparison_card.php: 44**
 
 **使用自定义模板解决**：block_ComparePrice
 
 ```
-<?php foreach ($all_items as $key => $item): ?>    
-<a<?php TemplateHelper::printRel(); ?> class="list-group-item" target="_blank" href="<?php echo esc_url_raw($item['url']); ?>">
-<img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+//原代码
 <?php echo \esc_html(TemplateHelper::getMerhantName($item)); ?>
-<?php if ($item['price']): ?>
-<span<?php if ($item['stock_status'] != -1) echo ' style="background-color: ' . esc_attr(TemplateHelper::getPriceColor()) . '"'; ?> class="cegg-price-badge"><?php echo esc_html(TemplateHelper::formatPriceCurrency($item['price'], $item['currencyCode'])); ?></span>
-<?php endif; ?>
-</a>
-<?php endforeach; ?>            
+//替换成
+<img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+ <?php echo esc_attr( $item['domain']); ?>
 ```
 
-```
-原代码 <?php echo \esc_html(TemplateHelper::getMerhantName($item)); ?>
-替换为 <?php echo esc_attr( $item['domain']); ?>
-```
+### 4.top-list 列表添加商家 logo ✔
 
-### 4.top-list列表添加商家logo ✔
-
-**content-egg/templates/block_top_listing.php:53**
+**content-egg/templates/block_top_listing.php:55 行**
 
 **使用自定义模板解决**： block_TopListing
 
 ```
+//原代码
+ <div class="cegg-no-top-margin cegg-list-logo-title">
+ <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo \esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+</div>
+// 替换成
 <div class="cegg-no-top-margin cegg-list-logo-title">
- <img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
- <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo \esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
+ <img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+ <a<?php TemplateHelper::printRel(); ?> target="_blank" href="<?php echo esc_url_raw($item['url']); ?>"><?php echo esc_html(TemplateHelper::truncate($item['title'], 100)); ?></a>
  </div>
 ```
 
-### 5.单个产品list展示 显示商家logo ✖ 未解决
+### 5.单个产品 list 展示 显示商家 logo ✖ 未解决
 
-**content-egg/application/templates/blocks/list_row.php**：20&7
+**content-egg/application/templates/blocks/list_row.php**：20&7 后面添加图标代码就好
 
 ```
 <div class="cegg-no-top-margin cegg-list-logo-title">
-<img src="https://fastly.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
+<img src="https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/icons/favicon/<?php echo esc_attr( $item['domain']); ?>.svg" height="18" width="18">
 ----
 <img src="https://laowei8.com/favicon/get.php?url=<?php echo esc_attr( $item['domain']); ?>" height="18" width="18">
 
 fccm: 使用https://icon.horse/icon/
 ```
 
-### 6.替换全部favicon的来源
+### 6.替换全部 favicon 的来源
 
 ```
 https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
@@ -147,27 +150,27 @@ https://www.google.com/s2/favicons?domain=  >>  https://icon.horse/icon/
 
 ## AffiliateEGG PRO
 
-### 1.解除限制A
+### 1.解除限制 A
 
 **affiliate-egg/application/admin/LicConfig.php**:76
 
 ```
-public function licFormat($value)    { 
-if (preg_match('/[^0-9a-zA-Z_~\-]/', $value)) 
-return false; 
-if (strlen($value) !== 32 && !preg_match('/^\w{8}-\w{4}-\w{4}-\w{4}-\w{12}$/', $value))
-return false; 
+public function licFormat($value)    {
+if (preg_match('/[^0-9a-zA-Z_~-]/', $value))
+return false;
+if (strlen($value) !== 32 && !preg_match('/^w{8}-w{4}-w{4}-w{4}-w{12}$/', $value))
+return false;
 return true;  }
-public function activatingLicense($value)    { 
-return true; 
+public function activatingLicense($value)    {
+return true;
 $response = AffiliateEgg::apiRequest(array('method' => 'POST', 'timeout' => 15, 'httpversion' => '1.0', 'blocking' => true, 'headers' => array(), 'body' => array('cmd' => 'activate', 'key' => $value, 'd' => parse_url(site_url(), PHP_URL_HOST), 'p' => AffiliateEgg::product_id, 'v' => AffiliateEgg::version()), 'cookies' => array()));
-if (!$response) 
-return false; 
-$result = json_decode(\wp_remote_retrieve_body($response), true); 
+if (!$response)
+return false;
+$result = json_decode(wp_remote_retrieve_body($response), true);
 if ($result && !empty($result['status']) && $result['status'] === 'valid')  
 return true;
-else 
-return false; 
+else
+return false;
 }
 ```
 
@@ -175,43 +178,43 @@ return false;
 
 ```
 public function licFormat($value)    {  
-return true; 
+return true;
 }public function activatingLicense($value)    {
 return true;
 }
 ```
 
-### 2.解除限制B
+### 2.解除限制 B
 
 **affiliate-egg/application/admin/LManager.php**:302
 
 ```
-public static function isNulled()​    {​ 
-$l = LicConfig::getInstance()->option('license_key');​​ 
-if (!$l && Plugin::isEnvato())​ 
+public static function isNulled()​    {​
+$l = LicConfig::getInstance()->option('license_key');​​
+if (!$l && Plugin::isEnvato())​
 return false;​​
 if (!LManager::isValidLicFormat($l))​  
 return true;
-if (in_array(md5($l), LManager::getNulledLics()))​ 
-return true;​​ 
+if (in_array(md5($l), LManager::getNulledLics()))​
+return true;​​
 return false;​}
 ```
 
 替换成
 
 ```
-public static function isNulled(){ 
+public static function isNulled(){
 return false;​ }
 ```
 
-## Linux批量删除.DS_Store
+## Linux 批量删除.DS_Store
 
 ```
 find . -name ".DS_Store" -print -delete
 find . -name "*.log" -print -delete
 ```
 
-## 可获取网站favicon的链接（国内）
+## 可获取网站 favicon 的链接（国内）
 
 ```
 https://f5.allesedv.com/16/google.com （部分网址无法获取）
@@ -219,9 +222,9 @@ https://api.faviconkit.com/amazon.cn  (速度较慢，几乎全部可获取到)
 https://icon.horse/icon/alibaba.com (全 免费 较快 推荐)
 ```
 
-## 阿里OSS静态存储-删除js/css外所有格式文件
+## 阿里 OSS 静态存储-删除 js/css 外所有格式文件
 
-win+R -> cmd -> `cd C:\Users\hank\OneDrive - teleworm\桌面\img`
+win+R -> cmd -> `cd C:UsershankOneDrive - teleworm桌面img`
 
 ```
 del /a /f /s /q  "*.DS_Store"
@@ -292,32 +295,48 @@ del /a /f /s /q  "*.conf"
 del /a /f /s /q  "*.iml"
 ```
 
-## thrive插件的下载更新
+## thrive 插件的下载更新
 
 ```
 # thrive leadshttp://download.thrivethemes.com/thrive-leads-3.6.zip​# thrive-architecthttp://download.thrivethemes.com/thrive-architect-3.8.zip​Thrive Plugins Package Nulled - April 6, 2022​Thrive Automator v0.9Thrive Optimize v2.6Thrive Comments v2.6Thrive Clever Widgets v2.9.1Thrive Headline Optimizer v2.3.1Thrive Ovation v3.6Thrive Leads v3.6Thrive Ultimatum v3.6Thrive Quiz Builder v3.6Thrive Apprentice v4.2Thrive Architect v3.8
 ```
 
-## DeepLink链接汇总
+## DeepLink 链接汇总
 
-### impact加入的商家
+### impact 加入的商家
 
 - bluehost `https://bluehost.sjv.io/c/2469506/795082/11352?u={{url_encoded}}`
+
 - bluehost(旧) [https://www.bluehost.com/track/jarlin8/](https://www.bluehost.com/track/jarlin8/) 【[后台](https://www.bluehost.com/hosting/partner)】
-- Envato(卖wordpress主题插件etc) `https://1.envato.market/c/2469506/275988/4415?u={{url_encoded}}`
+
+- Envato(卖 wordpress 主题插件 etc) `https://1.envato.market/c/2469506/275988/4415?u={{url_encoded}}`
+
 - Hostinger `https://hostinger.sjv.io/c/2469506/888231/12282?u={{url_encoded}}`
+
 - Hostgator(恐龙) `https://partners.hostgator.com/c/2469506/177309/3094?u={{url_encoded}}`
+
 - InMotion `https://partners.inmotionhosting.com/c/2469506/260033/4222?u={{url_encoded}}`
+
 - LiquidWeb `https://liquidweb.i3f2.net/c/2469506/278394/4464?u={{url_encoded}}`
+
 - NameCheap `https://namecheap.pxf.io/c/2469506/386170/5618?u={{url_encoded}}`
+
 - SiteGround `https://www.siteground.com/index.htm?afcode=7dca1a3d149d92812da634af29bdad6b` (`{{url}}?afcode=7dca1a3d149d92812da634af29bdad6b`)
+
 - Justhost `https://www.justhost.com/track/jialinwei/`
-- interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) [https://www.interserver.net/r/667363?url={{url_encoded}}]
+
+- interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) \[[https://www.interserver.net/r/667363?url={{url_encoded](https://www.interserver.net/r/667363?url={{url_encoded)}}\]
+
 - HostPapa [`https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313`](https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313)
-- A2hosting [](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)[`http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3`](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)
-- Hostwinds `https://www.hostwinds.com/10193.html`[ https://affiliates.hostwinds.com/hostwinds.php?id=10193 ]
+
+- A2hosting [`http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3`](http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3)
+
+- Hostwinds `https://www.hostwinds.com/10193.html`\[ [https://affiliates.hostwinds.com/hostwinds.php?id=10193](https://affiliates.hostwinds.com/hostwinds.php?id=10193) \]
+
 - WISE: `https://wise.prf.hn/click/camref:1101lqnyb/destination:{{url_encoded}}`
+
 - tradingview 后台【`[https://tradingview.hasoffers.com/](https://tradingview.hasoffers.com/)】 [https://www.tradingview.com/?offer_id=10&aff_id=22792](https://www.tradingview.com/?offer_id=10&aff_id=22792)`
+
 - shareasale: [https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47](https://www.shareasale.com/r.cfm?b=40&u=2789158&m=47)
 
 ### 亚马逊
@@ -327,8 +346,20 @@ Amazon `tag=jarlin-20`
 ### FIVERR
 
 - [fiverr.com](https://affiliates.fiverr.com/) (混合模式)`https://go.fiverr.com/visit/?bta=498363&brand=fiverrhybrid&landingPage={{url_encoded}}`
+
 - sub-affiliate `https://go.fiverr.com/visit/?bta=498363&brand=fiverraffiliates&landingPage={{url_encoded}}`
 
 ### VULTR
 
 vultr.com `ref=9197180-8H`
+
+## flatsome 主题添加最后更新时间
+
+```
+#: inc/structure/structure-posts.php:235
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "最后更新于：%s"
+//修改方法
+将236行中的  . $time_string .  替换为 . get_the_modified_time('Y-n-d G:i') .
+```

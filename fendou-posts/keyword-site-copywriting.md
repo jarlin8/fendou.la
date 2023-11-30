@@ -1,19 +1,19 @@
 ---
 title: "相关关键词建站文案模板"
 post_status: publish
-post_date: 2022-08-11 22:05:20
+post_date: 2022-08-11
 taxonomy:
- category: 
-  - 靠谱项目
+  category:
+    - 靠谱项目
 ---
 
-## 列表文章classic-list-post
+## 列表文章 classic-list-post
 
 ^ae70be
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889378057-classic-list-post.png)
 
-classic-list-post经典列表式文章
+classic-list-post 经典列表式文章
 
 #### List Post Title 列表是文章标题
 
@@ -29,11 +29,11 @@ First, you need to state the benefit that someone will get out of reading your p
 
 Next, you need the number of items on your list. If possible, start your title off with that number.接下来你需要这个列表的数字，如果可能，请以该数字开头。
 
-**Example:** 22 Things You Can Do Today to Change Your Photography Forever 例如：22个你立即可以上手并永远改变你拍摄技巧的方法
+**Example:** 22 Things You Can Do Today to Change Your Photography Forever 例如：22 个你立即可以上手并永远改变你拍摄技巧的方法
 
 Finally, you want to demonstrate a specific time frame that shows how actionable your content is. People love strategies they can implement right away. 最后，您想展示一个特定的时间范围，以显示您的内容的可操作性。人们喜欢他们可以立即实施的策略。
 
-**Example:** 24 Quick Actions You Can Do Today That Can Change Your Financial Life Forever 例如 22个可以立即上手并彻底改变财务状况的方法。
+**Example:** 24 Quick Actions You Can Do Today That Can Change Your Financial Life Forever 例如 22 个可以立即上手并彻底改变财务状况的方法。
 
 #### List Post Introduction 列表文章介绍
 
@@ -46,9 +46,9 @@ First, you quickly (and I mean **quickly**) introduce the problem that the item
 
 **Example:** I think you’ll agree with me when I say:例如：当我这样说，我相信你肯定会非常同意我的看法
 
-It’s REALLY hard to grow a YouTube channel.现在通过YouTube频道获取粉丝真的是非常困难
+It’s REALLY hard to grow a YouTube channel.现在通过 YouTube 频道获取粉丝真的是非常困难
 
-Second, (quickly!) introduce the benefit that your list post will help them achieve.第2步，快速介绍你可以帮助他们解决问题的好处
+Second, (quickly!) introduce the benefit that your list post will help them achieve.第 2 步，快速介绍你可以帮助他们解决问题的好处
 
 **Good Example:**一个好的例子
 
@@ -73,11 +73,11 @@ When people see items that will help them lose weight, eat better or make more m
 
 **Good Example:** Torch Fat With a Protein-Rich Breakfast.用富含蛋白质的早餐燃烧脂肪。
 
-**Bad Example:** Eat Protein at Breakfast坏例子：早餐吃蛋白质
+**Bad Example:** Eat Protein at Breakfast 坏例子：早餐吃蛋白质
 
-**Good Example #2:** Save $200/Month on Car Insurance With One Phone Call只需一个电话，每月可节省 200 美元的汽车保险费用
+**Good Example #2:** Save $200/Month on Car Insurance With One Phone Call 只需一个电话，每月可节省 200 美元的汽车保险费用
 
-**Bad Example #2:** Save Money on Car Insurance省钱买汽车保险
+**Bad Example #2:** Save Money on Car Insurance 省钱买汽车保险
 
 See the difference?
 
@@ -101,7 +101,7 @@ When someone gets results from your content, they become a fan for life.
 
 **Pro Tip:** Ask your reader to leave a comment. Have them publicly commit to taking action. For example, “Let me know the 1 item on this list you’re going to take action on first.”
 
-## 案例研究detail case study
+## 案例研究 detail case study
 
 ![文案写作类型-详细案例研究](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618024285802-case-study.jpg)
 
@@ -133,7 +133,7 @@ Finally, specify how long it took to see those benefits. The shorter the time fr
 
 Here’s what you include in your case study introduction:
 
-First, start your intro off with EXACTLY what you’re going to show them in the case study. As the old journalism saying goes: “Don’t bury the lead”. 🙂
+First, start your intro off with EXACTLY what you’re going to show them in the case study. As the old journalism saying goes: “Don’t bury the lead”. ?
 
 **Example:** “Today I’m going to show you how a busy single mom (Jane) dropped 9 pounds of body fat in a month.”
 
@@ -161,7 +161,7 @@ She knew she should exercise, but with her demanding work schedule and kid’s a
 
 **“Save The Cat Moment”**
 
-The term “Save The Cat” comes from the screenwriting classic, _[Save The Cat](http://www.savethecat.com/)_. It’s a small detail that makes your hero more human and relatable.
+The term “Save The Cat” comes from the screenwriting classic, *[Save The Cat](http://www.savethecat.com/)*. It’s a small detail that makes your hero more human and relatable.
 
 **Good Example:** “One day, after barely being able to button her favorite pair of jeans, Jane realized she needed to do something. So she called her sister, who recently dropped 10 pounds, for advice.”
 
@@ -228,7 +228,7 @@ I’d also like to hear from you: have you used any of these strategies to lose 
 
 And when you finish writing your conclusion, you’re done with your case study. Great work!
 
-## 新手指南beginners guide
+## 新手指南 beginners guide
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889387278-the-beginners-guide.png)
 
@@ -305,7 +305,7 @@ Are they:
 - Case studies
 - “Best of” lists
 
-Finally, plan your piece of content based on what you found. Make sure to improve on the content that’s already ranking above you –that way your content _deserves_ to be #1.
+Finally, plan your piece of content based on what you found. Make sure to improve on the content that’s already ranking above you –that way your content *deserves* to be #1.
 
 For example, if most of the content on Google’s first page are lists posts with 10-15 items, do 25 (or even 50). Or do 15 but add more detailed info for each item.
 
@@ -333,7 +333,7 @@ Rinse and repeat this formula for as many steps as you need for your beginner’
 
 Before you start on your first link, make sure to leave a quick comment to let me know what you think of ‘Link Building: The Beginner’s Guide’.
 
-## 产品对比product showdown
+## 产品对比 product showdown
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889382497-product-showdown.png)
 
@@ -412,7 +412,7 @@ Now it’s time to wrap things up. In many ways this is the moment your reader h
 
 But if you have two pennies to rub together, I recommend going with Aweber. As you saw in this review, Aweber’s robust features are worth the slightly higher investment.”
 
-## 揭秘类myth debunker
+## 揭秘类 myth debunker
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889396949-the-myth-debunker.png)
 
@@ -422,11 +422,11 @@ Also, when you roundup a bunch of “best practices”, and prove that they’re
 
 You have two options with your Myth Debunker title:
 
-**Highlight a single myth:** “The  Myth Debunked (Plus 5 More Myths That Drive Me Nuts)”
+**Highlight a single myth:** “The Myth Debunked (Plus 5 More Myths That Drive Me Nuts)”
 
 Or
 
-**Outline the number (and type) of myths you’re going to cover:** 13  Myths That Every  Should Know
+**Outline the number (and type) of myths you’re going to cover:** 13 Myths That Every Should Know
 
 **Example:** “13 SEO Myths That Every Online Business Owner Needs to Know”
 
@@ -452,25 +452,25 @@ Preview what’s coming next. Also highlight the fact that your post will be bas
 
 Here’s where you highlight (and break down) common myths in your space.
 
-**1. Background on the myth**
+**1\. Background on the myth**
 
 Give your reader context on how this myth came to be.
 
 **Example:** “Back in the early days of blogging and SEO, publishing content on a regular basis did work. Which is why this approach to content creation got so popular”.
 
-**2. Data or case study**
+**2\. Data or case study**
 
 Now it’s time to show your reader why this concept is a myth… and prove it with data.
 
 **Example:** “However, fresh content isn’t as effective as it used to be. The main reason? There’s more content out there than ever before. So to grow your blog today, you can’t just publish a bunch of content. You need to publish epic stuff (like in-depth case studies and infographics). In fact, I grew my blog to over 5,000 visitors per month with only 11 total pieces of blog content.”
 
-**3. Why the myth is a myth**
+**3\. Why the myth is a myth**
 
 You’ve shown them the evidence. Now it’s time to explain why the myth is a myth.
 
 **Example:** “How did I grow my blog with 11 posts while other blogs struggled to take off. Here’s the explanation…”
 
-**4. What to do instead**
+**4\. What to do instead**
 
 **Example:** “So if you’re looking for an alternative to publishing a new post every week, here’s the approach that I recommend trying out…”
 
@@ -490,7 +490,7 @@ You’ve shown them the evidence. Now it’s time to explain why the myth is a m
 
 Which of these myths did you find most surprising?”
 
-## 我是如何做到的how they did it
+## 我是如何做到的 how they did it
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889392384-the-how-they-did-it-post.png)
 
@@ -542,7 +542,7 @@ Now it’s time to outline the strategies they used to achieve their impressive 
 
 Outline a few statistics to prove this person or group is a super-successful outlier. This will motivate your reader to learn how they achieved these impressive results.
 
-**Example:** “Airbnb started in 2008 as three guys that wanted to rent out their living room to travelers. Today Airbnb hosts one million guests _per night_. Not to mention a valuation of 20 billion dollars.”
+**Example:** “Airbnb started in 2008 as three guys that wanted to rent out their living room to travelers. Today Airbnb hosts one million guests *per night*. Not to mention a valuation of 20 billion dollars.”
 
 #### Their unique approach
 
@@ -582,7 +582,7 @@ Push the reader to use your advice and make a public commitment by leaving a com
 
 Also, which of the approaches are you most excited to try first? Let me know by leaving a quick comment below.”
 
-## X之后必做的事情things to do after X
+## X 之后必做的事情 things to do after X
 
 ![](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889401339-things-to-do-after-x.png)
 
