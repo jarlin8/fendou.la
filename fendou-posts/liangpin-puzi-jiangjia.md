@@ -4,7 +4,7 @@ post_status: publish
 post_date: 2023-12-01 01:09:30
 taxonomy:
  category: 杂谈系列
- post_tag: 良品铺子,降价
+ post_tag: 良品铺子
 ---
  良品铺子近期宣布了其成立17年以来最大规模的降价活动，降幅最高达45%。这一商业举措引发了广泛的讨论和解读。降价的原因主要有几个方面：
 
