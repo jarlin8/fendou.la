@@ -5,9 +5,6 @@ post_date: 2022-12-30
 taxonomy:
   category:
     - 工作日志
- post_tag:
-    - code
-    - yaml
 ---
 
 ## Git it write 支持的 yaml 字段

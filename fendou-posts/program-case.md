@@ -5,10 +5,6 @@ post_date: 2022-08-24
 taxonomy:
   category:
     - 靠谱项目
- post_tag:
-    - code
-    - php
-    - redis
 ---
 
 ## PHP 安装 Redis 扩展
