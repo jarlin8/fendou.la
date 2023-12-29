@@ -1,14 +1,14 @@
 ---
-    title: "如何学习懂得更多，让别人觉得自己挺厉害？"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "如何学习懂得更多，让别人觉得自己挺厉害？"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - smartbook
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 > 在探索的过程中，书籍、付费知识、别人的总结都不是终点，它们是你探索的过程，千万不要以为买了一节课就得到了。用不加整理的方式收集、用优秀的工具去做笔记梳理、用自己的语言重新表达出来，甚至写出来，我们才最终得到。
 
 ## 放过自己
