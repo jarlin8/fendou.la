@@ -1,14 +1,14 @@
 ---
-    title: "如何在家里做到高效学习?"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "如何在家里做到高效学习?"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - log
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 自主学习的动力，一般来源于两种：
 
 一种就是兴趣，很简单地概括，我就是特别想学这个东西，不 管这个想是因为什么。比如我看人家弹古筝非常漂亮，所以就 特别想要弹古筝，这是学习动力的一种。
