@@ -1,13 +1,13 @@
 ---
-title: "最会赚钱的人给我的 20 个启发！坚持比什么都重要！"
-post_status: "publish"
-skip_file: "no"
+title: 最会赚钱的人给我的 20 个启发！坚持比什么都重要！
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - project
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 01、商业的逻辑是简单的，不要想得太复杂了，五花八门的技巧容易把自己绕进去了。
 
