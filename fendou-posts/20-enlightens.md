@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "project"
+        - project
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 01、商业的逻辑是简单的，不要想得太复杂了，五花八门的技巧容易把自己绕进去了。
