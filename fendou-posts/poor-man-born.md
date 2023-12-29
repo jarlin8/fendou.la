@@ -1,14 +1,14 @@
 ---
-    title: "一个人没有出息的九大根源！"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "一个人没有出息的九大根源！"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - everyday
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 前些日子，《人民日报》的官微发布了一条哈佛大学分析一个人没有出息的九大根源。
 
 很多观看了研究视频的人们，纷纷在下方留言说是翻版的自己，答案真是扎心了。
