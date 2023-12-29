@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 ![Image](https://images.unsplash.com/photo-1578342450849-092ea922d569?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
