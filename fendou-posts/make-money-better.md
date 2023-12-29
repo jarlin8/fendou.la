@@ -1,13 +1,13 @@
 ---
-title: "Content Egg Pro 自助配置文档"
-post_status: "publish"
-skip_file: "no"
+title: Content Egg Pro 自助配置文档
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 ## Feed 模块
 
