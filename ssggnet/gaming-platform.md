@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团是不是对赌平台？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团是不是对赌平台？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: ""
+post_excerpt: 
 ---
 这个看你是怎么理解这个对赌平台含义的。
 
