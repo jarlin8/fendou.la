@@ -1,14 +1,14 @@
 ---
-title: "读书拆书，用你读过的书变现"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
+    title: "读书拆书，用你读过的书变现"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
         - smartbook
-  post_tag: 
-    
-post_excerpt: ""
----
+      post_tag:
+        - none
+    post_excerpt: ""
+    ---
 一： 月入过万的读书人，是靠什么赚钱的
 
 写作变现的几种渠道
