@@ -1,13 +1,13 @@
 ---
-title: "怎样支撑一个人走过人生低谷和迷茫？"
-post_status: "publish"
-skip_file: "no"
+title: 怎样支撑一个人走过人生低谷和迷茫？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 ## 低谷期最重要的四件事情
 
