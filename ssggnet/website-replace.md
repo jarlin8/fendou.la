@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的网站域名为什么老是更换，最新官网是哪个？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的网站域名为什么老是更换，最新官网是哪个？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 接触外汇交易只要超过半年的朋友肯定遇到过交易平台网址更换；
 
