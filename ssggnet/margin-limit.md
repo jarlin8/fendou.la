@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的400倍杠杆对保证金有什么限制？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的400倍杠杆对保证金有什么限制？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 嘉盛集团的账户默认杠杆是200倍的，400倍杠杆问保证金是否有限制，需要根据实际情况来分析。
 
