@@ -118,7 +118,8 @@ argontheme.js:2611
 ```php
 // argon: Theme Header (header.php):421
 <div id="banner_container" class="banner-container container text-center">
-<?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?>
+// <?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?> 
+// 禁止解析 造成代码无法展示
 </div>
 ```
 
