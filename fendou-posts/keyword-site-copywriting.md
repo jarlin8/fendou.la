@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "project"
+        - project
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 ## 列表文章 classic-list-post
