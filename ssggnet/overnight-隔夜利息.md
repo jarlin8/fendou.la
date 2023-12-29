@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的隔夜利息多少，和融资费用什么关系？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的隔夜利息多少，和融资费用什么关系？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇平台
-post_excerpt: ""
+post_excerpt: 
 ---
 融资，又称为展期，是你为了隔夜持有未结头寸所支付的费用。每天的融资费用自动用于持有未结头寸的每日（包括周末）账户。如有头寸持仓过夜，将会产生隔夜融资费用调整。嘉盛集团会使用掉期点数(Swap point)来计算外汇产品每日隔夜融资调整的数额。
 
