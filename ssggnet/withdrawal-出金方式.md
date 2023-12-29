@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团交易账户出金方式有哪些？费用怎么算？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团交易账户出金方式有哪些？费用怎么算？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: ""
+post_excerpt: 
 ---
 嘉盛出金银联会比较快，电汇出金相对麻烦，境外汇款需要的时间比较久，而且还要考虑到5W美金的银行外汇限制，建议以个人名义汇出会更好。
 
