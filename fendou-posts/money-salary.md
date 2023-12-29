@@ -4,9 +4,10 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "project"
+        - project
   post_tag: 
-    - "阅读, 投资"
+        - 阅读
+    - 投资
 post_excerpt: ""
 ---
 ① 增加对身体的投资，让身体始终好用，
