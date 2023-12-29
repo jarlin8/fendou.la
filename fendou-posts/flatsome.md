@@ -1,14 +1,14 @@
 ---
-    title: "Flatsome 主题 nulled 代码备忘/Google 实时收录"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "Flatsome 主题 nulled 代码备忘/Google 实时收录"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - log
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 ## 编辑 function.php
 
 在`require get_template_directory() . '/inc/init.php';`前面添加如下代码:
