@@ -1,14 +1,14 @@
 ---
-title: "Backlinko 的 7 种经典文案样式"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
+    title: "Backlinko 的 7 种经典文案样式"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
         - log
-  post_tag: 
-    
-post_excerpt: ""
----
+      post_tag:
+        - none
+    post_excerpt: ""
+    ---
 这是什么奇葩操作呀？
 
 ![Image](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1619665929903-京东返佣列表.jpg)
