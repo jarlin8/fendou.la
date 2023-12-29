@@ -1,14 +1,14 @@
 ---
-    title: "7 个有用的 wordpress 图片云储存方案"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "7 个有用的 wordpress 图片云储存方案"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - everyday
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 储存图片一直是我们这些小站长的难题，本地占用空间大，速度还提不起来。
 
 这里搜集整理了三个可用的解决方案和插件分享：
