@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 1. 永远别把 75%以上的自己暴露出去。 出浴时半遮半掩的女子最动人，`熟悉`的陌生感才是最好的社交状态，悬念的镜头吸引人，剧透了的电影没意思。
