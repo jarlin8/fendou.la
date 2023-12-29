@@ -1,7 +1,6 @@
 ---
 title: "test"
 post_status: "draft"
-skip_file: "no"
 taxonomy:
   category:
         - toutiao
