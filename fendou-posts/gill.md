@@ -4,9 +4,10 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - ""
+    
   post_tag: 
-    - "code, yaml"
+        - code
+    - yaml
 post_excerpt: ""
 ---
 ## Git it write 支持的 yaml 字段
