@@ -1,14 +1,14 @@
 ---
-    title: "费曼学习法实践"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "费曼学习法实践"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - log
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 1. 確定目標=>掌握目標要領 2. 模擬教學=>講明白,卡掉,混掉 3. 反饋,就受眾不懂或意見, 作詳述或改述 4. 簡化並重複
 
 費曼學習法 2.0 (適用於外語) 1. 確定目標=>掌握 2. 簡化, 列概括 3. 自我提問(5W1H)擴充回答, 把答案 1.錄(對話) & 2.寫(讀寫) 4. 答案對照原文, 並重複第 3 步直至無差
