@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "log"
+        - log
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 1. 確定目標=>掌握目標要領 2. 模擬教學=>講明白,卡掉,混掉 3. 反饋,就受眾不懂或意見, 作詳述或改述 4. 簡化並重複
