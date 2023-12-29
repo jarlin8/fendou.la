@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "smartbook"
+        - smartbook
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 这里主要是我看的两个 Ted 演讲的视频所做的一点笔记，一个是 24 小时学习法，另外一个视频是如何在 6 个月内学会一门外语，两个视频都非常有意思和具有启发性。
