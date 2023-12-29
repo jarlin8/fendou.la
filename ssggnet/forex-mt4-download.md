@@ -11,10 +11,10 @@ post_excerpt: ""
 ---
 | 嘉盛MT4平台 | 嘉盛MT5平台 |
 | :--- | :--- |
-| 嘉盛 | 嘉盛MT5开户 |
-| 电脑MT4下载 | 电脑MT5下载 |
-| 苹果MT4下载 | 苹果MT5下载 |
-| 安卓MT4下载 | 安卓MT5下载 |
+| [嘉盛](https://application.denglupingtai.com/cn-meta/step/1?ibcode=JIAWMT)[MT4](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk)开户 | [嘉盛MT5开户](https://application.denglupingtai.com/cn-mt5-partner/step/1?ibcode=JIAWMT5) |
+| [电脑MT4下载](https://download.mql5.com/cdn/web/8536/mt4/forexcomglobalcn4setup.exe) | [电脑MT5下载](https://download.mql5.com/cdn/web/13702/mt5/forexcomglobalcn5setup.exe) |
+| [苹果MT4下载](https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8) | [苹果MT5下载](https://itunes.apple.com/cn/app/metatrader-5-forex-stocks/id413251709) |
+| [安卓MT4下载](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk) | [安卓MT5下载](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/metatrader5.apk) |
 
 这个列表中包括了嘉盛Mt4账户的开立链接，嘉盛电脑版MT4软件下载,苹果版嘉盛MT4软件下载,安卓版嘉盛MT4软件下载。在手机上或者电脑PC端都是可以直接点击下载的，因为嘉盛的国际官网在国内打开有一定困难，所以上面的下载链接都是直接官网备份过来的，可以放心下载安装使用。
 
