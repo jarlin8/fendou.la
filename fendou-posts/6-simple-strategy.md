@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 如何开始内容营销？
