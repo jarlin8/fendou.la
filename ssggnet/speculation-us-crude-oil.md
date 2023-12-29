@@ -1,13 +1,13 @@
 ---
-title: "用嘉盛集团外汇平台炒外汇美原油靠谱吗？"
-post_status: "publish"
-skip_file: "no"
+title: 用嘉盛集团外汇平台炒外汇美原油靠谱吗？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: ""
+post_excerpt: 
 ---
 如果你想炒外汇，又不知道哪个经纪商安全，点差怎样，是不是适合自己？那么这里就来一一告诉你。
 
