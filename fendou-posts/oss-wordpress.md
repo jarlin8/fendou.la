@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 储存图片一直是我们这些小站长的难题，本地占用空间大，速度还提不起来。
