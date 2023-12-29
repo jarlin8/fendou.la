@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团新客户开户交易有哪些赠金活动？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团新客户开户交易有哪些赠金活动？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - bonus
   post_tag:
         - 嘉盛外汇
-post_excerpt: ""
+post_excerpt: 
 ---
 外汇交易平台为了吸引新客户，会在各种节日退出开户赠金活动，每次力度也有区别。
 
