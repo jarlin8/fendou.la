@@ -1,16 +1,16 @@
 ---
-    title: "PHP&Linux 服务器配置基本笔记"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "PHP&Linux 服务器配置基本笔记"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - project
-      post_tag:
+  post_tag:
         - code
-    - php
-    - redis
-    post_excerpt: ""
-    ---
+        - php
+        - redis
+post_excerpt: ""
+---
 ## PHP 安装 Redis 扩展
 
 [https://www.gwern.net/index 开始在](https://www.gwern.net/index%E5%BC%80%E5%A7%8B%E5%9C%A8) PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
