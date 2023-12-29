@@ -1,13 +1,13 @@
 ---
-title: "在哪里可以下载嘉盛集团的MT4交易软件？"
-post_status: "publish"
-skip_file: "no"
+title: 在哪里可以下载嘉盛集团的MT4交易软件？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 在嘉盛集团做外汇和贵金属以及数字货币交易，有三种平台账户可以选择：
 
