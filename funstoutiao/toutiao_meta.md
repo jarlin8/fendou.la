@@ -1,6 +1,6 @@
 ---
 title: "testing"
-post_status: "publish"
+post_status: "draft"
 skip_file: "no"
 taxonomy:
   category:
