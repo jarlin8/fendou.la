@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团外汇入金最低多少？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团外汇入金最低多少？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇交易
-post_excerpt: ""
+post_excerpt: 
 ---
 嘉盛集团的外汇交易账户最低入金是有要求的，给的回复是最低入金是50美元。可能是入金渠道有差别，部分小伙伴反映的是最低佣金调到了100美元。
 
