@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的外汇账户杠杆是多少？保证金与杠杆的关系"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的外汇账户杠杆是多少？保证金与杠杆的关系
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 中国内地的客户开的嘉盛集团的外汇账户杠杆默认是200倍，有需求的可以打电话给[嘉盛的客服](http://www.ssgg.net/forex-customer-service.html)最高可以调到400倍。
 
