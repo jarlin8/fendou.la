@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "smartbook"
+        - smartbook
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 一： 月入过万的读书人，是靠什么赚钱的
