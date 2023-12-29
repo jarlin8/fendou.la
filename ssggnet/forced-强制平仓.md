@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团平台的强制平仓规则是怎样的？如何避免强制平仓？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团平台的强制平仓规则是怎样的？如何避免强制平仓？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇黑平台
-post_excerpt: ""
+post_excerpt: 
 ---
 强制平仓，斩仓、被砍仓、爆仓都是一个意思。一般分为以下几种情形：
 
