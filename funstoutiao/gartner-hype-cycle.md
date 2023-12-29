@@ -13,7 +13,7 @@ post_excerpt: ""
 ---
 面对层出不穷的新兴科技，投资者如何识别潜力股而避开泡沫？Gartner技术成熟度曲线（Gartner Hype Cycle）为投资者提供了指引。由全球知名研究咨询公司Gartner发布，该曲线追踪新兴科技的发展轨迹，并预测其步入主流市场的时间节点。正如贝勒大学商学院信息系统系教授蒂莫西·凯沃斯所言，“教科书和杂志提供的是昨日的信息，而Gartner提供的是前瞻性的洞察。”
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/6762ef13-aad2-4498-970c-c0f57f05222b/source-gartner-2.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231229T144027Z&X-Amz-Expires=3600&X-Amz-Signature=bca02f31764615b183a45aa2ae5166cae2b02a242b88145f7377565de533ad36&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/6762ef13-aad2-4498-970c-c0f57f05222b/source-gartner-2.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231229T144033Z&X-Amz-Expires=3600&X-Amz-Signature=6b3c0cac860d1a7b1f1a5a42587d4dc9a4cf33dd5e2a054c0692705ad798ddc6&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 Gartner技术成熟度曲线：洞悉科技的演化之路
 
