@@ -1,14 +1,14 @@
 ---
-    title: "有哪些越早知道越好的人生经验？"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "有哪些越早知道越好的人生经验？"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - everyday
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 ## 当一件事只能让你产生短期快感，建议少做
 
 * 熬夜刷手机
