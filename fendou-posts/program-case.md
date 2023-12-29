@@ -4,9 +4,11 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "project"
+        - project
   post_tag: 
-    - "code, php, redis"
+        - code
+    - php
+    - redis
 post_excerpt: ""
 ---
 ## PHP 安装 Redis 扩展
@@ -15,7 +17,7 @@ post_excerpt: ""
 
 ## oneinstack 中的 igbinary 编译问题
 
-```plain text
+```php
  C:UsershankOneDrive - teleworm桌面oneinstackincluderedis.sh （匹配2次）
     行 50:   if [ -e "${php_install_dir}/bin/phpize" ]; then
     行 60:     ${php_install_dir}/bin/phpize
@@ -25,7 +27,7 @@ post_excerpt: ""
 
 ### 下载并安装
 
-```plain text
+```php
 git clone https://github.com/phpredis/phpredis.git
 cd phpredis
 phpize
@@ -67,7 +69,7 @@ define('WP_REDIS_DISABLED', getenv('WP_REDIS_DISABLED') ?: false);
 
 在网上查询了许多的资料都是直接在`php.ini`文件中添加`extension=redis.so`.当我添加之后会出现错误:
 
-```plain text
+```php
 PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so'
 (tried: /usr/lib64/php/modules/redis.so (/usr/lib64/php/modules/redis.so: ....
 ```
@@ -88,7 +90,7 @@ argon: Theme Footer (footer.php):5
 
 argon: Theme Functions (functions.php):2007
 
-```plain text
+```php
 //检测页面底部版权是否被修改
 function alert_footer_copyright_changed(){ ?>
     <div class='notice notice-warning is-dismissible'>
@@ -106,14 +108,14 @@ check_footer_copyright();
 
 argontheme.js:2611
 
-```plain text
+```php
 /*Console*/
 !function(){...}();
 ```
 
 ## 主题顶部 ajax 搜索添加
 
-```plain text
+```php
 // argon: Theme Header (header.php):421
 <div id="banner_container" class="banner-container container text-center">
 <?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?>
@@ -122,7 +124,7 @@ argontheme.js:2611
 
 ## 禁用 wp-emoji-release.min.js
 
-```plain text
+```php
 // Disable the emoji's
 function disable_emojis() {
  remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
@@ -176,7 +178,7 @@ return $urls;
 
 ### nginx 配置反向代理
 
-```plain text
+```php
 端口：33001
 // 自行安装 docker和pm2
 // cd到根目录 bash install.sh 报错 npm comand not found
@@ -200,7 +202,7 @@ return $urls;
 
 ### 针对 GH 的反向代理
 
-```plain text
+```php
 #针对/gh目录的反代
 location /gh
 {
@@ -222,7 +224,7 @@ proxy_set_header REMOTE-HOST $remote_addr;
 
 原代码以及替换后的代码
 
-```plain text
+```php
         echo '<span class="meta-date">';
         echo '<time datetime="';
         echo get_the_date('Y-m-d');
