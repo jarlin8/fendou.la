@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团是正规的外汇交易平台吗，受到监管吗？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团是正规的外汇交易平台吗，受到监管吗？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 嘉盛集团是GAIN Capital的子公司，GAIN Capital是一家总部位于美国的在线交易服务提供商，总部位于新泽西州的贝德明斯特， 嘉盛集团是正规的外汇交易平台。
 
