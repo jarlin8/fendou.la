@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的点差是怎么计算的？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的点差是怎么计算的？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇平台
-post_excerpt: ""
+post_excerpt: 
 ---
 与交易货币相关的最常见的成本是点差和隔夜利息。
 
