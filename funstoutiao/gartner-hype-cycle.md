@@ -1,7 +1,7 @@
 ---
-title: "揭秘科技投资新利器：Gartner技术成熟度曲线助您识别潜力股"
-post_status: "publish"
-skip_file: "no"
+title: 揭秘科技投资新利器：Gartner技术成熟度曲线助您识别潜力股
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - toutiao
@@ -9,7 +9,7 @@ taxonomy:
         - 投资
         - 阅读
         - 股票
-post_excerpt: ""
+post_excerpt: 
 ---
 面对层出不穷的新兴科技，投资者如何识别潜力股而避开泡沫？Gartner技术成熟度曲线（Gartner Hype Cycle）为投资者提供了指引。由全球知名研究咨询公司Gartner发布，该曲线追踪新兴科技的发展轨迹，并预测其步入主流市场的时间节点。正如贝勒大学商学院信息系统系教授蒂莫西·凯沃斯所言，“教科书和杂志提供的是昨日的信息，而Gartner提供的是前瞻性的洞察。”
 
