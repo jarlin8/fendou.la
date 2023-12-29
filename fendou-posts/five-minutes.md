@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "smartbook"
+        - smartbook
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 > 当一个人受到指责时，受委屈的更多处于攻势，而心里有愧的，更多的时候处于守势。通过询问判断一个人是否心虚：谈论一个话题不带任何指责语气开始观察这个人是否坦然自若对话题是否感兴趣？
