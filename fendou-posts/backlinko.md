@@ -1,13 +1,13 @@
 ---
-title: "Backlinko 的 7 种经典文案样式"
-post_status: "publish"
-skip_file: "no"
+title: Backlinko 的 7 种经典文案样式
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - log
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 这是什么奇葩操作呀？
 
