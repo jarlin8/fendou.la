@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "log"
+        - log
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 这是什么奇葩操作呀？
