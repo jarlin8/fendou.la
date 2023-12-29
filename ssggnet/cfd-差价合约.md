@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团的账户怎么做指数差价合约，费用如何收取？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团的账户怎么做指数差价合约，费用如何收取？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: ""
+post_excerpt: 
 ---
 中国内地的客户开的嘉盛集团的外汇账户杠杆默认是200倍，有需求的可以打电话给[嘉盛的客服](http://www.ssgg.net/forex-customer-service.html)最高可以调到400倍，所以用来指数和差价合约是足够的。
 
