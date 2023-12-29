@@ -1,13 +1,13 @@
 ---
-title: "2024 年美国经济能否再创奇迹？"
-post_status: "publish"
-skip_file: "no"
+title: 2024 年美国经济能否再创奇迹？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - toutiao
   post_tag:
         - 投资
-post_excerpt: ""
+post_excerpt: 
 ---
 在经历了2023年的经济意外之后，经济学家们对2024年采取了更加谨慎的态度。普遍预测经济增长将放缓，甚至可能出现温和的衰退，利率和通货膨胀率也会下降。也有一些人持更为乐观的态度，认为经济可能会比预期更强劲，或者利率会提早降息并降幅更大。
 
