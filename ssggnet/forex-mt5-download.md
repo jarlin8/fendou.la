@@ -12,7 +12,7 @@ post_excerpt: ""
 ---
 | 嘉盛MT4平台 | 嘉盛MT5平台 |
 | :--- | :--- |
-| [嘉盛](https://application.denglupingtai.com/cn-meta/step/1?ibcode=JIAWMT) [MT4](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk) **开户** | [嘉盛MT5开户](https://application.denglupingtai.com/cn-mt5-partner/step/1?ibcode=JIAWMT5) |
+| **嘉盛MT4开户** | [嘉盛MT5开户](https://application.denglupingtai.com/cn-mt5-partner/step/1?ibcode=JIAWMT5) |
 | [电脑MT4下载](https://download.mql5.com/cdn/web/8536/mt4/forexcomglobalcn4setup.exe) | [电脑MT5下载](https://download.mql5.com/cdn/web/13702/mt5/forexcomglobalcn5setup.exe) |
 | [苹果MT4下载](https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8) | [苹果MT5下载](https://itunes.apple.com/cn/app/metatrader-5-forex-stocks/id413251709) |
 | [安卓MT4下载](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk) | [安卓MT5下载](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/metatrader5.apk) |
