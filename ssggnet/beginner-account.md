@@ -1,13 +1,13 @@
 ---
-title: "初学者选嘉盛集团的哪个账户比较好？"
-post_status: "publish"
-skip_file: "no"
+title: 初学者选嘉盛集团的哪个账户比较好？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇交易
-post_excerpt: ""
+post_excerpt: 
 ---
 作为一个刚开始接触交易的小白来说，肯定是从最基础的模拟账户，然后再是入金门槛最低的小资金账户开始。作为一个刚踏入这个行业的新人，在各种交易规则以及软件熟悉方面需要花到很多时间，咱一开始不可能说拿大量真金白银来做。
 
