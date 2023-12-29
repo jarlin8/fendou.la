@@ -1,14 +1,14 @@
 ---
-title: "商品房公摊面积的 3 笔糊涂账找谁结?"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
+    title: "商品房公摊面积的 3 笔糊涂账找谁结?"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
         - project
-  post_tag: 
+      post_tag:
         - 投资
-post_excerpt: ""
----
+    post_excerpt: ""
+    ---
 天下购房者苦“公摊面积”久矣！
 
 明明自己购买的是 100㎡ 的房子，但是到手的实用面积却只有 80㎡ 左右。按照 3 万/㎡ 的单价来算，购房者相当于有 60 万元的房款是用来购买了公摊面积，而之后还要根据公摊面积的大小来缴纳物业费、暖气费等等。
