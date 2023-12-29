@@ -7,11 +7,11 @@ taxonomy:
         - smartbook
   post_tag:
         - 投资
-post_excerpt: "仅仅是个样式而已"
+post_excerpt: ""
 ---
 WordPress 多站点是指安装一个程序，就可以用来建立管理多个站点，属于自带功能。
 
-```plain text
+```php
 // 开启前 缓存插件 比如wp-rocket、redis对象存储等最好先停用
 // 开启功能 配置文件wp-config.php里面加入一行代码
 // /* That’s all, stop editing! Happy blogging. */上面
@@ -84,7 +84,7 @@ define('WP_ALLOW_MULTISITE', true);
 
 要在 Nginx 中阻止单个 IP（IPV4 或 IPV6）地址，请使用如下`deny`指令：
 
-```plain text
+```php
 deny 190.60.78.31;
 deny 4b73:8cd3:6f7b:8ddc:d2f9:31ca:b6b1:834e;
 ```
@@ -99,7 +99,7 @@ deny 4b73:8cd3:6f7b:8ddc:d2f9:31ca:b6b1:834e;
 
 如果要阻止对特定目录的访问（ed domain.com/secret-directory/），可以使用下面的 Nginx 指令：
 
-```plain text
+```php
 location /secret-directory/ {
 <strong>deny</strong> 192.168.0.0/24;</p>
 }
@@ -107,7 +107,7 @@ location /secret-directory/ {
 
 `deny`指令接受`all`一个值。这对于您想要阻止所有 IP 地址访问您的站点的情况很有用。`deny all;`指令通常与`allow` – 一起使用- 这使您可以允许特定的 IP 地址同时阻止其他所有内容。
 
-```plain text
+```php
 location /secret-directory/ {
 allow 192.168.0.0/16;
 deny all;
