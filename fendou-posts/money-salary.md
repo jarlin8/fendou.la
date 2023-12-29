@@ -1,14 +1,14 @@
 ---
-title: "刚工作不久，收入不高如何进一步提升自己？"
-post_status: "publish"
-skip_file: "no"
+title: 刚工作不久，收入不高如何进一步提升自己？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - project
   post_tag:
         - 阅读
         - 投资
-post_excerpt: ""
+post_excerpt: 
 ---
 ① 增加对身体的投资，让身体始终好用，
 
