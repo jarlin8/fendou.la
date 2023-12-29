@@ -1,14 +1,14 @@
 ---
-title: "【TED 演讲】贫穷的本质—如何逃离贫困陷阱"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
+    title: "【TED 演讲】贫穷的本质—如何逃离贫困陷阱"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
         - log
-  post_tag: 
-    
-post_excerpt: ""
----
+      post_tag:
+        - none
+    post_excerpt: ""
+    ---
 `贫困往往会降低人的智商和判断力。这不是因为穷人有缺陷,而是因为长期生活在匮乏状态中。解决贫困的方法之一就是无条件提供基本收入,保证所有人的基本生活需要。这不仅能消除贫困,还能释放人的潜力。实施基本收入也意味着重新思考“工作”的意义。`
 
 让我们从一个简单的问题开始： 为什么穷人总是做出不好的决策？ 我知道这是一个残酷的问题， 但是让我们看看数据。 穷人借钱越多，积蓄越少， 抽烟越多，锻炼越少，喝酒越多， 饮食越不健康。 为什么呢？
