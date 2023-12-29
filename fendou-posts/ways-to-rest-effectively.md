@@ -1,14 +1,14 @@
 ---
-    title: "多站点 WPMU 注意事项/屏蔽 IP 方法"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "多站点 WPMU 注意事项/屏蔽 IP 方法"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - smartbook
-      post_tag:
+  post_tag:
         - 投资
-    post_excerpt: "仅仅是个样式而已"
-    ---
+post_excerpt: "仅仅是个样式而已"
+---
 WordPress 多站点是指安装一个程序，就可以用来建立管理多个站点，属于自带功能。
 
 ```plain text
