@@ -1,13 +1,13 @@
 ---
-title: "如何在家里做到高效学习?"
-post_status: "publish"
-skip_file: "no"
+title: 如何在家里做到高效学习?
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - log
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 自主学习的动力，一般来源于两种：
 
