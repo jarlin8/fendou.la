@@ -1,14 +1,14 @@
 ---
-    title: "相关关键词建站文案模板"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "相关关键词建站文案模板"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - project
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 ## 列表文章 classic-list-post
 
 ![Image](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1618889378057-classic-list-post.png)
