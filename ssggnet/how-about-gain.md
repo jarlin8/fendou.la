@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团外汇平台怎么样？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团外汇平台怎么样？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: ""
+post_excerpt: 
 ---
 嘉盛外汇的财力雄厚，已经在美国纽约上市，这种已经上市的公司一般透明度是比较高的。嘉盛外汇属于比较正规的外汇券商平台，在国内开展业务也有十多年了，没有出过资金异常的情况。 但是，如果是做嘉盛外汇的IB代理就算了，从2017年12月中旬开始，嘉盛就取消了IB代理的返佣模式，只做零售业务。
 
