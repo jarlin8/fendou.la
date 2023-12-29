@@ -1,13 +1,13 @@
 ---
-title: "一篇博客文章最佳的 SEO 状态应该是这样的！"
-post_status: "publish"
-skip_file: "no"
+title: 一篇博客文章最佳的 SEO 状态应该是这样的！
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 文章标题的写法
 
