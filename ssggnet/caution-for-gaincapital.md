@@ -1,13 +1,13 @@
 ---
-title: "用嘉盛集团外汇账户做交易有什么需要注意的？"
-post_status: "publish"
-skip_file: "no"
+title: 用嘉盛集团外汇账户做交易有什么需要注意的？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇交易
-post_excerpt: ""
+post_excerpt: 
 ---
 用嘉盛集团的外汇账户做交易，首先这个选择是非常可靠的。
 
