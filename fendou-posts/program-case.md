@@ -1,7 +1,7 @@
 ---
-title: "PHP&Linux 服务器配置基本笔记"
-post_status: "publish"
-skip_file: "no"
+title: PHP&Linux 服务器配置基本笔记
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - project
@@ -9,7 +9,7 @@ taxonomy:
         - code
         - php
         - redis
-post_excerpt: ""
+post_excerpt: 
 ---
 ## PHP 安装 Redis 扩展
 
