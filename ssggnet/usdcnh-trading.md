@@ -1,13 +1,13 @@
 ---
-title: "人民币汇率持续升值,这几个平台可以交易USDCNH"
-post_status: "publish"
-skip_file: "no"
+title: 人民币汇率持续升值,这几个平台可以交易USDCNH
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 从2021年4月1日到2021年6月1日,人民币对美元汇率罕见持续大涨，中间价位一度突破了6.3，汇率大涨超过2000点。通俗点说就是4月1号你手里有1万美金可以换到65,800元人民币，但是6月1号到现在只能换到63,000人民币了，损失超过2000块。
 
