@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团账户下单与交易执行过程及注意事项"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团账户下单与交易执行过程及注意事项
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: ""
+post_excerpt: 
 ---
 下单与交易执行是我们判断一个平台交易环境好坏非常重要的参考，一个交易命令不管多么高明，最终只有顺利执行了，才会有结果。纵然你是诸葛神算，心中谋划100%成事，扔到蜀汉这个大环境下，也一样无力回天。
 
