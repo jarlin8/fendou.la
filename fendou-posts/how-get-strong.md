@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 ## 低谷期最重要的四件事情
