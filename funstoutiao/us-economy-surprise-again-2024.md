@@ -11,7 +11,7 @@ post_excerpt: ""
 ---
 在经历了2023年的经济意外之后，经济学家们对2024年采取了更加谨慎的态度。普遍预测经济增长将放缓，甚至可能出现温和的衰退，利率和通货膨胀率也会下降。也有一些人持更为乐观的态度，认为经济可能会比预期更强劲，或者利率会提早降息并降幅更大。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/2feac5da-a006-40c5-8b94-c23d8b54365f/20231222edjwc-a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231229T132347Z&X-Amz-Expires=3600&X-Amz-Signature=433b5702cea2b58073a1ef1d3f21a3d11ef6a96fc9339810da654f7ddd5fe357&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/2feac5da-a006-40c5-8b94-c23d8b54365f/20231222edjwc-a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231229T134206Z&X-Amz-Expires=3600&X-Amz-Signature=9bc3f73d971e0d9b09f083324faef98d8f8c82302d06cbe3f46158192db5ea7c&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 ## 美联储政策转向和通胀放缓
 
