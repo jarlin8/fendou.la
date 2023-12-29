@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 ## 当一件事只能让你产生短期快感，建议少做
