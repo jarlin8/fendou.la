@@ -1,13 +1,13 @@
 ---
-title: "How-to 和 FAQ 形式的营销内容如何创作？"
-post_status: "publish"
-skip_file: "no"
+title: How-to 和 FAQ 形式的营销内容如何创作？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 ## 什么是 HowTo Schema？
 
