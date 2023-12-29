@@ -1,15 +1,15 @@
 ---
-title: "Git it write 支持的 yaml 格式和使用说明"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
-    
-  post_tag: 
+    title: "Git it write 支持的 yaml 格式和使用说明"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
+        - none
+      post_tag:
         - code
     - yaml
-post_excerpt: ""
----
+    post_excerpt: ""
+    ---
 ## Git it write 支持的 yaml 字段
 
 * `title`– 帖子标题
