@@ -1,14 +1,14 @@
 ---
-    title: "最会赚钱的人给我的 20 个启发！坚持比什么都重要！"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "最会赚钱的人给我的 20 个启发！坚持比什么都重要！"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - project
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 01、商业的逻辑是简单的，不要想得太复杂了，五花八门的技巧容易把自己绕进去了。
 
 销售额=流量 × 转化率 × 客单价 × 购买次数，这就是万能的赚钱公式，一切动作要考虑是否围绕这四个要素来做，如果没做，那可能你做的是无用功。
