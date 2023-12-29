@@ -1,13 +1,13 @@
 ---
-title: "6 个简单的步骤快速创建内容营销策略"
-post_status: "publish"
-skip_file: "no"
+title: 6 个简单的步骤快速创建内容营销策略
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 如何开始内容营销？
 
