@@ -1,13 +1,13 @@
 ---
-title: "相关关键词建站文案模板"
-post_status: "publish"
-skip_file: "no"
+title: 相关关键词建站文案模板
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - project
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 ## 列表文章 classic-list-post
 
