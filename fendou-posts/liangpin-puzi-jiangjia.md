@@ -1,13 +1,13 @@
 ---
-title: "良品铺子将实施 17 年来最大规模降价的一些思考"
-post_status: "publish"
-skip_file: "no"
+title: 良品铺子将实施 17 年来最大规模降价的一些思考
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - everyday
   post_tag:
 
-post_excerpt: ""
+post_excerpt: 
 ---
 ![Image](https://images.unsplash.com/photo-1578342450849-092ea922d569?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
