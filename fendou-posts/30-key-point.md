@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "everyday"
+        - everyday
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 01.【目标】你到底想做什么？如何用数字来表达你的目标？ （如读 100 本书的 100.赚 50 万的 50 万.涨粉 10 万的 10 万，都是明确的数字）
