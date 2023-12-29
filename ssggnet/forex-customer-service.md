@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团中文客服联系方式"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团中文客服联系方式
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: ""
+post_excerpt: 
 ---
 很多有过外汇交易经验（尤其是被外汇黑平台骗过）的客户，在选择交易平台的时候，最重要的一条就是看平台的资金安全性。
 
