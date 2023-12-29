@@ -1,13 +1,13 @@
 ---
-title: "为什么这么多人做外汇时，会选择嘉盛集团？"
-post_status: "publish"
-skip_file: "no"
+title: 为什么这么多人做外汇时，会选择嘉盛集团？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: ""
+post_excerpt: 
 ---
 做外汇同样是投资理财的一种方式，回想一下咱们做投资理财最看重的是什么，首先就是投的项目或者标的一定要合法，系统性风险一定要小。
 
