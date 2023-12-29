@@ -1,13 +1,13 @@
 ---
-title: "用嘉盛集团开户炒外汇合法吗？"
-post_status: "publish"
-skip_file: "no"
+title: 用嘉盛集团开户炒外汇合法吗？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: ""
+post_excerpt: 
 ---
 炒外汇是众多投资理财方式中的一种，跟国内炒股票，买基金，买房理财等渠道不同的是，炒外汇这个渠道，在国内的知名度或者普及度没有那么高，很多人仍然停留在去银行购买先抄，然后等一段时间换成另外一种货币赚差价的阶段。
 
