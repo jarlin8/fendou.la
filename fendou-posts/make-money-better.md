@@ -1,14 +1,14 @@
 ---
-    title: "Content Egg Pro 自助配置文档"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "Content Egg Pro 自助配置文档"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - everyday
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 ## Feed 模块
 
 * feed 是保存在自己服务器上
