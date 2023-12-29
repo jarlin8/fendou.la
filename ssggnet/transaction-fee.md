@@ -1,13 +1,13 @@
 ---
-title: "嘉盛集团交易的手续费是什么费用，怎么收取？"
-post_status: "publish"
-skip_file: "no"
+title: 嘉盛集团交易的手续费是什么费用，怎么收取？
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇黑平台
-post_excerpt: ""
+post_excerpt: 
 ---
 手续费是外汇经纪商平台向交易者收取的交易费用,部分经纪商平台取消了手续费。目前嘉盛集团只对股票差价合约交易收取佣金，可以根据客户的需求提供固定点差或者浮动点差服务。下面是嘉盛官网公布的部分产品的实时点差。
 
