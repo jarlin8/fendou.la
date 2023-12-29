@@ -1,13 +1,13 @@
 ---
-title: "商品房公摊面积的 3 笔糊涂账找谁结?"
-post_status: "publish"
-skip_file: "no"
+title: 商品房公摊面积的 3 笔糊涂账找谁结?
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - project
   post_tag:
         - 投资
-post_excerpt: ""
+post_excerpt: 
 ---
 天下购房者苦“公摊面积”久矣！
 
