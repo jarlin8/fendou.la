@@ -1,14 +1,14 @@
 ---
-    title: "How-to 和 FAQ 形式的营销内容如何创作？"
-    post_status: "publish"
-    skip_file: "no"
-    taxonomy:
-      category:
+title: "How-to 和 FAQ 形式的营销内容如何创作？"
+post_status: "publish"
+skip_file: "no"
+taxonomy:
+  category:
         - everyday
-      post_tag:
-        - none
-    post_excerpt: ""
-    ---
+  post_tag:
+
+post_excerpt: ""
+---
 ## 什么是 HowTo Schema？
 
 使用 HowTo Schema 向 Google（和其他搜索引擎）表明您的内容就是 HowTo 指南。
