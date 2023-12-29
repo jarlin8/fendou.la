@@ -1,13 +1,13 @@
 ---
-title: "Plus500嘉五百CFD差价合约交易平台"
-post_status: "publish"
-skip_file: "no"
+title: Plus500嘉五百CFD差价合约交易平台
+post_status: publish
+skip_file: no
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: ""
+post_excerpt: 
 ---
 CFD Service. Your capital is at risk.差价合约服务，请留意投资风险！
 
