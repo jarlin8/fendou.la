@@ -1,14 +1,14 @@
 ---
-title: "良品铺子将实施 17 年来最大规模降价的一些思考"
-post_status: "publish"
-skip_file: "no"
-taxonomy:
-  category: 
+    title: "良品铺子将实施 17 年来最大规模降价的一些思考"
+    post_status: "publish"
+    skip_file: "no"
+    taxonomy:
+      category:
         - everyday
-  post_tag: 
-    
-post_excerpt: ""
----
+      post_tag:
+        - none
+    post_excerpt: ""
+    ---
 ![Image](https://images.unsplash.com/photo-1578342450849-092ea922d569?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 1. 经济环境和消费趋势：当前的经济大环境不佳，消费者更倾向于降级消费，高溢价产品失去市场。拼多多等平台的成功和其他电商平台股价下跌也反映了这一趋势。
