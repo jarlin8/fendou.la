@@ -35,7 +35,7 @@ post_excerpt: ""
 | 开立真实账户 | [嘉盛专属平台开户](https://application.dengluzh.com/cn/step/1?ibcode=JIAW) | [MT4平台开户](https://application.dengluzh.com/cn-meta/step/1?ibcode=JIAWMT) | [MT5平台开户](https://application.dengluzh.com/cn-mt5-partner/step/1?ibcode=JIAWMT5) |
 | 交易软件下载 |   [嘉盛PC交易软件](https://download.efxnow.com/forex/pro/FOREX.comSetup.exe)    [嘉盛IOS软件](https://itunes.apple.com/cn/app/forex-com/id1300506717)   [嘉盛安卓软件](https://www.jsjt-global.com/zh-cn/~/media/forex/files/support/forexat.apk) |   [电脑版MT4软件](http://download.efxnow.com/mt/Global/CN/forexcomglobalcn4setup.exe)   [苹果版MT4软件](https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8)    [安卓版MT4软件](https://www.jsjt-global.com/zh-cn/~/media/forex/files/support/metatrader4-app.apk) |   [电脑版MT5软件](http://www.forexchinese.com/Downloads/MT5/forexcomglobalcn5setup.exe)   [苹果版MT5软件](https://itunes.apple.com/cn/app/metatrader-5-forex-stocks/id413251709)    [安卓版MT5软件](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/metatrader5.apk) |
 
-## 2022最靠谱3大经纪平台推荐
+## 最靠谱3大经纪平台推荐
 
 | 中文官网 | forex.com/cn | atfx.com | easymarkets.com |
 | :--- | :--- | :--- | :--- |
