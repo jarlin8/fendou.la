@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "log"
+        - log
   post_tag: 
-    - ""
+    
 post_excerpt: ""
 ---
 自主学习的动力，一般来源于两种：
