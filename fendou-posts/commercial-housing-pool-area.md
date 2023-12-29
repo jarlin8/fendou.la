@@ -4,9 +4,9 @@ post_status: "publish"
 skip_file: "no"
 taxonomy:
   category: 
-    - "project"
+        - project
   post_tag: 
-    - "投资"
+        - 投资
 post_excerpt: ""
 ---
 天下购房者苦“公摊面积”久矣！
