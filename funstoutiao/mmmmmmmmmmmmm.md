@@ -1,5 +1,5 @@
 ---
-title: nnnnmnnnnn
+title: testtttt
 post_status: publlish
 skip_file: no
 taxonomy:
@@ -9,8 +9,6 @@ taxonomy:
 
 post_excerpt: 
 ---
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 function push2GitHub(pages) {
 pages.forEach(page => {
 var githubApiUrl = "[https://api.github.com/repos/](https://api.github.com/repos/)" + repo + "/contents/" + path + encodeURIComponent(page.slug) + ".md" + "?ref=" + branch;
