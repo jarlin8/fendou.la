@@ -1,6 +1,6 @@
 ---
 title: testtttt
-post_status: publlish
+post_status: publish
 skip_file: no
 taxonomy:
   category:
