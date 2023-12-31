@@ -36,7 +36,7 @@ post_excerpt:
 
 ## 使用例子
 
-```plain text
+```yaml
 
 ---
 
@@ -63,6 +63,8 @@ custom_fields:
 
 * 全部放在`_images`目录下
 
+![Image](https://cdn.fendou.la/tuoss/what-is-yaml.png)
+
 > 图片可以正常插入 markdown 文件。所有图像都应存在于_images存储库根目录的文件夹中，而无需组织为文件夹。然后可以将它们用在比较像![alt text](/_images/pic4.jpg "This is pic4"). 文件夹中的所有图像_images都将上传到 WordPress 库，并且图像将在上传时自动链接到帖子。 这些图片只会上传一次，并且只要帖子更新或在另一篇帖子中使用相同的图片，它们就会被重复使用。
 
 ## 插入链接
@@ -75,7 +77,7 @@ custom_fields:
 
 目前已经实测支持 Gutenberg 编辑器,如果不能使用,可以使用下面代码禁用 Gutenberg
 
-```plain text
+```php
 //Wordpress 5.0+ 禁用 Gutenberg 编辑器
 add_filter('use_block_editor_for_post', '__return_false');
 remove_action( 'wp_enqueue_scripts', 'wp_common_block_scripts_and_styles' );
