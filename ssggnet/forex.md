@@ -1,1 +1,48 @@
-LS0tCnRpdGxlOiDlmInnm5vpm4blm6LlpJbmsYfkuqTmmJPlubPlj7BNVDQgTVQ16L2v5Lu25LiL6L29IOWYieebm+i0puaIt+WvueavlApwb3N0X3N0YXR1czogcHVibGlzaApza2lwX2ZpbGU6IG5vCnRheG9ub215OgogIGNhdGVnb3J5OgogICAgICAgIC0gZm9yZXgtY29tCiAgcG9zdF90YWc6CiAgICAgICAgLSDlmInnm5vlpJbmsYcKcG9zdF9leGNlcnB0OiAKLS0tCuWYieebm+mbhuWbouWkluaxh+S6pOaYk+W5s+WPsCBGT1JFWFRyYWRlcixb5ZiJ55ubTVQ05bmz5Y+w5byA5oi3XShodHRwczovL3dlLmxhb3dlaTguY29tL2dvL2ZvcmV4Y29tY2hpbmEpCgohW0ltYWdlXShodHRwczovL2Nkbi5mZW5kb3UubGEvdHVvc3MvZm9yZXhhZDAxLnBuZykKCnwg5YWs5Y+45ZCN56ewIHwg5omA5bGe5Zu95a62IHwg5oiQ56uL5pe26Ze0IHwg57uP6JCl5qih5byPIHwKfCA6LS0tIHwgOi0tLSB8IDotLS0gfCA6LS0tIHwKfCAqKkZPUkVY5ZiJ55ub6ZuG5ZuiKiogfCDoi7Hlm70v576O5Zu9L+a+s+Wkp+WIqeS6mi/mlrDliqDlnaEv5pel5pys562J5pyA5YWo55uR566hIHwgMTk5OeW5tCB8IE1hcmtldCBNYWtlcu+8iOWBmuW4guWVhu+8iSB8Cnwg5bmz5Y+w6L2v5Lu2IHwg55uR566h5L+h5oGvIHwg5pyA5L2O5YWl6YeRIHwg5Li76KaB54K55beuIHwKfCAqKkZPUkVYVHJhZGVy44CBKiogW01UNF0oaHR0cHM6Ly9kb3dubG9hZC5tcWw1LmNvbS9jZG4vd2ViL21ldGFxdW90ZXMuc29mdHdhcmUuY29ycC9tdDQvbWV0YXRyYWRlcjQuYXBrKSAqKuOAgeaJi+acuueJiCoqIHwgRkNBOjExMzk0MjsgTkZBOjAzMzk4MjY7IEFTSUM6MzQ1NjQ2IHwgKioyNTDnvo7lhYMqKiB8IOasp+e+jjEuNuW3puWPsyDpu4Tph5EzLjXlt6blj7MgfAp8IOeCueW3ruexu+WeiyB8IOacgOWwj+WktOWvuCB8IOWJpeWktOeariB8IOmUgeS7kyB8Cnwg5rWu5YqoIHwgMC4wMSB8IOS4jeWFgeiuuCB8IOaUr+aMgSDkuI3pnIDkv53or4Hph5EgfAp8IOWFpemHkeaWueW8jyB8IOS6pOaYk+WTgeenjSB8IOWHuumHkeS8mOaDoCB8IOeIhuS7k+avlOS+iyB8CnwgKirkv6HnlKjljaHjgIHnlLXmsYfnrYkqKiB8IOWkluaxh+OAgei0temHkeWxnuOAgUNGRCB8IOavj+asoeWHuumHkTI1LTQw576O5YWDIHwg5o6l6L+RMTAwJe+8iOWPr+eUqOi1hOmHkeS9juS6juS/neivgemHkeWNs+W8uuWItuW5s+S7k++8iSB8Cgp8IOWxnuaApyB8IOWYieebm+S4k+WxnuS6pOaYk+W5s+WPsCB8IOWYieebm01UNOW5s+WPsCB8IOWYieebm01UNeW5s+WPsCB8CnwgOi0tLSB8IDotLS0gfCA6LS0tIHwgOi0tLSB8Cnwg5Y+v5Lqk5piT55qE5biC5Zy65ZOB56eNIHwg6IKh56WoKOi2hei/hzQ1MDDnp40p44CB6IKh5oyH44CB546w6LSn6LS16YeR5bGe44CB6LSn5biB5a+5IHwg6IKh5oyH44CB546w6LSn6LS16YeR5bGe44CB6LSn5biB5a+5IHwgIOiCoeelqCjotoXov4c0MzDnp40p44CB6IKh5oyH44CB546w6LSn6LS16YeR5bGe44CB6LSn5biB5a+5IHwKfCDlrprku7cgfCDlm7rlrprkuI7mta7liqjngrnlt67vvIzlj5blhrPkuo7mgqjkuqTmmJPnmoTluILlnLogfCDlm7rlrprkuI7mta7liqjngrnlt67vvIzlj5blhrPkuo7mgqjkuqTmmJPnmoTluILlnLogfCDlm7rlrprkuI7mta7liqjngrnlt67vvIzlj5blhrPkuo7mgqjkuqTmmJPnmoTluILlnLogfAp8IOaJp+ihjOaooeW8jyB8IOeri+WNs+aJp+ihjOaIluaYr+W4guS7t+aJp+ihjCDlhYHorrjmgqjorqLliLblj6/lrrnlv43nmoTor6/lt67lgLwgfCDluILku7fmiafooYwgfCDluILku7fmiafooYwgfAp8IOaIkOS6pOS7t+S8mOWMluezu+e7nyB8IOWPr+S7pSB8IOWPr+S7pSB8IOWPr+S7pSB8Cnwg5pyA5bCP5oiQ5Lqk6YePIHwgMSwwMDAg5Y2V5L2NIHwgMSwwMDAg5Y2V5L2NIHwgMSwwMDAg5Y2V5L2NIHwKfCDlubPlj7DpgInmi6kgfCDmoYzpnaLlubPlj7DnvZHpobXniYjlubMgaVBob25lLCDlronljZMgfCDmoYzpnaLlubPlj7DnvZHpobXniYjlubMgaVBob25lLCDlronljZMgfCDmoYzpnaLlubPlj7DnvZHpobXniYjlubMgaVBob25lLCDlronljZMgfAp8IOS/neivgemHkeimgeaxgiB8IOWPluWGs+S6juS6pOaYk+eahOS6p+WTge+8jOWPr+mrmOi+viA0MDA6MSDlubPku5PmoIflh4bvvJrmiYDpnIDkv53or4Hph5HnmoQxMDAlIOmHh+eUqOmAkui/m+W8j+S/neivgemHkSB8IOWPluWGs+S6juS6pOaYk+eahOS6p+WTge+8jOWPr+mrmOi+viA0MDA6MSDlubPku5PmoIflh4bvvJrmiYDpnIDkv53or4Hph5HnmoQxMDAlIHwg5Y+W5Yaz5LqO5Lqk5piT55qE5Lqn5ZOB77yM5Y+v6auY6L6+IDQwMDoxIOW5s+S7k+agh+WHhu+8muaJgOmcgOS/neivgemHkeeahDEwMCUgfAp8IOW8gOeri+ecn+Wunui0puaItyB8IFvlmInnm5vkuJPlsZ7lubPlj7DlvIDmiLddKGh0dHBzOi8vYXBwbGljYXRpb24uZGVuZ2x1emguY29tL2NuL3N0ZXAvMT9pYmNvZGU9SklBVykgfCBbTVQ05bmz5Y+w5byA5oi3XShodHRwczovL2FwcGxpY2F0aW9uLmRlbmdsdXpoLmNvbS9jbi1tZXRhL3N0ZXAvMT9pYmNvZGU9SklBV01UKSB8IFtNVDXlubPlj7DlvIDmiLddKGh0dHBzOi8vYXBwbGljYXRpb24uZGVuZ2x1emguY29tL2NuLW10NS1wYXJ0bmVyL3N0ZXAvMT9pYmNvZGU9SklBV01UNSkgfAp8IOS6pOaYk+i9r+S7tuS4i+i9vSB8ICAgW+WYieebm1BD5Lqk5piT6L2v5Lu2XShodHRwczovL2Rvd25sb2FkLmVmeG5vdy5jb20vZm9yZXgvcHJvL0ZPUkVYLmNvbVNldHVwLmV4ZSkgICAgW+WYieebm0lPU+i9r+S7tl0oaHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL2NuL2FwcC9mb3JleC1jb20vaWQxMzAwNTA2NzE3KSAgIFvlmInnm5vlronljZPova/ku7ZdKGh0dHBzOi8vd3d3LmpzanQtZ2xvYmFsLmNvbS96aC1jbi9+L21lZGlhL2ZvcmV4L2ZpbGVzL3N1cHBvcnQvZm9yZXhhdC5hcGspIHwgICBb55S16ISR54mITVQ06L2v5Lu2XShodHRwOi8vZG93bmxvYWQuZWZ4bm93LmNvbS9tdC9HbG9iYWwvQ04vZm9yZXhjb21nbG9iYWxjbjRzZXR1cC5leGUpICAgW+iLueaenOeJiE1UNOi9r+S7tl0oaHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL2NuL2FwcC9tZXRhdHJhZGVyLTQvaWQ0OTYyMTI1OTY/bXQ9OCkgICAgW+WuieWNk+eJiE1UNOi9r+S7tl0oaHR0cHM6Ly93d3cuanNqdC1nbG9iYWwuY29tL3poLWNuL34vbWVkaWEvZm9yZXgvZmlsZXMvc3VwcG9ydC9tZXRhdHJhZGVyNC1hcHAuYXBrKSB8ICAgW+eUteiEkeeJiE1UNei9r+S7tl0oaHR0cDovL3d3dy5mb3JleGNoaW5lc2UuY29tL0Rvd25sb2Fkcy9NVDUvZm9yZXhjb21nbG9iYWxjbjVzZXR1cC5leGUpICAgW+iLueaenOeJiE1UNei9r+S7tl0oaHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL2NuL2FwcC9tZXRhdHJhZGVyLTUtZm9yZXgtc3RvY2tzL2lkNDEzMjUxNzA5KSAgICBb5a6J5Y2T54mITVQ16L2v5Lu2XShodHRwczovL2Rvd25sb2FkLm1xbDUuY29tL2Nkbi93ZWIvbWV0YXF1b3Rlcy5zb2Z0d2FyZS5jb3JwL210NS9tZXRhdHJhZGVyNS5hcGspIHwKCiMjIOacgOmdoOiwsTPlpKfnu4/nuqrlubPlj7DmjqjojZAKCnwg5Lit5paH5a6Y572RIHwgZm9yZXguY29tL2NuIHwgYXRmeC5jb20gfCBlYXN5bWFya2V0cy5jb20gfAp8IDotLS0gfCA6LS0tIHwgOi0tLSB8IDotLS0gfAp8IOWFqOeQg+WumOe9kSB8IFtmb3JleC5jb21dKGh0dHBzOi8vd3d3LnNzZ2cubmV0L2dvL2ZvcmV4Y29tLykgfCBbYXRmeC5jb21dKGh0dHBzOi8vd3d3LnNzZ2cubmV0L2dvL2F0ZngtY24vKSB8IFtlYXN5bWFya2V0cy5jb21dKGh0dHBzOi8vd3d3LnNzZ2cubmV0L2dvL2Vhc3ltYXJrZXQvKSB8Cnwg5oiQ56uL5pe26Ze0IHwgMTk5OSB8IDIwMTUgfCAyMDAxIHwKfCDmnIDkvY7lhaXph5EgfCAxMDDnvo7ph5EgfCA3MDDnvo7ph5EgfCAyNee+jumHkSB8Cnwg5YWl6YeR5rig6YGTIHwg6ZO26IGUL+S/oeeUqOWNoSB8IOmTtuiBlC/kv6HnlKjljaEgfCDpk7bogZQv5L+h55So5Y2hIHwKfCDkuqTmmJPova/ku7YgfCBbTVQ0XShodHRwczovL2Rvd25sb2FkLm1xbDUuY29tL2Nkbi93ZWIvbWV0YXF1b3Rlcy5zb2Z0d2FyZS5jb3JwL210NC9tZXRhdHJhZGVyNC5hcGspIC9NVDUgfCBNVDQgfCBNVDQv572R6aG154mIIHwKfCDmnaDmnYblgI3mlbAgfCA0MDDlgI0gfCA0MDDlgI0gfCA0MDDlgI0gfAp8IOS6pOaYk+WTgeenjSB8IOWkluaxhy/otLXph5HlsZ4vQ0ZEIHwg5aSW5rGHL+i0temHkeWxni/mjIfmlbAv6IKh56WoIHwg5aSW5rGHL+mHkeWxni/ljp/msrkv5pyf5p2DIHw=
+---
+title: 嘉盛集团外汇交易平台MT4 MT5软件下载 嘉盛账户对比
+post_status: publish
+skip_file: no
+taxonomy:
+  category:
+        - forex-com
+  post_tag:
+        - 嘉盛外汇
+post_excerpt: 
+---
+嘉盛集团外汇交易平台 FOREXTrader,[嘉盛MT4平台开户](https://we.laowei8.com/go/forexcomchina)
+
+![Image](https://cdn.fendou.la/tuoss/forexad01.png)
+
+| 公司名称 | 所属国家 | 成立时间 | 经营模式 |
+| :--- | :--- | :--- | :--- |
+| **FOREX嘉盛集团** | 英国/美国/澳大利亚/新加坡/日本等最全监管 | 1999年 | Market Maker（做市商） |
+| 平台软件 | 监管信息 | 最低入金 | 主要点差 |
+| **FOREXTrader、** [MT4](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk) **、手机版** | FCA:113942; NFA:0339826; ASIC:345646 | **250美元** | 欧美1.6左右 黄金3.5左右 |
+| 点差类型 | 最小头寸 | 剥头皮 | 锁仓 |
+| 浮动 | 0.01 | 不允许 | 支持 不需保证金 |
+| 入金方式 | 交易品种 | 出金优惠 | 爆仓比例 |
+| **信用卡、电汇等** | 外汇、贵金属、CFD | 每次出金25-40美元 | 接近100%（可用资金低于保证金即强制平仓） |
+
+| 属性 | 嘉盛专属交易平台 | 嘉盛MT4平台 | 嘉盛MT5平台 |
+| :--- | :--- | :--- | :--- |
+| 可交易的市场品种 | 股票(超过4500种)、股指、现货贵金属、货币对 | 股指、现货贵金属、货币对 |  股票(超过430种)、股指、现货贵金属、货币对 |
+| 定价 | 固定与浮动点差，取决于您交易的市场 | 固定与浮动点差，取决于您交易的市场 | 固定与浮动点差，取决于您交易的市场 |
+| 执行模式 | 立即执行或是市价执行 允许您订制可容忍的误差值 | 市价执行 | 市价执行 |
+| 成交价优化系统 | 可以 | 可以 | 可以 |
+| 最小成交量 | 1,000 单位 | 1,000 单位 | 1,000 单位 |
+| 平台选择 | 桌面平台网页版平 iPhone, 安卓 | 桌面平台网页版平 iPhone, 安卓 | 桌面平台网页版平 iPhone, 安卓 |
+| 保证金要求 | 取决于交易的产品，可高达 400:1 平仓标准：所需保证金的100% 采用递进式保证金 | 取决于交易的产品，可高达 400:1 平仓标准：所需保证金的100% | 取决于交易的产品，可高达 400:1 平仓标准：所需保证金的100% |
+| 开立真实账户 | [嘉盛专属平台开户](https://application.dengluzh.com/cn/step/1?ibcode=JIAW) | [MT4平台开户](https://application.dengluzh.com/cn-meta/step/1?ibcode=JIAWMT) | [MT5平台开户](https://application.dengluzh.com/cn-mt5-partner/step/1?ibcode=JIAWMT5) |
+| 交易软件下载 |   [嘉盛PC交易软件](https://download.efxnow.com/forex/pro/FOREX.comSetup.exe)    [嘉盛IOS软件](https://itunes.apple.com/cn/app/forex-com/id1300506717)   [嘉盛安卓软件](https://www.jsjt-global.com/zh-cn/~/media/forex/files/support/forexat.apk) |   [电脑版MT4软件](http://download.efxnow.com/mt/Global/CN/forexcomglobalcn4setup.exe)   [苹果版MT4软件](https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8)    [安卓版MT4软件](https://www.jsjt-global.com/zh-cn/~/media/forex/files/support/metatrader4-app.apk) |   [电脑版MT5软件](http://www.forexchinese.com/Downloads/MT5/forexcomglobalcn5setup.exe)   [苹果版MT5软件](https://itunes.apple.com/cn/app/metatrader-5-forex-stocks/id413251709)    [安卓版MT5软件](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/metatrader5.apk) |
+
+## 最靠谱3大经纪平台推荐
+
+| 中文官网 | forex.com/cn | atfx.com | easymarkets.com |
+| :--- | :--- | :--- | :--- |
+| 全球官网 | [forex.com](https://www.ssgg.net/go/forexcom/) | [atfx.com](https://www.ssgg.net/go/atfx-cn/) | [easymarkets.com](https://www.ssgg.net/go/easymarket/) |
+| 成立时间 | 1999 | 2015 | 2001 |
+| 最低入金 | 100美金 | 700美金 | 25美金 |
+| 入金渠道 | 银联/信用卡 | 银联/信用卡 | 银联/信用卡 |
+| 交易软件 | [MT4](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/metatrader4.apk) /MT5 | MT4 | MT4/网页版 |
+| 杠杆倍数 | 400倍 | 400倍 | 400倍 |
+| 交易品种 | 外汇/贵金属/CFD | 外汇/贵金属/指数/股票 | 外汇/金属/原油/期权 |
