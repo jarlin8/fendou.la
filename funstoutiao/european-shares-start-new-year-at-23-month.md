@@ -32,6 +32,8 @@ Pantheon Macroeconomics的分析师表示：“2024年初所有人的目光都�
 
 在主要板块中，欧元区银行股跃升至2018年5月以来的最高水平，意大利的Monte dei Paschi、西班牙的Sabadell和BBVA分别上涨2%-3.7%。
 
+![Image](https://images.unsplash.com/photo-1603063047445-e32f1302d8e1?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
 能源股也上涨了1%，追踪油价走高。
 
 航运公司马士基、赫伯罗特和Frontline上涨2%-4.4%，原因是红海船只遇袭事件持续，投资者希望运费上涨。
