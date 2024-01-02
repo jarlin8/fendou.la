@@ -25,7 +25,7 @@ post_excerpt:
 
 ## 差价合约交易有什么成本？
 
-嘉盛集团是通过点差进行获利，即买入、卖出价的价差。[查看实时点差报价](https://www.jiashengjituan.com/cn/why-us/value-and-reliability/)。
+嘉盛集团是通过点差进行获利，即买入、卖出价的价差。[查看实时点差报价](https://www.jiashengjituan.com/cn/why-us/value-and-reliability/)**。**
 
 另外，如果您在美东时间下午5点后持仓隔夜，可能会被收取隔夜利息。
 

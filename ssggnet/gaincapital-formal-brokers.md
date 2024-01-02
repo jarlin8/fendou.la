@@ -9,7 +9,7 @@ taxonomy:
         - MT4
 post_excerpt: 
 ---
-嘉盛集团是GAIN Capital的子公司，GAIN Capital是一家总部位于美国的在线交易服务提供商，总部位于新泽西州的贝德明斯特， 嘉盛集团是正规的外汇交易平台。
+嘉盛集团是GAIN Capital的子公司，GAIN Capital是一家总部位于美国的在线交易服务提供商，总部位于新泽西州的贝德明斯特， **嘉盛集团是正规的外汇交易平台。**
 
 该公司为零售和机构投资者提供外汇、差价合约（CFDs）和交易所产品的市场准入和交易执行服务。交易通过两个电子交易平台中的一个提供，即自己专有的FOREXTrader PRO或MetaTrader 4。GAIN Capital允许零售和机构客户在全球外汇市场上进行所谓的 “保证金外汇交易”。
 
@@ -17,7 +17,7 @@ GAIN Capital经营零售外汇和差价合约交易品牌FOREX.com和City Index�
 
 ![Image](https://cdn.fendou.la/tuoss/Gain-capital-logo.png)
 
-GAIN Capital Holdings, Inc.
+**GAIN Capital Holdings, Inc.**
 
 ## GAIN Capital的历史沿革
 
@@ -73,9 +73,9 @@ Forex.com(也就是我们常说的嘉盛集团)是Gain Capital最大的零售外
 
 ### [嘉盛集团](https://www.ssgg.net/go/forexcom/)的中文客服联系方式？
 
-免费中文电话: 400-8428138[电邮: cn.support@forex.com](mailto:%E7%94%B5%E9%82%AE:%20cn.support@forex.com)
+免费中文电话: **400-8428138**[电邮: cn.support@forex.com](mailto:%E7%94%B5%E9%82%AE:%20cn.support@forex.com)
 
 ### [嘉盛集团](https://www.ssgg.net/go/forexcom/)的中文客服服务时间？
 
-嘉盛的中文客服团队从北京时间周一早上5点至周六早上5点期间提供24小时的服务。
+**嘉盛的中文客服团队**从北京时间**周一早上5点至周六早上5点期间**提供24小时的服务。
 中文客服时间：北京时间周一早上5点至周六早上5点

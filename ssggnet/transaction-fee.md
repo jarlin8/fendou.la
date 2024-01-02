@@ -17,7 +17,7 @@ post_excerpt:
 
 [content-egg module=Offer template=list products=“o3lwiatnkx” post_id=49]
 
-在嘉盛做交易，还可能会产生的费用（手续费）：
+**在嘉盛做交易，还可能会产生的费用（手续费）：**
 
 * 融资费用-隔夜费
 
