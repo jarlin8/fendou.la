@@ -1,15 +1,16 @@
 ---
 title: "FXPRIMUS外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXPRIMUS成立于2009年，是一家在线交易经纪商，重点关注客户安全和教育，同时利用新技术继续尝试并改善其对交易者的服务。
 
 ## FXPRIMUS测评
+
 - 客户资金隔离
 - 负余额保护
 - 免佣金账户
@@ -20,7 +21,6 @@ FXPRIMUS成立于2009年，是一家在线交易经纪商，重点关注客户�
 - 限制欧盟客户的杠杆
 - 最佳交易条件需要VIP帐户
 - 无固定利差账户
-
 
 ## 经纪商简介
 

@@ -1,13 +1,14 @@
 ---
 title: "Coincheck外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Coincheck是一家总部位于日本的加密货币交易所，为交易者提供了自己内部开发的交易平台，用于交换多种加密货币，例如比特币，以太坊，以太坊经典，莱特币，比特币经典等。
+
 - 专有的移动交易平台
 - 精选教育资源
 - 支持法定货币
@@ -17,7 +18,6 @@ Coincheck是一家总部位于日本的加密货币交易所，为交易者提�
 - 无MetaTrader或cTrader交易平台
 - 无联系电话
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -43,11 +43,15 @@ Coincheck允许来自世界各地的交易者在其居住国允许与国际交�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 交易所为交易者提供有用的交易工具，例如TradeView图表和API，以确保交易顺利进行。
 
 ![Tradeview图表](https://cdn.fendou.la/funstoutiao/2020/10/Coincheck-Review-Tradeview-Charts.jpg "Tradeview图表")
+
+Tradeview图表
 
 Tradeview图表
 
@@ -72,6 +76,7 @@ Coincheck提供了一个客户支持团队，可以通过实时聊天和社交�
 ## 存款和取款
 
 交易者可以使用以下任何一种付款方式在他们的交易账户中存入和提取资金：
+
 - 银行电汇
 - 信用卡/借记卡
 - 比特币
@@ -81,6 +86,8 @@ Coincheck提供了一个客户支持团队，可以通过实时聊天和社交�
 要开设一个帐户，请在Coincheck网站上单击“创建帐户”按钮，然后填写您的电子邮件和密码。 或者，您可以使用您的Facebook或Apple帐户在经纪商处创建一个帐户。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/10/Coincheck-Review-Account-Opening-Page-555x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

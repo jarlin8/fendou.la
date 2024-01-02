@@ -1,12 +1,12 @@
 ---
 title: "外汇汇率可作哪几种分类?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "forex-abc"
+  category:
+        - "forexbook"
+  post_tag:
+        - "forex-abc"
 ---
 
 9. 外汇汇率可作哪几种分类?
@@ -64,4 +64,3 @@ taxonomy:
 (2) 收盘汇率(Closing Rate): 即外汇市场结束营业时所使用的汇率，它直接影响下一个营业日的开盘汇率。
 
 实际上，尽管汇率可从不同角度进行多种分类，但它们并不互相排斥;相反，各种汇率可以是重叠的，相互兼容的。例如，某一个汇率，它既是买入汇率，又可以是即期汇率、电汇汇率、交易汇率、市场汇率和收盘汇率等，关键在于站在什么角度来看这项外汇交易。
-

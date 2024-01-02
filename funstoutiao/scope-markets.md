@@ -1,15 +1,16 @@
 ---
 title: "Scope Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Scope Markets是一家受监管的交易经纪商，它通过功能强大且功能强大的台式机，Web和移动设备的MetaTrader 5（MT5）平台，为欧盟客户提供在线外汇和CFD交易。尽管经纪商拥有各种各样的交易工具和各种账户类型，但资金选择有限，并且某些价差会加价。
 
 ## ScopeMarkets测评
+
 - 合规经纪商
 - 强大的MetaTrader 5平台
 - 交易工具范围
@@ -21,7 +22,6 @@ Scope Markets是一家受监管的交易经纪商，它通过功能强大且功�
 - 最低余额$200
 - 在某些帐户上传播加价
 - 仅限欧盟客户
-
 
 ## 经纪商简介
 
@@ -64,6 +64,7 @@ Scope Markets欧盟为欧洲经济区（EEA）的零售交易者提供交易服�
 MetaTrader 5是领先的多资产平台，旨在通过增强的技术分析工具，自动交易系统和更高级的功能来提供下一代交易体验。MT5是一个多合一的交易平台，吸引了对外汇，股票和差价合约交易感兴趣的所有经验水平的客户。Scope Markets提供MetaTrader 5桌面，Web和移动平台。
 
 MT5平台的一些关键功能包括：
+
 - 完全可定制和用户友好的界面
 - 21个图表时间表
 - 实时买/卖符号报价

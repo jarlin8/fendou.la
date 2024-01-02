@@ -1,12 +1,12 @@
 ---
 title: "HYCM兴业平台MT4交易安全可靠吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-broker"
 ---
 
 HYCM兴业投资外汇MT4软件怎么样？HYCM兴业投资平台MT4软件安全吗？外汇平台的层出不穷，迷惑了我们，使我们不知道该用哪一个平台。  

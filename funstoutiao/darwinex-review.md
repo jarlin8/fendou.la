@@ -1,15 +1,16 @@
 ---
 title: "Darwinex 外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 达尔文交易所（Darwinex）成立于2012年，是一家位于伦敦的受监管在线证券经纪公司，它使经验丰富的交易员能够交易市场，而投资者也可以为其提供支持。他们提供超过300种资产，并具有机构级定价，FIX API和免费的历史报价数据。
 
 ## 优点与缺点
+
 - 严格监管
 - FSCS保险
 - 隔离帐户
@@ -22,7 +23,6 @@ taxonomy:
 - 有限的交易工具
 - 教材有限
 - 最低入金$500
-
 
 ## 经纪商简介
 
@@ -61,6 +61,7 @@ Darwinex的目标是在客户，员工和法律方面保持尽可能透明。现
 Darwinex在各种不同的平台上提供其交易条件。有流行的MetaTrader 4（MT4）和MetaTrader 5（MT5）平台可在台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）上使用。两种平台均提供外汇交易，指数和商品，而MT5仅提供股票。
 
 他们了解某些交易者不仅仅需要这些平台的功能，因此提供了以下辅助库来补充MetaTrader / FIX API堆栈：
+
 - FIX v4.4定价和交易模块（Python）
 - 启用ZeroMQ的Python到MetaTrader Bridge（在Python中）
 - 启用ZeroMQ的MetaTrader服务器EA（在MQL中）
@@ -71,6 +72,8 @@ Darwinex在各种不同的平台上提供其交易条件。有流行的MetaTrade
 Zorro交易平台的用户还可以通过Zorro的MT4和MT5桥解决方案连接并在Darwinex进行交易。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Trading-Platforms.png "交易平台")
+
+交易平台
 
 交易平台
 
@@ -112,6 +115,8 @@ ZeroMQ使程序员能够灵活地以多种方式连接各种代码，同时消�
 
 启用ZeroMQ的交易基础架构（使用MetaTrader）
 
+启用ZeroMQ的交易基础架构（使用MetaTrader）
+
 ### Zorro到MetaTrader的连接
 
 Zorro是用于财务分析，机器学习和算法交易策略开发的免费软件工具。它具有一个简单的界面，可以进行回测和实时交易，该界面具有一组复杂的特性和功能。
@@ -130,6 +135,8 @@ Darwinex为拥有实时交易账户的客户提供一系列资产的高质量报
 
 报价数据
 
+报价数据
+
 ## 投资者教育
 
 Darwinex提供Darwinex在线培训学校，该学校的创建是为了与交易者共享他们的知识，以帮助他们改善交易教育和技能。
@@ -141,6 +148,8 @@ Darwinex投资者计划旨在培训开始管理DARWIN被动投资的新手投资
 Darwinex网站上有一个广泛的常见问题（FAQ）部分，其中涵盖了许多与帐户，平台和交易有关的问题。有一个活跃的在线社区论坛，客户可以在此分享交易想法和知识。
 
 ![教育](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Education-1024x161.png "教育")
+
+教育
 
 教育
 
@@ -168,9 +177,13 @@ DARWIN将交易员管理的交易策略与Darwinex的独立风险管理引擎结
 
 DARWINs
 
+DARWINs
+
 该网站通过列出的100多个国家的独立交易者策略，显示DARWIN的表现。有多种短期和长期交易策略可供选择，其中包括来自货币，股票，商品和/或指数等多个市场的基础工具。
 
 ![DARWINs的性能](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-DARWINs-Performance-1024x466.png "DARWINs的性能")
+
+DARWINs的性能
 
 DARWINs的性能
 
@@ -183,6 +196,8 @@ DARWINs的性能
 表现良好的交易者将获得较低的交易成本。Darwinex基于称为Darwinex得分（D-Score）的专有算法对交易策略进行评级。这旨在定量衡量未来执行交易策略（DARWIN）的可能性。他们指出，该算法由12个子算法组成，是一种量化交易员技能的干净，透明和公平的方法。使用D-Score，可以减少高达40％的佣金，从而奖励交易员。
 
 ![与人才相关的定价D评分](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Talent-Linked-Pricing-D-Score.png "与人才相关的定价D评分")
+
+与人才相关的定价D评分
 
 与人才相关的定价D评分
 
@@ -208,6 +223,8 @@ Darwinex仅通过电子邮件，电话和网站上的联系表为紧急情况提
 
 帐户注资
 
+帐户注资
+
 ## 开户步骤
 
 在Darwinex上注册为交易商需要填写简短的在线表格，然后确认您的电子邮件。然后，您需要上传身份证明（例如护照或驾驶执照）和地址证明（例如水电费账单）。作为KYC程序的一部分，这是正常的。一旦客户小组验证了您的文件，您就可以为您的帐户注资并开始交易。尽管需要向Darwinex提供有关您的交易策略和历史记录的更多信息，但注册成为投资者的过程与此类似。
@@ -216,11 +233,13 @@ Darwinex仅通过电子邮件，电话和网站上的联系表为紧急情况提
 
 Darwinex注册
 
+Darwinex注册
+
 ## 总体评价
 
 Darwinex是一家创新经纪商，利用先进技术为零售和机构规模的交易者和投资者提供交易服务。他们非常关注通过DARWINs管理账户提供的社交方面，交易者可以在其中投资其他策略以收取绩效费。总体交易成本根据绩效而提高，这有助于鼓励负责任的交易。平台非常灵活，FIX API解决方案对更高级的交易者和为初学者提供的MT4有吸引力。交易工具和教材有限
 
--[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)（CFD）是复杂的工具， ![](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Logo-1.png)
+\-[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)（CFD）是复杂的工具， ![](https://cdn.fendou.la/funstoutiao/2020/12/Darwinex-Logo-1.png)
 
 #### 最少$500入金
 

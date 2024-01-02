@@ -1,10 +1,10 @@
 ---
 title: "Titan FX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Titan FX是ECN外汇和商品经纪商，致力于提供技术驱动的下一代交易条件，机构级价差，深厚的顶级流动性和快速的交易执行。
@@ -14,6 +14,7 @@ Titan FX是ECN外汇和商品经纪商，致力于提供技术驱动的下一代
 交易条件
 
 ## 优点＆缺点
+
 - 用户友好的MetaTrader平台
 - ZuluTrade
 - 交易工具
@@ -22,7 +23,6 @@ Titan FX是ECN外汇和商品经纪商，致力于提供技术驱动的下一代
 - Titan FX在美国，新西兰，澳大利亚和瓦努阿图禁止交易
 - 最低入金$200
 - 有限的非外汇资产用于交易
-
 
 ## 经纪商简介
 
@@ -69,6 +69,7 @@ Titan FX向其客户提供MetaTrader 4和MetaTrader 5平台。 两者的桌面�
 ## 投资者教育
 
 Titan FX的目标之一就是为客户提供最有效的外汇教育，为他们的在线交易做好准备。 为此，经纪商在其网站上提供以下教育方面的内容：
+
 - 市场分析
 - 外汇月报
 - 经济新闻

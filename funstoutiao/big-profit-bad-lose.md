@@ -1,10 +1,10 @@
 ---
 title: "做外汇交易，你最多的时候赚了多少又付出了过哪些沉重的代价?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 最大收益率是3天翻了36倍，最大代价是一周爆了4个账户!

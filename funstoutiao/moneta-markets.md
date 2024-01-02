@@ -1,15 +1,16 @@
 ---
 title: "Moneta Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Moneta Markets是一家在线交易经纪商，通过专有的Moneta Markets WebTrader和移动交易应用程序提供300多种差价合约以进行在线交易。该经纪商提供一系列专有的交易工具和教育资料，以及各种帐户注资选项，包括用于快速便捷注资的在线支付处理器。
 
 ## Moneta Markets测评
+
 - 监管经纪商
 - 300多种差价合约工具
 - 与澳大利亚国民银行持有的隔离客户资金
@@ -21,7 +22,6 @@ Moneta Markets是一家在线交易经纪商，通过专有的Moneta Markets Web
 - 不接受美国客户
 - 无MetaTrader平台
 - 模拟帐户在30天后过期
-
 
 ## 经纪商简介
 

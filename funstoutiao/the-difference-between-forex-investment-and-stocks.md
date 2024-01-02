@@ -1,12 +1,12 @@
 ---
 title: "外汇投资与股票的区别有哪些？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 股市中有成百上千种股票，那么选股将是一件很难的事情。而 汇市 中，货币组合非常有限，这可以使您集中精力于这几个货币组合，并很快抓住他们的脉动。

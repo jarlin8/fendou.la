@@ -1,15 +1,16 @@
 ---
 title: "Interactive Trade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Interactive Trade是一个在线交易经纪商，它允许其客户通过复杂的MetaTrader 4交易平台交易各种资产，包括股票，指数，商品，金属，期货和货币对。 经纪商提供多种交易账户选项，杠杆高达1:400，但它们不受监管，这可能对潜在客户构成危险。
 
 ## 优点和缺点
+
 - MetaTrader 4交易平台
 - 多个帐户选项
 - 各种金融工具
@@ -83,6 +84,7 @@ Interactive Trade提供三个主要交易帐户：白银，黄金和独家白金
 ## 存款和取款
 
 Interactive Trade允许客户使用以下任何一种付款方式从其交易帐户中存入和提取资金。
+
 - 银行转帐
 - 信用卡/借记卡，例如Visa，MasterCard等。
 

@@ -1,12 +1,12 @@
 ---
 title: "外汇交易时间是什么怎样的？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 外汇市场是一个没有固定地点的场外交易市场，它由各国金融中心的银行、经纪商和其他机构组成，通过电子网络进行交易。

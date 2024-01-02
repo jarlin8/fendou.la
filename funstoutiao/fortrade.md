@@ -1,15 +1,16 @@
 ---
 title: "Fortrade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Fortrade成立于2013年，是一家受监管的在线经纪商，致力于为所有人提供简单易用的交易，为用户提供了具有大量教育资料和广阔的市场分析领域的平台。
 
 ## Fortrade测评
+
 - 严格监管
 - 大量的教材
 - 深入的新闻和市场分析
@@ -18,7 +19,6 @@ Fortrade成立于2013年，是一家受监管的在线经纪商，致力于为�
 - 非ECN
 - 无固定利差账户
 - 不接受美国客户
-
 
 ## 经纪商简介
 

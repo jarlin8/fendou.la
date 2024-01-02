@@ -1,12 +1,12 @@
 ---
 title: "如何用一些简单而集中的指标来选择合适自己的交易策略？"
 post_status: publish
-post_date: "2022-12-22"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
- post_tag: 
-  - "交易心理"
+  category:
+        - "experience"
+  post_tag:
+        - "交易心理"
 ---
 
 我们需要为实际交易的框架建立一个强大的基础，一旦你有了基础，你可以改进、调整和修补以超越你的成功，但一个强大的基础是绝对必须的。

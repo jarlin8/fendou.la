@@ -1,15 +1,16 @@
 ---
 title: "Core Spreads外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Core Spreads是一个受多方监管的在线经纪商，在多个市场上拥有成千上万的资产，可用于以固定或可变点差和低费用进行交易。
 
 ## 优点和缺点
+
 - 严格监管
 - 客户资金隔离
 - 固定利差账户
@@ -21,12 +22,13 @@ Core Spreads是一个受多方监管的在线经纪商，在多个市场上拥�
 - 有限的其他交易工具
 - 资金选择有限
 
-
 ## 经纪商简介
 
 Core Spreads成立于2014年，是一家受多种监管的在线经纪商，为全球交易者提供交易多种资产类别的机会，包括外汇，商品，加密货币，股票，股票，指数，金属，能源，债券和差价合约。Core Spreads提供强大而先进的交易平台，包括MetaQuotes流行的MetaTrader 4（MT4）平台以及他们自己内部开发的专有CoreTrader Spread Trading平台。
 
 ![收益](https://cdn.fendou.la/funstoutiao/2020/10/Core-Spreads-Benefits-1.png "收益")
+
+收益
 
 收益
 
@@ -64,11 +66,15 @@ CoreTrader是经纪商自己的现代网络和移动应用程序点差交易平�
 
 CoreTrader平台
 
+CoreTrader平台
+
 ### Core SpreadsMetaTrader 4（MT4）
 
 MT4是全球数百万交易者使用的最受欢迎的交易平台之一。这是一个经过行业测试的平台，可提供最先进的交易体验。它以其快速的学习曲线而闻名，因此使其成为新用户的解决方案，同时具有足够的高级功能来满足经验丰富的交易者。
 
 ![MetaTrader 4（MT4）平台](https://cdn.fendou.la/funstoutiao/2020/10/Core-Spreads-MetaTrader-4-MT4-Platform.jpg "MetaTrader 4（MT4）平台")
+
+MetaTrader 4（MT4）平台
 
 MetaTrader 4（MT4）平台
 
@@ -140,6 +146,8 @@ Core Spreads提供两种不同的账户类型，一种是希望在专有CoreTrad
 
 帐户类型
 
+帐户类型
+
 ### 核心交易者
 
 该帐户适用于希望使用CoreTrader Web和移动点差交易平台的交易者。它在成千上万的市场中提供固定的点差，不收取任何佣金，最小订单量为0.50美元/英镑/欧元。大多数股票差价合约都可以通过CoreTrader平台获得，因此该帐户对于希望交易这些工具的客户而言更为可取。
@@ -183,6 +191,8 @@ Core Spreads严格不接受第三方付款。存入您的交易账户的所有�
 使用Core Spreads开设帐户是一个快速简便的过程。有一个简短的在线表格和调查表可以完成。然后，您需要使用身份证明（例如护照或驾驶执照）来验证您的帐户，并使用不超过3个月的水电费账单或银行对帐单来验证您的地址。这是KYC程序的正常部分。验证您的帐户后，您便可以为它注资并开始交易。
 
 ![帐户注册表格](https://cdn.fendou.la/funstoutiao/2020/10/Core-Spreads-Account-Registration-Form.png "帐户注册表格")
+
+帐户注册表格
 
 帐户注册表格
 

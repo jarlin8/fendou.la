@@ -1,12 +1,12 @@
 ---
 title: "国际资本净流入会使汇率上升吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 净资本流入主要是指境外投资者因购买某个国家国债、股票和其他证券而流入的净额。

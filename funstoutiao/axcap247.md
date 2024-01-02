@@ -1,15 +1,16 @@
 ---
 title: "AxCap247外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Axis Capital Markets Limited（简称AXCap247）是一家金融服务公司，总部位于英国伦敦，提供主要经纪服务，杠杆式外汇交易，资本市场和股票咨询服务。 他们通过其多种资产交易平台为交易者提供进入多个金融市场的通道。 客户可以使用多个交易帐户选项。
 
 ## AxCap247 优点＆缺点
+
 - 多个交易平台
 - 一些教育工具
 - 几种金融资产
@@ -17,7 +18,6 @@ Axis Capital Markets Limited（简称AXCap247）是一家金融服务公司，�
 - 无实时聊天支持
 - 点差偏高
 - 有限的独立交易工具
-
 
 ## 经纪商简介
 
@@ -57,6 +57,8 @@ MT4和MT5交易平台分别由MetaQuotes于2005年和2010年开发，已成为�
 
 MetaTrader交易平台
 
+MetaTrader交易平台
+
 ## 交易工具
 
 经纪商的网站上有一个经济日历。
@@ -65,11 +67,15 @@ MetaTrader交易平台
 
 经济日历
 
+经济日历
+
 ## 投资者教育
 
 经纪商网站的研究部分包含许多教育材料，例如市场新闻，交易博客，交易文章等。
 
 ![市场新闻](https://cdn.fendou.la/funstoutiao/2020/11/AxCap247-Review-News-1024x301.jpg "市场新闻")
+
+市场新闻
 
 市场新闻
 
@@ -90,6 +96,7 @@ AxCap247提供以下交易工具：外汇，股票，指数，能源，金属和
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡，例如Visa，MasterCard
 - 银行转帐
 - 电子支付，包括Neteller和Skrill
@@ -98,11 +105,15 @@ AxCap247提供以下交易工具：外汇，股票，指数，能源，金属和
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设一个账户，请点击“开设真实账户”按钮并填写表格。 将会向您发送一封电子邮件，其中包含您的登录详细信息。 您可以继续为您的帐户注资并开始交易。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/AxCap247-Review-Account-Opening-Page-256x1024.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

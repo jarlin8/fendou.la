@@ -1,15 +1,16 @@
 ---
 title: "Swiss Financial Services交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Swiss Financial Services（Swiss FS）是一家位于科威特的在线金融服务提供商； 他们为交易者提供了各种高级交易平台，使他们能够交易几个金融市场，例如外汇，指数和商品。 客户可以使用多个帐户选项。
 
 ## Swiss FS测评
+
 - 多个交易平台
 - 多种教育资源和交易工具
 - 各种各样的交易工具
@@ -17,7 +18,6 @@ Swiss Financial Services（Swiss FS）是一家位于科威特的在线金融服
 - 最低存款$3,000
 - 无MetaTrader 5平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -76,6 +76,7 @@ Swiss FS提供以下交易产品：外汇，指数和商品。
 ## 存款和取款
 
 交易者可以通过以下任何一种付款方式存入和提取资金：
+
 - 银行电汇
 - 信用卡/借记卡
 - 电子支付，包括Skrill。

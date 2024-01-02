@@ -1,15 +1,16 @@
 ---
 title: "老虎证券外汇期货交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 老虎证券是一家受多方监管的在线折扣经纪商，为客户提供专有的交易平台，用于交易多种资产，包括股票，ETF，期权，期货，认股权证和牛熊证。
 
 ## 优点与缺点
+
 - 多种规定
 - 复杂的交易平台
 - 各种金融工具
@@ -17,7 +18,6 @@ taxonomy:
 - 有限的独立交易工具
 - 无MetaTrader平台
 - 无实时聊天支持
-
 
 ## 经纪商简介
 

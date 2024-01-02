@@ -1,15 +1,16 @@
 ---
 title: "Coinfloor交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Coinfloor是一种加密货币交易所，被认为是英国运行时间最长的加密货币交易所，自称是世界上唯一从一开始就提供定期比特币审计的平台。 该交易所建立在信任，安全性和可靠性的核心价值之上，旨在创建一个安全且可访问的交易比特币等加密货币的地方。
 
 ## Coinfloor 优点与缺点
+
 - 新手友好的交易平台
 - 精选的教育资源
 - 一些有用的交易工具
@@ -19,7 +20,6 @@ Coinfloor是一种加密货币交易所，被认为是英国运行时间最长�
 - 资金选择有限
 - 无电话或实时聊天支持
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -45,6 +45,8 @@ Coinfloor Limited是在英格兰和威尔士注册的公司。 联交所网站�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 交易所为交易者提供了一系列有用的交易工具，旨在确保无缝的交易过程。 其中之一是功能强大的API，可实现自动交易和交换连接。
@@ -54,6 +56,8 @@ Coinfloor Limited是在英格兰和威尔士注册的公司。 联交所网站�
 Coinfloor的网站上有大量可供选择的教育资源，使交易者可以了解比特币背后的哲学，经济学和技术。 其中包括博客，新闻稿，常见问题解答部分等等。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/11/Coinfloor-Review-Trading-Blogs.jpg "交易博客")
+
+交易博客
 
 交易博客
 
@@ -80,6 +84,8 @@ Coinfloor为交易者提供了一个知识渊博的客户支持团队，可以�
 开设Coinfloor实时交易账户既快捷又容易。 只需单击网站右上角的“注册”按钮，然后填写注册表。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Coinfloor-Review-Account-Opening-Page-.jpg "开户页面")
+
+开户页面
 
 开户页面
 

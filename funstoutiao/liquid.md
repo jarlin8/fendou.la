@@ -1,22 +1,22 @@
 ---
 title: "Liquid外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Liquid总部位于日本东京，是一家加密货币交易所，于2014年成立，自那时以来发展迅速，截至2019年5月，拥有300多名员工，已处理的交易额约为500亿美元。交易者可以购买或交换100多种加密货币。 ，包括比特币，比特币现金，以太坊，Ripple，QASH，QTUM，Tether，Monero等。 通过将其存储在离线钱包中，Exchange有助于尝试确保最大程度地保护客户的数字资金。
 
 ## 优点和缺点
+
 - 先进的交易平台
 - 教育资源
 - 多种加密货币
 - 无MetaTrader平台
 - 交易产品有限
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -71,6 +71,7 @@ Exchange拥有一个全天候24/7的客户支持团队，可以通过电子邮�
 ## 充值和提款
 
 可以使用以下任何一种付款方式来处理Liquid的存款和取款：
+
 - 银行转帐
 - 信用卡/借记卡
 - 加密货币

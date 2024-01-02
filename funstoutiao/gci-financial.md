@@ -1,13 +1,14 @@
 ---
 title: "GCI Financial交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 GCI Financial成立于2002年，是一家外汇和差价合约经纪商，致力于提供卓越的交易条件和客户服务。 GCI Financial提供的点差从1点起，直接到银行同业（ECN）交易，所有产品的保证金要求低，甚至还可以为您的帐户余额支付利息。 经纪商的高级软件使您可以轻松地从PC，iPhone或其他移动设备进行交易，无论是与MetaTrader还是ActTrader进行交易。 为交易者提供了教育资源和客户支持团队来协助他们。
+
 - 灵活的交易平台
 - 多种交易工具
 - 经济日历和其他交易工具
@@ -19,7 +20,6 @@ GCI Financial成立于2002年，是一家外汇和差价合约经纪商，致力
 - 点差偏高
 - 无MetaTrader 5平台
 - 最低入金$500
-
 
 ## 经纪商简介
 
@@ -46,6 +46,7 @@ GCI Financial是一个在线交易经纪商，允许交易者在6种资产类别
 ### MetaTrader 4
 
 这是一个高级交易平台，由俄罗斯软件公司MetaQuotes于2005年开发，由于其交易界面旨在适合初学者和高级客户，因此已发展成为外汇和差价合约经纪商中使用最广泛的交易平台之一。交易员都一样。 GCI Financial的MetaTrader 4交易平台为交易者提供以下好处：
+
 - 主要货币1到2点的点差
 - 免费外汇电子书易于学习
 - 全白标签和多帐户支持

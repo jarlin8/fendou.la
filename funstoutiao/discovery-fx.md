@@ -1,15 +1,16 @@
 ---
 title: "Discovery FX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Discovery FX总部位于萨摩亚阿皮亚，是一家在线交易经纪商，采用直通式处理（STP）执行模型，以最小的延误和重新报价提供快速的交易执行。 他们为交易者提供了一系列交易平台，包括MetaTrader 4（MT4），使他们能够在线交易不同的金融工具。 客户可以选择多种账户，最低存款额为200美元，利差小，杠杆率高达1:1000。
 
 ## Discovery FX 优缺点
+
 - 适用于多种设备的MetaTrader 4交易平台
 - 教育资源和交易工具
 - 各种交易工具
@@ -18,7 +19,6 @@ Discovery FX总部位于萨摩亚阿皮亚，是一家在线交易经纪商，�
 - 有限的帐户资金选择
 - 无实时聊天支持
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -46,6 +46,8 @@ Discovery Forex已在美国货币服务企业（MSB）中注册，注册号为ID
 
 交易平台
 
+交易平台
+
 还有一个“复制交易”应用程序，这是一个移动应用程序，可让您在同一平台上聊天和交易，向人群询问，向其他交易者学习，分享想法等。 它专为在Android和iOS上运行的智能手机设备而设计。
 
 ## 交易工具
@@ -53,6 +55,8 @@ Discovery Forex已在美国货币服务企业（MSB）中注册，注册号为ID
 交易者可以从一些有用的交易工具中受益，这些工具有助于增强他们的交易经验，其中包括市场评论和经济日历。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/Discovery-FX-Review-Economic-Calendar.jpg "经济日历")
+
+经济日历
 
 经济日历
 
@@ -83,6 +87,8 @@ Discovery FX接受以下用于帐户存款和取款的付款方式：
 要开设一个帐户，只需单击主页上的“创建真实帐户”按钮，选择创建个人帐户还是公司帐户，然后填写帐户申请表。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Discovery-FX-Review-Account-Opening-Page-160x1024.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

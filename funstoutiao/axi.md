@@ -1,15 +1,16 @@
 ---
 title: "Axi外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Axi（前身为AxiTrader）是由交易员为交易员创建的屡获殊荣的受监管在线经纪商平台。他们提供紧密的点差，低佣金，良好的执行力和不同市场的范围。先进的平台和交易工具增加了整体在线交易体验。
 
 ## Axi利弊
+
 - 严格监管
 - 客户资金隔离
 - 免佣金账户
@@ -20,7 +21,6 @@ Axi（前身为AxiTrader）是由交易员为交易员创建的屡获殊荣的�
 - 限制欧盟客户的杠杆
 - 无固定利差账户
 - 教材有限
-
 
 ## 经纪商简介
 
@@ -34,6 +34,8 @@ Axi于2007年在澳大利亚悉尼成立，是AxiCorp集团的一部分，该集
 
 收益概述
 
+收益概述
+
 Axi可以满足所有级别的交易者，其领先的交易技术已经足够为有经验的交易者提供先进的技术，同时又为缺乏经验的交易者提供了足够简单的使用方法。
 
 诚信，诚实，信任和透明的运营至关重要。他们一直在努力改善服务，以跟上最新的创新技术，并继续提供出色的客户支持。一个专门的客户经理可以为交易者提供协助。
@@ -41,6 +43,8 @@ Axi可以满足所有级别的交易者，其领先的交易技术已经足够�
 Axi的交易服务赢得了多个奖项，包括2018年英国外汇大奖中最受信任的外汇经纪商和最佳MT4提供商。
 
 ![历史与奖项](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-History-Awards-1024x640.png "历史与奖项")
+
+历史与奖项
 
 历史与奖项
 
@@ -60,13 +64,13 @@ Axi UK在开展业务时必须遵守欧洲证券和市场管理局（ESMA）的�
 
 Axi Review: Regulation
 
+Axi Review: Regulation
+
 ## 交易者国籍限制
 
 Axi接受来自世界各地的客户，但美国，加拿大，伊朗和其他有限制条件的国家/地区除外。由于法律限制，某些国家/地区的交易商可能无法使用此Axi评论中提到的某些Axi经纪商平台功能和产品。
 
 如果您要在特定国家/地区寻找交易经纪商平台，请参阅我们最好的经纪商平台美国，英国最好的经纪商平台，澳大利亚最好的经纪商平台，南非最好的经纪商平台，加拿大最好的经纪商平台或加拿大所有其他国家的最好经纪商平台。
-
-## 
 
 Axi提供了流行的MetaTrader（MT4）交易平台的多种变体。MT4在台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）上可用。
 
@@ -82,11 +86,15 @@ MT4具有易于使用的界面，具有一系列优势和功能，包括用于�
 
 Axi Review: MetaTrader 4 (MT4) Desktop
 
+Axi Review: MetaTrader 4 (MT4) Desktop
+
 ### MetaTrader 4移动版
 
 MT4移动平台使您可以将移动设备无缝连接到交易平台。您可以查看实时定价，下达和管理交易，查看帐户历史记录，监控头寸，自定义图表，设置警报等。这对于那些在旅途中需要从不同位置访问其帐户的人很有用。您可以通过相关应用商店在Android和iOS上免费下载MT4移动版。
 
 ![Axi Review: MetaTrader 4 (MT4) Mobile](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-MetaTrader-4-MT4-Mobile.jpg "Axi Review: MetaTrader 4 (MT4) Mobile")
+
+Axi Review: MetaTrader 4 (MT4) Mobile
 
 Axi Review: MetaTrader 4 (MT4) Mobile
 
@@ -98,11 +106,15 @@ MT4 NextGen是MT4平台的更高级版本，具有一些其他功能，包括高
 
 Axi Review: MetaTrader 4 (MT4) NextGen
 
+Axi Review: MetaTrader 4 (MT4) NextGen
+
 #### 情绪指标
 
 情绪指标将使您深入了解其他交易者所持的仓位。情绪分析通常用作逆势交易策略的一部分。
 
 ![Axi Review: Sentiment Indicator](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Sentiment-Indicator.jpg "Axi Review: Sentiment Indicator")
+
+Axi Review: Sentiment Indicator
 
 Axi Review: Sentiment Indicator
 
@@ -114,11 +126,15 @@ Axi Review: Sentiment Indicator
 
 相关交易者
 
+相关交易者
+
 #### 警报管理器
 
 警报管理器可以向您发送自定义警报，如果您要一次监视多个图表并且不想一直在屏幕上，这将很有用。
 
 ![Axi Review: Alarm Manager](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Alarm-Manager.jpg "Axi Review: Alarm Manager")
+
+Axi Review: Alarm Manager
 
 Axi Review: Alarm Manager
 
@@ -130,11 +146,15 @@ Axi Review: Alarm Manager
 
 Axi Review: Economic Calendar
 
+Axi Review: Economic Calendar
+
 #### 新终端窗口
 
 新的终端窗口具有一些其他功能，用于管理订单，发送警报，创建模板，将功能分组在一起等等。
 
 ![新终端窗口](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-New-Terminal-Window.jpg "新终端窗口")
+
+新终端窗口
 
 新终端窗口
 
@@ -146,11 +166,15 @@ Axi Review: Economic Calendar
 
 自动化交易杂志
 
+自动化交易杂志
+
 #### 会话图
 
 会话图仅向您显示不同的市场开盘和关闭时间。市场会议在纽约，伦敦，东京和悉尼。
 
 ![会话图](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Session-Map.jpg "会话图")
+
+会话图
 
 会话图
 
@@ -162,11 +186,15 @@ Axi Review: Economic Calendar
 
 Axi Review: Mini Manager
 
+Axi Review: Mini Manager
+
 #### 外汇新闻
 
 外汇新闻功能直接向平台提供最新的外汇新闻。您可以添加自己喜欢的新闻提要，并关注社交网络中的交易者。
 
 ![Axi Review: Forex News](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Forex-News.jpg "Axi Review: Forex News")
+
+Axi Review: Forex News
 
 Axi Review: Forex News
 
@@ -186,11 +214,15 @@ Axi强调指出，信号性能基于历史性能，不能保证未来性能。
 
 Axi Review: Trading Signals
 
+Axi Review: Trading Signals
+
 ### 多客户经理
 
 多账户管理器（MAM）是一种内置的交易工具，使您可以从一个交易终端方便地控制多个账户。它可以使用6种分配方法和接受的所有订单类型，对在主帐户下运行的所有帐户执行多个订单块。MAM仅适用于经批准并受监管的全权委托帐户或托管投资计划运营商。
 
 ![多客户经理](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Multi-Account-Manager.jpg "多客户经理")
+
+多客户经理
 
 多客户经理
 
@@ -206,11 +238,15 @@ Autochartist模式识别软件可以通过为您执行自动图表分析来节�
 
 Axi Review: Autochartist
 
+Axi Review: Autochartist
+
 #### 自动化技术分析
 
 Autochartist会自动找到斐波那契形态，例如延伸和回撤，以及图表形态，例如三角形，楔形，顶部和底部。当发现模式时，它可以发送通知，并根据这些模式识别可能的支撑和阻力位。
 
 ![Autochartist自动化技术分析](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Autochartist-Automated-Technical-Analysis.jpg "Autochartist自动化技术分析")
+
+Autochartist自动化技术分析
 
 Autochartist自动化技术分析
 
@@ -222,11 +258,15 @@ Autochartist自动化技术分析
 
 Autochartist绩效统计
 
+Autochartist绩效统计
+
 #### 波动率分析
 
 波动率分析通过可调的风险参数提供与任何时间的市场波动率有关的信息，以识别满足一定波动率标准的工具。
 
 ![自动图表波动率分析](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Autochartist-Volatility-Analysis.jpg "自动图表波动率分析")
+
+自动图表波动率分析
 
 自动图表波动率分析
 
@@ -238,11 +278,15 @@ Autochartist绩效统计
 
 Autochartist的最爱
 
+Autochartist的最爱
+
 #### 自由市场报告
 
 您可以每天订阅3次经济新闻，该新闻涵盖未来几天各个市场的前景。
 
 ![Autochartist自由市场报告](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Autochartist-Free-Market-Report.jpg "Autochartist自由市场报告")
+
+Autochartist自由市场报告
 
 Autochartist自由市场报告
 
@@ -252,11 +296,15 @@ Autochartist自由市场报告
 
 Axi Review: Autochartist Trading Community
 
+Axi Review: Autochartist Trading Community
+
 ### 经济日历
 
 Axi有一个经济日历，可为您提供有关即将发生的新闻事件的详细信息，可以通过交易工具，日期和影响进行过滤。您可以查看每个新闻发布的历史和未来预测。
 
 ![Axi Review: Economic Calendar](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Economic-Calendar-1024x608.png "Axi Review: Economic Calendar")
+
+Axi Review: Economic Calendar
 
 Axi Review: Economic Calendar
 
@@ -270,6 +318,8 @@ PsyQuation Premium具有更强大的指标，经常更新的交易信号，全�
 
 Axi Review: PsyQuation Premium
 
+Axi Review: PsyQuation Premium
+
 ## Axi Review: Education
 
 Axi的教育中心为所有级别的交易者提供免费培训，涵盖一系列基础，中级和高级科目。该中心包括电子书，网络研讨会，视频教程和词汇表。教程以24种语言提供。
@@ -279,6 +329,8 @@ Axi的教育中心为所有级别的交易者提供免费培训，涵盖一系�
 Axi免费教育课程涵盖了交易的许多方面，包括如何进行交易，风险管理，图表分析，新闻交易等等。
 
 ![免费教育课程](https://cdn.fendou.la/funstoutiao/2020/12/AxiTrader-Free-Education-Course.png "免费教育课程")
+
+免费教育课程
 
 免费教育课程
 
@@ -308,6 +360,8 @@ Axi提供标准帐户或专业帐户的选择，这些帐户可以根据个人�
 
 交易帐户比较
 
+交易帐户比较
+
 ### MT4标准账户
 
 标准帐户的最低存款额为200美元，点差从1.0点开始，不收取任何佣金。
@@ -332,11 +386,15 @@ Axi提供多种存款和取款方法，以适应不同的客户需求。您可�
 
 存款和取款
 
+存款和取款
+
 ## 开户步骤
 
 开设Axi帐户是一个快速简便的在线过程。您只需填写在线表格并验证您的电子邮件地址即可。然后，您需要出于KYC的目的上传身份证明和地址证明。一旦通过验证，您就可以为您的帐户注资并开始交易。如有需要，客户支持将在过程中为您提供帮助。
 
 ![开户表格](https://cdn.fendou.la/funstoutiao/2020/12/Axi-Review-Account-Opening-Form.png "开户表格")
+
+开户表格
 
 开户表格
 

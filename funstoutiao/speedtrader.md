@@ -1,13 +1,14 @@
 ---
 title: "SpeedTrader交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 SpeedTrader是一家美国经纪公司，为活跃交易者提供高级交易平台，最低入金为30,000美元。 尽管费用具有竞争力，但与其他在线经纪商相比，交易工具是有限的，并且它们不提供外汇，CFD或加密交易。
+
 - 严格监管
 - 证券投资者保护公司（SIPC）
 - 高级交易平台
@@ -17,7 +18,6 @@ SpeedTrader是一家美国经纪公司，为活跃交易者提供高级交易平
 - 无MetaTrader平台
 - 受限制的杠杆
 - 无在线支付处理器
-
 
 ## 经纪商简介
 
@@ -54,6 +54,7 @@ SpeedTrader平台可在多种设备上使用，包括台式机，Web浏览器和
 ![PRO平台](https://cdn.fendou.la/funstoutiao/2020/10/SpeedTrader-PRO-Platform.png "PRO平台")
 
 PRO平台
+
 - 桌面平台
 - 实时流二级报价
 - 高级图表（多种图表类型）
@@ -68,6 +69,7 @@ PRO平台
 ![ActiveWeb平台](https://cdn.fendou.la/funstoutiao/2020/10/SpeedTrader-ActiveWeb-Platform-1024x460.png "ActiveWeb平台")
 
 ActiveWeb平台
+
 - HTML5 Web平台（可在任何现代Web浏览器中运行）
 - 实时烛台图表
 - 实时一级报价数据
@@ -85,6 +87,7 @@ ActiveWeb平台
 ![iSPEEDTRADER平台](https://cdn.fendou.la/funstoutiao/2020/10/SpeedTrader-iSPEEDTRADER-Platform-1024x542.png "iSPEEDTRADER平台")
 
 iSPEEDTRADER平台
+
 - 移动平台（移动中交易）
 - 烛台图表
 - 实时二级报价
@@ -97,6 +100,7 @@ iSPEEDTRADER平台
 ![Takion平台](https://cdn.fendou.la/funstoutiao/2020/10/SpeedTrader-Takion-Platform.png "Takion平台")
 
 Takion平台
+
 - 高级制图
 - 实时级别2
 - 直接访问路由
@@ -121,11 +125,13 @@ SpeedTrader提供股票（美国），期权，债券和共同基金。 不幸�
 ## 交易账户和费用
 
 SpeedTrader具有灵活的定价选项，可以满足不同的交易者需求。 您可以选择具有竞争力的佣金率的每股定价或交易定价模式。
+
 - 每笔交易单笔价格为2.95美元起
 - 每股定价从0.0025美元起
 - 期权定价，每份合约0.30美元起
 
 SpeedTrader开设日间交易账户的最低存款额为30,000美元。 低于要求的最低限额的帐户将受到某些限制，并且可能需要额外的资金。 SpeedTrader仅接受保证金和期权账户的申请，不接受现金。 他们目前不提供借记卡和/或支票帐户。 开立和维持保证金账户的最低要求为25,000美元。 除非每个日历季度执行15笔交易，否则每季度将收取$30.00的闲置费。
+
 - 公司
 - 有限责任公司
 - 投资俱乐部
@@ -148,6 +154,7 @@ SpeedTrader客户可以通过电汇或ACH为他们的帐户注资。 与其他�
 ## 开户步骤
 
 您可以使用在线申请表开设一个帐户并提交，也可以下载，打印和签名然后通过电子邮件或传真发送给他们。 如果您在完成申请时遇到任何困难，SpeedTrader支持团队将很乐意为您提供帮助。 为了完成申请，您需要准备以下文件：
+
 - 社会安全号码或税号
 - 有效的带照片身份证：驾驶执照，护照或政府签发的身份证
 - 银行账户信息

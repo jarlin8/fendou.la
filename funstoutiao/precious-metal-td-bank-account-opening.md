@@ -1,12 +1,12 @@
 ---
 title: "贵金属td银行开户流程及条件有哪些?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "贵金属交易"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "贵金属交易"
 ---
 
 贵金属td银行开户流程：到提供贵金属td的银行开通一张银行卡，登陆工商银行网银，开始在线开户；浏览代理个人实物黄金买卖业务协议书并签订协议；通过银行获得上海黄金交易所的交易编码并填写入注册页面，提交后即完成整个开户流程。  

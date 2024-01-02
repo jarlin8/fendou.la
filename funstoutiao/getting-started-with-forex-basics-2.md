@@ -1,12 +1,12 @@
 ---
 title: "外汇入门基础知识有哪些？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
        在外汇交易市场中，投资者需要掌握的基础知识可能会不同，这是因为投资者的交易水平以及经验都有差异，有的投资者的交易水平很高，投资者有机会利用这样的水平进行更成功的交易，而有的投资者的交易水平不是很高，他们需要学习更基础的交易知识，不过，投资者应学习的炒外汇基础知识有什么呢?

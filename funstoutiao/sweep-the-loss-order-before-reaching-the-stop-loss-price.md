@@ -1,10 +1,10 @@
 ---
 title: "没到止损价位就扫损单子，为什么?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 感谢专占体育课的胡老师的邀请。这个问题相对来说比较初级，属于基础知识范畴，我觉得没到止损就扫损可能有这几种情况吧。

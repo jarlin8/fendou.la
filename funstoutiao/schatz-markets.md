@@ -1,15 +1,16 @@
 ---
 title: "SCHATZ Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 SCHATZ Markets是一家外汇和商品经纪商，为零售和机构客户提供交易服务和设施。 它们提供了一系列竞争性的交易条件，例如低点差，不重新报价，绝对透明以及真正的ECN技术，有助于确保可以以最佳的价格执行交易。
 
 ## 优点和缺点
+
 - 用户友好的MetaTrader 4平台
 - 多种交易工具
 - 一些教育资源
@@ -20,7 +21,6 @@ SCHATZ Markets是一家外汇和商品经纪商，为零售和机构客户提供
 - 无MetaTrader 5或cTrader平台
 - 无实时聊天支持
 - 不接受美国客户
-
 
 ## 经纪商简介
 

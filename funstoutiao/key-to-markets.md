@@ -1,15 +1,16 @@
 ---
 title: "Key to Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Key to Markets是受严格监管的ECN在线经纪商，通过MT4和FIX API提供了多种可供选择的交易工具。符合条件的客户可以索取免费的VPS，尽管与其他在线经纪商相比，他们缺少其他交易工具和教学材料。
 
 ## 优点和缺点
+
 - 严格监管
 - 客户资金隔离
 - 免佣金交易
@@ -21,7 +22,6 @@ Key to Markets是受严格监管的ECN在线经纪商，通过MT4和FIX API提�
 - 无加密货币
 - 有限的交易工具
 - 教材有限
-
 
 ## 经纪商简介
 
@@ -82,6 +82,7 @@ Key to Markets通过广受欢迎的MT4交易终端提供ECN交易功能。MT4以
 ### MT4功能
 
 MT4包含大量内置功能，可用于高效交易和图表分析。
+
 - 市场观察窗口内所有工具的实时报价
 - 9个图表时间表
 - 多种订单类型
@@ -93,6 +94,7 @@ MT4包含大量内置功能，可用于高效交易和图表分析。
 - 策略测试器，用于对历史数据进行回测EA
 
 除了行业常用的内置MT4功能标准外，Key to Markets还提供以下功能：
+
 - 具有透明价格的ECN价格Feed
 - 即时存款和快速提款方式，无任何隐藏费用
 - 点差仅为0点

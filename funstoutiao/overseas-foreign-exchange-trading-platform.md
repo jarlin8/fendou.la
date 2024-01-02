@@ -1,12 +1,12 @@
 ---
 title: "海外的外汇交易平台有哪些？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 海外的外汇交易平台有哪些？纵观海外 外汇交易市场 ，想要在外 汇市 场分一杯羹，那你不得不了解并且在众多海外上市交易商中进行一个比较，择优选择最适合你的海外平台的外汇代理。  

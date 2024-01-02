@@ -1,13 +1,13 @@
 ---
 title: "最佳外汇交易平台推荐"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "foreign-exchange"
-  - "forex-broker"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "foreign-exchange"
+        - "forex-broker"
 ---
 
 您是在猜测欧元对美元的汇率会上升吗？

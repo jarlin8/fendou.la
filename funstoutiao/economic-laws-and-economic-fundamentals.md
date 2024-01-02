@@ -1,12 +1,12 @@
 ---
 title: "关于经济规律和经济基本面你们怎么看？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 在外汇市场中，整体经济规律影响一切，决定经济基本面(政策的产生和数据的好坏)；而经济基本面则只能由于市场投机力量的取向，瞬间影响汇率走势，其整体经济规律强弱的形成并非一朝一夕的事，更不可能因为某条消息数据(或经济政策甚至突发事件)的发布(或发生)而改变，这也是为什么外汇市场被公认为相对来说是最公平市场的道理所在！

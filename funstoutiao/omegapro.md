@@ -1,15 +1,16 @@
 ---
 title: "OmegaPro外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 OmegaPro是一个在线交易经纪商，通过经纪商提供外汇，指数，商品，ETF，股票和期权进行在线交易 所有权 交易平台。
 
 ## 优点和缺点
+
 - 专有交易平台
 - 多种交易工具
 - 多种账户资金选择
@@ -19,7 +20,6 @@ OmegaPro是一个在线交易经纪商，通过经纪商提供外汇，指数，
 - 无MetaTrader平台
 - 无联系电话
 - 无在线实时聊天支持
-
 
 ## 经纪商简介
 
@@ -74,6 +74,7 @@ OmegaPro为客户提供专业的支持团队。 可以通过电子邮件或访�
 ## 存款和取款
 
 OmegaPro接受以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡-例如Visa和MasterCard
 - 在线支付处理器-包括银联等

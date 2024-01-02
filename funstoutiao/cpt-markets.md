@@ -1,15 +1,16 @@
 ---
 title: "CPT Markets UK外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CPT Markets UK成立于2008年，是一家在线交易经纪商，它使用复杂的MetaTrader 4交易平台提供对多种资产类别（包括外汇，贵金属，指数和能源）的所有差价合约的实时访问权。 他们提供有竞争力的点差，快速的订单执行和24小时交易。
 
 ## 优点和缺点
+
 - 监管经纪商
 - 多种金融工具
 - MetaTrader 4交易平台
@@ -46,6 +47,8 @@ CPT Markets UK允许客户使用MetaTrader 4交易平台进行交易。 MT4被�
 
 MT4交易平台
 
+MT4交易平台
+
 ## 交易工具
 
 交易者还可以从一系列有用的交易工具中受益，例如烛台图，基本面和技术分析，市场观察等。
@@ -54,11 +57,15 @@ MT4交易平台
 
 烛台图
 
+烛台图
+
 ## 投资者教育
 
 经纪商的网站上有很多教育资源可供选择，其中包括培训课程，视频和一个研究部分，其中包含各种学习文章和新闻。
 
 ![培训课程](https://cdn.fendou.la/funstoutiao/2020/11/CPT-Markets-Review-Training-Lessons.jpg "培训课程")
+
+培训课程
 
 培训课程
 
@@ -85,6 +92,8 @@ CPT Markets UK允许交易者创建一个真实交易账户。 还有一个用�
 要开设一个账户，点击真实交易账户按钮，并正确填写注册表格。 创建帐户后，您可以为帐户注资以开始交易。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/CPT-Markets-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

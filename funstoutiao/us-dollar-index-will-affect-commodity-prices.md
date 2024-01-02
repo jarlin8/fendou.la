@@ -1,12 +1,12 @@
 ---
 title: "美元指数会影响大宗商品价格走势吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 美元指数与大宗商品价格的走势是负向关联的，大宗商品是可以作为和美元交换的货币，作为世界交易中最重要的货币，美元相对于其他货币的价格波动对整个世界经济体系和该行业的繁荣有着重大影响。  

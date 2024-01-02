@@ -1,15 +1,16 @@
 ---
 title: "HF Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 HF Markets是一家受多方监管并具有社会责任感的在线经纪商平台，赢得了众多奖项，并提供极低的点差和具有竞争力的佣金。他们有各种各样的交易工具和教育资料。
 
 ## HF Markets测评
+
 - 多重管制
 - 负余额保护
 - 投资者赔偿基金
@@ -22,7 +23,6 @@ HF Markets是一家受多方监管并具有社会责任感的在线经纪商平�
 - 不接受美国客户
 - 限制欧盟客户的杠杆
 - 无固定利差账户
-
 
 ## 经纪商简介
 

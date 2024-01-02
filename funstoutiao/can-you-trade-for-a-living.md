@@ -1,10 +1,10 @@
 ---
 title: "你能以做交易为生吗?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 我很荣幸，我的交易路上虽然没有顺丰顺水。

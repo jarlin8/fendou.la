@@ -1,15 +1,16 @@
 ---
 title: "XtreamForex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 XtreamForex是一家交易经纪商，拥有各种不同的资产，可通过直观的MetaTrader平台进行桌面，Web和移动（iOS和Android）交易。经纪商平台的账户类型和资金选择非常灵活，同时还提供了一些额外的交易工具和信号复制服务。还有一个信息丰富的交易商学院，里面充满了有用的学习材料。
 
 ## XtreamForex测评
+
 - 交易者学院
 - 交易工具
 - 用户友好的MetaTrader平台
@@ -20,7 +21,6 @@ XtreamForex是一家交易经纪商，拥有各种不同的资产，可通过直
 - 无规定
 - 不接受美国客户
 - 仅美元账户货币
-
 
 ## 经纪商简介
 
@@ -55,6 +55,7 @@ MetaTrader平台
 ### MetaTrader的
 
 XtreamForex为客户提供了最流行，功能最强大的外汇交易平台之一MetaTrader。在MetaTrader 4（MT4）和MetaTrader 5（MT5）平台之间可以选择。数以百万计的交易者选择MetaTrader的独特功能包括完全可定制的界面，灵活的交易条件，高级图表和技术分析，用于自动交易的专家顾问（EA）以及各种内置技术指标。它还具有自己的内置MetaEditor编程界面，用户可以在其中开发自己的自定义指标，脚本和EA。有一个策略测试器，用于对历史数据和大型在线MQL社区进行回测EA，用户可以在其中共享想法和工具。MetaTrader的一些关键功能如下：
+
 - 市场观察窗口中的实时买/卖报价
 - 多种图表类型（包括条形图，折线图和烛形图）
 - 从1分钟到1年的多个图表时间范围

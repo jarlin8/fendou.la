@@ -1,15 +1,16 @@
 ---
 title: "Forex Optimum外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Forex Optimum是一家在线交易经纪公司，于2009年开始运营，目前拥有来自26个国家/地区的广泛的国际合作伙伴网络，已处理超过1000万笔交易。 他们提供了多种金融工具，包括外汇，股票，金属，指数，能源等，并通过直观且易于使用的MT4交易平台进行在线交易。
 
 ## Forex Optimum测评
+
 - 多种交易工具
 - 精选教育资源
 - 提供实用的交易辅助工具
@@ -21,7 +22,6 @@ Forex Optimum是一家在线交易经纪公司，于2009年开始运营，目前
 - 禁止美国交易员
 - 无实时聊天支持
 - 无MetaTrader 5平台
-
 
 ## 经纪商简介
 
@@ -72,6 +72,7 @@ MT4交易平台
 ## 存款和取款
 
 可以使用以下付款方式进行帐户存款和提款：
+
 - 信用卡/借记卡
 - 银行电汇
 - 电子支付处理器，例如WebMoney，Neteller，QIWI，FasaPay等。

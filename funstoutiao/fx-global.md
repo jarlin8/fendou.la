@@ -1,15 +1,16 @@
 ---
 title: "FX GLOBAL外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FX GLOBAL自2016年以来一直在塞浦路斯运营，受其监管，可以使用先进的MetaTrader 5交易平台提供多种可交易资产，例如股票，股票差价合约，外汇，指数和商品，用于在线交易。 交易者也可以使用教育资源和交易工具。
 
 ## FXGLOBAL测评
+
 - MetaTrader 5交易平台
 - 精选教育资源
 - 多种交易工具
@@ -19,7 +20,6 @@ FX GLOBAL自2016年以来一直在塞浦路斯运营，受其监管，可以使�
 - 不是最紧密的点差
 - 无FIX API交易
 - 不接受美国客户
-
 
 ## 经纪商简介
 

@@ -1,10 +1,10 @@
 ---
 title: "什么是网格交易法?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 感谢Eric pan的邀请。本人有幸曾经一段时间痴迷于网格交易法。但是一段时间后果断放弃。

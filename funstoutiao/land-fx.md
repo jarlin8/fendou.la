@@ -1,15 +1,16 @@
 ---
 title: "Land-FX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Land-FX是一个全球外汇品牌，在MT4和MT5交易平台上提供货币对，商品和指数的在线交易。经纪商提供低点差，可靠的交易执行，市场新闻，研究和投资者选择，例如社交交易和托管账户。
 
 ## Land-FX测评
+
 - 监管经纪
 - 可以在流行的MetaTrader平台上进行交易；MT4和MT5
 - PAMM账户
@@ -21,7 +22,6 @@ Land-FX是一个全球外汇品牌，在MT4和MT5交易平台上提供货币对�
 - 网站上缺乏教育资源
 - 不接受美国客户
 - 最低存款$300
-
 
 ## 经纪商简介
 
@@ -38,6 +38,7 @@ Land-FX使用STP / ECN经纪模式。为了确保具有竞争性的交易条件�
 Land-FX为客户提供MetaTrader 4（MT4）和MetaTrader 5（MT5）交易平台，这些平台是全球数百万用户用于外汇和CFD交易的最佳交易平台之一。
 
 为了表彰其在过去12年中的出色表现，Land-FX的经纪商服务获得了多个行业奖项。这些奖项包括：
+
 - 2013年CIOT全球博览会年度经纪商
 - 2014年中国外汇博览会最佳零售外汇提供商
 - 2015年外汇创新与投资峰会最佳零售外汇经纪商

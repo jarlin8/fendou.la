@@ -1,12 +1,12 @@
 ---
 title: "欧元交易的知识都有哪些？我们应该怎么学习？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 据统计，在美元指数中，欧元的权重最大，为57.6%。  

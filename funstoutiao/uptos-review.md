@@ -1,15 +1,16 @@
 ---
 title: "Uptos交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Uptos是一个在线交易经纪商，提供跨资产类别（包括外汇，金属，期货，股票，指数和差价合约）的10,000多种金融工具，可通过直观且功能强大的MetaTrader 5交易平台进行在线交易。 代理操作ECN执行模型。 他们还为客户提供多种帐户选择以及高达1:400的灵活杠杆。 但是，它们不受监管，从而限制了投资者的保护。
 
 ## 优点和缺点
+
 - 先进的MetaTrader 5交易平台
 - 多种账户类型
 - 数千种金融交易工具
@@ -19,7 +20,6 @@ Uptos是一个在线交易经纪商，提供跨资产类别（包括外汇，金
 - 教育资源有限
 - 有限的帐户资金选择
 - 最低入金$250
-
 
 ## 经纪商简介
 
@@ -116,6 +116,7 @@ VIP帐户的初始最低存款额为100,000美元，是专门为那些愿意进�
 ## 存款和取款
 
 Uptos可用账户资金和提款选项的选择有限。 它们包括：
+
 - 信用卡/借记卡-例如Visa，MasterCard和Maestro
 - 标准付款处理器-包括American Express，Discover等
 

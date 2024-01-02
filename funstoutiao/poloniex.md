@@ -1,15 +1,16 @@
 ---
 title: "Poloniex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Poloniex是一家成熟的在线加密货币交易所，交易员可以买卖多种加密货币，包括TRON，Swiftcoin，Tether，QTUM，Litecoin，以太坊，EOS，比特币等。 交易所不受监管，因此无法提供受监管交易所可以提供的相同保护。
 
 ## 优点与缺点
+
 - 直观的移动交易平台
 - 交易API和其他有用的交易工具
 - 交易博客存在
@@ -17,7 +18,6 @@ Poloniex是一家成熟的在线加密货币交易所，交易员可以买卖多
 - 仅加密货币交易
 - 不接受美国客户
 - 无联系电话
-
 
 ## 经纪商简介
 

@@ -1,15 +1,16 @@
 ---
 title: "Sandton Direct外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Sandton Direct在圣文森特，格林纳丁斯和迪拜设有注册办事处，是一家在线交易经纪商，可帮助您进入外汇市场。 他们使用顶级的流动性提供者，包括X Open Hub。 经纪商通过将客户资金存放在全球顶级银行的独立账户中，帮助确保客户资金的安全。
 
 ## 优点和缺点
+
 - 先进的交易平台
 - 教育资源
 - 离岸监管
@@ -17,7 +18,6 @@ Sandton Direct在圣文森特，格林纳丁斯和迪拜设有注册办事处，
 - 无实时聊天支持
 - 不接受美国客户
 - 无MetaTrader或cTrader平台
-
 
 ## 经纪商简介
 
@@ -68,6 +68,7 @@ Sandton Direct是FSA注册的公司（IBC21786），在圣文森特和格林纳�
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 银行电汇
 - 信用卡/借记卡
 - 比特币

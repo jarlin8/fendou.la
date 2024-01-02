@@ -1,12 +1,12 @@
 ---
 title: "外汇新西兰监管可靠吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 外汇行业大家常见的监管通常分为美国、英国、澳大利亚、塞浦路斯、新西兰监管。  

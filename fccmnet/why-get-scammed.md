@@ -1,7 +1,8 @@
 ---
 title: "Why do we get scammed? A deep reveal of the psychology of financial fraud"
 post_status: publish
-post_date: "2022-07-29"
+post_post_status: publish
+skip_file: no
 taxonomy:
  category: 
   - "faq"

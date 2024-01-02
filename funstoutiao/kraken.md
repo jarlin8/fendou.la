@@ -1,29 +1,28 @@
 ---
 title: "Kraken外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "测评"
-  - "forex-currency-pair"
-  - "kraken"
-  - "加密"
-  - "测评"
-  - "经纪商"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "forex-currency-pair"
+        - "kraken"
+        - "加密"
+        - "测评"
+        - "经纪商"
 ---
 
 Kraken是一种加密货币交易所，可让交易者访问在线买卖加密货币，提供 竞争的 费用，多种资助选择以及各种教学材料。
 
 ## 优点和缺点
+
 - 复杂的移动交易平台
 - 教材选择
 - 24/7客户支持
 - 不受监管的经纪商
 - 有限的非加密货币交易资产
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 
@@ -78,6 +77,7 @@ Kraken是一个在线加密交易所，提供多种加密货币，例如比特�
 ## 充值和提款
 
 该交易所接受各种不同的帐户注资和提款方式。 它们包括：
+
 - 国际银行电汇
 - 加密货币
 

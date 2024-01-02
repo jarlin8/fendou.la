@@ -1,10 +1,10 @@
 ---
 title: "如果交易有段位，你是哪个段位?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 假如交易有段位，一起来看看你是哪个段位？
@@ -19,7 +19,7 @@ taxonomy:
 
   ......
 
-那么你是什么段位呢？说明下理由吧~  
+那么你是什么段位呢？说明下理由吧~
 
 谢邀！很久没更新了，谈谈自己的看法。
 
@@ -61,11 +61,7 @@ taxonomy:
 
 ![](https://cdn.fendou.la/funstoutiao/2020/12/212559835.jpg)
 
-  
-
 ![](https://cdn.fendou.la/funstoutiao/2020/12/212559773.jpg)
-
-  
 
 我对稳定盈利的定义是稳定暴利，否则你不用杠杆进场死扛也能稳定盈利不过是微利。
 
@@ -87,15 +83,9 @@ taxonomy:
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/000508025.jpg)
 
-  
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/000507962.jpg)
 
-  
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/000507978.jpg)
-
-  
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/000508025.jpg)
 
@@ -104,8 +94,6 @@ taxonomy:
 稳定黄金吧，有稳定盈利的能力
 
 这是今天刚赚的
-
-  
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/180414968.jpg)
 

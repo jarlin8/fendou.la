@@ -1,15 +1,16 @@
 ---
 title: "FXM Capital外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXM Capital是一家在线交易经纪商，通过高度先进且直观的MetaTrader 5交易平台，使交易者有机会在五种资产类别（外汇货币对，股票，指数，商品和加密货币）中交易多种金融工具，从而提供了完美的交易执行力和高达1:500的灵活杠杆。
 
 ## FXM Capital测评
+
 - 适用于多种设备的MetaTrader 5平台
 - 精选教材
 - 经济日历和其他交易工具
@@ -21,7 +22,6 @@ FXM Capital是一家在线交易经纪商，通过高度先进且直观的MetaTr
 - 有限的帐户资金选择
 - 最低$250入金
 - 点差偏高
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ FXM Capital是一家在线交易经纪商，为交易者提供跨五种资产类
 ## 存款和取款
 
 FXM Capital接受以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡-例如Visa，MasterCard
 - 加密货币

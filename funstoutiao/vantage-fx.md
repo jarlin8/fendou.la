@@ -1,15 +1,16 @@
 ---
 title: "Vantage FX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Vantage FX是一个受多方监管的ECN在线经纪商，具有灵活的交易平台和帐户类型，可满足不同交易者的需求。Vantage FX为客户提供屡获殊荣的客户服务，一系列交易产品，交易工具，教育资源以及便捷的交易账户注资方法
 
 ## Vantage FX的优缺点
+
 - 严格监管
 - 客户资金隔离
 - ECN / STP执行模型
@@ -24,7 +25,6 @@ Vantage FX是一个受多方监管的ECN在线经纪商，具有灵活的交易�
 - 不接受美国客户
 - 限制欧盟客户的杠杆
 - 无固定利差账户
-
 
 ## 经纪商简介
 

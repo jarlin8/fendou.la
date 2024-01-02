@@ -1,15 +1,16 @@
 ---
 title: "Yadix外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Yadix成立于2010年，是一家在线交易经纪商，为零售，机构和专业客户提供交易服务。 它们为交易者提供MT4交易平台，用于跨不同资产类别（例如，外汇，商品，指数等）交易各种各样的金融产品。
 
 ## 优点和缺点
+
 - 热门的MetaTrader 4交易平台
 - 提供实用的交易辅助工具
 - 精选教育资源
@@ -21,7 +22,6 @@ Yadix成立于2010年，是一家在线交易经纪商，为零售，机构和�
 - 不是最低的佣金
 - 无DMA的FIX API
 - 无MetaTrader 5平台
-
 
 ## 经纪商简介
 

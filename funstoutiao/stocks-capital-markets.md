@@ -1,15 +1,16 @@
 ---
 title: "Stocks Capital Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Stocks Capital Markets是一家在线交易经纪商，在金斯敦，圣文森特和格林纳丁斯开展业务，为交易员提供了基于网络的专有交易平台，可用于交易不同资产类别的各种金融工具，包括股票，商品，指数，外汇和加密货币。 他们提供多种账户选择，要求的最低存款额为250欧元，杠杆率最高为1:400。
 
 ## StocksCM测评
+
 - 专有交易平台
 - 超过200种可交易资产
 - 一系列交易和学习工具
@@ -17,7 +18,6 @@ Stocks Capital Markets是一家在线交易经纪商，在金斯敦，圣文森�
 - 不接受美国客户
 - 无MetaTrader平台
 - 资金选择有限
-
 
 ## 经纪商简介
 
@@ -72,6 +72,7 @@ Stocks Capital Markets提供以下在线交易工具：股票，商品，指数�
 ## 存款和取款
 
 交易者可以使用以下任何一种付款方式在他们的交易账户中存入和提取资金：
+
 - 银行电汇
 - 信用卡/借记卡，包括Visa和MasterCard
 - 电子钱包（APM，EFT等）。
@@ -83,6 +84,7 @@ Stocks Capital Markets提供以下在线交易工具：股票，商品，指数�
 ## 开户步骤
 
 开设帐户可以通过3个简单的步骤：
+
 - 点击主页上的“开设账户”并填写所需的详细信息
 - 等待它被批准
 - 存入资金开始交易

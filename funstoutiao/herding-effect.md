@@ -1,12 +1,12 @@
 ---
 title: "外汇交易中的“羊群效应”是什么？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 很多人都认为，外汇市场的交易者必定是对金融、国际经济局势或者华尔街了如指掌。 不过，如果将他们当做和西格蒙德弗洛伊德（SigmundFreud）或者卡尔荣格（CarlJung）一样精明的人，那就大错特错了。

@@ -1,15 +1,16 @@
 ---
 title: "Generic Trade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Generic Trade是一家在线交易经纪商，专门致力于通过多个复杂的交易平台进行期货和期权交易。 他们提供多种账户选择，而没有最低存款要求，并且他们对交易收取$0.59的佣金。
 
 ## Generic Trade测评
+
 - 新手友好的交易平台
 - 多个帐户选项
 - 无需最低存款

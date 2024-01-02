@@ -1,10 +1,10 @@
 ---
 title: "鳄鱼线指标好用吗?外汇交易干货"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 鳄鱼交易策略是比尔·威廉姆斯对复杂的多头策略 "盈利 "的简化版。鳄鱼线指标实际上就是结合鳄鱼指标、动量震荡指标（AO指标）和分形指标来寻找买卖信号然后进行交易。[技术指标](https://funstoutiao.com/investment-portfolio.html)
@@ -19,6 +19,8 @@ taxonomy:
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/162127172.jpg "301.jpg")
 
+301.jpg
+
 后期在价格有信心的情况下，将SL带到盈亏平衡点。抄底获利的主要标志是大鳄红线。当蜡烛图收盘在红线下方时，将获利平仓。
 
 当然了，为了使信号更可靠，简单的看鳄鱼线形态是不够的。还要尝试将该策略与经典的技术分析相结合：支撑位和阻力位、价格形态。
@@ -26,6 +28,8 @@ taxonomy:
 在MT4软件上，可以通过主菜单安装鳄鱼线指标。插入 - 指标 - Bill Williams - Alligator、Awesome Oscillator、Fractals。
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/162136797.jpg "302.jpg")
+
+302.jpg
 
 鳄鱼线指标（Alligator）是Bill Williams发明的，从原则上看，该指标使用了分形几何学和非线性动能学。实际上它就是均线系统，它有三条不同颜色的移动平均线组合而成，分别有蓝色线条（代表鳄鱼的下巴），红色线条（代表鳄鱼的牙齿），黄色线条（代表鳄鱼的嘴唇）。
 
@@ -36,6 +40,8 @@ taxonomy:
 当价格在分开的三条线之上时，指示市场是个上升趋势，此时要做多（买入）；当价格在分开的三条线之下时，指示市场是个下跌趋势，此时要做空（卖出），而当三条线再次纠缠在一起时，就要平仓了。
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/101839144.jpg "401.jpg")
+
+401.jpg
 
 **计算公式：**
 
@@ -91,7 +97,9 @@ ALLIGATORS LIPS — 鳄鱼嘴唇（绿线）。
 
 鳄鱼线其实就是三根特殊的均线，分别对应的是：蓝线鳄鱼的下巴、红线鳄鱼的牙齿、绿线鳄鱼的上唇。其中下巴是 13 周期均线，并向未来方向移动 8 根 K 线，牙齿是 8 周期均线，并向未来方向移动 5 根 K 线，上唇是 5 周期均线，并向未来方向移动 3 根 K 线。
 
-![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/175805466.jpg "v2-fbf941a4d115753e367635cb9f118f88_r.jpg")1.趋势的判断。当鳄鱼线指标开口向上，并呈现多头排列的状态下，则市场整体看涨。反之则看空。
+![dachshund](https://cdn.fendou.la/funstoutiao/2020/12/175805466.jpg "v2-fbf941a4d115753e367635cb9f118f88_r.jpg")
+
+v2-fbf941a4d115753e367635cb9f118f88\_r.jpg
 
 2.进场选择。（以上涨为例）
 

@@ -1,15 +1,16 @@
 ---
 title: "Anzo Capital外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Anzo Capital是一家位于伯利兹的在线外汇和差价合约经纪商，通过流行的MetaTrader 4（MT4）交易平台提供在线交易。经纪商的交易工具有限，并且交易经纪商的审查小组认为离岸法规不理想。
 
 ## Anzo Capital利弊
+
 - 负余额保护
 - 通过ECN帐户直接进入市场
 - 全方位的MT4平台
@@ -27,6 +28,8 @@ Anzo Capital是一家在线交易经纪商，其使命是提供具有所有基�
 该经纪商提供超过80种货币对的交易服务，几种商品和许多股指-提供有竞争力的浮动点差，无需重新报价即可快速执行，以及负余额保护。但是他们没有严格的监管，也没有联系他们的客户服务团队的电话号码-在紧急情况下并不理想。
 
 ![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-Broker-Features.png "经纪商功能")
+
+经纪商功能
 
 经纪商功能
 
@@ -56,11 +59,15 @@ Anzo Capital MT4 Desktop应用程序启用了所有MT4功能，并支持多种�
 
 MT4桌面
 
+MT4桌面
+
 ### MT4 WebTrader
 
 Anzo Capital MT4 WebTrader是用于即时在线交易的基于浏览器的MT4，无需安装即可使用，并且与所有常见的浏览器（例如Google Chrome，Firefox和Safari）兼容。它具有桌面版本的所有优点，并且与整个MetaTrader 4应用程序完全兼容。
 
 ![MT4 WebTrader](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-MT4-WebTrader-1024x498.png "MT4 WebTrader")
+
+MT4 WebTrader
 
 MT4 WebTrader
 
@@ -72,6 +79,8 @@ Anzo Capital MT4 Mobile使您可以在任何地方进行交易。它具有足够
 
 MT4 Mobile
 
+MT4 Mobile
+
 ### MT4多终端
 
 Anzo Capital MT4 MultiTerminal提供了一种从一个界面同时进行管理的便捷方式。它可以连接多达128个帐户以简化管理，您可以单独或集体进行交易。
@@ -80,11 +89,15 @@ Anzo Capital MT4 MultiTerminal提供了一种从一个界面同时进行管理�
 
 MT4多终端
 
+MT4多终端
+
 ### 多客户经理（MAM）
 
 MAM是一个集成平台，使您可以控制在主帐户下操作的不受限制数量的管理帐户。如果您是资金经理，您可能会发现此应用程序非常有用，因为您可以从一个界面管理所有客户的帐户。
 
 ![多客户经理](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-Multi-Account-Manager.png "多客户经理")
+
+多客户经理
 
 多客户经理
 
@@ -97,6 +110,8 @@ Anzo Capital提供了许多使交易变得更加容易的工具。其中一些�
 经纪商在其网站上提供外汇计算器。这些计算器旨在帮助您准确评估关键外汇价值，例如点差，保证金，掉期以及损益。
 
 ![外汇计算器](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-Forex-Calculators.png "外汇计算器")
+
+外汇计算器
 
 外汇计算器
 
@@ -117,6 +132,8 @@ Myfxbook AutoTrade是可用的最先进的副本交易工具之一。如果您�
 Anzo Capital在其网站上拥有“经济日历”，并且新闻和数据会自动更新，因此您可以获得有关市场情况的最新信息。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-Economic-Calendar-717x1024.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -143,6 +160,7 @@ Anzo Capital提供80多种货币对，多种商品和一些股票指数的外汇
 ### 外汇对
 
 使用Anzo Capital，您可以交易许多货币对，包括：
+
 - 主要货币对，例如EUR / USD，GBP / USD和USD / JPY
 - 次要货币对，例如AUD / CHF，AUD / JPY和AUD / NZD
 - 异国货币对，例如EUR / DKK，EUR / HUF和USD / DKK
@@ -150,6 +168,7 @@ Anzo Capital提供80多种货币对，多种商品和一些股票指数的外汇
 ### 大宗商品
 
 经纪商提供一些商品的交易，包括
+
 - 贵金属-黄金和白银
 - 能源— WTI原油和布伦特原油
 
@@ -167,6 +186,8 @@ Anzo Capital提供两种类型的帐户-STP和ECN帐户。STP帐户的最低存�
 
 帐户类型
 
+帐户类型
+
 由于经纪商费用可能会发生变化，因此可能会有其他费用未在此Anzo Capital评论中列出。在打开Anzo Capital经纪账户进行在线交易之前，必须确保您检查并了解所有最新信息。
 
 ## 客户服务
@@ -176,6 +197,7 @@ Anzo Capital通过电子邮件和实时聊天提供客户支持服务。客户�
 ## 存款和取款
 
 Anzo Capital接受多种付款方式，用于资金存入和提取。经纪商不对这些交易收取任何费用，但是付款处理者可能会向您收取费用。
+
 - **银行电汇：**处理存款或取款大约需要2-5个工作日。您可以存入或提取的最低金额为$100。如果您的存款或取款少于$3,000，您将承担银行交易费用，而如果您进行$3,000或以上的交易，则由经纪商承担费用。
 - **信用卡/借记卡：** Anzo接受万事达，Visa和JCB卡。存款是即时的，但取款需要一个工作日。您可以提取的最低金额为20美元，并且没有交易费用。
 - **数字钱包：**经纪商使用NETELLER，Skrill和WebMoney。存款会立即处理，但提款需要一个工作日。您可以提取的最低金额为$20，并且没有任何费用。
@@ -186,9 +208,13 @@ Anzo Capital接受多种付款方式，用于资金存入和提取。经纪商�
 
 开户流程
 
+开户流程
+
 使用Anzo Capital创建帐户是一个分为6个步骤的过程，该过程从填写其主页右下角的在线注册表单开始。
 
 ![在线注册表格](https://cdn.fendou.la/funstoutiao/2020/11/Anzo-Capital-Review-Online-Registration-Form.png "在线注册表格")
+
+在线注册表格
 
 在线注册表格
 

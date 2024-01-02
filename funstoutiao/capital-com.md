@@ -1,22 +1,22 @@
 ---
 title: "Capital.com外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Capital.com是一家经过严格监管且经过全面审核的在线经纪商，来自世界各地的360,000多名注册客户在使用。通过其屡获殊荣的平台，交易者可以参与指数，商品，加密货币，股票和外汇货币对的2,000多个市场的差价合约交易。
 
 ## Capitalcom测评
+
 - 严格监管
 - 投资人
 - 丰富的教育资源
 - 不接受美国客户
 - 非专业交易者的最大1:30杠杆
 - 无MetaTrader 4平台
-
 
 ## 经纪商简介
 
@@ -25,6 +25,8 @@ Capital.com是一个在线差价合约经纪商，为全球交易者提供跨五
 交易品牌Capital.com由三家公司运营，分别在伦敦，直布罗陀，利马索尔和明斯克设有办事处。他们的收费透明，事先知道基于杠杆的隔夜收费。经纪商提供多语言客户支持服务。但是，由于没有ECN帐户服务，它们无法直接进入市场，因此，与某些最佳的交易经纪商相比，价差不是最紧的。
 
 ![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Review-Broker-features-1024x372.png "经纪商功能")
+
+经纪商功能
 
 经纪商功能
 
@@ -58,11 +60,15 @@ Capital.com提供了两个独特的交易平台-Capital.com网络交易平台和
 
 网络交易平台
 
+网络交易平台
+
 ### Capital.com差价合约交易应用
 
 该经纪商还提供其差价合约交易平台的移动应用程序版本，以帮助交易者在具有互联网连接的情况下从世界任何地方进入市场。借助多达70种技术分析指标和其他技术工具，交易者可以轻松快速地分析交易中的市场并进行交易。该移动应用程序可用于Android和iOS设备。
 
 ![移动交易应用](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Review-Mobile-Trading-App.png "移动交易应用")
+
+移动交易应用
 
 移动交易应用
 
@@ -76,11 +82,15 @@ Capital.com为他们的交易商提供了计划的经济数据发布时间表，
 
 经济日历
 
+经济日历
+
 ### Capital.com电视
 
 该经纪商提供了一个在线电视，他们的专家不时在技术上分析不同的市场，并查看诸如非农报告等基本数据发布的影响。
 
 ![Capital.com电视](https://cdn.fendou.la/funstoutiao/2020/11/Capital.com-Review-Capital.com-TV-1024x271.png "Capital.com电视")
+
+Capital.com电视
 
 Capital.com电视
 
@@ -92,6 +102,8 @@ Capital.com为他们的客户提供实时新闻，以使他们了解各种全球
 
 实时新闻源
 
+实时新闻源
+
 ## 投资者教育
 
 ### 投资人
@@ -99,6 +111,8 @@ Capital.com为他们的客户提供实时新闻，以使他们了解各种全球
 这是经纪商为客户提供的教育应用程序。它是学习金融的多合一应用程序-拥有丰富且免费的工具包，其中包含各种学习资料，超过30门课程包括简短的课程，只需3分钟即可完成。还有有用的交易技巧和发人深省的视频，可为您简化技术分析。
 
 ![投资伙伴](https://cdn.fendou.la/funstoutiao/2020/11/Capital.com-Review-Investmate.png "投资伙伴")
+
+投资伙伴
 
 投资伙伴
 
@@ -114,9 +128,12 @@ Capital.com为客户组织了网络研讨会，以使他们了解市场的最新
 
 学习交易课程
 
+学习交易课程
+
 ## 交易工具
 
 以下是可用的工具：
+
 - **外汇**：有不同的外汇货币对，包括主要货币对，次要货币对和一些特殊货币对。
 - **加密货币**：通过Capital.com，您可以交易多达20种加密货币对的差价合约。
 - **商品**：经纪商提供贵金属（包括金，银，铂和钯），能源（美国原油，布伦特原油和天然气）以及软商品（例如橙汁，可可和糖）的差价合约交易。
@@ -126,11 +143,14 @@ Capital.com为客户组织了网络研讨会，以使他们了解市场的最新
 ## 交易账户和费用
 
 Capital.com提供零售和专业帐户。对于零售帐户，有3种帐户类型：
+
 - **标准帐户：**存款的范围从20 EUR，20 USD，20 GBP或80 PLN到3,000 EUR / USD / GBP或12,000 PLN。提供高达1:30的杠杆和负余额保护。
 - **Plus帐户：**最低存款额为3,000美元，杠杆高达1:30，负余额保护。
 - **高级帐户：**对于这种帐户类型，最低存款额为10,000美元。杠杆高达1:30，具有负面帐户保护功能。
 
 ![帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/Capital.com-Review-Account-Types-1024x996.png "帐户类型")
+
+帐户类型
 
 帐户类型
 
@@ -151,11 +171,14 @@ Capital.com提供超过24种语言的多语言客户支持服务。您可以通�
 ## 存款和取款
 
 Capital.com接受不同的支付渠道。经纪商不收取任何存款或取款费用，但您的金融服务提供商可能会收取一些交易费用。您可以选择以下付款方式：
+
 - **信用卡/借记卡：**经纪商接受万事达卡，Maestro和Visa卡。存款是即时的，但是取款大约需要2-3个工作日或更多。
 - **银行电汇：**您可以通过此渠道存入的最低金额为250美元。充值和提款可能需要几天的时间才能处理。
 - **替代付款方式：** Capital.com接受一些在线钱包，例如Sofort，iDeal，Giropay，Multibanko，Przelewy24，QIWI，Webmoney，Worldpay，Trustly，Neteller和Skrill。存款将在几个小时内处理完毕。
 
 ![如何存入或提取资金](https://cdn.fendou.la/funstoutiao/2020/11/Capital.com-Review-How-to-Deposit-or-Withdraw-Funds.png "如何存入或提取资金")
+
+如何存入或提取资金
 
 如何存入或提取资金
 
@@ -167,9 +190,13 @@ Capital.com接受不同的支付渠道。经纪商不收取任何存款或取款
 
 开户
 
+开户
+
 之后，您会看到一个页面，其中注明您的国籍和居住国家。当您继续时，您会看到一个页面来填写您的姓名。
 
 ![开户2](https://cdn.fendou.la/funstoutiao/2020/11/Capital.com-Review-Account-Opening-2.png "开户2")
+
+开户2
 
 开户2
 

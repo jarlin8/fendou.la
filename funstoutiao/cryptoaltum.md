@@ -1,15 +1,16 @@
 ---
 title: "CryptoAltum外账交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CryptoAltum为全球的交易者提供在线加密交易服务。 该经纪商为客户提供了超过60种加密货币的广泛选择，供客户通过流行的MetaTrader 5（MT5）平台进行交易，该平台可在多种设备上使用。 可以使用加密钱包全天候24/7为交易账户注资，并且可以灵活选择杠杆比例，最高可达1:500。
 
 ## 优点＆缺点
+
 - 超过60种加密货币的良好范围
 - 24/7加密交易
 - 灵活的杠杆
@@ -24,12 +25,13 @@ CryptoAltum为全球的交易者提供在线加密交易服务。 该经纪商�
 - 仅加密货币会计
 - 无伊斯兰帐户
 
-
 ## 经纪商简介
 
 CryptoAltum成立于2020年，是一家致力于24/7加密货币交易的CFD经纪商，拥有60多种加密对，并经常添加新的加密货币。 经纪商实施了直通式处理（STP）经纪模型，在该模型中，所有交易都自动进行，无需任何交易台干预。 他们从几个顶级的全球交易所获得流动性。 通过利用多个流动性提供者（LP），经纪商确保他们始终可以为客户提供最佳的可用价格。 所有交易均与市场执行一起执行。
 
 ![Broker Features](https://cdn.fendou.la/funstoutiao/2020/11/CryptoAltum-Review-Broker-Features-1024x297.png "Broker Features")
+
+Broker Features
 
 经纪商功能
 
@@ -51,6 +53,8 @@ CryptoAltum为客户提供由俄罗斯软件公司MetaQuotes开发的功能强�
 
 ![MetaTrader 5 (MT5) Trading Platform](https://cdn.fendou.la/funstoutiao/2020/11/CryptoAltum-Review-MetaTrader-5-MT5-Trading-Platform.png "MetaTrader 5 (MT5) Trading Platform")
 
+MetaTrader 5 (MT5) Trading Platform
+
 MetaTrader 5（MT5）交易平台
 
 MT5可作为桌面平台，移动交易应用程序使用，也可以直接在大多数现代网络浏览器中运行，而无需下载或安装任何其他软件。
@@ -58,6 +62,7 @@ MT5可作为桌面平台，移动交易应用程序使用，也可以直接在�
 MT5是最受欢迎的在线交易平台之一，全球数以百万计的新手和资深交易者都在使用它。 该平台以其友好的用户界面和丰富的内置交易工具而闻名。
 
 MT5平台的一些重要功能包括：
+
 - 快速的订单执行速度
 - 市场深度（DOM）二级定价
 - 高级订单类型
@@ -75,6 +80,8 @@ CryptoAltum在其网站上提供了多种其他交易工具，可协助交易员
 
 ![Trading Calculator](https://cdn.fendou.la/funstoutiao/2020/11/CryptoAltum-Review-Trading-Calculator-1024x493.png "Trading Calculator")
 
+Trading Calculator
+
 交易计算器
 
 ## 投资者教育
@@ -86,6 +93,7 @@ CryptoAltum有一个交易博客，其中包括一个有关整个加密货币和
 借助CryptoAltum，交易者可以访问超过60种以上的加密货币对的24/7在线交易。 他们主要是从事加密交易的经纪商，同时还提供各种外汇货币，商品，黄金和股票指数。
 
 经纪商加密货币产品包括一些最受欢迎的加密货币，例如：
+
 - 比特币
 - 比特币现金
 - 以太坊
@@ -133,6 +141,8 @@ CryptoAltum接受包括BTC，BCH，ETH，XRP，LTC和USDT在内的加密货币�
 6. 登录MT5平台并开始在线交易加密货币
 
 ![Client Registration](https://cdn.fendou.la/funstoutiao/2020/11/CryptoAltum-Review-Client-Registration.png "Client Registration")
+
+Client Registration
 
 客户注册
 

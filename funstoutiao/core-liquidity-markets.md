@@ -1,22 +1,22 @@
 ---
 title: "Core Liquidity Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Core Liquidity Markets（简称CLMarkets）是场外金融服务的提供商，为来自100多个国家的交易者和资产管理者提供通过外汇访问多种资产（包括外汇，股票，指数，商品和加密货币）的在线交易的机会。完善的MetaTrader 4交易平台。 经纪商使用ECN执行模型，但不受监管。
 
 ## 优点和缺点
+
 - MetaTrader 4交易平台
 - 超过100种交易工具
 - 多语种客户支持
 - 缺乏监管
 - 不接受美国客户
 - 最高帐户需要$500存款
-
 
 ## 经纪商简介
 
@@ -46,6 +46,8 @@ Core Liquidity Markets是Core Liquidity Markets Limited的商业名称，注册�
 
 MT4平台
 
+MT4平台
+
 ## 交易工具
 
 经纪商为客户提供了一系列有用的交易工具，可以帮助改善他们的整体交易体验。 它们包括经济日历，货币转换器和外汇计算器。
@@ -57,6 +59,8 @@ MT4平台
 经纪商的网站上有一个交易博客，其中包含大量文章，可帮助使交易者随时了解金融市场的最新动态。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/11/Core-Liquidity-Markets-Review-Trading-Blog.jpg "交易博客")
+
+交易博客
 
 交易博客
 
@@ -85,6 +89,8 @@ MT4平台
 要创建一个新帐户，只需单击“立即开始”按钮，并正确填写显示的表格：
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Core-Liquidity-Markets-Review-Account-Opening-Page-1-411x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

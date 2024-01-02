@@ -1,15 +1,16 @@
 ---
 title: "Mercuryo外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Mercuryo是欧洲的一种加密货币交易所，为交易者提供使用银行卡购买和出售各种数字货币的钱包服务，例如比特币，以太坊，Tether，Algorand，TRON，Dai，Basic Attention Token等。
 
 ## 优点与缺点
+
 - 新手友好的交易平台
 - 教育资源
 - 多种数字货币
@@ -17,7 +18,6 @@ Mercuryo是欧洲的一种加密货币交易所，为交易者提供使用银行
 - 无MetaTrader平台
 - 交易工具有限
 - 资金选择有限
-
 
 ## 经纪商简介
 

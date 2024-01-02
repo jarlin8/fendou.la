@@ -1,13 +1,13 @@
 ---
 title: "什么时候出手买房？90后婚房刚需房买不买？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
-[caption id="attachment-13293" align="aligncenter" width="640"]![](https://cdn.fendou.la/funstoutiao/2019/06/house-1.jpg) 买不买房呢？[/caption]
+\[caption id="attachment-13293" align="aligncenter" width="640"\]![](https://cdn.fendou.la/funstoutiao/2019/06/house-1.jpg) 买不买房呢？\[/caption\]
 
 最近也在被催婚了，而且今年6.21日西北的西安也已经对标一线大城市开始实行限购了！
 
@@ -86,6 +86,7 @@ D 情景：买房，房价跌了
 如果拍卖房子这种事情没发生，你总能期待房价涨回来的那一天。
 
 所以降低风险的因素有两个，
+
 - 全款买房，
 - 有能力偿还按揭贷款。
 
@@ -120,8 +121,9 @@ D 情景：买房，房价跌了
 总的来说，A 和 D，哪个更严重？我得出两个结论：
 
 1. 不买房，房价暴涨，我们无能为力；
-
+    
 2. 买房，合理控制贷款，房价暴跌，我们可以控制风险。
+    
 
 所以，现在京沪两地，刚需的话，房子还是要买的。
 

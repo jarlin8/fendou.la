@@ -1,15 +1,16 @@
 ---
 title: "Swissquote外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Swissquote是一家领先的在线经纪商，拥有多项法规，广泛的交易工具，具有竞争力的点差和零佣金。他们提供了功能强大且用户友好的交易平台，灵活的账户类型，先进的交易工具和教材。
 
 ## Swissquote测评
+
 - 多重监管
 - 广泛的交易工具
 - 免佣金交易
@@ -21,7 +22,6 @@ Swissquote是一家领先的在线经纪商，拥有多项法规，广泛的交�
 - 不接受美国客户
 - 无固定利差账户
 - 最低入金$1,000
-
 
 ## 经纪商简介
 

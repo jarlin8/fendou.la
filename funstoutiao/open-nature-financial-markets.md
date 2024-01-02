@@ -1,10 +1,10 @@
 ---
 title: "金融市场什么时候才能在国内正式开放?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 真开放了可能不是好事
@@ -54,10 +54,6 @@ FCA同样是打压
 08年之前，我们开NFA，之后开FCA，最近几年开ASIC，现在开在岛上…当经纪商没有任何限制，行业性质就变了。
 
 政策可以预期，落地很难说清楚。 万一真的开放，就只能10倍、20倍杠杆玩了。
-
- 
-
- 
 
 外汇市场的开放，无外乎牵涉到一个资金安全问题，如果不是这个需要，没人在意开放与否！
 

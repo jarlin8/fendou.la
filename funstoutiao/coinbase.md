@@ -1,15 +1,16 @@
 ---
 title: "Coinbase数字货币和电子钱包交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Coinbase是一个数字货币钱包和交易平台，交易商和消费者可以在其中交易数字货币，例如比特币，以太坊和莱特币。 该交易所为客户提供了丰富的教育材料选择和易于使用的Coinbase移动交易应用程序。
 
 ## Coinbase 优点＆缺点
+
 - 灵活成熟的交易平台
 - 专门的客户服务团队
 - 有用的交易工具，例如Coinbase Pro API
@@ -19,12 +20,13 @@ Coinbase是一个数字货币钱包和交易平台，交易商和消费者可以
 - 无MetaTrader平台
 - 无在线聊天支持
 
-
 ## 总结
 
 Coinbase成立于2012年6月，是一个位于加利福尼亚州旧金山的数字货币钱包和交易平台。 它使商家和消费者可以使用比特币，以太坊和莱特币等加密货币进行交易。 Coinbase的交易额超过1600亿美元，全球超过3000万用户。 他们还为交易者提供了丰富的教育材料选择，他们的网站提供10多种语言的版本。
 
 ![买卖加密货币](https://cdn.fendou.la/funstoutiao/2020/12/Coinbase-Review-Buy-Sell-Cryptocurrency.png "买卖加密货币")
+
+买卖加密货币
 
 买卖加密货币
 
@@ -54,11 +56,14 @@ Coinbase服务遍及多个大洲的100多个国家/地区，包括北美，南�
 
 移动应用
 
+移动应用
+
 ### **Coinbase Pro**
 
 这是一个安全且有保险支持的平台，可为个人交易者提供交易各种数字资产的能力。 它可以作为Android和iOS设备的移动应用程序使用，使客户可以轻松地在智能手机上交易加密货币。
 
 Coinbase Pro提供了一个直观的界面，其中包含实时订单簿，图表工具，交易历史记录和简单的订单流程，因此从第一天起您就可以轻松进行交易。 该应用程序是为高级加密货币交易者构建的，具有所有必要的信息和工具，可随时随地进行交易。 这些包括：
+
 - 实时烛台图表和订单簿
 - 限价和市场订单
 - 高级订单表和产品组合概述
@@ -67,11 +72,15 @@ Coinbase Pro提供了一个直观的界面，其中包含实时订单簿，图�
 
 Coinbase Pro平台
 
+Coinbase Pro平台
+
 ### **Coinbase Prime**
 
 这是Coinbase的专业交易平台，专门为机构客户设计。 它使他们能够访问支持所有Coinbase产品的多元化流动资金池。
 
 ![Coinbase Prime平台](https://cdn.fendou.la/funstoutiao/2020/12/Coinbase-Review-Coinbase-Prime-Platform-1024x549.png "Coinbase Prime平台")
+
+Coinbase Prime平台
 
 Coinbase Prime平台
 
@@ -86,6 +95,7 @@ Coinbase Prime平台
 与API密钥身份验证方法相比，它的集成稍微复杂一些，但是更加灵活。 OAuth2适用于Web应用程序以及桌面和移动应用程序。 Coinbase的API支持多种功能：从简单地收集只读数据到构建以前从未做过的事情。
 
 Coinbase API具有以下功能：
+
 - 生成比特币，比特币现金，莱特币和以太坊钱包和地址
 - 购置/出售和发送/接收比特币，比特币现金，莱特币和以太坊
 - 用交易所安全地存放硬币
@@ -96,6 +106,8 @@ Coinbase API具有以下功能：
 
 Coinbase API
 
+Coinbase API
+
 ## 投资者教育
 
 ### **Coinbase博客**
@@ -103,6 +115,8 @@ Coinbase API
 Coinbase网站上有一个完善的博客，其中包含精选的交易文章，有助于提高整体交易技巧和各种经验水平的交易者的知识。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/12/Coinbase-Review-Blog-860x1024.png "交易博客")
+
+交易博客
 
 交易博客
 
@@ -137,6 +151,8 @@ Coinbase允许交易者使用Coinbase Commerce将资金直接存入他们的钱�
 开设Coinbase帐户既简单又快捷。 您可以单击Coinbase网站上的“注册”按钮，并相应地填写表格。 您只需要一个电子邮件地址，不需要任何文档。
 
 ![开户](https://cdn.fendou.la/funstoutiao/2020/12/Coinbase-Review-Account-Opening.png "开户")
+
+开户
 
 开户
 

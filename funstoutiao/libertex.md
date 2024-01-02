@@ -1,33 +1,33 @@
 ---
 title: "Libertex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "经纪商"
-  - "测评"
-  - "交易"
-  - "交易者"
-  - "帐户"
-  - "策略"
-  - "资金"
-  - "货币"
-  - "提供"
-  - "数据"
-  - "股票"
-  - "trading-psychology"
-  - "银行"
-  - "foreign-exchange"
-  - "技术指标"
-  - "加密"
-  - "测评"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "提供"
+        - "数据"
+        - "股票"
+        - "银行"
+        - "trading-psychology"
+        - "foreign-exchange"
+        - "技术指标"
+        - "加密"
+        - "测评"
+        - "经纪商"
+        - "交易"
+        - "交易者"
+        - "帐户"
+        - "策略"
+        - "资金"
+        - "货币"
 ---
 
 Libertex是一家受监管的在线经纪商，向全球110多个国家/地区的客户提供证明，它们通过屡获殊荣且用户友好的交易平台访问244种以上可交易资产。
 
 ## 优点和缺点
+
 - 合规经纪商
 - 客户资金隔离
 - 负余额保护
@@ -38,7 +38,6 @@ Libertex是一家受监管的在线经纪商，向全球110多个国家/地区�
 - 受限账户类型
 - 教材有限
 - 非专业客户的杠杆作用有限
-
 
 ## 经纪商简介
 

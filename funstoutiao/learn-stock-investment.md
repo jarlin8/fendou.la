@@ -1,19 +1,19 @@
 ---
 title: "如何系统地学习股票投资并实现稳定盈利？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
- post_tag: 
-  - "trade-stocks"
+  category:
+        - "experience"
+  post_tag:
+        - "trade-stocks"
 ---
 
 系统学习股市的目的是实现稳定盈利，那有没有一种简单易学的操作方法，可以战胜95%以上的股民？答案是肯定的。
 
 大三上证券投资课时，我和院里的教授一起编写了一个牛熊指标，原理是利用指数的均值回归实现低买高卖。
 
-<img src="https://pic1.zhimg.com/50/v2-46f25a01b381a03a0885baeba704cc27-hd.jpg?source=1940ef5c" data-rawwidth="1672" data-rawheight="934" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1672" data-original="https://pic2.zhimg.com/v2-46f25a01b381a03a0885baeba704cc27-r.jpg?source=1940ef5c"/>
+![](https://pic1.zhimg.com/50/v2-46f25a01b381a03a0885baeba704cc27-hd.jpg?source=1940ef5c)
 
 ![](https://pic1.zhimg.com/80/v2-46f25a01b381a03a0885baeba704cc27_1440w.jpg?source=1940ef5c)
 
@@ -21,37 +21,37 @@ taxonomy:
 
 牛熊指标的强大之处在于其适用于全球所有指数的投资，A股熊市时可以买入其他国家的指数，提高资金的使用率。
 
-<img src="https://pic2.zhimg.com/50/v2-3ec3a9827716f48de005d40edc6df64a-hd.jpg?source=1940ef5c" data-rawwidth="1673" data-rawheight="915" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1673" data-original="https://pic4.zhimg.com/v2-3ec3a9827716f48de005d40edc6df64a-r.jpg?source=1940ef5c"/>
+![](https://pic2.zhimg.com/50/v2-3ec3a9827716f48de005d40edc6df64a-hd.jpg?source=1940ef5c)
 
 ![](https://pic2.zhimg.com/80/v2-3ec3a9827716f48de005d40edc6df64a_1440w.jpg?source=1940ef5c)
 
 美股因为互联网泡沫破裂和次贷危机形成的两次买点清晰可见，现在仍然属于强势阶段。
 
-<img src="https://pic1.zhimg.com/50/v2-1758d50d40443e9b758ecf4393c2b76e-hd.jpg?source=1940ef5c" data-rawwidth="1671" data-rawheight="917" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1671" data-original="https://pic4.zhimg.com/v2-1758d50d40443e9b758ecf4393c2b76e-r.jpg?source=1940ef5c"/>
+![](https://pic1.zhimg.com/50/v2-1758d50d40443e9b758ecf4393c2b76e-hd.jpg?source=1940ef5c)
 
 ![](https://pic1.zhimg.com/80/v2-1758d50d40443e9b758ecf4393c2b76e_1440w.jpg?source=1940ef5c)
 
 德国DAX和美股的买点差不多。
 
-<img src="https://pic1.zhimg.com/50/v2-d18b27f2d7771752cdc71d2c3f34313d-hd.jpg?source=1940ef5c" data-rawwidth="1671" data-rawheight="916" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1671" data-original="https://pic4.zhimg.com/v2-d18b27f2d7771752cdc71d2c3f34313d-r.jpg?source=1940ef5c"/>
+![](https://pic1.zhimg.com/50/v2-d18b27f2d7771752cdc71d2c3f34313d-hd.jpg?source=1940ef5c)
 
 ![](https://pic1.zhimg.com/80/v2-d18b27f2d7771752cdc71d2c3f34313d_1440w.jpg?source=1940ef5c)
 
 09年买入香港恒生指数，15年卖出翻了接近3倍。
 
-<img src="https://pic1.zhimg.com/50/v2-2adc9ea89489e3a022c7832d6e1a6830-hd.jpg?source=1940ef5c" data-rawwidth="1672" data-rawheight="915" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1672" data-original="https://pic2.zhimg.com/v2-2adc9ea89489e3a022c7832d6e1a6830-r.jpg?source=1940ef5c"/>
+![](https://pic1.zhimg.com/50/v2-2adc9ea89489e3a022c7832d6e1a6830-hd.jpg?source=1940ef5c)
 
 ![](https://pic1.zhimg.com/80/v2-2adc9ea89489e3a022c7832d6e1a6830_1440w.jpg?source=1940ef5c)
 
 巴黎CAC最近的买点在2012年，最高翻一倍，表现一般。
 
-<img src="https://pic4.zhimg.com/50/v2-17c486603fe957d25116fe58b4eebc78-hd.jpg?source=1940ef5c" data-rawwidth="1672" data-rawheight="918" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1672" data-original="https://pic3.zhimg.com/v2-17c486603fe957d25116fe58b4eebc78-r.jpg?source=1940ef5c"/>
+![](https://pic4.zhimg.com/50/v2-17c486603fe957d25116fe58b4eebc78-hd.jpg?source=1940ef5c)
 
 ![](https://pic4.zhimg.com/80/v2-17c486603fe957d25116fe58b4eebc78_1440w.jpg?source=1940ef5c)
 
 2013年投资经济萎靡的日本，3年能赚2.5倍。
 
-<img src="https://pic4.zhimg.com/50/v2-4f8fbc9b52cbc441400db27eb1e15c40-hd.jpg?source=1940ef5c" data-rawwidth="1672" data-rawheight="916" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1672" data-original="https://pic2.zhimg.com/v2-4f8fbc9b52cbc441400db27eb1e15c40-r.jpg?source=1940ef5c"/>
+![](https://pic4.zhimg.com/50/v2-4f8fbc9b52cbc441400db27eb1e15c40-hd.jpg?source=1940ef5c)
 
 ![](https://pic4.zhimg.com/80/v2-4f8fbc9b52cbc441400db27eb1e15c40_1440w.jpg?source=1940ef5c)
 
@@ -73,11 +73,11 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 什么是炒股的正确思路？这个问题，我思考了整整10年。
 
-## **01. 探索：初识股市信息链**
+## **01\. 探索：初识股市信息链**
 
 不管什么门派，只有低买高卖才能赚钱。
 
-<img src="https://pic4.zhimg.com/50/v2-b9ab358b6f8baeceb6d0ae9f23749872-hd.jpg?source=1940ef5c" data-rawwidth="654" data-rawheight="497" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="654" data-original="https://pic2.zhimg.com/v2-b9ab358b6f8baeceb6d0ae9f23749872-r.jpg?source=1940ef5c"/>
+![](https://pic4.zhimg.com/50/v2-b9ab358b6f8baeceb6d0ae9f23749872-hd.jpg?source=1940ef5c)
 
 ![](https://pic4.zhimg.com/80/v2-b9ab358b6f8baeceb6d0ae9f23749872_1440w.jpg?source=1940ef5c)
 
@@ -93,7 +93,7 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 市场上极少数牛人因为某种原因对某个公司的利好消息先知先觉，抄底买入。接着，一些机构也知道了该利好消息，大举买入，股价开始上涨。最后，处于信息链最末端的散户由于赚钱效应跟风买入，股价猛涨，直到越过临界点，潮水退去。
 
-<img src="https://pic2.zhimg.com/50/v2-f3986257efcfc102d4ef50561a75fcff-hd.jpg?source=1940ef5c" data-rawwidth="777" data-rawheight="715" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="777" data-original="https://pic1.zhimg.com/v2-f3986257efcfc102d4ef50561a75fcff-r.jpg?source=1940ef5c"/>
+![](https://pic2.zhimg.com/50/v2-f3986257efcfc102d4ef50561a75fcff-hd.jpg?source=1940ef5c)
 
 ![](https://pic2.zhimg.com/80/v2-f3986257efcfc102d4ef50561a75fcff_1440w.jpg?source=1940ef5c)
 
@@ -111,11 +111,11 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 职业投资人分享研究成果，基金经理做进一步的公司调研，我利用人脉关系搭建中间的桥梁。职业投资人多了一份保障，基金经理的工作变得更高效，而我，从信息链的5环进入了1.5环。大家各取所需。
 
-## **02. 曙光：发明六步稳赚法**
+## **02\. 曙光：发明六步稳赚法**
 
 上述模式看似简单，在实际操作过程中还会遇到各种问题。经过多年的摸索和改进，我渐渐形成了自己稳定的操盘体系，我称之为六步稳赚法。
 
-<img src="https://pic4.zhimg.com/50/v2-d256a1dec4235c828a5e0bc33cda61be-hd.jpg?source=1940ef5c" data-rawwidth="1045" data-rawheight="248" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1045" data-original="https://pic4.zhimg.com/v2-d256a1dec4235c828a5e0bc33cda61be-r.jpg?source=1940ef5c"/>
+![](https://pic4.zhimg.com/50/v2-d256a1dec4235c828a5e0bc33cda61be-hd.jpg?source=1940ef5c)
 
 ![](https://pic4.zhimg.com/80/v2-d256a1dec4235c828a5e0bc33cda61be_1440w.jpg?source=1940ef5c)
 
@@ -177,11 +177,11 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 **真正的卖点是在买入前就知道的，它是一个区间而不是一个精确的数字。**这个区间需要在持续跟踪的过程中不断修正。当股价达到区间下限时，卖30%；达到区间中枢时，卖50%；剩下的20%可以在价格达到区间上限时卖掉，也可以去搏一把客观的阶段顶，纯属娱乐。
 
-## **03. 实战：六步稳赚法案例**
+## **03\. 实战：六步稳赚法案例**
 
 从13年入市至今，我利用六步稳赚法先后挖掘出的标的如下表：
 
-<img src="https://pic4.zhimg.com/50/v2-ca334d20c05ebd915d45b63608ad9a99-hd.jpg?source=1940ef5c" data-rawwidth="1098" data-rawheight="662" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-5f1e201bfe698f7efbe544542e38cc41-hd.jpg?source=1940ef5c" class="origin-image zh-lightbox-thumb" width="1098" data-original="https://pic3.zhimg.com/v2-ca334d20c05ebd915d45b63608ad9a99-r.jpg?source=1940ef5c"/>
+![](https://pic4.zhimg.com/50/v2-ca334d20c05ebd915d45b63608ad9a99-hd.jpg?source=1940ef5c)
 
 ![](https://pic4.zhimg.com/80/v2-ca334d20c05ebd915d45b63608ad9a99_1440w.jpg?source=1940ef5c)
 
@@ -191,7 +191,7 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 首先需要搞清楚养猪行业周期性的由来。
 
-<img src="https://pic2.zhimg.com/50/v2-eeabc5727739695fe3f0447f1442744f-hd.jpg?source=1940ef5c" data-rawwidth="1169" data-rawheight="486" data-size="normal" data-caption="" class="origin-image zh-lightbox-thumb" width="1169" data-original="https://pic4.zhimg.com/v2-eeabc5727739695fe3f0447f1442744f-r.jpg?source=1940ef5c"/>
+![](https://pic2.zhimg.com/50/v2-eeabc5727739695fe3f0447f1442744f-hd.jpg?source=1940ef5c)
 
 ![](https://pic2.zhimg.com/80/v2-eeabc5727739695fe3f0447f1442744f_1440w.jpg?source=1940ef5c)
 
@@ -253,7 +253,7 @@ _炒股获胜的关键，并不在于是否能找到好股或能否坚定持有�
 
 所以，研究的足够深才敢买，做好持续跟踪才拿的住。
 
-## **04. 蜕变：无视波动心中无股**
+## **04\. 蜕变：无视波动心中无股**
 
 六步稳赚法是一个完整的体系，只有每一步都严格执行才能发挥最大的威力。它能让你不被短期的资金博弈所迷惑，体验站在信息链顶端一览众山小的快感。曾经认为C浪杀跌、主力出逃、政策打压、董秘减持形成的卖点现在看全是买点；曾经认为KDJ金叉、成交量大增、热点题材、筹码集中形成的买点现在看全是卖点。这感觉就像一个活在二维世界的生物进入三维世界之后，发现自己之前的世界观完全被颠覆了。
 

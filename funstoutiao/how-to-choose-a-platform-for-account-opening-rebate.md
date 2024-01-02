@@ -1,12 +1,12 @@
 ---
 title: "外汇开户返佣怎么选择平台？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-account-opening"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-account-opening"
 ---
 
 外汇开户返佣怎么选择平台？外汇开户返佣，有的时候是外汇平台推出给广大投资者的活动，就是返还投资者在交易过程中缴纳的一部分手续费或者佣金。  

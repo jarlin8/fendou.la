@@ -1,12 +1,12 @@
 ---
 title: "领峰贵金属现货黄金交易规则有哪些？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "贵金属交易"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "贵金属交易"
 ---
 
 领峰贵金属现货黄金交易规则有很多啊，比如贵金属的保证金分为两种，伦敦金固定保证金是1000美元/手，伦敦银是合约价值的2%，而在领峰金融和领峰环球的保证金比例又是不同的。  

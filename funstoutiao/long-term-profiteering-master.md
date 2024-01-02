@@ -1,12 +1,12 @@
 ---
 title: "斯坦利克罗号称长线暴利大师是真的吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 只有时刻惦记着损失，利润才可以照顾好他自己斯坦利克罗

@@ -1,15 +1,16 @@
 ---
 title: "GAINSY外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 GAINSY总部位于圣文森特和格林纳丁斯，是一家零售外汇和差价合约交易经纪商，使用NDD（无交易员平台）模型提供外汇交易。 他们通过STP和ECN帐户以及一系列交易平台来执行具有竞争力的订单。
 
 ## 优点和缺点
+
 - 多个交易平台
 - 交易工具范围
 - 多种交易工具
@@ -19,7 +20,6 @@ GAINSY总部位于圣文森特和格林纳丁斯，是一家零售外汇和差�
 - 无联系电话
 - 不接受美国客户
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 
@@ -80,6 +80,7 @@ GAINSY客户可以使用多个帐户选项。 它们包括经典STP帐户，高�
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡，例如Visa和MasterCard。
 - 快速银行转帐
 - 在线支付处理器

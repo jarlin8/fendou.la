@@ -1,15 +1,16 @@
 ---
 title: "JCMFX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 JCMFX总部位于金斯敦，圣文森特和格林纳丁斯，是一家在线交易经纪商，它使交易者有机会使用高度先进的MetaTrader 5交易平台交易几种金融资产，包括外汇，股票，指数，能源，贵金属等。
 
 ## 优点和缺点
+
 - 先进的MetaTrader 5交易平台
 - 多种金融工具
 - 多种账户存款和提款选项
@@ -18,7 +19,6 @@ JCMFX总部位于金斯敦，圣文森特和格林纳丁斯，是一家在线交
 - 无MetaTrader 4平台
 - 点差偏高
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -73,6 +73,7 @@ JCMFX为那些想学习如何在线交易的人提供了一个真实交易账户
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 银行电汇
 - 信用卡/借记卡，包括Visa和MasterCard
 - 在线支付处理器，例如Neteller和Skrill。

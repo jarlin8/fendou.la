@@ -1,12 +1,12 @@
 ---
 title: "外汇做市商（B-Book）的“秘密”是什么"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 B-Book外汇经纪商的“秘密”是指他们可以调整买卖价差，来凸显自身优势，同时也可以通过分析客户的交易习惯，操纵外汇市场中的买卖行为。 他们站在客户对立面交易，最大的盈利收入来自收取佣金和点差。 在市场高波动期间，他们会调高报价，并且更频繁的去报价，而他们报的价格并不总是对应市场的实际价格。

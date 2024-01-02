@@ -1,15 +1,16 @@
 ---
 title: "24option外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 24option是受监管的在线经纪商，提供多种资产类别的多种交易工具，并具有便捷的交易平台，但与其他在线经纪商相比，其交易工具和教学资料有限。
 
 ## 24option利弊
+
 - 合规经纪商
 - 客户资金隔离
 - 投资者赔偿基金（ICF）
@@ -61,11 +62,15 @@ MT4由俄罗斯公司MetaQuotes开发，并提供多种语言版本，可用于�
 
 MetaTrader 4（MT4）交易平台
 
+MetaTrader 4（MT4）交易平台
+
 ### 24option Web平台
 
 24option拥有自己专有的交易平台，用户可以在其中访问和交易所有可用的差价合约工具，例如外汇，股票，商品和指数。该平台可在大多数流行的Web浏览器中运行，因此不需要下载或安装任何其他软件。它具有简单的布局，非常用户友好，提供了干净整洁的自由交易环境。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Platform-1024x417.png "交易平台")
+
+交易平台
 
 交易平台
 
@@ -79,6 +84,8 @@ MetaTrader 4（MT4）交易平台
 
 交易平台经济日历
 
+交易平台经济日历
+
 ### 24option移动平台
 
 24option还提供其专有平台作为移动应用程序，可在Android和iOS设备上下载。它具有非常干净和简单的界面，使其易于使用。对于那些可以在世界上任何有互联网连接的地方访问帐户并进行交易的人来说，移动平台都非常方便。
@@ -86,6 +93,8 @@ MetaTrader 4（MT4）交易平台
 24option应用程序维护与Web平台相同的功能。移动应用程序的功能包括下达多种订单类型，在多个时间范围内绘制图表，实时报价，用于技术分析的80多个指标，止损，获利和账户资金/提款。
 
 ![移动交易平台](https://cdn.fendou.la/funstoutiao/2020/11/24option-Mobile-Trading-Platform.jpg "移动交易平台")
+
+移动交易平台
 
 移动交易平台
 
@@ -101,6 +110,8 @@ MetaTrader 4（MT4）交易平台
 
 经济日历
 
+经济日历
+
 ### 交易中心
 
 24个期权帐户持有者可以访问Trading Central提供的高级市场分析和警报。交易中心平台提供实时和历史数据以及来自多个市场的8,000多种资产的评论。这可以帮助交易员随时了解市场情况，并在有兴趣接收更新时得到提醒。
@@ -110,6 +121,8 @@ MetaTrader 4（MT4）交易平台
 交易中心通过了独立研究机构Investorside，Euro IRP和Asia IRP的认证，并受法国的Autorite des Marches金融家（AMF），美国的SEC以及香港证券及期货事务监察委员会的监管。
 
 ![交易中心](https://cdn.fendou.la/funstoutiao/2020/11/24option-Trading-Central.png "交易中心")
+
+交易中心
 
 交易中心
 
@@ -125,11 +138,15 @@ MetaTrader 4（MT4）交易平台
 
 教程视频
 
+教程视频
+
 ### 网络研讨会
 
 24option定期举办免费的在线网络研讨会，交易者可以借此提高他们的知识和技能，熟悉交易平台和各种其他交易概念。在GotoMeeting平台上查看了网络研讨会，并鼓励提出问题。网络研讨会涵盖了各种基本和高级交易主题。
 
 ![网络研讨会](https://cdn.fendou.la/funstoutiao/2020/11/24option-Webinars-1024x645.png "网络研讨会")
+
+网络研讨会
 
 网络研讨会
 
@@ -149,11 +166,15 @@ MetaTrader 4（MT4）交易平台
 
 外汇交易
 
+外汇交易
+
 ### 加密货币交易
 
 加密货币是一种分散的在线数字货币，它基于复杂的数学算法。有超过800多种不同的加密货币，由于它们不与任何银行或单个国家/地区绑定，因此可以24/7全天候交易。24option是首批提供加密货币差价合约的在线经纪商之一，拥有许多最受欢迎的交易品种，包括比特币，以太坊，莱特币，达什币和瑞波币XRP。
 
 ![加密货币交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Cryptocurrency-Trading.png "加密货币交易")
+
+加密货币交易
 
 加密货币交易
 
@@ -165,11 +186,15 @@ MetaTrader 4（MT4）交易平台
 
 商品交易
 
+商品交易
+
 ### 股票交易
 
 24option提供多种股票作为CFD交易在全球一些最大的公司，例如亚马逊，耐克，索尼，eBay和Facebook。
 
 ![股票交易](https://cdn.fendou.la/funstoutiao/2020/11/24option-Stocks-Trading.png "股票交易")
+
+股票交易
 
 股票交易
 
@@ -181,11 +206,15 @@ MetaTrader 4（MT4）交易平台
 
 指数交易
 
+指数交易
+
 ## 交易帐户和费用
 
 24option具有多种灵活多样的帐户类型，可满足每个交易者的不同需求。最低存款从250欧元起，杠杆率从1:30到1:400不等，具体取决于您是否有资格成为零售或专业客户。开设真实账户之前，可以使用模拟账户测试不同的交易平台和条件。
 
 ![24option：帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Types-1024x747.png "24option：帐户类型")
+
+24option：帐户类型
 
 24option：帐户类型
 
@@ -229,11 +258,15 @@ MetaTrader 4（MT4）交易平台
 
 资助方法
 
+资助方法
+
 ## 开户步骤
 
 要使用24option开户，您只需填写简短的在线表格，然后确认您的电子邮件地址。之后，您将需要上传身份证明和地址证明，例如护照或驾驶执照以及水电费账单。文件通过验证后，您就可以为您的帐户注资，登录到您选择的交易平台并开始交易。
 
 ![开户表格](https://cdn.fendou.la/funstoutiao/2020/11/24option-Account-Opening-Form.png "开户表格")
+
+开户表格
 
 开户表格
 

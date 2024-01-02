@@ -1,12 +1,12 @@
 ---
 title: "如何使用移动平均线，怎么与K线分析结合比较好？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 对移动平均线进行分析是选中强势股黑马股的又一有效的方法.移动平均线是分析价格变动趋势的一种方法,它主要是将一定时间内的股价加以平均,根据平均值作出图线.通常将每日的K线图与平均线绘在同一张图中,这样便于分析比较.通过分析平均线的走势以及平均线与K线之间的关系决定买卖的时机,或是判断大势的方向.

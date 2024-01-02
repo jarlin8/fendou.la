@@ -1,15 +1,16 @@
 ---
 title: "ChoiceTrade外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 ChoiceTrade是一个在线股票和期权经纪商，价格低廉，并提供各种高级付费交易平台供您选择。 但是，它们不提供其他市场，与其他在线经纪商相比，资金选择有限。
 
 ## ChoiceTrade测评：
+
 - 严格监管
 - SIPC成员
 - 库存费用低
@@ -23,7 +24,6 @@ ChoiceTrade是一个在线股票和期权经纪商，价格低廉，并提供各
 - 无实时在线聊天支持
 - 仅美元账户
 
-
 ## 经纪商简介
 
 ChoiceTrade是在线股票交易经纪商和固定费用选择提供商。 他们为所有帐户大小提供低，公平和简单的价格。 期权的佣金为每张合约5美元加0.15，或每张合约10美元加0.00。 股票交易佣金从$0开始，每月收取$5。
@@ -33,6 +33,8 @@ ChoiceTrade是在线股票交易经纪商和固定费用选择提供商。 他�
 客户反馈将ChoiceTrade评为Trustpilot上的佼佼者。 证明书中经常赞扬低廉的交易费和工作人员提供的支持。
 
 ![Trustpilot](https://cdn.fendou.la/funstoutiao/2020/10/ChoiceTrade-Reviews-Trustpilot-1024x165.png "Trustpilot")
+
+Trustpilot
 
 Trustpilot
 
@@ -68,7 +70,10 @@ Quotestream是在线在线股票报价平台，您可以从ChoiceTrade网站上�
 
 Quotestream平台
 
+Quotestream平台
+
 **QuoteStream Trader功能：**
+
 - 市场覆盖面广
 - 完全可定制的界面
 - 低延迟的逐笔实时流数据
@@ -85,6 +90,8 @@ ChoiceTrade Elite是最新的高级Web平台，专为简单交易而设计，但
 
 精英交易者
 
+精英交易者
+
 ### ChoiceTrade直接ProTrader
 
 ChoiceTrade Direct ProTrader是一个II级直接访问股票交易平台，它提供了更高级的交易工具，并且在您的浏览器或台式机中包括实时流报价，流数据，动态图表，分析等。 它是为更活跃的股票和期权交易者设计的。
@@ -93,7 +100,10 @@ ChoiceTrade Direct ProTrader是一个II级直接访问股票交易平台，它�
 
 ProTrader 2级直接定价
 
+ProTrader 2级直接定价
+
 **ChoiceTrade Direct ProTrader功能：**
+
 - 实时二级交易
 - 盘中图表
 - 实时市场新闻
@@ -121,6 +131,8 @@ ChoiceTrade有多种帐户可供选择，包括个人帐户，联合帐户，保
 
 帐户类型
 
+帐户类型
+
 每月帐户维护费为5美元。 国外实体帐户的个人国外帐户设置费为25美元或100美元。 在ChoiceTrade网站上可以找到闲置费和其他费用。
 
 ### 期权交易费
@@ -132,6 +144,8 @@ ChoiceTrade有多种帐户可供选择，包括个人帐户，联合帐户，保
 每笔交易0美元适用于纳斯达克和纽约证券交易所股票以及以每股1美元或更高价格执行的ETF的在线即日定单，市场或限价。 上市股票的其他订单为5美元。 Day + Ext（上市前和上市后）每股增加0.005美元。 场外交易股票交易为$7加上适用的附加费。 $0的佣金定价模式每月收取$5的费用。 您每月最多只能在定价计划之间切换一次。
 
 ![股票和期权费](https://cdn.fendou.la/funstoutiao/2020/10/ChoiceTrade-Stock-Options-Fees-1024x529.png "股票和期权费")
+
+股票和期权费
 
 股票和期权费
 
@@ -156,6 +170,8 @@ ChoiceTrade不收取保证金。 国内输出电汇费为35美元，国外输出
 您必须填写在线表格才能申请ChoiceTrade。 您可以选择帐户类型，填写个人信息和投资资料，阅读协议，查看并提交。 您也可以通过邮件请求新的帐户数据包，或从网站下载所需的表格。
 
 ![开户表格](https://cdn.fendou.la/funstoutiao/2020/10/ChoiceTrade-Account-Opening-Form-1024x289.png "开户表格")
+
+开户表格
 
 开户表格
 

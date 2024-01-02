@@ -1,12 +1,12 @@
 ---
 title: "炒外汇入门基本守则是什么？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 第一，建仓的时候，切记要设置止损价位，防止太多的亏损;

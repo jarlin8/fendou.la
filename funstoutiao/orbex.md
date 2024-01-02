@@ -1,15 +1,16 @@
 ---
 title: "Orbex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Orbex是一家成立于2010年的在线外汇经纪商，在塞浦路斯和毛里求斯注册。他们通过MetaTrader 4桌面和移动应用程序提供外汇，贵金属，能源和股票指数交易服务。经纪商提供有竞争力的点差，并提供许多教育资源和先进的交易工具来协助交易者。
 
 ## Orbex测评
+
 - 合规经纪商
 - 无缝执行
 - 快速提款
@@ -18,7 +19,6 @@ Orbex是一家成立于2010年的在线外汇经纪商，在塞浦路斯和毛�
 - 无股票和加密货币
 - $200最低存款
 - 不支持社交交易
-
 
 ## 经纪商简介
 

@@ -1,10 +1,10 @@
 ---
 title: "放弃学业全职做外汇交易有前途吗?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 题主说的这个学业范畴还是比较大的，我想了想，想分三种情况说明吧。

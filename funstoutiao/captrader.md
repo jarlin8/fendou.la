@@ -1,15 +1,16 @@
 ---
 title: "CapTrader外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CapTrader是一家受监管的经纪商，提供多种具有竞争力费用的金融交易工具。该经纪商为客户提供强大而灵活的交易平台以及一系列高级交易工具。但是，他们的差价合约交易工具有限，要求最低存款为2,000美元。帐户资金选择也很有限，没有集成社交交易平台，但可以使用托管帐户。
 
 ## CapTrader的利与弊
+
 - 监管经纪
 - 强大而直观的交易平台
 - 先进的交易工具
@@ -26,7 +27,6 @@ CapTrader是一家受监管的经纪商，提供多种具有竞争力费用的�
 - 帐户闲置费
 - 模拟帐户在30天后过期
 
-
 ## 经纪商简介
 
 CapTrader成立于1997年，是一家在线经纪商，为客户提供直接市场进入（DMA），以31种国家/地区和24种货币提供超过120万种金融工具的业务，涵盖超过125个全球交易所，包括股票，期货，期权，差价合约，ETF，债券，外汇等等。
@@ -35,11 +35,13 @@ CapTrader成立于1997年，是一家在线经纪商，为客户提供直接市�
 
 经纪商概述
 
+经纪商概述
+
 CapTrader是Interactive Brokers的介绍经纪商，Interactive Brokers是最大的在线经纪公司之一。他们提供具有竞争力的价格佣金的大多数重要的全球交易所。屡获殊荣的经纪商SMART基础架构每天执行超过一百万笔交易。使用这项技术，您的订单会自动定向到一些最佳执行地点。
 
 CapTrader有多种功能强大且灵活的交易平台可供选择，适用于台式机，Web和移动设备。您可以从他们的初始存款$2,000开设一个交易账户，也可以转移当前的投资组合。客户可以获得专业指导，包括网络研讨会和培训，以帮助他们熟悉经纪商的产品和软件。
 
-![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Broker-Features-1024x362.png)CapTrader还是一个对社会负责的经纪商，支持并向慈善项目捐款。交易经纪商团队发现这是值得称赞的，并向我们表明他们是一位愿意为有需要的人提供帮助的道德经纪商。
+![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Broker-Features-1024x362.png)
 
 多年来，该经纪商赢得了众多行业奖项，包括2016年，2017年，2019年Handelsblatt：顶级在线经纪商以及2017年Wirtschaftswoche：顶级在线经纪商。
 
@@ -65,11 +67,15 @@ CapTrader是FXFlat Wertpapierhandelsbank GmbH的品牌，并已在德国金融�
 
 交易平台
 
+交易平台
+
 CapTrader拥有强大而通用的交易平台。交易者可以选择高度发达和屡获殊荣的交易平台交易者工作站（TWS）（适用于Windows / Mac / Linux），WebTrader（可通过网络浏览器访问）或Mobile Trader（智能手机应用程序），具体取决于个人喜好。此外，活跃的客户被授予访问AgenaTrader平台的权限，以优化他们的交易。
 
 ### 交易员工作站（TWS）
 
 ![Trader Workstation（TWS）](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Trader-Workstation-TWS.png "Trader Workstation（TWS）")
+
+Trader Workstation（TWS）
 
 Trader Workstation（TWS）
 
@@ -87,6 +93,8 @@ TWS是高性能的交易平台，其功能至上。与其他交易平台（例�
 
 WebTrader
 
+WebTrader
+
 如果您不总是在同一台计算机上工作，或者不是经常出差用于商务和休闲，则可以使用直接在大多数现代网络浏览器中运行的WebTrader平台，而无需下载或安装任何其他软件。
 
 借助直观的WebTrader平台，CapTrader为您提供了一个快速的交易平台，只要您具有Internet连接，就可以使用它访问您的帐户并在世界任何地方进行市场交易。
@@ -99,11 +107,15 @@ WebTrader
 
 移动交易者
 
+移动交易者
+
 CapTrader提供了一系列移动解决方案，允许您通过CapTrader帐户进行在线交易，而在旅途中可以通过iOS和Android移动设备进行交易。您可以从Trader Workstation（TWS）移动应用程序和WebTrader平台中进行选择。
 
 ### AgenaTrader
 
 ![AgenaTrader](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-AgenaTrader-1024x593.png "AgenaTrader")
+
+AgenaTrader
 
 AgenaTrader
 
@@ -121,11 +133,15 @@ CapTrader已与金融业中一些最知名的软件提供商合作，提供了�
 
 MultiCharts
 
+MultiCharts
+
 MultiCharts是屡获殊荣的专业图表和交易平台，与EasyLanguage兼容。它提供了先进的分析功能，反向测试，优化以及与领先的市场数据源和经纪商的战略联系。
 
 ### 自动制图师
 
 ![Autochartist](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Autochartist.png "Autochartist")
+
+Autochartist
 
 Autochartist
 
@@ -137,11 +153,15 @@ AutoChartist会自动检测成千上万的图表模式，例如全天在交易�
 
 Ninjatrader
 
+Ninjatrader
+
 NinjaTrader是一个图表程序和市场分析应用程序。该软件专为系统开发，回测和交易模拟而设计。
 
 ### 交易信号在线终端
 
 ![Tradesignal](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Tradesignal.png "Tradesignal")
+
+Tradesignal
 
 Tradesignal
 
@@ -161,6 +181,8 @@ OptionCube是一种支持工具，旨在简化投资者，资产经理和风险�
 
 价格行动实验室
 
+价格行动实验室
+
 Price Action Lab™（PAL）是一个软件程序，可以根据用户定义的性能统计信息和风险/收益率参数来分析市场价格。至于股票，期货或货币，该软件可以自动扫描历史或当日数据。
 
 该程序为您提供三个功能：按价格模式搜索，按价格模式扫描和P-Indicator计算。无需编程知识即可使用Price Action Lab™的功能。Price Action Lab™的搜索算法是针对数据挖掘和数据监听偏差而开发的。此外，该软件还提供校对功能，以最大程度地减少任何变形。
@@ -168,6 +190,8 @@ Price Action Lab™（PAL）是一个软件程序，可以根据用户定义的�
 ### MT预测器
 
 ![MTPredictor](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-MTPredictor-1024x668.gif "MTPredictor")
+
+MTPredictor
 
 MTPredictor
 
@@ -179,11 +203,15 @@ MTPredictor™是用于Elliott Wave和Fibonacci交易的软件。它是为私人
 
 期权分析软件
 
+期权分析软件
+
 Asio Investment-Tools的选件分析软件使您可以根据历史数据测试当前市场数据。您可以使用实时图表同时分析多种工具（“交叉市场交易”）。
 
 ### 动力波
 
 ![MotiveWave](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-MotiveWave-1024x604.png "MotiveWave")
+
+MotiveWave
 
 MotiveWave
 
@@ -197,6 +225,8 @@ CapTrader为客户提供精选的独家免费网络研讨会和研讨会。如�
 
 交易者教育
 
+交易者教育
+
 经纪商还有一些有用的教程视频，可以帮助教用户如何使用提供的交易平台。支持团队也很乐意为您提供平台浏览。我们希望看到一个专门的交易者学院，提供交易指南，视频，测验等。
 
 ## 交易工具
@@ -207,7 +237,10 @@ CapTrader为交易者提供具有竞争性的交易条件和合理的价格，�
 
 交易工具
 
+交易工具
+
 必须说，经纪商选择差价合约（CFD）的选择非常有限。因此，如果您希望利用杠杆交易差价合约并推测价格走势而又不拥有基础资产，那么您不妨考虑选择其他在线经纪商。
+
 - 股票和ETF
 - 期权与期货
 - 差价合约
@@ -220,6 +253,8 @@ CapTrader为交易者提供具有竞争性的交易条件和合理的价格，�
 CapTrader提供现金和保证金帐户。现金帐户仅限于多头交易。最低存款额为$2,000或等值的其他外币。与其他一些经纪商相比，这是一个很高的要求，其他经纪商允许您仅用1美元开设一个交易帐户。股票差价合约的保证金为10％，指数差价合约的保证金为5％。交易外汇货币对时，投资者可以通过CapTrader利用自己的股本资本多达40倍。
 
 ![帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Account-Types-1024x719.png "帐户类型")
+
+帐户类型
 
 帐户类型
 
@@ -276,6 +311,8 @@ CapTrader帐户的资金仅限于电汇。没有选择通过借记卡/信用卡�
 要在CapTrader开立账户，您需要填写在线申请表格，该表格可从经纪商网站上访问。或者，您可以通过电子邮件将帐户申请表发送给他们。在申请过程中，您将需要输入您的个人和财务信息。他们需要身份证明，例如护照或驾驶执照，以及地址证明，例如银行对帐单或公用事业账单。
 
 ![开设真实账户表格](https://cdn.fendou.la/funstoutiao/2020/11/CapTrader-Review-Live-Account-Opening-Form.png "开设真实账户表格")
+
+开设真实账户表格
 
 开设真实账户表格
 

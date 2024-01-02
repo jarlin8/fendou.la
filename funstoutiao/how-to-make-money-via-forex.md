@@ -1,12 +1,12 @@
 ---
 title: "炒外汇赚钱的三种方法-怎样炒汇赢利多？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 拥有外汇，无外乎就是使自己的个人资产能够不断保值增值，可是怎样才能做到呢?一般来说，除了储蓄就是进行个人外汇交易了。

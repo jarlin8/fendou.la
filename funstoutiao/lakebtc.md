@@ -1,15 +1,15 @@
 ---
 title: "LakeBTC外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "货币"
-  - "国家"
-  - "加拿大"
-  - "数据"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "货币"
+        - "数据"
+        - "国家"
+        - "加拿大"
 ---
 
 LakeBTC是一种加密货币交易所，可为交易者提供用于交易多种加密货币的平台和工具。 它是确定Coindesk比特币价格指数（BPI）的全球四个交易所之一，因此被称为四大比特币交易所。 客户可以使用多个帐户选项。

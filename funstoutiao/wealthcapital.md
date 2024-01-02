@@ -1,15 +1,16 @@
 ---
 title: "WealthCapital外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 WealthCapital是一家不受监管的在线交易经纪商，为客户提供专有的交易平台和一些工具，用于交易广泛的可交易资产，包括股票，商品，指数，外汇和加密货币。 他们声称提供透明的交易条件，可靠的交易执行速度和具有竞争力的费用。
 
 ## WealthCapital测评
+
 - 多种交易工具
 - 多种交易工具
 - 精选教材
@@ -19,7 +20,6 @@ WealthCapital是一家不受监管的在线交易经纪商，为客户提供专�
 - 无MetaTrader平台
 - 点差偏高
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -80,6 +80,7 @@ WealthCapital提供了一系列真实交易账户来匹配您的交易风格和�
 ## 存款和取款
 
 经纪商接受以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡-例如Visa，MasterCard，Maestro和Diners club
 - 电子钱包-包括AlphaExchange

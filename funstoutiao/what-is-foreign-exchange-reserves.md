@@ -1,12 +1,12 @@
 ---
 title: "什么是外汇储备? 我国外汇储备的结构是怎样的?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "forex-abc"
+  category:
+        - "forexbook"
+  post_tag:
+        - "forex-abc"
 ---
 
 3. 什么是外汇储备? 我国外汇储备的结构是怎样的?

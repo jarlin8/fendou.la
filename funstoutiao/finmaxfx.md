@@ -1,15 +1,16 @@
 ---
 title: "FinmaxFX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FinmaxFX是一家受监管的交易经纪商，它通过高度先进的MetaTrader 5交易平台为客户提供跨不同资产类别（例如指数，货币，外汇，商品和股票）的400多种金融工具的交易权限。 他们提供1点的竞争点差，杠杆高达1:200。
 
 ## 优点＆缺点
+
 - 完善的MetaTrader 5交易平台
 - 多种交易工具
 - 精选教育资源
@@ -19,7 +20,6 @@ FinmaxFX是一家受监管的交易经纪商，它通过高度先进的MetaTrade
 - 不接受美国客户
 - 点差偏高
 - 无实时聊天支持
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ FinmaxFX提供超过400种金融工具，涵盖不同资产类别，包括指数
 ## 存款和取款
 
 经纪商接受以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡（Visa，MasterCard，Maestro）
 - 电子支付处理器-如Neteller，Skrill，QIWI，YandexMoney，Webmoney等。

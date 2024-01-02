@@ -1,15 +1,16 @@
 ---
 title: "Profit Trade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Profit Trade是一个在线交易经纪商，通过提供的交易平台提供外汇，股票，商品和指数以进行在线交易。经纪商为客户提供多种账户类型，杠杆率高达1:400，最低存款额为$250。
 
 ## Profit Trade测评
+
 - 超过200种用于在线交易的金融工具
 - 多种账户类型
 - 教材选择
@@ -20,7 +21,6 @@ Profit Trade是一个在线交易经纪商，通过提供的交易平台提供�
 - 高存款要求以获取最佳可用帐户
 - 闲置费
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -51,6 +51,7 @@ Profit Trade严格遵守其反洗钱（AML）和了解您的客户（KYC）法�
 ### 网络交易者
 
 WebTrader平台允许您在Web浏览器中遇到桌面交易环境。网络交易终端对于喜欢访问其帐户并从不同位置和设备进行交易的交易者特别有用。WebTrader具有简单直观的用户界面，易于使用。Profit Trade网络交易者为客户提供以下好处：
+
 - 使用Web浏览器打开头寸，然后在MetaTrader平台内将其关闭
 - 从任何PC，Mac或Linux工作站进行访问
 - 合并电子图表
@@ -195,6 +196,7 @@ VIP帐户是专为财大气粗的高级交易者设计的；最低存款要求�
 ## 存款和取款
 
 Profit Trade接受以下付款方式作为可用的帐户注资选项：
+
 - 信用卡/借记卡
 - 银行电汇
 

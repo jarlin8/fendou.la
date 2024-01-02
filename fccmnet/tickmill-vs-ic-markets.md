@@ -1,7 +1,8 @@
 ---
 title: "Tickmill VS IC Markets"
 post_status: publish
-post_date: "2022-07-17"
+post_post_status: publish
+skip_file: no
 taxonomy:
  category: 
   - "reviews"

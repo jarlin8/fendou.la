@@ -1,12 +1,12 @@
 ---
 title: "外汇零售经纪商有哪些？怎么选择？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-broker"
 ---
 
 外汇零售经纪商有嘉盛集团、福汇集团、盛宝银行等，这些外汇零售经纪商一般都是全球比较大型的，一家外汇零售经纪商的选择主要看交易量、客户入金量、客户数量、盈利模式等。

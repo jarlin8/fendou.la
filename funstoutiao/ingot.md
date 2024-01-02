@@ -1,15 +1,16 @@
 ---
 title: "INGOT外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 INGOT Brokers是一家在线交易经纪商，提供8种不同资产类别的1000多种交易工具，包括外汇，金属，ETF，股票，农业，指数，能源和加密货币，以通过其屡获殊荣的交易平台进行在线交易。
 
 ## INGOT Brokers测评
+
 - 超过1,000种金融工具
 - 先进的交易平台
 - 多个帐户选项
@@ -18,7 +19,6 @@ INGOT Brokers是一家在线交易经纪商，提供8种不同资产类别的100
 - 不接受美国客户
 - 无每日市场分析
 - 无社交交易平台集成
-
 
 ## 经纪商简介
 

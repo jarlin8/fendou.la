@@ -1,19 +1,20 @@
 ---
 title: "MetaTrader 5使用靠谱吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
-[caption id="attachment-18972" align="aligncenter" width="513"]![MetaTrader 5](https://cdn.fendou.la/funstoutiao/2020/11/YLD-FX-Review-MT5-Desktop-Platform.png) MetaTrader 5[/caption]
+\[caption id="attachment-18972" align="aligncenter" width="513"\]![MetaTrader 5](https://cdn.fendou.la/funstoutiao/2020/11/YLD-FX-Review-MT5-Desktop-Platform.png) MetaTrader 5\[/caption\]
 
 ## MetaTrader 5是非常靠谱的外汇交易软件
 
 [**MetaTrader 5**](https://www.metatrader5.com/) 提供了一个强大的带有市场深度的交易系统和一个独立的订单和账户交易系统。 它支持两种持仓账户系统：
+
 - 传统的单边持仓交易
 - 锁仓持仓交易的选项
 
@@ -28,4 +29,4 @@ taxonomy:
 
 在这种多样性的订单类型和可用执行模式下，交易者可以使用任何适用的交易策略在金融市场获得成功。
 
-[wbcr-php-snippet id =“ 16687”]
+\[wbcr-php-snippet id =“ 16687”\]

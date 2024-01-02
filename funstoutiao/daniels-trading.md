@@ -1,13 +1,14 @@
 ---
 title: "Daniels Trading外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Daniels Trading是一家独立的期货经纪公司，成立于1995年，位于芝加哥金融区的中心。 经纪商建立在信任的文化基础上，致力于公司独立，客观和可靠的使命。
+
 - 先进的交易平台
 - 提供实用的交易辅助工具
 - 精选教材
@@ -15,12 +16,13 @@ Daniels Trading是一家独立的期货经纪公司，成立于1995年，位于�
 - 无MetaTrader平台
 - 有限的出入金方式
 
-
 ## 经纪商简介
 
 自1995年以来，丹尼尔斯交易公司（Daniels Trading）一直为超过1.6万名交易者提供在线金融服务，交易量超过720万份合约。 他们通过直观的交易平台为零售客户提供期货和期权以进行在线交易。 经纪商还提供一系列交易工具，教育资源和客户支持团队。
 
 ![功能概述](https://cdn.fendou.la/funstoutiao/2020/11/Daniels-Trading-Review-Features-Overview-1024x565.jpg "功能概述")
+
+功能概述
 
 功能概述
 
@@ -52,6 +54,8 @@ Daniels Trading仅允许居住在美国的交易者向他们开设账户。 他�
 
 交易指南
 
+交易指南
+
 ## 交易工具
 
 经纪商提供以下交易工具：外汇，商品，指数，金属，能源，期货和期权。
@@ -75,6 +79,8 @@ Daniels Trading仅允许居住在美国的交易者向他们开设账户。 他�
 要开设一个账户，点击“开设期货账户”按钮，然后点击“申请”进入注册表格。 提供所需的信息，然后单击“提交”按钮。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Daniels-Trading-Review-Account-Opening-Page.png "开户页面")
+
+开户页面
 
 开户页面
 

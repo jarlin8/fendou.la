@@ -1,15 +1,16 @@
 ---
 title: "Fondex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Fondex是一家在线交易经纪商，提供跨多种可交易资产的1,000多种金融工具，例如外汇，指数，股票，金属，能源，ETF和加密货币。 它们为交易者提供了直观的cTrader交易平台，以及大量有用的交易工具，例如Trading Central和Autochartist。
 
 ## Fondex测评
+
 - 提供7种资产类别的1,000多种交易工具
 - 复杂的cTrader平台
 - 交易中心
@@ -18,7 +19,6 @@ Fondex是一家在线交易经纪商，提供跨多种可交易资产的1,000多
 - 不接受美国客户
 - 有限的交易账户选项
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 
@@ -125,6 +125,7 @@ Fondex提供一个交易账户：具有竞争性的交易条件，标准和高�
 ## 存款和取款
 
 客户可以通过以下付款方式存入和提取资金：
+
 - 银行电汇
 - 信用卡/借记卡，例如Visa，MasterCard和Maestro
 - 电子钱包，例如Web Money，Multi Banco，GiroPay，Sofort，Euteller，Przelewy等。

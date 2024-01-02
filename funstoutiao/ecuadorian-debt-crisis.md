@@ -1,12 +1,12 @@
 ---
 title: "厄瓜多尔1995-2009年案例"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "debt-crisis"
+  category:
+        - "forexbook"
+  post_tag:
+        - "debt-crisis"
 ---
 
 厄瓜多尔1995-2009年案例文本自动摘要
@@ -52,4 +52,3 @@ taxonomy:
 国际收支状况
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/175537020.png)
-

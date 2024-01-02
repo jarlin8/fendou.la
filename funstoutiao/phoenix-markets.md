@@ -1,10 +1,10 @@
 ---
 title: "Phoenix Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Phoenix Markets总部位于塞浦路斯尼科西亚，是一家在线金融服务提供商，通过为交易者提供最先进的交易平台和工具，他们可以在全球金融市场进行投资。
@@ -12,6 +12,7 @@ Phoenix Markets总部位于塞浦路斯尼科西亚，是一家在线金融服�
 用于在线交易的资产包括外汇，商品，指数和差价合约。
 
 ## PhoenixMarkets测评
+
 - 复杂的交易平台
 - 多种交易工具
 - 教育资源
@@ -21,7 +22,6 @@ Phoenix Markets总部位于塞浦路斯尼科西亚，是一家在线金融服�
 - 不是最低的佣金
 - 无MetaTrader 5平台
 - 无FIX API交易
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ Phoenix Markets提供外汇，商品，指数和差价合约的在线交易。
 ## 存款和取款
 
 Phoenix Markets允许交易者使用以下任何一种付款方式存入和提取资金：
+
 - 电汇
 - 信用卡/借记卡
 

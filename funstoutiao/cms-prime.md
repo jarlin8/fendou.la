@@ -1,15 +1,16 @@
 ---
 title: "CMS Prime外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CMS Prime是STP / ECN交易经纪商，它提供直观的MetaTrader交易平台，用于跨不同资产类别（包括外汇，指数，差价合约等）的200多种金融工具进行交易。 交易者可以从一系列竞争性交易条件中受益，包括合理的交易执行而无需交易员干预，高达1:400的杠杆率，紧密的价差以及无交易佣金。
 
 ## CMS Prime测评
+
 - 先进的交易平台
 - 超过200种交易产品
 - 教育资源
@@ -20,12 +21,13 @@ CMS Prime是STP / ECN交易经纪商，它提供直观的MetaTrader交易平台�
 - 无社交交易平台集成
 - 不接受美国客户
 
-
 ## 经纪商简介
 
 CMS Prime是一家外汇经纪商，为全球100多个国家的交易商提供交易解决方案。 他们为交易者提供了复杂而又用户友好的交易平台，使他们能够交易多个金融市场。 他们提供无佣金帐户，要求的最低存款额为1,000美元，且点差很小。 还为交易者提供了一系列交易和学习工具，同时有24/5客户支持团队为交易者提供帮助。
 
 ![功能概述](https://cdn.fendou.la/funstoutiao/2020/11/CMS-Prime-Review-Features-Overview-1024x713.jpg "功能概述")
+
+功能概述
 
 功能概述
 
@@ -53,11 +55,15 @@ MT4和MT5交易平台都可作为Windows和Mac计算机的桌面应用程序，�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 经纪商为交易者提供一些有用的交易工具，例如每日/每周/每月的分析报告和经济日历。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/CMS-Prime-Economic-Calendar-.jpg "经济日历")
+
+经济日历
 
 经济日历
 
@@ -88,6 +94,8 @@ CMS Prime提供以下交易工具：外汇，指数和差价合约。
 要开户，请单击“快速注册”按钮，然后准确填写表格，并选中对话框，然后提交。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/CMS-Prime-Review-Account-Opening-Page-238x1024.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

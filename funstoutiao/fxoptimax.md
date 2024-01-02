@@ -1,13 +1,14 @@
 ---
 title: "FXOptimax外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXOptimax是运行STP经纪模式的快速成长的在线外汇经纪商。 他们为交易者提供了一个用户友好的交易平台，使他们可以获得实时定价和超快速的订单处理，同时使一切变得尽可能简单。
+
 - MetaTrader 4平台
 - 多种交易工具
 - 一些教育资源
@@ -17,7 +18,6 @@ FXOptimax是运行STP经纪模式的快速成长的在线外汇经纪商。 他�
 - 有限的帐户存款和取款选项
 - 交易工具有限
 - 无MetaTrader 5平台
-
 
 ## 经纪商简介
 

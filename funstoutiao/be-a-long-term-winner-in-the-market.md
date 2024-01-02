@@ -1,12 +1,12 @@
 ---
 title: "做好这几点，你才能成为市场的长期赢家"
 post_status: publish
-post_date: "2022-12-22"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
- post_tag: 
-  - "交易心理"
+  category:
+        - "experience"
+  post_tag:
+        - "交易心理"
 ---
 
 马克·道格拉斯在著名的《交易心理分析》一书中提出，技术分析不是成为长期赢家的终极方法，而是心态决定成败。也就是说，长期赢家不仅要用良好的做单思路和持续一贯的交易策略，还需要久经沙场后磨练出的强大心理。

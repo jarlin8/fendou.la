@@ -1,12 +1,12 @@
 ---
 title: "广场协定——美元贬值（1985）"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "forex-markets"
+  category:
+        - "forexbook"
+  post_tag:
+        - "forex-markets"
 ---
 
 广场协定——美元贬值（1985）
@@ -28,4 +28,3 @@ taxonomy:
 [![](https://imga.dgrhw.net/files/books/131113/201311130221366913.jpg)](https://imga.dgrhw.net/files/books/131113/201311130221366913.jpg)
 
 （DEM）和日元（JPY）的贬值。美罔的经济变得更加以出口为导向，而其他的工业国，例如德国和日本，则承担了进口国的角色。这逐渐地解决了经常项目赤字的问题，也使交易保护主义的威胁降到最低。但最重要的可能是，广场协定巩同了中央银行在控制汇率波动上的作用：是的，汇率不再固定不变，而是主要由供求关系决定；但是，如果这只“看不见的手”不足以调节市场的时候，世界上的中央银行有权利和责任，在有必要的时候代表国际经济进行干预。
-

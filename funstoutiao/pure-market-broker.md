@@ -1,15 +1,16 @@
 ---
 title: "Pure Market Broker交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Pure Market Broker是在瓦努阿图的维拉港注册的在线交易经纪商，致力于通过为交易者提供包括MT4和MT5平台在内的多个复杂的交易平台（包括外汇，现货金属，差价合约，指数交易）为他们提供无缝的交易体验。和商品。 客户可以使用多个交易帐户选项。
 
 ## 优点与缺点
+
 - 多个复杂的交易平台
 - 广泛的金融资产
 - 选择有用的交易工具
@@ -18,7 +19,6 @@ Pure Market Broker是在瓦努阿图的维拉港注册的在线交易经纪商�
 - 不接受美国客户
 - 不是最紧密的点差
 - 不是最低的佣金
-
 
 ## 经纪商简介
 
@@ -77,6 +77,7 @@ Pure Market Broker提供以下交易工具：货币对，现货金属，差价�
 ## 存款和取款
 
 交易者可以使用以下任何一种付款方式存入和提取资金：
+
 - 银行电汇
 - 在线支付处理器，包括Neteller和Skrill
 - 加密货币

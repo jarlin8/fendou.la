@@ -1,15 +1,16 @@
 ---
 title: "FXPremax外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXPremax是一家在线外汇经纪商，致力于通过为交易者提供直观的MetaTrader 4交易平台来进行多种金融产品（包括外汇，加密货币和差价合约）的在线交易的努力，提供轻松的外汇交易体验。 有多个账户选项，没有最低存款要求，最高杠杆上限为1:1000。
 
 ## 优点和缺点
+
 - MetaTrader 4交易平台
 - 提供实用的交易辅助工具
 - 精选教材
@@ -19,7 +20,6 @@ FXPremax是一家在线外汇经纪商，致力于通过为交易者提供直观
 - 不是最紧密的点差
 - 无FIX API连接
 - 无MetaTrader 5交易平台
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ FXPremax提供多种账户选项，以满足客户的个人交易需求。 每�
 ## 存款和取款
 
 FXPremax交易者可以使用以下任何一种付款方式在他们的交易账户中存入和提取资金：
+
 - 银行电汇
 - 信用卡/借记卡，包括Visa，MasterCard和UnionPay
 - 在线支付处理器，例如Skrill，Neteller，FasaPay等。

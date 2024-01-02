@@ -1,15 +1,16 @@
 ---
 title: "BlackStone Futures外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 BlackStone Futures是一家南非经纪商，隶属于Trade Nation，后者是一家跨国经纪公司，在多个司法管辖区都受到监管，其中包括南非FSCA。经纪商通过流行的MetaTrader 4（MT4）平台及其专有的CloudTrade平台提供广泛的可交易资产。
 
 ## BlackStone期货的利弊
+
 - 监管经纪
 - 多种可交易资产
 - 支持多终端交易
@@ -22,7 +23,6 @@ BlackStone Futures是一家南非经纪商，隶属于Trade Nation，后者是�
 - 点差偏高
 - 无加密货币交易
 
-
 ## 经纪商简介
 
 BlackStone Futures总部位于南非约翰内斯堡，是一家在线经纪公司，代表Trade Nation，这是一家跨国经纪公司，在多个司法管辖区都受到监管，包括南非FSCA。经纪商提供跨不同资产类别的多种可交易工具，例如期货，现货外汇以及指数，股票和商品的差价合约。
@@ -30,6 +30,8 @@ BlackStone Futures总部位于南非约翰内斯堡，是一家在线经纪公�
 经纪商为客户提供流行的MT4平台和专有的CloudTrade平台，以及一些有用的交易工具和多种教育资源。作为真正的STP经纪商，他们提供0.6点的竞争价差，没有佣金。与提供从0点开始的外汇点差的其他交易经纪商相比，这些不是交易经纪商审查小组发现的最低点差。
 
 ![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/BlackStone-Futures-Review-Broker-Features-1024x484.png "经纪商功能")
+
+经纪商功能
 
 经纪商功能
 
@@ -57,11 +59,14 @@ BlackStone为客户提供了两个强大而完善的交易平台：MetaTrader 4�
 
 MetaTrader 4平台
 
+MetaTrader 4平台
+
 MT4由俄罗斯软件公司MetaQuotes设计，是一个直观且易于使用的在线交易平台，适用于所有技能水平的交易者。该平台提供可靠的交易执行速度，并支持高度可定制的交易解决方案，并能够通过专家顾问（EA）运行自动交易系统。
 
 MetaTrader 4平台具有包含内置指标的综合图表包，可帮助您分析市场并交易经纪商提供的各种交易工具。考虑到外汇交易者的需求，MT4提供了增强的外汇交易体验。
 
 MT4平台具有以下主要功能：
+
 - 用户友好和可定制的界面
 - 先进的图表功能
 - 多种指标和工具
@@ -77,6 +82,8 @@ BlackStone Futures提供了MT4平台的两个版本：可以下载并安装在Ma
 ### **CloudTrade**
 
 ![CloudTrade平台](https://cdn.fendou.la/funstoutiao/2020/11/BlackStone-Futures-Review-CloudTrade-Platform-576x1024.png "CloudTrade平台")
+
+CloudTrade平台
 
 CloudTrade平台
 
@@ -100,11 +107,15 @@ BlackStone Futures为客户提供了一些有用的交易工具，例如：
 
 市场情绪
 
+市场情绪
+
 ### **经济日历**
 
 该工具将保留计划的数据发布时间表和一天或一周的经济事件的时间表，以及它们可能对市场产生的潜在影响。经济日历数据由myfxbook提供。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/BlackStone-Futures-Review-Economic-Calendar-1024x529.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -121,6 +132,7 @@ BlackStone Futures为客户提供了一些有用的交易工具，例如：
 ## 交易工具
 
 BlackStone Futures提供跨多种资产类别的在线交易和多种工具，包括：
+
 - **期货：**经纪商提供多种指数的期货交易，包括SA40，欧元股票50，法国40，德国30，香港42，英国100，美国500等。
 - **外汇货币对**：有主要货币对以及次要和奇异货币对可供交易。
 - **指数：**世界上大多数主要股票指数均可作为期货或差价合约交易。
@@ -149,11 +161,15 @@ BlackStone Futures接受一些帐户注资和提款选择，包括通过ABSA银�
 
 付款方式
 
+付款方式
+
 ## 开户步骤
 
 在该经纪商处开设账户既快捷又容易。您需要做的就是单击“开设帐户”按钮，您可以在整个BlackStone Futures网站上看到该按钮。您将被指示填写以下表格：
 
 ![开户](https://cdn.fendou.la/funstoutiao/2020/11/BlackStone-Futures-Review-Account-Opening.png "开户")
+
+开户
 
 开户
 

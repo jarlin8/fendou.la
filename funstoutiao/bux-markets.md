@@ -1,15 +1,16 @@
 ---
 title: "BUX Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 BUX Markets是一家受监管的经纪商，通过其专有的TradeHub®平台提供各种资产类别的差价合约交易。他们为希望提供或复制交易信号的客户支持社交交易。它们具有极具竞争力的点差和费用，但是缺乏资金选择，并且不提供流行的MetaTrader平台。经纪商网站上也没有实时聊天支持。
 
 ## BUXMarkets测评
+
 - 监管经纪商
 - 屡获殊荣的交易平台
 - 追踪并提供交易信号
@@ -20,7 +21,6 @@ BUX Markets是一家受监管的经纪商，通过其专有的TradeHub®平台�
 - 无需其他交易工具
 - 无实时聊天支持
 - 帐户闲置费
-
 
 ## 经纪商简介
 
@@ -56,7 +56,10 @@ BUX Markets已经被称为TradeHub先进的图表工具®有13个不同的图表
 
 交易平台
 
+交易平台
+
 该BUX MarketsTradeHub ®平台具有以下特点：
+
 - 实时报价
 - 直观，用户友好的设计
 - 从13种不同的图表类型中选择
@@ -74,13 +77,18 @@ BUX Markets已经被称为TradeHub先进的图表工具®有13个不同的图表
 
 TradeHub
 
+TradeHub
+
 该TradeHub ®无论你在哪里平台都可以使用，在您的PC，平板电脑或手机。您也可以下载TradeHub ®适用于iOS和Android设备上的应用程序交易，而在旅途中只要你有互联网连接。该平台的Web版本也可以直接在大多数现代Web浏览器中使用，而无需下载或安装任何其他软件。
 
 ![TradeHub应用程序](https://cdn.fendou.la/funstoutiao/2020/11/BUX-Markets-Review-TradeHub-App.jpg "TradeHub应用程序")
 
 TradeHub应用程序
 
+TradeHub应用程序
+
 该BUX MarketsTradeHub ®应用具有以下功能：
+
 - 直播价格和图表
 - 随时随地进行交易并响应市场事件和机会
 - 随时监控您的位置
@@ -101,6 +109,8 @@ BUX Markets提供广泛的网络研讨会，指南，词汇表，常见问题解
 BUX Markets通过其直观的TradeHub®平台可以选择CFD进行在线交易。这包括指数，外汇货币对，加密货币，股票，商品，ETF，利率和债券。
 
 ![交易工具](https://cdn.fendou.la/funstoutiao/2020/11/BUX-Markets-Review-Trading-Instruments.png "交易工具")
+
+交易工具
 
 交易工具
 
@@ -134,6 +144,8 @@ BUX Markets的帐户注资方式选择有限。您可以使用信用卡/借记�
 
 帐户注资
 
+帐户注资
+
 付款时，卡上的名称必须与您的交易帐户上的名称匹配。信用卡/借记卡存款是免费的。仅在EEA以外发行的卡将收取1.75％的交易费。为了确保您的资金安全，BUX Markets仅接受3-D安全的卡付款。如果您的卡不是3D安全的，则经纪商可能不会接受您的存款。您的卡提供商可能会向您收取额外费用。BUX Markets的内部政策是在能够识别此类实例的情况下不接受第三方付款。
 
 代理使用3-D Secure增强安全性。Visa开发的3-D Secure可帮助使互联网支付更加安全。它为在线支付添加了额外的安全检查，因此降低了互联网欺诈的风险。此步骤通常只是您的银行或卡提供商要求您提供密码，只有您和您的银行才知道。
@@ -147,6 +159,8 @@ BUX Markets的帐户注资方式选择有限。您可以使用信用卡/借记�
 在BUX Markets开设真实的真实交易账户非常容易。有一个简短的在线申请表，要求您输入一些个人信息。作为KYC程序的一部分，您还需要提供一种身份证明和地址证明。这可以是护照或驾驶执照以及公用事业账单或银行对帐单。经纪商客户小组验证了您的帐户后，您就可以为其进行注资并开始在线交易差价合约。
 
 ![真实账户申请](https://cdn.fendou.la/funstoutiao/2020/11/BUX-Markets-Review-Live-Account-Application.png "真实账户申请")
+
+真实账户申请
 
 真实账户申请
 

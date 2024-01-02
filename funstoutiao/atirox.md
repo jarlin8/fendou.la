@@ -1,15 +1,16 @@
 ---
 title: "Atirox外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Atirox由Saint Vincent和Grenadines经营，是一家纯粹的STP / ECN经纪商，声称致力于为全球客户提供有竞争力和可靠的交易服务。 他们为交易者提供了通过MetaTrader 4交易平台在不同市场上交易各种金融工具的机会，例如外汇，金属，商品等。
 
 ## Atirox  优点＆缺点
+
 - 完善的MT4交易平台
 - 多种交易工具
 - 教育资源
@@ -21,12 +22,13 @@ Atirox由Saint Vincent和Grenadines经营，是一家纯粹的STP / ECN经纪商
 - 无DMA的FIX API
 - 点差偏高
 
-
 ## 经纪商简介
 
 Atirox成立于2015年，是一家在线交易经纪商，它使用MT4交易平台提供各种交易工具的在线交易，以及有用的交易和学习工具。 有多个账户选项，要求的最低存款额为1美元，最大杠杆上限为1:1000，点差从0.05点开始。
 
 ![功能概述](https://cdn.fendou.la/funstoutiao/2020/11/Atirox-Review-Features-Overview-1024x221.jpg "功能概述")
+
+功能概述
 
 功能概述
 
@@ -68,6 +70,8 @@ Atirox有一个很好的交易帐户选项选择，可以满足所有级别交�
 
 帐户类型
 
+帐户类型
+
 由于经纪商费用可能会发生变化，因此Atirox审查中可能未列出其他费用。 在打开用于在线交易的Atirox经纪商帐户之前，必须确保您检查并了解所有最新信息。
 
 ## 客户服务
@@ -77,6 +81,7 @@ Atirox有一个很好的交易帐户选项选择，可以满足所有级别交�
 ## 存款和取款
 
 Atirox接受以下付款方式：
+
 - 银行电汇
 - 信用卡/借记卡（Visa和MasterCard）
 - 电子支付系统，例如FasaPay，PerfectMoney，Neteller，Skrill
@@ -86,11 +91,15 @@ Atirox接受以下付款方式：
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 开户很简单； 只需单击“打开帐户”按钮并填写显示的表单，然后单击“创建帐户”即可提交。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Atirox-Review-Account-Opening-Page-480x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

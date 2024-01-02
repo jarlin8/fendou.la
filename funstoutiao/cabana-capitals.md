@@ -1,15 +1,16 @@
 ---
 title: "Cabana Capitals外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Cabana Capitals是一家在线交易经纪公司，总部位于金斯敦，圣文森特和格林纳丁斯。 经纪公司建立在透明，简单和清晰的核心价值观之上。 他们为交易者提供了MetaTrader 4交易平台，用于交易多种资产，包括外汇，商品，金属，指数和差价合约。 经纪商为每种交易者提供合适的账户。
 
 ## Cabana Capitals  优点和缺点
+
 - MetaTrader 4交易平台
 - 很少有用的交易工具
 - 精选教育资源
@@ -19,7 +20,6 @@ Cabana Capitals是一家在线交易经纪公司，总部位于金斯敦，圣�
 - 不接受美国客户
 - 点差偏高
 - 无DMA的FIX API
-
 
 ## 经纪商简介
 
@@ -42,6 +42,8 @@ Cabana Capitals不向欧盟地区，美国，​​加拿大，比利时和FATF�
 Cabana Capitals为交易者提供了复杂的MetaTrader 4交易平台，用于分析和交易可用工具。 该平台具有易于使用的界面，并支持16种语言。 它包含一系列分析工具，并使用专家顾问支持自动交易。 该经纪商使MT4交易平台可用作Windows和Mac计算机的桌面应用程序，WebTrader以及与Android和iOS设备兼容的移动交易应用程序。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Cabana-Capitals-Review-Trading-Platform-.jpg "交易平台")
+
+交易平台
 
 交易平台
 
@@ -75,11 +77,15 @@ Cabana Capitals提供多种可交易资产，包括外汇，商品，金属，�
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设一个账户，只需点击“开设真实账户”并正确填写表格，然后提交即可。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Cabana-Capitals-Review-Account-Opening-Page-476x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

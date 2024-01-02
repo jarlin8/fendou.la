@@ -1,12 +1,12 @@
 ---
 title: "冰岛2005-2016年案例"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "debt-crisis"
+  category:
+        - "forexbook"
+  post_tag:
+        - "debt-crisis"
 ---
 
 冰岛在2005-2016年期间经历了一场金融危机，导致其国内生产总值大幅下降，货币贬值，债务危机和银行破产。为了应对危机，冰岛政府采取了一系列措施，包括实施资本管制，接受国际货币基金组织的救助，重组银行系统，提高利率，削减支出，增加税收，以及推动旅游业和出口的发展。这些措施使得冰岛的经济逐渐恢复，但也导致了较高的通胀率，这被称为“通胀性去杠杆化”
@@ -52,4 +52,3 @@ taxonomy:
 国际收支状况
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/181356845.png)
-

@@ -1,12 +1,12 @@
 ---
 title: "炒外汇有技巧就可以赚钱了吗？"
 post_status: publish
-post_date: "2023-03-01"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 炒外汇需要有资金实力，不同的货币之间的汇率变化不会太大，而是受到国家的黄金储备和国际地位的影响。

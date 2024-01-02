@@ -1,15 +1,16 @@
 ---
 title: "Tidex外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Tidex是一种加密货币交易所，可确保不同加密货币资产的无缝交易。 他们为交易者提供了一个多功能交易平台，用于在线交易各种数字资产，包括比特币，以太坊，Litecoin，Dash，Waves和Tidex Token。
 
 ## 优点和缺点
+
 - 新手友好的交易平台
 - 超过70种数字资产
 - 有竞争力的佣金
@@ -19,7 +20,6 @@ Tidex是一种加密货币交易所，可确保不同加密货币资产的无缝
 - 资金选择有限
 - 无电话或实时聊天支持
 - 不接受美国客户
-
 
 ## 经纪商简介
 

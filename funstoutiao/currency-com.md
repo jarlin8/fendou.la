@@ -1,15 +1,16 @@
 ---
 title: "Currency.com外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Currency.com是一家在线金融服务提供商，提供超过1,500种令牌化资产，例如令牌化商品，指数，股票和债券以及多种加密货币，可通过提供的交易平台进行在线交易。
 
 ## 优点＆缺点
+
 - 多种加密货币和代币化资产
 - 一系列交易工具和学习资料
 - 24/7客户支持
@@ -17,7 +18,6 @@ Currency.com是一家在线金融服务提供商，提供超过1,500种令牌化
 - 资产类别有限
 - 无MetaTrader或cTrader平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -43,6 +43,8 @@ Currency.com是白俄罗斯共和国法律授权的机构，也是吉尔布拉�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 为交易者提供了一系列有用的交易工具，以帮助他们进行日间交易活动。 其中包括API，图表，绘图工具，技术指标等。
@@ -52,6 +54,8 @@ Currency.com是白俄罗斯共和国法律授权的机构，也是吉尔布拉�
 联交所网站充斥着多种教育资源，例如交易博客，新闻，交易指南，视频教程以及“常见问题”局部，该部分可快速答复客户最常见的问题。
 
 ![市场新闻](https://cdn.fendou.la/funstoutiao/2020/12/Currency.com-Review-News-1024x436.jpg "市场新闻")
+
+市场新闻
 
 市场新闻
 
@@ -77,11 +81,15 @@ Currency.com是白俄罗斯共和国法律授权的机构，也是吉尔布拉�
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设帐户，请单击网站首页上的“入门”按钮，然后填写帐户申请表，其中提供了所有必需的信息。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/12/Currency.com-Review-Account-Opening-Page.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

@@ -1,15 +1,16 @@
 ---
 title: "Libra Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Libra Markets是一个在线交易经纪商，提供外汇，股票，商品和指数进行在线交易。 有多个帐户选项，初始初始余额为250美元。 但是，经纪商不受监管，他们没有提供流行的MetaTrader平台，因此许多交易者已经成为 习惯的 至。
 
 ## 优点和缺点
+
 - 多个交易账户选项
 - 多语种客户支持
 - 选择交易工具和教育资源
@@ -20,7 +21,6 @@ Libra Markets是一个在线交易经纪商，提供外汇，股票，商品和�
 - 无实时聊天支持
 - 资金选择有限
 - 点差偏高
-
 
 ## 总结
 

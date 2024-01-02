@@ -1,15 +1,16 @@
 ---
 title: "FXOpen外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXOpen是最早的在线经纪商之一，并且仍然是当今最成熟的经纪商之一。他们是受监管的ECN经纪商，提供一些最佳的交易条件，低点差，快速的交易执行和有竞争力的佣金。
 
 ## 优点和缺点
+
 - 严格监管
 - 电子通讯网络（ECN）
 - 专有价格汇总技术
@@ -21,7 +22,6 @@ FXOpen是最早的在线经纪商之一，并且仍然是当今最成熟的经�
 - 限制欧盟客户的杠杆
 - 无固定利差账户
 - 教材有限
-
 
 ## 经纪商简介
 

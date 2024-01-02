@@ -1,15 +1,16 @@
 ---
 title: "Eightcap外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Threecap是一家受监管的经纪商平台，提供在线交易200多种差价合约工具的工具，包括外汇，股票，加密货币和商品。该经纪商平台提供了日益流行，功能强大且用户友好的MetaTrader（MT4 / MT5）交易平台。他们提供低交易费和低点差，以及出色的客户支持，管理帐户和市场分析，以协助交易员。有多种快速便捷的资金选择，灵活的帐户杠杆高达1:500。
 
 ## Eightcap测评
+
 - 监管经纪商平台
 - 佣金低
 - 免佣金账户
@@ -27,10 +28,11 @@ Threecap是一家受监管的经纪商平台，提供在线交易200多种差价
 - 不允许来自35个以上国家（包括美国）的客户
 - 模拟帐户在30天后过期
 
-
 ## Eightcap摘要
 
 ![Eightcap经纪商平台功能](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Broker-Features-2-1024x485.png "Eightcap经纪商平台功能")
+
+Eightcap经纪商平台功能
 
 Eightcap经纪商平台功能
 
@@ -40,9 +42,13 @@ Eightcap经纪商平台功能
 
 Eightcap经纪商平台评级
 
+Eightcap经纪商平台评级
+
 Eightcap的交易服务器位于Equinix数据中心，这非常受欢迎，因为大多数领先的金融机构都在这些设施中托管其服务器。定价由顶级流动性提供商汇总。这就是为什么经纪商平台能够提供0.0点起的原始点差并且没有交易台的原因。这有助于确保以最佳的可用价格快速执行交易。
 
 ![Eightcap经纪商平台功能](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Broker-Features-3-1024x481.png "Eightcap经纪商平台功能")
+
+Eightcap经纪商平台功能
 
 Eightcap经纪商平台功能
 
@@ -69,6 +75,7 @@ Threecap是Eightcap公司的商业品牌，该公司在澳大利亚注册，注�
 Eightcap为所有客户提供了行业标准的MetaTrader平台。MetaTrader 4（MT4）和MetaTrader 5（MT5）平台的所有版本均可用。这两个平台均由位于塞浦路斯的俄罗斯软件公司“ MetaQuotes软件公司”开发。MT4于2005年发布，而MT5于2010年发布。如今，MetaTrader仍然是许多在线经纪商平台和交易员在全球使用的最受欢迎的交易平台之一。该平台对初学者来说既用户友好，又具有足够的高级功能来满足最苛刻的交易者的需求。
 
 Eightcap提供以下MetaTrader平台版本：
+
 - 适用于Windows的MT4桌面应用程序
 - 适用于MAC OS的MT4
 - MT4移动Android应用
@@ -87,7 +94,10 @@ MT4和MT5的移动版本看起来非常相似，具有直观的界面，使它�
 
 EightcapMetaTrader 4
 
+EightcapMetaTrader 4
+
 桌面版本的MT4和MT5看起来也很相似。主要区别在于MT5平台旨在改善MT4的现有功能。这两个平台均显示实时工具的报价，支持超快速交易执行，详细的图表和分析。既支持使用专家顾问（EA）来自动化交易，也可以访问MetaTrader市场。这是平台之间的一些主要区别：
+
 - MT4有4种待处理订单类型，而MT5有6种。
 - MT4预先装有30个技术指标，但MT5预先配备了38个技术指标。
 - MT4内置的分析工具为24种，而MT5为44种。
@@ -95,6 +105,8 @@ EightcapMetaTrader 4
 - MT5具有嵌入式经济日历，而MT4则没有。
 
 ![EightcapMetaTrader 5](https://cdn.fendou.la/funstoutiao/2020/12/EightCap-Review-MetaTrader-5.png "EightcapMetaTrader 5")
+
+EightcapMetaTrader 5
 
 EightcapMetaTrader 5
 
@@ -106,6 +118,8 @@ Eightcap提供了一种多帐户管理（MAM）软件，该软件功能强大且
 
 ![八键多帐户管理（MAM）](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Multi-Account-Management.jpg "八键多帐户管理（MAM）")
 
+八键多帐户管理（MAM）
+
 Eightcap多帐户管理（MAM）
 
 ### 市场新闻与分析
@@ -113,6 +127,8 @@ Eightcap多帐户管理（MAM）
 在Eightcap网站的此部分中，您将查看经济事件，市场新闻和更新以及分析师的测评和预测。这是由Augcap的分析师在三个小节中准备的，这些小节包括市场更新，外汇新闻和CFD新闻。
 
 ![Threecap市场新闻](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Market-News.png "Threecap市场新闻")
+
+Threecap市场新闻
 
 Threecap市场新闻
 
@@ -132,6 +148,8 @@ MetaTrader指南包含有关MetaTrader平台的文章，包括“如何安装EA�
 
 ![八章测评交易教育](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Trading-Education.png "八章测评交易教育")
 
+八章测评交易教育
+
 Eightcap测评交易教育
 
 ## Threecap交易工具
@@ -139,6 +157,8 @@ Eightcap测评交易教育
 Eightcap提供40种主要和次要的外汇对，商品（黄金，白银和石油），一些世界上最大的股票和指数以及加密货币。MT4和MT5平台上分别有200多种差价合约可供交易。
 
 ![Eightcap股票指数](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Stock-Indices.png "Eightcap股票指数")
+
+Eightcap股票指数
 
 Eightcap股票指数
 
@@ -160,6 +180,8 @@ Eightcap股票指数
 
 Threecap交易帐户类型
 
+Threecap交易帐户类型
+
 ### 模拟账户
 
 提供了适用于所有平台的模拟帐户。它预装了虚拟货币，允许交易者在开设真实真实交易账户之前测试不同的交易平台并无风险地练习其交易策略。
@@ -169,11 +191,14 @@ Threecap交易帐户类型
 Threecap优秀的客户支持团队24/5可用。他们反应迅速，礼貌而有效。可以通过电子邮件，电话和网络聊天与支持中心联系。他们很乐意回答您所有与技术，常规和客户相关的问题。支持团队说泰语，英语和中文。通过以下平台，Eightcap在社交媒体上；Facebook，Twitter，LinkedIn和YouTube。
 
 ## Threecap存款和取款
+
 - 银行电汇：此方法普遍可用。完全处理银行转帐需要3-5天。对于提款，Eightcap将在24小时内处理请求。澳大利亚银行没有取款费，但是国际取款由银行收取。该费用约为20美元，并转给客户。
 - 信用卡/借记卡：仅接受Visa和MasterCard。存款限额为10,000美元。必须先进行卡验证，然后才能用于存款。对于提款，只能将一张卡中的存款金额退还到同一张卡中。卡的存款是免费和即时的，取款最多需要3-20天，具体取决于卡的类型和客户的位置。
 - 在线支付：接受的在线支付为POLi，BPAY，Skrill，Neteller和中国银联。除Skrill和BPAY需花费1-2个工作日处理外，交易会立即得到处理。没有交易费用。对于提款，可以将通过Skrill存入的资金提取到同一Skrill帐户中。第三方支付处理者可能会收费。
 
 ![Eightcap经纪商平台资金选择](https://cdn.fendou.la/funstoutiao/2020/12/EightCap-Review-Broker-Funding-Options-1024x94.png "Eightcap经纪商平台资金选择")
+
+Eightcap经纪商平台资金选择
 
 Eightcap经纪商平台资金选择
 
@@ -188,6 +213,8 @@ Eightcap经纪商平台资金选择
 使用Eightcap开设交易账户既快捷又容易。要在Eightcap注册一个新的交易帐户，请访问该网站，然后单击每个页面顶部的“创建帐户”。显示下面的表格。
 
 ![八重开户表格](https://cdn.fendou.la/funstoutiao/2020/12/Eightcap-Review-Account-Opening-Form-1.png "八重开户表格")
+
+八重开户表格
 
 Eightcap开户表格
 

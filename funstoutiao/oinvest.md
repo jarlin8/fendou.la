@@ -1,15 +1,16 @@
 ---
 title: "Oinvest外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Oinvest是一家在线交易经纪商，为全球成千上万的交易者提供投资服务。 它们为投资者提供了在超过350种金融工具中进行差价合约交易的机会，例如商品，指数，股票和加密货币。 交易者还可以使用各种交易和学习工具，以帮助尝试并改善整体交易体验。
 
 ## 优点和缺点
+
 - 用户友好的MetaTrader 4交易平台
 - 多种交易工具
 - 一系列教育资源
@@ -17,7 +18,6 @@ Oinvest是一家在线交易经纪商，为全球成千上万的交易者提供�
 - 点差偏高
 - 无MetaTrader 5平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -88,6 +88,7 @@ Oinvest为投资者提供了在商品，指数，股票，股票，外汇货币�
 ## 存款和取款
 
 经纪商接受以下存款和取款方式：
+
 - 信用卡/借记卡，例如Visa，MasterCard，Maestro等
 - 电子支付，包括Neteller和Skrill
 

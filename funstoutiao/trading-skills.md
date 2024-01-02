@@ -1,12 +1,12 @@
 ---
 title: "外汇入门的十大交易技巧有哪些？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 外汇保证金交易又叫外汇交易，是一种比股市投资更优越的金融投资工具。即利用保证证金交易来投资，交易者可以灵活运用杠杆原理，以小搏大、双向交易、操做灵活。为此就外汇交易方面笔者整理了一些常用技巧可供参考。

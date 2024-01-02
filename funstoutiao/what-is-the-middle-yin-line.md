@@ -1,12 +1,12 @@
 ---
 title: "什么是中阴线，中阴线的作用是什么？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 不同位置有不同的意思。  

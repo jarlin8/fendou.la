@@ -1,13 +1,12 @@
 ---
 title: "外汇交易如何运用低成本，实现爆利?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
- post_tag: 
-  - "forex-trading-tool"
-  - "怎样炒外汇"
+  category:
+        - "ganhuo"
+  post_tag:
+        - "怎样炒外汇"
 ---
 
 严格止损止盈

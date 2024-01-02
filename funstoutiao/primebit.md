@@ -1,15 +1,16 @@
 ---
 title: "PrimeBit外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 PrimeBit是一种点对点的加密货币交易所，为交易者提供先进的MetaTrader 5交易平台和直观的PrimeBit WebTrader，用于交易多种加密货币，包括比特币，以太坊，Litecoin，Tether等，杠杆率最高为1: 200 客户可以使用各种有用的交易工具和教育资源。
 
 ## 优点和缺点
+
 - 灵活且用户友好的交易平台
 - 加密货币范围
 - 精选教育资源
@@ -18,7 +19,6 @@ PrimeBit是一种点对点的加密货币交易所，为交易者提供先进的
 - 有限的交易工具选择
 - 不接受美国客户
 - 无在线聊天支持
-
 
 ## 经纪商简介
 

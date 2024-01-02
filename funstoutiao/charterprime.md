@@ -1,13 +1,14 @@
 ---
 title: "Charterprime外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Charterprime是运行STP执行模型的在线交易经纪商，为交易者提供完善的MT4交易平台，可在50多个金融市场中进行外汇，商品，贵金属，指数和差价合约交易。 有多种账户选择，最低存款额为100美元，点差低至0.0点，最大杠杆上限为1:500。
+
 - 直观的MetaTrader 4交易平台
 - 一系列有用的交易和学习工具
 - 多种账户类型和融资方式
@@ -18,12 +19,13 @@ Charterprime是运行STP执行模型的在线交易经纪商，为交易者提�
 - 无实时聊天支持
 - 不接受美国客户
 
-
 ## 经纪商简介
 
 Charterprime成立于2012年，总部位于澳大利亚悉尼，是一家屡获殊荣的多资产经纪公司，它允许客户通过一系列直观的交易平台在线交易多种金融产品。 他们为客户提供一些交易和学习工具，以及24/7的客户支持。 经纪商提供有利的交易条件，例如量身定制的流动性解决方案和快速的交易执行，而无需交易台干预。 多年来，Charterprime曾荣获多个行业奖项，包括2018年最佳STP / ECN经纪商和2019年亚洲最具影响力的外汇经纪商。
 
 ![奖项与提名](https://cdn.fendou.la/funstoutiao/2020/11/Charterprime-Review-Awards-and-Nominations--1024x474.jpg "奖项与提名")
+
+奖项与提名
 
 奖项与提名
 
@@ -44,6 +46,8 @@ Charterprime Limited是在新西兰向金融服务提供商（FSPR 348606）注�
 Charterprime允许客户在高度先进的MetaTrader 4交易平台上进行交易。 MT4交易平台被视为外汇交易的行业标准。 它具有通用的功能和强大的分析功能，并具有市场图表以及技术分析指标和工具。 该代理使MT4平台可用作Windows和Mac计算机，WebTrader的桌面应用程序，以及与Android和iOS设备兼容的移动应用程序，并可从相应的应用程序商店免费下载。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Charterprime-Review-Trading-Platform--1024x452.jpg "交易平台")
+
+交易平台
 
 交易平台
 
@@ -72,6 +76,7 @@ Charterprime客户可以使用以下交易帐户选项：可变，ECN和无掉�
 ## 存款和取款
 
 Charterprime接受以下用于帐户存款和取款的付款方式：
+
 - 银行电汇
 - 信用卡/借记卡
 - 电子支付处理器，例如Neteller和Skrill
@@ -82,6 +87,8 @@ Charterprime接受以下用于帐户存款和取款的付款方式：
 要开户，请点击经纪商网站顶部的“真实账户”按钮，正确填写注册表格，然后上传所需的KYC文件。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Charterprime-Review-Account-Opening-Page-146x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

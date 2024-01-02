@@ -1,15 +1,16 @@
 ---
 title: "Juno Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Juno Markets是一家基于瓦努阿图的在线经纪商，通过MetaTrader 4平台及其专有的Juno Auto Trader（用于复制交易）提供外汇，金属，指数和能源进行交易。 经纪商提供了几种交易工具和教育资源，但法规有限。
 
 ## Juno Markets测评
+
 - 复制交易平台
 - 一些教育资料
 - 多种付款方式

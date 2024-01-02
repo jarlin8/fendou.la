@@ -1,15 +1,16 @@
 ---
 title: "Spread Co外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Spread Co是一家从事外汇，差价合约和点差交易的金融经纪商。该经纪商在其专有的在线交易平台上交易的1,000多种工具提供紧密的固定点差和低交易佣金。它还提供市场新闻，移动交易和交易员的教育资源。
 
 ## 优点和缺点
+
 - 监管交易经纪商
 - 广泛的交易工具
 - 灵活且用户友好的交易平台
@@ -21,7 +22,6 @@ Spread Co是一家从事外汇，差价合约和点差交易的金融经纪商�
 - 不是最紧密的点差
 - 不接受美国客户
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 

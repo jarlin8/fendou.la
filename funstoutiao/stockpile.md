@@ -1,13 +1,14 @@
 ---
 title: "Stockpile外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Stockpile是一个基本的在线经纪商，具有一个简单的交易应用程序，可以以低廉的价格买卖零碎股票。 与其他在线经纪商相比，该平台，交易工具和金融工具非常有限。
+
 - 严格监管
 - 证券投资者保护公司（SIPC）
 - 零碎股份
@@ -20,7 +21,6 @@ Stockpile是一个基本的在线经纪商，具有一个简单的交易应用�
 - 无MetaTrader平台
 - 无在线支付处理器
 - 仅限美国交易者
-
 
 ## 经纪商简介
 

@@ -1,15 +1,16 @@
 ---
 title: "4xCube外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 4xCube是一个在线交易经纪商，它通过广受欢迎的MetaTrader 4平台及其专有的CubeTrader应用程序提供货币，加密货币，能源，金属和指数的外汇和CFD交易。他们提供STP和ECN交易帐户服务，以较低的重新报价和具有竞争力的价差提供体面的执行速度。
 
 ## 4xCube测评
+
 - $5最低存款
 - 高达1:400的杠杆
 - 社交交易工具
@@ -26,11 +27,15 @@ taxonomy:
 
 功能
 
+功能
+
 ## 监管信息
 
 4xCube Ltd在库克群岛注册，注册号为ICA 12767/2018，受库克岛金融监管委员会（FSC）监管，货币兑换许可证号为MC03 / 2018。
 
 ![许可证](https://cdn.fendou.la/funstoutiao/2020/11/4XCube-Review-License.png "许可证")
+
+许可证
 
 许可证
 
@@ -58,11 +63,15 @@ MT4平台是最广泛的在线外汇交易平台之一。它具有易于使用�
 
 MT4平台
 
+MT4平台
+
 ### CubeTrader平台
 
 4xCube有一个专有的交易平台，他们称为CubeTrader。该平台简单，创新且易于使用。该平台可以从经纪商网站下载，可以作为基于Web的Android应用程序使用。
 
 ![CubeTrader平台](https://cdn.fendou.la/funstoutiao/2020/11/4xCube-Review-CubeTrader-Platform.png "CubeTrader平台")
+
+CubeTrader平台
 
 CubeTrader平台
 
@@ -76,11 +85,15 @@ CubeTrader平台
 
 VPS托管
 
+VPS托管
+
 ### MetaTrader信号
 
 4xCube使他们的交易者可以通过MT4平台轻松订阅其他交易者提供的交易信号。平台的信号终端上有免费和付费订阅，您可以分析各种信号提供者的结果来确定要订阅哪个。应该注意的是，复制交易信号时并不能保证结果，并且您应该全面了解在线交易涉及的所有重大风险。
 
 ![MetaTrader信号](https://cdn.fendou.la/funstoutiao/2020/11/4xCube-Review-MetaTrader-Signals.png "MetaTrader信号")
+
+MetaTrader信号
 
 MetaTrader信号
 
@@ -90,11 +103,15 @@ MetaTrader信号
 
 社交交易网络
 
+社交交易网络
+
 ### 自动交易工具
 
 4xCube还为他们的客户提供了参与8topuz人工智能交易系统和SwapHunter等AI交易工具的机会。同样，使用自动交易工具时，您应该非常清楚风险。请记住，历史表现并不能保证未来的表现。
 
 ![自动交易工具](https://cdn.fendou.la/funstoutiao/2020/11/4xCube-Review-Autotrading-Tools.png "自动交易工具")
+
+自动交易工具
 
 自动交易工具
 
@@ -110,11 +127,14 @@ MetaTrader信号
 
 网络研讨会
 
+网络研讨会
+
 ## 交易工具
 
 ### 可交易工具
 
 借助4xCube，您可以交易80多种外汇和CFD工具，这些工具分布在五种资产类别中-外汇货币对，加密货币，金属，能源和指数。
+
 - 货币对：有超过60种货币对，包括主要，次要和外来货币对。
 - 加密货币：经纪商提供比特币的差价合约交易，以BTC / USD货币对交易
 - 金属：4xCube提供两种贵金属（黄金和白银）的差价合约交易
@@ -129,6 +149,8 @@ MetaTrader信号
 
 PAMM投资
 
+PAMM投资
+
 ## 交易账户和费用
 
 4xCube提供三种帐户类型：
@@ -136,6 +158,7 @@ PAMM投资
 ### 标准账户
 
 标准交易帐户适用于新交易者，它具有以下功能：
+
 - 最低入金$5
 - 点差从0.7点差开始
 - 杠杆高达1:400
@@ -144,6 +167,7 @@ PAMM投资
 ### 专业账户
 
 此帐户适用于需要专业优势的经验丰富的交易员。功能如下：
+
 - $1,000最低存款
 - 从0.1点差开始
 - 杠杆高达1:400
@@ -152,12 +176,15 @@ PAMM投资
 ### VIP帐号
 
 VIP帐户可供高净值人士使用，并具有以下功能：
+
 - 最低存款$25,000
 - 从0.2点差开始
 - 杠杆高达1:400
 - 零佣金
 
 ![4xCube：帐户类型](https://cdn.fendou.la/funstoutiao/2020/11/4xCube-Review-Account-Types.png "4xCube：帐户类型")
+
+4xCube：帐户类型
 
 4xCube：帐户类型
 
@@ -168,6 +195,7 @@ VIP帐户可供高净值人士使用，并具有以下功能：
 ## 存款和取款
 
 有许多可接受的付款方式，每种都有不同的交易费用：
+
 - **银行转帐：**存款和取款大约需要2-3天的时间进行处理。交易费用取决于银行和交易类型
 - **信用卡/借记卡：**经纪商接受万事达卡和Visa卡。存款是即时的，但是取款需要一个工作日。存款成本为3％，而提款成本为0.15％
 - **在线钱包（APM）：**可接受的电子钱包包括NETELLER，AstroPay，银联，Help2pay，PerfectMoney，微信支付，VLOAD凭证，Fasapay和PayRetailers。存款会立即处理，但是提款需要一个工作日。交易费用各不相同。
@@ -180,6 +208,8 @@ VIP帐户可供高净值人士使用，并具有以下功能：
 要使用4xCube开户，请单击经纪商主页右上角的绿色“注册”按钮，然后填写显示的表格。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/4xCube-Review-Account-Opening-Page-2.png "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

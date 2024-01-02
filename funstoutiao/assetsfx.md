@@ -1,15 +1,16 @@
 ---
 title: "AssetsFX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 自2013年以来，AssetsFX一直为零售和专业交易员提供机构交易解决方案。 经纪商提供竞争性的交易条件，例如紧密的点差，低佣金和快速的NDD / STP / ECN执行。
 
 ## AssetsFX 优点和缺点
+
 - 直观的MetaTrader 4交易平台
 - 经济日历和其他有用的交易工具
 - 各种交易工具
@@ -20,7 +21,6 @@ taxonomy:
 - 不接受美国客户
 - 无教育资源
 - 无MetaTrader 5交易平台
-
 
 ## 经纪商简介
 
@@ -46,6 +46,8 @@ AssetsFX允许世界各地的交易者在他们之间开设交易帐户，前提
 
 MetaTrader 4平台
 
+MetaTrader 4平台
+
 该代理提供MT4平台作为Windows和Mac计算机的桌面应用程序，无需安装即可直接在大多数现代Web浏览器上运行的Web版本以及可以从Google Play商店或Apple商店下载的移动应用程序。 使用移动应用程序，只要有互联网连接，您就可以在任何地方进行手机交易。
 
 ## 交易工具
@@ -53,6 +55,8 @@ MetaTrader 4平台
 提供了诸如经济日历和货币转换器之类的交易工具，以帮助尝试并确保无缝的交易体验。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/AssetsFX-Review-Economic-Calendar.jpg "经济日历")
+
+经济日历
 
 经济日历
 
@@ -77,6 +81,7 @@ AssetsFX提供多种可交易资产的在线交易，包括外汇，期货，期
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡，例如Visa，MasterCard，Discover等。
 - 加密货币
 - 电子付款，包括PayPal
@@ -85,11 +90,15 @@ AssetsFX提供多种可交易资产的在线交易，包括外汇，期货，期
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设一个账户，请点击真实账户按钮并填写表格。 将会向您发送一封电子邮件，其中包含您的登录详细信息。 您可以继续为您的帐户注资并开始交易。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/AssetsFX-Review-Account-Opening-Page-241x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

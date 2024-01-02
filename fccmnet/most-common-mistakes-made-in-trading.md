@@ -1,7 +1,8 @@
 ---
 title: "List 3 most common mistakes made in trading, solutions you'll want to know!"
 post_status: publish
-post_date: "2022-12-22"
+post_post_status: publish
+skip_file: no
 taxonomy:
  category: 
   - "faq"

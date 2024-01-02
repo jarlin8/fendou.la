@@ -1,15 +1,16 @@
 ---
 title: "Synergy Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Synergy Markets是一家外汇和差价合约经纪商，为澳大利亚和世界其他地区的交易者提供专业的交易解决方案。 该经纪商通过完善的MT4和MT5交易平台提供24个小时的客户支持，提供50多种与外汇相关的产品，包括货币交易，股票，指数，商品和加密货币。
 
 ## 优点和缺点
+
 - 合规经纪商
 - 用户友好的MetaTrader平台
 - 多种交易工具
@@ -20,7 +21,6 @@ Synergy Markets是一家外汇和差价合约经纪商，为澳大利亚和世�
 - 无每日市场分析
 - 无社交交易平台集成
 - 无独立的交易工具
-
 
 ## 经纪商简介
 

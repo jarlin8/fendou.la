@@ -1,15 +1,16 @@
 ---
 title: "Upbit外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Upbit于2017年在韩国启动，是一家顶级加密货币交易所，拥有世界一流的区块链技术，监管专业知识和运营知识。 他们允许客户买卖超过150种数字资产，包括比特币，以太坊，莱特币，Tether，Ripple等。
 
 ## 优点和缺点
+
 - 完善的交易平台
 - 教育资源
 - 多种交易工具
@@ -20,7 +21,6 @@ Upbit于2017年在韩国启动，是一家顶级加密货币交易所，拥有�
 - 交易工具有限
 - 不接受美国客户
 - 无实时聊天支持
-
 
 ## 经纪商简介
 

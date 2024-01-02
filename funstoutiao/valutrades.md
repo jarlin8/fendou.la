@@ -1,15 +1,16 @@
 ---
 title: "Valutrades瓦鲁外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Valutrades是一家受监管的在线经纪商，拥有灵活的平台和帐户。他们提供多种交易工具和教学资料，但与其他在线经纪商相比，它们缺乏非外汇工具。
 
 ## 优点和缺点
+
 - 严格监管
 - 客户资金隔离
 - FSCS保险
@@ -21,7 +22,6 @@ Valutrades是一家受监管的在线经纪商，拥有灵活的平台和帐户�
 - 不接受美国客户
 - 有限的非外汇工具
 - 非专业客户的杠杆作用有限
-
 
 ## 经纪商简介
 
@@ -108,6 +108,7 @@ MetaFX MAM
 ### MAM资金经理
 
 Valutrades提供了创新的MetaFX多客户经理（MAM）软件，该软件可以处理MT4和MT5上的复杂MAM设置，并且需要同时管理多个交易账户的资金经理可以使用。在MetaFX MAM软件的众多功能中，它包括：
+
 - 多种分配类型（权益，余额，百分比，手数等）。
 - 实时添加和删除帐户。
 - 实时分配和报告。

@@ -1,15 +1,16 @@
 ---
 title: "Khwezi Trade经纪商平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Khwezi Trade是一家来自南非的在线交易交易平台。它们允许客户通过MetaTrader 4交易平台进行货币对、金属、能源、软商品和指数的交易，杠杆率高达1:200。Khwezi Trade纯粹是一家STP交易平台，因此他们可以以一些最优惠的价格和有竞争力的价差提供交易的快速执行。
 
 ## Khwezi Trade测评
+
 - 受监管交易平台
 - MetaTrader 4交易平台
 - Trade教程和市场分析

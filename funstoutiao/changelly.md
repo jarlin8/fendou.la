@@ -1,15 +1,16 @@
 ---
 title: "Changelly外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Changelly是一个加密货币交易所，使交易者可以购买，出售，持有和投资150多种加密货币，包括比特币，以太坊，XRP，DASH，Digibyte，狗狗币，以太坊经典，QTUM，Tron，Tether USD等。 他们为交易者提供了一个直观且用户友好的交易平台，以及一些交易工具，教育资源和24/7全天候支持。 但是，Changelly不受监管，仅提供加密货币交易。
 
 ## Changelly  优点和缺点
+
 - 新手友好的交易平台
 - 精选教育资源
 - 24/7全天候客户支持
@@ -17,7 +18,6 @@ Changelly是一个加密货币交易所，使交易者可以购买，出售，�
 - 不接受美国客户
 - 仅加密货币交易
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 
@@ -41,6 +41,8 @@ Changelly提供了用于交换加密货币的专有交易平台。 该平台具�
 
 ![移动交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Changelly-Review-Mobile-Platform-.jpg "移动交易平台")
 
+移动交易平台
+
 Changelly：移动交易平台
 
 ## 交易工具
@@ -52,6 +54,8 @@ Changelly：移动交易平台
 交易所网站的“支持”部分包含大量教育资源，其中包括以下内容：常见问题解答，服务台，博客，教程，速成班等等。 这些可以帮助提高交易者的交易技能和知识。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/11/Changelly-Review-Trading-Blog.jpg "交易博客")
+
+交易博客
 
 交易博客
 
@@ -72,6 +76,7 @@ Changelly有专门的客户支持团队，可通过实时聊天和多种社交�
 ## 存款和取款
 
 Changelly提供以下付款方式：
+
 - 银行转帐（SEPA）
 - 信用卡/借记卡
 - 加密货币
@@ -81,6 +86,8 @@ Changelly提供以下付款方式：
 要开设一个帐户，您必须单击“注册”图标并正确填写将显示的表格，然后单击提交并等待批准。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Changelly-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 Changelly：开户页面
 

@@ -1,14 +1,13 @@
 ---
 title: "阿根廷1998-2012年案例"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "debt-crisis"
+  category:
+        - "forexbook"
+  post_tag:
+        - "debt-crisis"
 ---
-
 
 ## 泡沫阶段
 
@@ -49,4 +48,3 @@ taxonomy:
 ### 国际收支状况
 
 ![](https://img.dgrhw.net/upload/images/forexbook/2020/07/22/180423846.png)
-

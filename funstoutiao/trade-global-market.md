@@ -1,15 +1,16 @@
 ---
 title: "Trade Global Market外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Trade Global Market是一家在线交易经纪公司，运营STP执行模型，同时提供89种跨不同资产类别的交易工具，例如外汇，金属，指数，差价合约等，以便在MetaTrader 4交易平台上进行交易。
 
 ## 优点和缺点
+
 - 多个交易平台
 - 一系列交易和学习工具
 - 超过89种金融工具
@@ -17,7 +18,6 @@ Trade Global Market是一家在线交易经纪公司，运营STP执行模型，�
 - 不接受美国客户
 - 与其他经纪商相比交易工具有限
 - 有限的帐户资金选择
-
 
 ## 经纪商简介
 

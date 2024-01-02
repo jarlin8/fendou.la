@@ -1,10 +1,10 @@
 ---
 title: "交易看什么时间周期最好?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 ## 日线是大家都应该关注的方向，不管日内还是长线投资者，即使日内交易，也需要判断日线的情况，清楚自己是顺势还是逆势在做。

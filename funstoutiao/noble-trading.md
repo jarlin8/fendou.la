@@ -1,13 +1,14 @@
 ---
 title: "Noble Trading外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Noble Trading是一家零售在线交易经纪商，可提供交易外汇，指数，贵金属，商品和能源的访问权限。 该经纪商为交易者提供最先进的交易平台以及一系列交易和学习工具。
+
 - 各种金融产品
 - 直观的MT4交易平台
 - 多种交易工具
@@ -19,7 +20,6 @@ Noble Trading是一家零售在线交易经纪商，可提供交易外汇，指�
 - 无MetaTrader 5平台
 - 无实时聊天支持
 - 禁止美国交易员
-
 
 ## 经纪商简介
 

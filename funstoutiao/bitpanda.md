@@ -1,15 +1,16 @@
 ---
 title: "Bitpanda外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 自2014年推出以来，Bitpanda已发展成为欧洲领先的加密货币在线交易的零售经纪商之一，包括比特币，以太坊，Litecoin，XRP，DASH，以太坊经典，Stellar，Tether等。 他们为交易者提供专有的Bitpanda交易平台，以及一系列有用的交易工具。
 
 ## Bitpanda 优点＆缺点
+
 - 专有交易平台
 - 精选教材
 - 监管弱
@@ -17,7 +18,6 @@ taxonomy:
 - 仅加密货币交易
 - 不接受美国客户
 - 无实时聊天支持
-
 
 ## 经纪商简介
 
@@ -45,6 +45,8 @@ Bitpanda交易平台既可以作为Web和桌面平台使用，又可以与Androi
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 客户还可以从一些有用的交易工具中受益，包括有助于增强客户交易体验的API和TradingView。
@@ -54,6 +56,8 @@ Bitpanda交易平台既可以作为Web和桌面平台使用，又可以与Androi
 Bitpanda为交易者提供了大量的教学材料，旨在提高他们的整体交易技能和知识。 该网站的“学习”部分拥有一个不错的交易学院，为所有级别的交易者提供精选的交易文章和课程。 该网站还包含新闻和新闻发布。
 
 ![交易文章](https://cdn.fendou.la/funstoutiao/2020/11/Bitpanda-Review-Trading-Articles-.jpg "交易文章")
+
+交易文章
 
 交易文章
 
@@ -74,6 +78,7 @@ Exchange每个客户只允许一个帐户，称为Bitpanda客户帐户。 有兴
 ## 存款和取款
 
 联交所接受以下的帐户存款和提款付款方式：
+
 - 银行转帐
 - 信用卡/借记卡，包括Visa和MasterCard
 - 电子支付，例如Neteller和Skrill
@@ -83,11 +88,15 @@ Exchange每个客户只允许一个帐户，称为Bitpanda客户帐户。 有兴
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 新交易者可以通过单击“开始交易”按钮来开设交易帐户，并正确填写表格。 一旦获得批准，交易者就可以开始交易。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Bitpanda-Review-Account-Opening-Page.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

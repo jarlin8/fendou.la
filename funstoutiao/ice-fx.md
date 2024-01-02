@@ -1,10 +1,10 @@
 ---
 title: "ICE FX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 2015年，ICE FX作为在线金融服务提供商推出，为交易者提供MetaTrader 4交易平台，可交易跨5种资产类别的63种交易工具，例如外汇，金属，指数，商品和加密货币。
@@ -12,6 +12,7 @@ taxonomy:
 除交易机会外，ICE FX还提供了一个功能齐全的投资平台，用于投资管理帐户。
 
 ## 优点与缺点
+
 - MetaTrader 4交易平台
 - 多种交易工具
 - 多种金融工具
@@ -22,7 +23,6 @@ taxonomy:
 - 不接受美国客户
 - 不是最紧密的点差
 - 无MetaTrader 5交易平台
-
 
 ## 经纪商简介
 
@@ -87,6 +87,7 @@ ICE FX提供5种资产类别的63种交易工具的在线交易，例如外汇�
 ## 存款和取款
 
 ICE FX可以使用以下付款方式进行存款和取款：
+
 - 银行转帐（SWIFT）
 - 信用卡/借记卡，例如Visa和MasterCard
 - 电子支付系统，包括Neteller和Skrill。

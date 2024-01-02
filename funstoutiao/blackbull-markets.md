@@ -1,15 +1,16 @@
 ---
 title: "BlackBull Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 BlackBull Markets成立于2014年，是一家屡获殊荣的在线经纪公司，总部位于新西兰，致力于为全球交易者提供机构级交易条件，专门从事外汇和差价合约交易。
 
 ## BlackBull Markets利弊
+
 - 免佣金账户
 - FIX API交易
 - 电子通讯网络（ECN）
@@ -20,7 +21,6 @@ BlackBull Markets成立于2014年，是一家屡获殊荣的在线经纪公司�
 - 不接受美国客户
 - 无固定利差账户
 - 有限的交易工具
-
 
 ## 经纪商简介
 
@@ -36,9 +36,13 @@ BlackBull Markets的总部位于新西兰奥克兰，这里是政府支持的快
 
 服务概述
 
+服务概述
+
 他们提供的优质交易工具和服务已经使他们赢得了技术和创新的多个奖项。他们是整个技术生态系统中发展最快的公司之一，并于2018年获得了德勤Fast 50奖项，该奖项是新西兰奥克兰增长最快的出口商。他们通过开发多种金融科技解决方案（包括其专有的in-房屋交易汇总软件。
 
 ![奖项](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Awards.png "奖项")
+
+奖项
 
 奖项
 
@@ -47,6 +51,8 @@ BlackBull Markets的总部位于新西兰奥克兰，这里是政府支持的快
 它们具有三个专用的Equinix服务器，它们在物理上尽可能靠近三个主要交易所，以即时进入市场。对于世界各地的交易者来说，这可以实现最低的延迟。纽约有ECN Bridge Equinix NY4，伦敦有ECN Bridge Equinix LD4，东京有ECN Bridge Equinix TY3。在需要备份的情况下，还有另外两个Equinix服务器。
 
 ![全球影响力](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Global-Presence-1024x724.png "全球影响力")
+
+全球影响力
 
 全球影响力
 
@@ -73,6 +79,8 @@ BlackBull Markets接受来自全球的客户，除了一些受到联合国制裁
 BlackBull Markets使用MetaQuotes广受好评的交易平台MetaTrader 4（MT4）。虚拟专用服务器（VPS）和FIX API交易也可用。
 
 ![MetaTrader 4（MT4）](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-MetaTrader-4-MT4-1-1024x342.jpg "MetaTrader 4（MT4）")
+
+MetaTrader 4（MT4）
 
 MetaTrader 4（MT4）
 
@@ -126,6 +134,8 @@ BlackBull Markets有一个教程视频部分，其中包括一些基本视频，
 
 交易视频
 
+交易视频
+
 ## 交易工具
 
 BlackBull Markets提供交易范围，包括64多种主要，次要和外来货币对，主要市场的指数，贵金属（例如黄金和白银）以及大宗商品（包括能源，天然气和石油）的交易。
@@ -135,6 +145,8 @@ BlackBull Markets提供交易范围，包括64多种主要，次要和外来货�
 按每日交易量和价值计算，外汇市场是全球最大的金融市场，平均每天交易量达5万亿美元。BlackBull Markets提供64种以上主要，次要和异国货币对，可以24/5进行交易，灵活的杠杆率高达1:500，点差范围为0.1个基点和机构交易条件。
 
 ![主要货币对](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Major-Currency-Pairs.jpg "主要货币对")
+
+主要货币对
 
 主要货币对
 
@@ -150,11 +162,15 @@ BlackBull Markets对差价合约不收取佣金，也没有额外的加价或重
 
 指数差价合约
 
+指数差价合约
+
 ### 大宗商品
 
 交易者可以通过包括能源，天然气和石油在内的各种商品来多样化他们的投资组合。杠杆高达1:500。商品是属于硬性（例如黄金，白银和原油）或软性（例如糖，可可和牲畜）类别的主要资源。大宗商品可能会受到政治和环境事件的影响。
 
 ![大宗商品](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Commodities.png "大宗商品")
+
+大宗商品
 
 大宗商品
 
@@ -166,11 +182,15 @@ BlackBull Markets对差价合约不收取佣金，也没有额外的加价或重
 
 贵金属
 
+贵金属
+
 ### 能量
 
 BlackBull Markets以低成本的定价模式和灵活的杠杆作用提供天然气和石油等能源。
 
 ![能源](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Energies.png "能源")
+
+能源
 
 能源
 
@@ -183,6 +203,8 @@ BlackBull Markets有一套灵活的交易帐户，可以满足各个交易者的
 大批量交易者可能有资格通过活动交易者帐户获得返利和更个性化的报价。提供符合伊斯兰教法的伊斯兰友好账户。
 
 ![账户比较](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Accounts-Comparison-1024x699.png "账户比较")
+
+账户比较
 
 账户比较
 
@@ -215,6 +237,8 @@ BlackBull Markets有一套灵活的交易帐户，可以满足各个交易者的
 在BlackBull Markets上注册帐户是一个快速简便的在线过程。您只需在网站上填写简短表格并验证您的电子邮件即可。然后，您需要上传身份证明和地址文件以用于KYC。一旦获得批准，您就可以为您的帐户注资并开始交易。
 
 ![开户](https://cdn.fendou.la/funstoutiao/2020/11/BlackBull-Markets-Account-Opening-1024x681.png "开户")
+
+开户
 
 开户
 

@@ -1,10 +1,10 @@
 ---
 title: "可以分享入行经验或交易心得吗?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 这注定是一场孤独的旅行，我想听听你的风景。

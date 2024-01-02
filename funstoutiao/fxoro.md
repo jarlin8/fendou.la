@@ -1,15 +1,16 @@
 ---
 title: "FXORO外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FXORO是一个CFD经纪商，通过MetaTrader 4平台为台式机，Web和移动设备提供外汇，商品，指数和加密货币进行在线交易。 经纪商提供一些有用的交易工具和大量的教育资料，同时提供有竞争力的点差和负余额保护。
 
 ## 优点和缺点
+
 - MT4交易平台
 - 多种可交易资产
 - 一些有用的交易工具
@@ -17,7 +18,6 @@ FXORO是一个CFD经纪商，通过MetaTrader 4平台为台式机，Web和移动
 - 受限账户类型
 - 点差偏高
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -74,6 +74,7 @@ FXORO拥有专门的客户支持团队，他们始终热心帮助交易者解决
 ## 存款和取款
 
 经纪商接受以下付款方式：
+
 - 电汇
 - 电子钱包，例如Skrill，Neteller和Globe支付
 - 信用卡/借记卡，例如Visa，MasterCard，Maestro，JCB和银联

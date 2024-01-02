@@ -1,15 +1,16 @@
 ---
 title: "Platinium Fund外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Platinium Fund是一家不受监管的零售交易经纪商，提供多种可交易资产，包括外汇，商品，指数和股票，以便通过功能强大的多种设备交易平台进行在线交易。
 
 ## 优点和缺点
+
 - 多个交易平台
 - 教育资源
 - 多个帐户选项
@@ -23,7 +24,6 @@ Platinium Fund是一家不受监管的零售交易经纪商，提供多种可交
 - 无需其他交易工具
 - 不接受美国客户
 - 无社交交易平台集成
-
 
 ## 经纪商简介
 
@@ -96,6 +96,7 @@ Platinium fund为交易者提供了广泛的可交易资产，例如外汇，商
 ## 存款和取款
 
 Platinium fund接受以下付款方式：
+
 - 信用卡/借记卡，例如Visa，MasterCard和Diners Club
 - 电子支付处理器，例如Abaqooc，eKonto，ePay，Euteller，GiroPay，Sofort，POLi等。
 

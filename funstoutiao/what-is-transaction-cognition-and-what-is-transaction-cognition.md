@@ -1,10 +1,10 @@
 ---
 title: "什么是交易认知，交易认知有哪些?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 交易认知不就是对交易的认识吗？这个每个人都不一样，不好说这些认知具体是什么。
@@ -21,7 +21,7 @@ taxonomy:
 
 自信---自律---获利---自豪---自信
 
-恶性循环是：  
+恶性循环是：
 
 盈利---违反策略---亏损---沮丧（情绪失控）---大亏
 

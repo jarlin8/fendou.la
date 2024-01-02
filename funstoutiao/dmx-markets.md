@@ -1,15 +1,16 @@
 ---
 title: "DMX Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 DMX Markets由圣文森特和格林纳丁斯经营，是一家在线交易经纪商，它使用在线交易技术促进股票，外汇，商品和指数的在线交易。 经纪商提供多种账户选择，最低存款要求为250欧元/英镑，杠杆率高达1:200，并为客户提供负余额保护。
 
 ## 优点和缺点
+
 - 复杂的交易平台
 - 多种交易工具
 - 一些教育资源
@@ -22,7 +23,6 @@ DMX Markets由圣文森特和格林纳丁斯经营，是一家在线交易经纪
 - 付款方式有限
 - 无在线聊天支持
 - 无联系电话
-
 
 ## 经纪商简介
 
@@ -50,11 +50,15 @@ DMX Markets还提供以WebTrader形式出现的Sirix Trader，它无需下载或
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 经纪商为交易者提供了一系列有用的交易工具，旨在确保交易者获得更好的交易体验。 其中包括经济日历，技术分析等。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/DMX-Markets-Review-Economic-Calendar--586x1024.jpg "经济日历")
+
+经济日历
 
 经济日历
 
@@ -79,6 +83,7 @@ DMX Markets提供用于在线交易的外汇，商品，指数和股票。
 ## 存款和取款
 
 以下付款方式可用于DMX Markets的存款和取款：
+
 - 信用卡/借记卡（Visa，MasterCard，Maestro）。
 - 银行电汇
 
@@ -87,6 +92,8 @@ DMX Markets提供用于在线交易的外汇，商品，指数和股票。
 开户很容易； 点击“开设帐户”按钮，然后填写显示的表格。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/DMX-Markets-Review-Account-Opening-Page-393x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

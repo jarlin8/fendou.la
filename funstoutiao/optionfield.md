@@ -1,15 +1,16 @@
 ---
 title: "Optionfield外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Optionfield是一家全球二元期权和外汇经纪商，提供世界上最受欢迎的在线交易平台之一，MetaTrader 4和功能强大的基于浏览器的WebTrader。尽管我们的经纪商确实具有不错的交易执行速度，但与我们所审查的其他经纪商相比，它们的息差并不紧。他们提供各种交易账户选择，灵活的杠杆比例高达1:200。
 
 ## Optionfield测评
+
 - MetaTrader 4交易平台
 - 多种可交易资产
 - 客户资金隔离
@@ -18,7 +19,6 @@ Optionfield是一家全球二元期权和外汇经纪商，提供世界上最受
 - 不是最紧密的点差
 - 不接受美国客户
 - 无联系电话
-
 
 ## 经纪商简介
 
@@ -61,6 +61,7 @@ MT4桌面平台
 Optionfield二元期权WebTrader是一个功能强大的基于Web的交易平台。它在屡获殊荣的MetaTrader 4基础架构的背面进行设计，使投资者可以通过首选的网络浏览器从任何位置使用公司提供的工具进行交易。通过使用WebTrader，投资者无需下载并安装Desktop MT4终端和扩展程序。
 
 Optionfield WebTrader为客户提供以下好处：
+
 - 通过浏览器进行交易，而无需在计算机或智能手机上安装软件。
 - 访问与MetaTrader 4平台上可用的相同交易工具。
 - 在WebTrader，台式机MT4和Optionfield Android应用上使用相同的MT4帐户进行交易。
@@ -73,6 +74,7 @@ WebTrader
 ### Optionfield移动应用
 
 Optionfield的FXGO移动交易平台使您可以随时随地交易二元期权。该平台可以在任何Android或iOS设备上下载。该移动应用程序为交易者提供了其移动设备上桌面平台的全部功能。这对于那些在旅途中需要访问其帐户并进行交易的人很有用。
+
 - 市场，挂单和滚柱头寸
 - 制图
 - 账户历史
@@ -147,6 +149,7 @@ Optionfield为他们的客户提供了知识渊博的客户支持团队，他们
 ## 存款和取款
 
 Optionfield提供多种帐户注资和提款方法，包括：
+
 - 银行转帐
 - 信用卡/借记卡，包括Visa和MasterCard
 - 加密货币，例如比特币，以太坊等。

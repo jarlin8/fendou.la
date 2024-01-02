@@ -1,10 +1,10 @@
 ---
 title: "你觉得在做交易这条路上你觉得最艰难的是什么?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 做这行很多很多年，回想起来也都有一些经历。  

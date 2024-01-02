@@ -1,15 +1,16 @@
 ---
 title: "Trader’s Way 外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 成立于2011年的Trader's Way确实具有灵活的账户选择权和可靠的交易平台，尽管缺乏监管可能会阻止某些交易者。此外，非外汇交易工具也很有限。
 
 ## Traders Way测评
+
 - 固定利差账户
 - 免佣金账户
 - 电子通讯网络（ECN）
@@ -21,7 +22,6 @@ taxonomy:
 - 不接受美国客户
 - 无英国客户
 - 有限的非外汇工具
-
 
 ## 总结
 

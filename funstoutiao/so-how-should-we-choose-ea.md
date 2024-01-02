@@ -1,13 +1,13 @@
 ---
 title: "那请问我们该何选择EA?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
-市面上真的没有靠谱的EA吗？如果用EA做单需要注意些什么呢？   
+市面上真的没有靠谱的EA吗？如果用EA做单需要注意些什么呢？ 
 
 ea其实就是交易员的交易模型程序化，包括标的物选择、交易方向判断，止损止盈，仓位管理和风险规避，当然还有一个重中之重：小概率应对！
 

@@ -1,12 +1,12 @@
 ---
 title: "进行外汇交易如何利用枢轴点？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 枢轴点是一个相当简单的工具-ATFX外汇平台。 除非你接触过外汇或者期货市场，否则之前不可能遇到它。 它利用的价位很容易计算，而且多年以来是场内交易商和机构外汇交易者最青睐的粗略参考，因此学习 外汇知识不可忽略它的作用。

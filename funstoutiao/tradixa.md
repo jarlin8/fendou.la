@@ -1,15 +1,16 @@
 ---
 title: "Tradixa外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Tradixa是一家离岸外汇和差价合约经纪商，可在其在线交易平台MetaTrader 4（MT4）和经纪商专有的WebTrader上提供300多种交易工具的交易。Tradixa提供多种账户类型和灵活的杠杆作用，但与最佳交易经纪商相比，它们不受监管，并且没有最低的点差。
 
 ## Tradixa测评
+
 - 多个用户友好的交易平台
 - 超过300种交易工具
 - 多种账户类型
@@ -21,7 +22,6 @@ Tradixa是一家离岸外汇和差价合约经纪商，可在其在线交易平�
 - 提款处理时间长
 - 提款费
 - 价差加价
-
 
 ## 经纪商简介
 
@@ -130,6 +130,7 @@ Tradixa帐户持有人可以参加网络研讨会和研讨会。他们由精通�
 ## 交易工具
 
 Tradixa提供各种外汇，股票，大宗商品，指数和加密货币交易工具。它们包括：
+
 - 54种外汇货币对
 - 17种商品
 - 198股

@@ -1,10 +1,10 @@
 ---
 title: "看macd背离指标来做单准确率高吗?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 MACD的用法众多，其中最为有价值的就是背离用法。

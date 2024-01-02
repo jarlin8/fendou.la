@@ -1,12 +1,12 @@
 ---
 title: "投资新手可能会犯哪些错？有指点的吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 每个投资老手都是从新手走过来的。  

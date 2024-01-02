@@ -1,10 +1,10 @@
 ---
 title: "500Investments外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 500Investments是一个在线经纪商，它允许用户通过桌面和移动版本的经纪商交易平台在全球金融市场上交易超过1,000种工具，包括股票，外汇，商品，指数和加密货币。
@@ -12,6 +12,7 @@ taxonomy:
 500Investments提供各种不同的交易账户类型，最低存款要求为$250，同时对交易收取零佣金。
 
 ## 500Investments 利弊
+
 - 各种各样的交易工具
 - 超过1,000种全球金融工具
 - 精选教育资源
@@ -21,7 +22,6 @@ taxonomy:
 - 无MetaTrader交易平台
 - 资金选择有限
 - 无在线实时聊天支持
-
 
 ## 经纪商简介
 
@@ -47,6 +47,8 @@ taxonomy:
 
 交易平台
 
+交易平台
+
 500Investments平台使在线交易变得快速，安全和透明，使您可以坚定地负责投资。 它既可以作为Windows和Mac计算机的桌面应用程序使用，也可以作为Android和iOS设备的移动应用程序使用。
 
 ## 交易工具
@@ -69,6 +71,8 @@ taxonomy:
 
 账户类型
 
+账户类型
+
 由于经纪商费用可能会发生变化，因此可能有一些额外的费用未在此500Investments审查中列出。 在打开500Investments经纪商帐户进行在线交易之前，必须确保您检查并了解所有最新信息。
 
 ## 客户服务
@@ -78,6 +82,7 @@ taxonomy:
 ## 存款和取款
 
 500Investment接受以下付款方式：
+
 - 银行电汇
 - 信用卡/借记卡-例如Visa，MasterCard，Maestro等
 
@@ -87,11 +92,15 @@ taxonomy:
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开户，您需要按经纪商网站上的“开始交易”按钮并正确填写表格，然后单击“注册”。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/500Investments-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

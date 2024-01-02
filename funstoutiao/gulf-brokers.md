@@ -1,15 +1,16 @@
 ---
 title: "Gulf Brokers外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 海湾经纪公司是一家在线经纪公司，提供外汇，商品，股票和指数交易。该公司拥有大量可在屡获殊荣的MT5平台上进行交易的金融工具。该经纪商位于离岸市场，与许多其他经纪商相比，其最低存款要求高。交易经纪商审查小组没有发现Gulf Brokers的点差最窄，同时也有账户闲置费。
 
 ## Gulf Brokers测评
+
 - 在强大的MT5平台上进行交易
 - 超过700种交易工具
 - 账户管理服务
@@ -20,7 +21,6 @@ taxonomy:
 - 无实时网络聊天客户支持
 - 点差偏高
 - 帐户闲置费
-
 
 ## 经纪商简介
 

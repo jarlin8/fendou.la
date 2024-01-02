@@ -1,49 +1,33 @@
 ---
 title: "在交易中，交易方法和分析方法，哪个更重要?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
- post_tag: 
-  - "交易方法"
-  - "期货套利交易方法"
-  - "段票交易方法"
-  - "系统交易方法"
-  - "分析方法"
+  category:
+        - "ganhuo"
+  post_tag:
+        - "交易方法"
+        - "期货套利交易方法"
+        - "段票交易方法"
+        - "系统交易方法"
+        - "分析方法"
 ---
 
 分析是看路，交易是下注。 所以两者都重要。 分析里包含技术面，基本面，当前方向，未来预期，交易更重要，技术，资金管理，市场反应，切入点，等等。
 
 我不想说很多，就贴一个我身边大佬的ppt。 明确说明风险管控是第一位，不要存在任何侥幸心理。
 
- 
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604583.jpg)
-
- 
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604349.jpg)
 
- 
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604395.jpg)
-
- 
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604458.jpg)
 
- 
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604411.jpg)
 
- 
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/084604380.jpg)
-
- 
-
- 
 
 如果你纯粹拿投资当赌博当我没说，除非你家里有矿，能够承担的起！
 

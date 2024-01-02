@@ -1,15 +1,16 @@
 ---
 title: "Freetrade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Freetrade是英国监管的移动交易应用程序，可免费提供股票和ETF交易。 Freetrade应用程序现代，时尚且非常人性化，适合各种经验水平的交易者。 但是，图表工具以及交易工具和帐户资金选项受到限制。
 
 ## Freetrade测评
+
 - 规范
 - 免费股票交易
 - 用户友好的移动交易应用
@@ -24,7 +25,6 @@ Freetrade是英国监管的移动交易应用程序，可免费提供股票和ET
 - 网站上没有联系电话
 - 无模拟交易账户
 - 仅英镑账户
-
 
 ## 经纪商简介
 

@@ -1,12 +1,12 @@
 ---
 title: "老牌正规黄金外汇平台有哪些？平台"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-broker"
 ---
 
 老牌正规的 黄金 外汇平台有哪些？这是很多想做黄金外汇的人都想知道的事。  

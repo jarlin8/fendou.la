@@ -1,7 +1,8 @@
 ---
 title: "How do you use currency correlations for trading? It's important! But many people overlook the"
 post_status: publish
-post_date: "2022-12-22"
+post_post_status: publish
+skip_file: no
 taxonomy:
  category: 
   - "faq"

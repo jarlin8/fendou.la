@@ -1,12 +1,12 @@
 ---
 title: "HYCM兴业最低投资标准是多少？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-broker"
 ---
 
 在兴业投资交易，你是选择一家拥有合法授权和受到监管的公司。  

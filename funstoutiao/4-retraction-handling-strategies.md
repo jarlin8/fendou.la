@@ -1,12 +1,12 @@
 ---
 title: "干货！趋势交易者的4种回撤处理策略,好使！"
 post_status: publish
-post_date: "2022-12-22"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
- post_tag: 
-  - "交易心理"
+  category:
+        - "experience"
+  post_tag:
+        - "交易心理"
 ---
 
 所谓趋势交易法，主要是指在投资产品价格突破重要阻力位后，应及时进入重大趋势时的一种交易模式，趋势交易法深受投资者欢迎，而且，也是目前比较流行的一种进场模式。那么，趋势交易法在实践中遇到回撤时，有哪些处理策略？

@@ -1,15 +1,16 @@
 ---
 title: "Marketrip外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Marketrip是一家离岸外汇经纪商，可通过MT4交易平台及其专有的基于Web的平台为客户提供外汇和差价合约在线交易服务。经纪商平台提供多种账户类型，超过300种交易工具以及各种教育资源。但是，它们不受监管，与其他经纪商平台相比，它们的最低存款要求高。
 
 ## Marketrip测评
+
 - 两个交易平台，其中包括专有的WebTrader和MT4
 - 多种交易账户类型
 - 提供教材
@@ -19,7 +20,6 @@ Marketrip是一家离岸外汇经纪商，可通过MT4交易平台及其专有�
 - 价差加价
 - 闲置费$100
 - 高最低存款
-
 
 ## 经纪商简介
 

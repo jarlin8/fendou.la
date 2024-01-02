@@ -1,15 +1,16 @@
 ---
 title: "Gemini外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Gemini是一种加密货币交易所，为交易者提供用于交易多种加密货币的不同交易平台，例如比特币和以太币，比特币现金，Litecoin或Zcash。 他们还提供一种稳定的硬币，称为Gemini Dollar。 它们还为交易者提供了一些有用的交易工具和教育资源。
 
 ## 优点与缺点
+
 - 多个交易平台
 - 多种交易工具
 - 教育资源
@@ -17,7 +18,6 @@ Gemini是一种加密货币交易所，为交易者提供用于交易多种加�
 - 交易产品有限
 - 有限的资助方式
 - 无联系电话号码或实时聊天支持
-
 
 ## 总结
 

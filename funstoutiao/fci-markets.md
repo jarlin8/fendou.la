@@ -1,15 +1,16 @@
 ---
 title: "FCI Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FCI Markets总部位于英国埃塞克斯，是一家在线交易经纪商，为客户提供一些直观的交易平台，用于交易外汇，商品，指数和其他金融资产。 为客户提供了不同的交易和学习工具。
 
 ## FCI Markets测评
+
 - 合规经纪商
 - 复杂的交易平台
 - 一系列交易和学习工具
@@ -18,7 +19,6 @@ FCI Markets总部位于英国埃塞克斯，是一家在线交易经纪商，为
 - 不接受美国客户
 - 无MetaTrader 4平台
 - 无实时聊天支持
-
 
 ## 经纪商简介
 

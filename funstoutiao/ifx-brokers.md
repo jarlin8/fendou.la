@@ -1,15 +1,16 @@
 ---
 title: "IFX Brokers外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 IFX Brokers在南非运营，是一家在线交易经纪商，其基础是承诺，透明度和信任的核心价值。 该经纪商为私人和机构客户提供一站式交易和投资经验，为他们提供了高度先进的MetaTrader 4交易平台，可以在线交易多种金融工具，包括外汇，指数，商品，能源，金属，期货等。
 
 ## IFX Brokers测评
+
 - MT4交易平台
 - 教育资源
 - 提供实用的交易辅助工具
@@ -19,7 +20,6 @@ IFX Brokers在南非运营，是一家在线交易经纪商，其基础是承诺
 - 无MT5交易平台
 - 无FIX API交易
 - 无实时聊天支持
-
 
 ## 经纪商简介
 
@@ -76,6 +76,7 @@ IFX Brokers为交易者提供专业的客户支持团队，可以通过电话，
 ## 存款和取款
 
 可以通过以下任何一种付款方式在IFX Brokers上进行存款和取款：
+
 - 银行转帐
 - 信用卡/借记卡
 - 在线支付处理器，例如Neteller和Skrill。

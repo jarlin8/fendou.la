@@ -1,10 +1,10 @@
 ---
 title: "永远不要买垃圾股的5个原因#投资的头号法则"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
+  category:
+        - "forexbook"
 ---
 
 投资人总想要买进太多的股票，却不愿意耐心等待一家真正值得投资的好公司。每天抢进抢出不是聪明方法······近乎忘情地按兵不动，正是我们一贯的投资风格。——沃伦·巴菲特

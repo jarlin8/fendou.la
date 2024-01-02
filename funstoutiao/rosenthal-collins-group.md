@@ -1,15 +1,16 @@
 ---
 title: "Rosenthal Collins Group外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Rosenthal Collins Group（RCG）是一家经纪公司，商品经纪商和受监管的期货佣金交易者（FCM）。RCG在大量复杂和高级的交易平台上提供了多种交易工具。经纪商受美国CFTC的监管。
 
 ## RosenthalCollinsGroup测评
+
 - 可以在10多个交易平台上进行交易
 - 合规经纪商
 - 每日提供市场新闻和技术分析
@@ -20,7 +21,6 @@ Rosenthal Collins Group（RCG）是一家经纪公司，商品经纪商和受监
 - 最低入金$5,000
 - 复杂的交易平台
 - 无MetaTrader平台
-
 
 ## 经纪商简介
 
@@ -49,6 +49,7 @@ RCG未在其网站上提供接受国家的列表。由于法律限制，某些�
 RCG Onyx Plus是一个专有的期货交易平台，预装了复杂的交易和分析工具。它与美国所有主要交易所以及国际交易所都具有直接联系。该平台可作为可下载的Windows桌面应用程序使用，也可作为'RCG Onyx Plus WebTrader使用。
 
 以下是RCG Onyx Plus的一些功能：
+
 - 报价和图表实时显示。
 - 一键交易支持。
 - 市场深度功能已纳入。
@@ -63,16 +64,19 @@ RCG Onyx Plus交易平台
 ### CQG交易员
 
 RCG提供3个由CQG Inc.提供支持的交易平台；一家专门为金融市场提供技术解决方案的美国软件公司。以下是平台：
+
 - CQG交易者：专为对技术分析和图表不感兴趣的交易者而建。它具有DOM Trader，可显示市场深度和其他功能。
 
 ![CQG交易员](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-CQG-Trader.png "CQG交易员")
 
 CQG交易员
+
 - CQG QTrader：该平台具有复杂的图表，速度和全球市场准入的功能。它包含了DOMTrader和SnapTrader。
 
 ![CQG QTrader](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-CQG-QTrader.png "CQG QTrader")
 
 CQG QTrader
+
 - CQG集成客户：这是CQG为专业人士设计的旗舰交易平台。它具有多种订单类型，复杂的图表和分析以及集成的市场新闻来源。
 
 ![CQG集成客户端](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-CQG-Integrated-Client.png "CQG集成客户端")
@@ -90,11 +94,13 @@ CTS T4交易平台
 ### OptionsCity Software Inc.
 
 这是一家开发交易软件平台的公司。RCG为客户提供由OptionsCity开发的2个平台。
+
 - Metro TM：这是一个屡获殊荣的期权交易平台，可控制定价，执行和风险管理。它提供了一个用户友好和可自定义的界面，支持多种选项的定价和倾斜方法，专有的报价算法等。
 
 ![OptionsCity Metro](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-OptionsCity-Metro.png "OptionsCity Metro")
 
 OptionsCity Metro
+
 - Freeway TM：这是一个交易平台，可用于快速执行构建和部署算法。它的功能包括：方向连接，完整的IDE，风险管理，数据可视化，Algo Store TM，多资产交易等。
 
 ![OptionsCity Freeway](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-OptionsCity-Freeway.png "OptionsCity Freeway")
@@ -116,16 +122,19 @@ RCG提供此平台已有10多年的历史。它设计用于管理交易所交易
 ### 交易技术国际公司（TT）
 
 TT是一家美国公司，致力于开发期货交易平台，衍生品交易平台和执行解决方案。RCG使用TT的两个平台：
+
 - XTRADER：这是一个功能强大的前端平台，具有快速，可靠的功能，并具有交易和分析功能。它具有可定制的屏幕，市场深度，多种订单类型和完整的图表包。
 
 ![TT X_Trader](https://cdn.fendou.la/funstoutiao/2020/11/RCG-Review-TT-X_Trader.png "TT X_Trader")
 
 TT XTrader
+
 - XTRADER Pro：该平台集成了XTRADER的所有功能以及Autospreader和Autotrader，后者为该平台添加了自动交易功能。
 
 ### 快速屏幕交易（QST）
 
 快速屏幕交易是由Computer Voice Systems设计的灵活，快速的期货和期权交易平台；一家位于美国芝加哥的软件公司。以下是一些快速屏幕交易功能：
+
 - 一键交易支持。
 - 易于管理和履行订单。
 - 期权和期货合约不仅显示最后交易，还显示资产的货币价值。
@@ -165,6 +174,7 @@ RCG网站上没有任何教育资源，这令人失望。教程视频，交易�
 ## 交易工具
 
 RCG是期货委员会交易者（FCM），可以访问广泛的全球交易所网络，因此可以提供多种资产进行交易。提供以下资产类别：
+
 - 农产品
 - 货币对
 - 能源
@@ -176,6 +186,7 @@ RCG是期货委员会交易者（FCM），可以访问广泛的全球交易所�
 ## 交易账户和费用
 
 RCG提供以下帐户类型：
+
 - 个人账户：此账户是为希望投资或交易期货市场的零售客户设计的
 - 公司账户
 - 合作伙伴和LLC帐户

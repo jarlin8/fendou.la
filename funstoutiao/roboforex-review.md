@@ -1,15 +1,16 @@
 ---
 title: "RoboForex外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 RoboForex是一家屡获殊荣的在线经纪商，提供跨多种资产类别的9,400多种交易工具。他们提供了一系列灵活的交易平台和账户，以及交易工具和深入的市场分析。
 
 ## 优点＆缺点
+
 - 客户资金隔离
 - 负余额保护
 - 金融委员会委员
@@ -22,7 +23,6 @@ RoboForex是一家屡获殊荣的在线经纪商，提供跨多种资产类别�
 - 不接受美国客户
 - 限制欧盟客户的杠杆
 - 无固定利差账户
-
 
 ## 经纪商简介
 

@@ -1,15 +1,16 @@
 ---
 title: "UAGTRADE外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 UAGTRADE是直通式处理（STP）经纪商，为零售交易者和基金经理提供服务。 经纪商提供竞争性的交易条件，并支持使用专家顾问。
 
 ## 优点和缺点
+
 - 复杂的交易平台
 - 多种交易工具和学习资源
 - 几种金融工具
@@ -20,7 +21,6 @@ UAGTRADE是直通式处理（STP）经纪商，为零售交易者和基金经理
 - 无实时聊天支持
 - 无MetaTrader 5或cTrader平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -83,6 +83,7 @@ UAGTRADE提供各种不同的交易帐户选项，以满足客户的个人交易
 ## 存款和取款
 
 在UAGTRADE进行存款和取款均可采用以下付款方式：
+
 - 直接银行转帐
 - 比特币钱包
 

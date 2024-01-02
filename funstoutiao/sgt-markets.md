@@ -1,15 +1,16 @@
 ---
 title: "SGT Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 SGT Markets成立于2006年，是一家受执照和监管的外汇和CFD经纪商，它使用各种交易技术为机构和零售交易者提供交易解决方案。 有多种帐户选择，开设一个帐户所需的最低存款为500美元。
 
 ## SGTMarkets测评
+
 - 多种金融工具
 - 直观且灵活的MetaTrader 4平台
 - 一系列有用的交易和学习工具
@@ -19,7 +20,6 @@ SGT Markets成立于2006年，是一家受执照和监管的外汇和CFD经纪�
 - 点差偏高
 - 不接受美国客户
 - 无MetaTrader 5平台
-
 
 ## 经纪商简介
 
@@ -76,6 +76,7 @@ SGT Markets为交易员提供了一个知识渊博的客户支持团队，可以
 ## 存款和取款
 
 SGT Markets提供以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡
 - 在线支付处理器，例如Neteller，Skrill，FasaPay，Perfect Money。

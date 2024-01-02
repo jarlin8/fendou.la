@@ -1,15 +1,16 @@
 ---
 title: "CoinsBank外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CoinsBank是获得许可的加密货币交易所，可为客户提供直观的移动应用程序，用于买卖不同的加密货币，例如比特币，莱特币，Ripple，以太坊等。 为交易者提供了多种简单的付款方式。
 
 ## CoinsBank测评：优点＆缺点
+
 - 多种加密货币
 - 新手友好的交易平台
 - 多种付款方式
@@ -19,12 +20,13 @@ CoinsBank是获得许可的加密货币交易所，可为客户提供直观的�
 - 无MetaTrader交易平台
 - 不接受美国客户
 
-
 ## 经纪商简介
 
 CoinsBank总部位于爱沙尼亚，是专业加密货币交易者的领先交易平台。 交易所提供了通往区块链服务的多合一网关，包括钱包，交易所，交易者等。 有教育资源和专业的客户支持团队来协助交易员。
 
 ![功能概述](https://cdn.fendou.la/funstoutiao/2020/10/CoinsBank-Review-Features-Overview.jpg "功能概述")
+
+功能概述
 
 功能概述
 
@@ -45,6 +47,8 @@ CoinsBank的金融和流动性服务由CB Exchange OU根据经济事务和通信
 该交易所为交易者提供CoinsBank交易平台，该平台可作为Android和iOS设备的移动应用程序使用，其简单的界面可供所有经验水平的交易者使用。 该平台通过PCI DSS认证和强制性两因素认证来保护。 它具有Coinsbank钱包管理器，通过自动交易在具有不同货币的钱包之间进行实时转换以及具有详细信息的完整交易列表的功能。 移动应用程序还允许您实时接收卡交易通知，交易订单关闭，重要新闻以及其他有用的系统信息。 可以从相关的应用商店下载。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/10/CoinsBank-Review-Trading-Platform-906x1024.jpg "交易平台")
+
+交易平台
 
 交易平台
 
@@ -78,11 +82,15 @@ CoinsBank的金融和流动性服务由CB Exchange OU根据经济事务和通信
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设一个帐户，请单击交易所网站上的“注册”图标，然后填写您的电话号码和密码。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/10/CoinsBank-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

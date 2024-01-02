@@ -1,15 +1,16 @@
 ---
 title: "Globalix外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Globalix是一个在线交易经纪商，可为交易者提供交易CFD市场的机会，并提供杠杆，竞争性点差和无佣金。 但是，经纪商不受监管，因此无法为投资者提供受监管经纪商可以提供的相同保护。
 
 ## Globalix测评
+
 - 多个直观的交易平台
 - 精选教育资源
 - 多个帐户选项
@@ -19,7 +20,6 @@ Globalix是一个在线交易经纪商，可为交易者提供交易CFD市场的
 - 不接受美国客户
 - 点差偏高
 - 缺乏其他交易工具
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ Globalix为交易员提供了知识渊博的客户支持团队； 它们全天�
 ## 存取款
 
 经纪商接受以下付款方式。 它们包括：
+
 - 银行电汇
 - 信用卡/借记卡-例如Visa，MasterCard和Maestro。
 - 在线支付处理器-包括Skrill。

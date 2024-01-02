@@ -1,15 +1,16 @@
 ---
 title: "IFGM外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 IFGM是一家交易经纪商，通过MetaTrader 4及其专有的IFGM WebTrader，使交易者可以使用不同市场的40多种交易工具，包括各种外汇，指数，股票和商品市场。
 
 ## IFGM测评
+
 - 监管交易经纪商
 - 多种账户资金选择
 - 复杂的交易平台
@@ -17,7 +18,6 @@ IFGM是一家交易经纪商，通过MetaTrader 4及其专有的IFGM WebTrader�
 - 不允许欧盟，英国或美国客户
 - 交易工具有限
 - 最低入金$200
-
 
 ## 经纪商简介
 
@@ -80,6 +80,7 @@ IFGM提供40多种交易工具，涵盖不同资产类别，包括一系列外�
 ## 存款和取款
 
 IFGM接受以下付款方式：
+
 - 信用卡/借记卡-例如Visa，MasterCard
 - 付款处理器-包括Neteller，Skrill，银联，Pay Pal，BPay。
 

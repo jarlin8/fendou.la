@@ -1,12 +1,12 @@
 ---
 title: "外汇投资怎样才能不被骗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 外汇投资者最害怕的就是碰到不靠谱的平台，上当受骗。 那么如何在茫茫大海中分辨真伪，防止自己被骗呢?分享以下几点方法。

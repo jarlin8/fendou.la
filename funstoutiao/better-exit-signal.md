@@ -1,10 +1,10 @@
 ---
 title: "有没有比较贴切行情的客观的出场信号?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 感谢货币一哥的邀请。又是询问出场方面的问题，现在做交易随着交易者认知的提高，越来越多的人关注出场了，大家整体的水平都在慢慢提高。

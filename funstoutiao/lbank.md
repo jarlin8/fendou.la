@@ -1,15 +1,16 @@
 ---
 title: "LBank外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 LBank于2016年推出，是一个在线数字货币交易所，致力于创建一个专业的数字资产交易平台，提供安全，专业，便捷的数字资产交易服务。 他们还提供先进的投资服务和抵押服务。
 
 ## LBank测评
+
 - 专有交易平台
 - 教育资源
 - 提供实用的交易辅助工具
@@ -17,7 +18,6 @@ LBank于2016年推出，是一个在线数字货币交易所，致力于创建�
 - 仅加密货币交易
 - 无MetaTrader或cTrader平台
 - 有限的帐户资金选择
-
 
 ## 经纪商简介
 

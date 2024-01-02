@@ -1,15 +1,16 @@
 ---
 title: "Amana Capital外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Amana Capital是受多种监管的外汇和差价合约经纪商，提供超过360种资产，可在复杂的MT4和MT5交易平台上进行交易。通过ZuluTrade和MAM帐户为投资者提供社交交易。该品牌还提供其他交易工具，例如VPS，交易信号，市场新闻和分析。
 
 ## Amana Capital利弊
+
 - 多种规定
 - MT4和MT5平台
 - 由ZuluTrade支持的社交交易
@@ -22,12 +23,13 @@ Amana Capital是受多种监管的外汇和差价合约经纪商，提供超过3
 - 无加密货币交易
 - 最佳交易条件需要更大的投资
 
-
 ## 经纪商简介
 
 Amana Capital是一家经纪公司，其愿景是成为创新金融服务和技术解决方案领域的高级行业领导者。该公司提供用于在线交易的外汇和差价合约。该经纪商于2010年在贝鲁特开始运营，但现已扩展到多个国家。如今，总部位于迪拜，而其在英国，塞浦路斯，毛里求斯和马来西亚设有子公司。Amana Capital是180 Capital的一部分；金融投资，风险管理和技术控股公司。
 
 ![经纪商功能](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Broker-Features.png "经纪商功能")
+
+经纪商功能
 
 经纪商功能
 
@@ -70,6 +72,7 @@ MT4交易平台已成为全球外汇交易者和经纪商的市场标准之一�
 平台灵活性是最有用的功能之一。通过安装以Meta Quotes语言开发的插件应用程序，可以增加MT4的功能和工具。用户可以从MQL社区和其他来源在线获取数千个脚本，指示器和EA。有一个内置的MetaEditor，您可以在其中创建自己的自定义工具。
 
 Amana Capital提供以下MT4平台版本：
+
 - WebTrader：可从经纪商的网站访问此版本。无需下载或安装可直接在大多数现代浏览器中运行的软件。
 - 桌面：MT4桌面平台是旗舰版本，可以下载并安装在Windows或MAC计算机上。只能在此版本上创建，反向测试和安装专家顾问（EA）。通常，此版本上安装了插件应用程序。
 - 移动：专为移动交易而设计。它适用于Android和iOS设备，可以从相应的应用商店免费下载。
@@ -79,11 +82,14 @@ Amana Capital提供以下MT4平台版本：
 
 MT4交易平台
 
+MT4交易平台
+
 ### MetaTrader 5（MT5）
 
 MT5平台是继MT4之后开发的。它具有与之相似的界面和感觉，并具有增强的功能。为MT4开发的插件应用和EA无法在MT5上运行，反之亦然。MT5比MT4更复杂，功能更强大。Amana Capital MT5可作为Windows桌面应用程序和适用于Android和iOS设备的移动应用程序使用。
 
 以下是MetaTrader平台的一些关键功能：
+
 - “市场观察”和图表实时显示资产的买/卖报价。
 - 支持一键交易。
 - 多个订单，包括市场订单和挂单。MT5有6个挂单，而MT4有4个挂单。
@@ -98,11 +104,14 @@ MT5平台是继MT4之后开发的。它具有与之相似的界面和感觉，�
 
 MT5交易平台
 
+MT5交易平台
+
 ### Amana Capital移动交易应用程序
 
 这是Amana Capital提供的专有移动应用程序。它在iOS和Android设备上可用，并且可以从相应的应用程序商店下载。它可用于随时随地跟踪您的帐户和交易活动。
 
 以下是其一些功能：
+
 - 帐户管理; 可以通过该应用创建，资助和监控新帐户。
 - 可以查看交易信号。
 - 经济日历可在应用程序上找到
@@ -110,6 +119,8 @@ MT5交易平台
 - 通过应用直接联系支持团队。
 
 ![移动交易应用](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Mobile-Trading-App.png "移动交易应用")
+
+移动交易应用
 
 移动交易应用
 
@@ -126,6 +137,8 @@ ZuluTrade是当今世界领先的社交交易平台之一。Amana Capital已与Z
 必须特别强调的是，对于这些信号将如何运行绝对不做任何保证，历史结果也不表示未来的结果。您应该了解与在线交易有关的所有重大风险。
 
 ![ZuluTrade的社交交易](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Social-Trading-by-ZuluTrade.png "ZuluTrade的社交交易")
+
+ZuluTrade的社交交易
 
 ZuluTrade的社交交易
 
@@ -154,6 +167,8 @@ VPS使交易者可以在虚拟服务器上托管他们的交易系统，从而�
 这是各个国家的经济事件日历，可能会对各个外汇市场产生影响。交易员有时会在这些事件发生之前进行推测和预测，并在事件发生后保留记录。这些历史记录将保留以备将来分析。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Economic-Calendar.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -200,12 +215,15 @@ Amana Capital具有以下用于在线交易的帐户类型：
 屡获殊荣的Amana Capital客户支持中心始终提供24/5服务。要接收支持代表的电话，请在网站上填写“请求回电”表格。网站访问者也可以填写标题为“我们收到您的消息”的表格，支持代表将通过电子邮件回复。要与支持团队聊天，有6种平台可供选择；WhatsApp，实时网络聊天，电报，我们聊天和Facebook Messenger。最多列出5条客户支持电话线。也可以通过电子邮件和以下社交媒体渠道与该团队联系：Facebook，Twitter，Instagram，LinkedIn和YouTube。
 
 ## 存款和取款
+
 - **银行电汇：入**金手续费为6英镑，但没有提款费。处理银行转帐需要3-5个工作日。最低存款额为10美元。
 - **信用卡/借记卡：**接受的卡包括Visa，MasterCard，Maestro和UnionPay。卡存款会立即处理，并收取1.5％的费用。卡提取费用由Amana Capital支付。
 - **Amana预付卡：**这是Amana Capital根据要求发行的特殊卡。该卡可以链接到客户的交易账户，并用于存款和取款。客户还可以使用此卡从ATM提款或在线购物。它以美元计价，并在一年后到期。该卡是免费发行的，但只要将钱装入卡中就需要支付3美元，并收取1.5％的现金提取费。最低装载量为50美元，每天最多可以从ATM提取2000美元。
 - **在线支付：**接受的选项包括Neteller，Skrill，ePay，Perfect Money，Payeer，advcash，WebMoney，QIWI，Moneta和FasaPay。最低存款额为10美元，且存款费用从2.5％到6.5％不等，具体取决于所使用的支付网关。取款手续费为0-4.9％。
 
 ![付款方式](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Payment-Options-1024x134.png "付款方式")
+
+付款方式
 
 付款方式
 
@@ -216,6 +234,8 @@ Amana Capital具有以下用于在线交易的帐户类型：
 要开设Amana Capital真实交易帐户，请访问网站，然后单击“开始交易”以打开帐户注册表格。
 
 ![帐户注册表格](https://cdn.fendou.la/funstoutiao/2020/11/Amana-Capital-Review-Account-Registration-Form.png "帐户注册表格")
+
+帐户注册表格
 
 帐户注册表格
 

@@ -1,12 +1,12 @@
 ---
 title: "什么是外汇额度？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 外汇额度从“指标”概念到含有特定的外币资金，充分说明随着对外贸易经济的发展，外汇额度将越来越发挥巨大的资金作用，并成为国家 外汇管理局 管理外汇的主要内容之一。

@@ -1,15 +1,16 @@
 ---
 title: "PrimeXQ外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 PrimeXQ是具有多年市场经验的在线交易经纪商。 他们提供多种可交易资产，例如外汇，期货，商品，指数和股票，以便通过复杂的MetaTrader 4交易平台进行在线交易。 经纪商还为客户提供一系列有用的交易工具和教育资料，但它们不受监管。
 
 ## 优点和缺点
+
 - 多种交易工具
 - 先进的MT4平台
 - 教育资源
@@ -17,7 +18,6 @@ PrimeXQ是具有多年市场经验的在线交易经纪商。 他们提供多种
 - 最低入金$500
 - 点差偏高
 - 不接受美国/日本公民和居民
-
 
 ## 经纪商简介
 
@@ -74,6 +74,7 @@ PrimeXQ提供多种可交易资产，包括用于在线交易的外汇，期货�
 ## 存款和取款
 
 经纪商接受多种不同的付款方式，包括：
+
 - 银行转帐
 - 信用卡/借记卡-例如Visa，DinersClub
 - 在线支付处理器-包括Neteller，Skrill

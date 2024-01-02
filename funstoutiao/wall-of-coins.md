@@ -1,15 +1,16 @@
 ---
 title: "Wall of Coins交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Wall of Coins是一家位于佛罗里达州的加密货币交易所，提供多种数字货币，包括比特币，比特币现金，DASH，以太坊，Groestlcoin，Litecoin等，可使用存入指定银行账户的现金进行在线交易。
 
 ## 优点＆缺点
+
 - 多种加密货币
 - 一系列交易学习工具
 - 不受监管的交易所
@@ -17,7 +18,6 @@ Wall of Coins是一家位于佛罗里达州的加密货币交易所，提供多�
 - 有限的金融工具
 - 资金选择有限
 - 仅限美国客户
-
 
 ## 经纪商简介
 

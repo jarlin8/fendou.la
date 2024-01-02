@@ -1,12 +1,12 @@
 ---
 title: "外汇白标公司是干嘛的"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 中国的外汇市场正处于快速发展的阶段，外汇交易客户数量也有着显著的增长，同时市场上也存在着外汇经纪商水平良莠不齐的现象。 在机遇和挑战共存的前提下，很多的外汇代理商（IB）通常在业务做的很好的时候，会向经纪商转型，由于他们缺乏经验，通常从白标开始。

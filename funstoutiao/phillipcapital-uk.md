@@ -1,15 +1,16 @@
 ---
 title: "PhillipCapital UK 外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 PhillipCapital UK是FCA监管的在线经纪商，通过MetaTrader和ZuluTrade平台提供外汇，差价合约和社交交易。他们提供市场分析和灵活的帐户类型，但可交易资产和帐户资金选择范围有限。
 
 ## 优点和缺点
+
 - 监管经纪商
 - 适用于多种设备的MetaTrader 4平台
 - 通过ZuluTrade进行社交交易
@@ -19,7 +20,6 @@ PhillipCapital UK是FCA监管的在线经纪商，通过MetaTrader和ZuluTrade�
 - 点差和佣金不是最低的
 - 不接受美国客户
 - 最低入金$200
-
 
 ## 经纪商简介
 
@@ -96,6 +96,7 @@ PhillipCapital UK提供了一系列工具，以掌握基础分析的最新情况
 ## 交易工具
 
 PhillipCapital UK在多种资产类别中具有多种不同的交易工具，包括：
+
 - 45种以上的外汇货币对，包括次要，主要和异国交叉
 - 14个全球指数
 - 大宗商品
@@ -104,6 +105,7 @@ PhillipCapital UK在多种资产类别中具有多种不同的交易工具，包
 ## 交易账户和费用
 
 当您使用PhillipCapital UK进行交易时，您可以在MT4交易帐户或ZuluTrade帐户之间进行选择。如果您希望自己交易或使用专家顾问，则MT4帐户比较合适，而ZuluTrade帐户如果您希望复制其他交易者的交易信号将非常有用。提供高达1:30的灵活杠杆。根据您的帐户类型，您可能需要支付点差，掉期和交易佣金。
+
 - 菲利普：最低存款$200，点差从1点起，无佣金
 - Phillip Trader：最低存款$1,000，差价从0.6点差起，无佣金
 - Phillip Premium：最低存款$1,000，点差从0.1点起，收取佣金

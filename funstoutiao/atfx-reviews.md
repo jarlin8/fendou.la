@@ -1,17 +1,17 @@
 ---
 title: "ATFX外汇平台安全测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "经纪商"
-  - "中央银行"
-  - "etf"
-  - "杠杆作用"
-  - "交易"
-  - "通货膨胀"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "经纪商"
+        - "交易"
+        - "中央银行"
+        - "通货膨胀"
+        - "etf"
+        - "杠杆作用"
 ---
 
 ATFX是一家提供一系列资产交易能力的经纪商，旨在使他们的平台简单易用，支持MetaTrader 4软件。ATFX以向客户提供有竞争力的价格为荣。

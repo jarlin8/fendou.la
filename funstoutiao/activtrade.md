@@ -1,15 +1,16 @@
 ---
 title: "ActivTrades外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 ActivTrades成立于2001年，是一家屡获殊荣且受监管的在线经纪商，为全球的交易员提供500多种交易工具。它们提供了强大的交易平台，有用的交易工具和教材。
 
 ## 优缺点
+
 - 合规经纪商
 - 客户资金隔离
 - 负余额保护
@@ -21,7 +22,6 @@ ActivTrades成立于2001年，是一家屡获殊荣且受监管的在线经纪�
 - 不接受美国客户
 - 受限账户类型
 - 无固定利差账户
-
 
 ## 经纪商简介
 
@@ -35,11 +35,15 @@ ActivTrades提供更多种类的金融产品和服务。他们在没有交易柜
 
 公司价值观
 
+公司价值观
+
 ActivTrades为客户提供适用于多种设备的强大交易平台，以及广泛的网络研讨会，一对一培训，教材和独家交易工具。
 
 ActivTrades在金融行业赢得了无数奖项，包括被《星期日泰晤士报》快速道100评为2017年英国发展最快的公司第90名。其他著名奖项还包括2019年度最佳在线交易服务（ADVFN国际金融奖），外汇2017年度最佳经纪商（Le Fonti），2017最佳在线交易服务（Shares Magazine），2017最佳非交易台经纪商（在线个人财富奖）等。
 
 ![屡获殊荣的在线经纪商](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Award-Winning-Online-Broker.png "屡获殊荣的在线经纪商")
+
+屡获殊荣的在线经纪商
 
 ## 监管信息
 
@@ -69,6 +73,8 @@ ActivTrades有自己的专有交易平台ActivTrader。他们还提供了流行�
 
 交易平台
 
+交易平台
+
 ### ActivTrader
 
 强大的ActivTrader平台是在内部开发时考虑到客户需求的。它具有快速执行和直观的界面，可提供便捷有效的交易体验。增强的平台利用了一些最新的创新技术，并具有先进的功能，可以为所有级别的交易者提供身临其境的交易体验。
@@ -82,6 +88,8 @@ ActivTrader允许用户使用内置的购买和出售按钮直接在实时图表
 ActivTrader平台可以直接在您的Web浏览器中运行，而无需下载或安装任何其他软件。相关应用商店中的Android和iOS设备也可以使用它。这对于需要访问其帐户并使用与台式机平台相同的核心功能的用户进行交易时非常有用。
 
 ![ActivTrader交易平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrader-Trading-Platform.png "ActivTrader交易平台")
+
+ActivTrader交易平台
 
 ActivTrader交易平台
 
@@ -103,6 +111,8 @@ MT4可用于台式机（Windows / Mac），网络和移动设备（iPhone / iPad
 
 MetaTrader 4（MT4）平台
 
+MetaTrader 4（MT4）平台
+
 ### MetaTrader 5（MT5）
 
 MT5平台是MT4的更新版本，它保留了大多数相同的核心功能，同时具有一些新功能和扩展特性，旨在使在线交易更加专业和精确。
@@ -114,6 +124,8 @@ MT5提供21种时间表和8种订单类型以及一键交易。帐户交易报�
 MT5可用于台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）。就像MT4一样，网络平台直接在您的网络浏览器中运行，而移动应用程序对于那些希望随时随地进行交易的人非常有用。
 
 ![MetaTrader 5（MT5）平台](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-MetaTrader-5-MT5-Platform.png "MetaTrader 5（MT5）平台")
+
+MetaTrader 5（MT5）平台
 
 MetaTrader 5（MT5）平台
 
@@ -129,11 +141,15 @@ SmartOrder由ActivTrades开发，旨在帮助您提高交易速度和头寸管�
 
 SmartOrder 2
 
+SmartOrder 2
+
 ### 智能线
 
 SmartLines是一款易于使用的MT4和MT5应用程序，可根据图表上的趋势线自动执行。可以根据您设置的趋势线的价格水平打开和关闭订单。这很有用，因为这意味着一旦达到特定级别就等待执行某项操作，则无需持续观察图表。SmartLines可以使用预设的自动止损并同时为每张图表设置利润来同时管理多个图表。
 
 ![SmartLines](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartLines.jpg "SmartLines")
+
+SmartLines
 
 SmartLines
 
@@ -145,11 +161,15 @@ SmartCalculator允许您查看交易的潜在风险和报酬，从而可以帮�
 
 SmartCalculator
 
+SmartCalculator
+
 ### 智能模板
 
 SmartTemplate是MT4的指标，可以帮助您进行计算得出的交易决策。它可以基于技术图表信号的组合来指示潜在的多头和空头交易，并根据市场强度和每日市场趋势对其进行评估。它显示跨多个时间帧的彩色编码信号。
 
 ![SmartTemplate](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartTemplate.jpg "SmartTemplate")
+
+SmartTemplate
 
 SmartTemplate
 
@@ -161,11 +181,15 @@ SmartForecast是一个MT4指标，它结合了图表回撤和市场趋势分析�
 
 SmartForecast
 
+SmartForecast
+
 ### 智能模式
 
 SmartPattern是MT4和MT5的指示器，可检测图表模式并可以扫描历史数据以发现此类模式的重复发生。它会生成有关潜在市场走势的详细统计数据，这些数据可以直接在图表上轻松识别，从而通过突出显示潜在的交易机会来节省您的时间。SmartPattern可以供所有级别的交易者使用，并且可以应用于所有图表时间范围，以增加预测频率。
 
 ![SmartPattern](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-SmartPattern.jpg "SmartPattern")
+
+SmartPattern
 
 SmartPattern
 
@@ -177,11 +201,15 @@ ActivTrades提供MT4和MT5的枢轴指标，具有3个支撑和阻力水平，�
 
 枢轴点指标
 
+枢轴点指标
+
 ### 经济日历
 
 ActivTrades网站上的经济日历显示最新经济新闻事件的列表。它显示时间，日期，预期影响程度（低，中到高），国家/地区，类别和结果（先前，预测和实际）。可以根据您的要求过滤新闻，并且经常将其用作基本分析的一部分。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Economic-Calendar-1024x571.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -208,6 +236,8 @@ ActivTrades支持经理说：_“我们的一对一培训课程旨在为交易�
 在ActivTrades网站上，您会找到适合所有类型的交易者（从新手到经验丰富的交易员）的一系列教育性交易视频。涵盖的主题包括如何使用交易平台和交易工具。视频的呈现和注释都很好，使它们易于理解。
 
 ![教育视频](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Educational-Videos.png "教育视频")
+
+教育视频
 
 教育视频
 
@@ -285,6 +315,8 @@ ActivTrades的大多数代表都参加了客户功能考试，概述了他们致
 
 客户支持
 
+客户支持
+
 ## 存款和取款
 
 ActivTrades允许您使用各种方便的选项为帐户注资，包括银行转账，信用卡/借记卡以及在线支付处理程序，例如Neteller，Sofort，Skrill和Paypal（Sofort＆PayPal仅适用于ActivTrades Plc客户）。请注意，某些方法可能仅适用于特定国家/地区，而并非全部都适用于存款和提款。
@@ -300,6 +332,8 @@ ActivTrades允许您使用各种方便的选项为帐户注资，包括银行转
 开设ActivTrades帐户是一个简单的过程。您只需填写简短的在线申请表，然后验证您的电子邮件地址。然后，您需要上传一些文档以验证您的身份和地址证明。这可以是护照和水电费账单。帐户小组验证了您的文件后，您就可以为帐户注资并开始交易。
 
 ![在线申请](https://cdn.fendou.la/funstoutiao/2020/10/ActivTrades-Online-Application.png "在线申请")
+
+在线申请
 
 在线申请
 

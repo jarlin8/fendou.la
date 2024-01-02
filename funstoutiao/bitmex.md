@@ -1,15 +1,16 @@
 ---
 title: "BitMEX外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 比特币商品交易所（BitMEX）是一个在线交易平台，为加密货币爱好者提供了一种方便的在线交易加密货币的方式。 BitMEX由具有40多年综合经验的金融专业人士构建，并提供全面的API和支持工具。
 
 ## BitMEX 优点和缺点
+
 - 新手友好的交易平台
 - 精选教育资源
 - API交易工具
@@ -20,12 +21,13 @@ taxonomy:
 - 不接受美国客户
 - 无联系电话号码或实时聊天支持
 
-
 ## 经纪商简介
 
 BitMEX是基于比特币的交易平台，交易员可以使用该平台买卖加密货币，包括比特币，Ripple，Litecoin，以太坊等。 该交易所提供以比特币买卖的杠杆合约。 交易记录在比特币中，所有盈亏都记录在比特币中。 客户可以使用各种交易工具和教育资料以及专业的客户支持。
 
 ![主要功能](https://cdn.fendou.la/funstoutiao/2020/11/BitMEX-Review-Main-Features-1024x720.png "主要功能")
+
+主要功能
 
 主要功能
 
@@ -49,6 +51,8 @@ BitMEX是一个P2P加密交易平台。 这是一个基于网络的交易平台�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 BitMEX具有REST和WebSocket API交易工具。 订单，保证金和头寸等私人数据需要API。
@@ -58,6 +62,8 @@ BitMEX具有REST和WebSocket API交易工具。 订单，保证金和头寸等�
 该交易所有一个知识库部分和一个常见问题部分，以帮助您自己解决一些常见的紧迫问题。 还有一个交易博客，其中包含一系列教育文章。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/11/BitMEX-Review-Trading-Blog.jpg "交易博客")
+
+交易博客
 
 交易博客
 
@@ -84,6 +90,8 @@ BitMEX只接受比特币的存款和提款。 不能在BitMEX上存入美元或�
 潜在的交易者可以通过单击“注册”按钮来开设帐户，正确填写表格并提交。 一旦获得批准，客户可以随时开始进行在线交易。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/BitMEX-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

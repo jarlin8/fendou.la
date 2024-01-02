@@ -1,15 +1,16 @@
 ---
 title: "CoinEgg外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CoinEgg是一个加密货币交易所，交易者可以使用CoinEgg移动交易平台购买/出售多种加密货币，例如比特币，系绳，比特币现金，以太坊等。 CoinEgg根据用户的习惯和体验至上的原则，提供7/24小时不间断交易服务。
 
 ## 优点＆缺点
+
 - 新手友好的交易平台
 - 交易API和其他有用的交易工具
 - 多种加密货币
@@ -21,7 +22,6 @@ CoinEgg是一个加密货币交易所，交易者可以使用CoinEgg移动交易
 - 资金选择有限
 - 无MetaTrader或cTrader交易平台
 - 无联系电话
-
 
 ## 经纪商简介
 
@@ -47,11 +47,15 @@ CoinEgg为交易者提供他们专有的CoinEgg交易平台。 该平台具有�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 为交易者提供了一些有用的交易工具，例如交易API，烛台图和市场深度图。 它们有利于帮助交易者获得无缝的交易流程。
 
 ![烛台图](https://cdn.fendou.la/funstoutiao/2020/10/CoinEgg-Review-Candlestick-Charts.jpg "烛台图")
+
+烛台图
 
 烛台图
 
@@ -82,6 +86,8 @@ CoinEgg提供多种加密货币，例如比特币，Tether，比特币现金，�
 在CoinEgg开户非常简单，只需单击网站右上角的“注册”按钮，然后首先填写您的居住国家，以确保它不在限制区域之内。 单击下一步继续其余的申请过程。 表格填写完毕后，您可以提交并等待您的申请被批准。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/10/CoinEgg-Review-Account-Opening-Page-.jpg "开户页面")
+
+开户页面
 
 开户页面
 

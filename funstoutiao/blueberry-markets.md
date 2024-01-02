@@ -1,15 +1,16 @@
 ---
 title: "Blueberry Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Blueberry Markets是一家位于澳大利亚的在线经纪商，在MT4平台上提供50多种工具。 他们提供ECN和免佣金帐户。 尽管有免费的VPS，但与其他一些在线经纪商相比，交易工具和教材缺乏。
 
 ## Blueberry Markets 优点和缺点
+
 - 规范
 - 客户资金隔离
 - 免佣金交易
@@ -18,7 +19,6 @@ Blueberry Markets是一家位于澳大利亚的在线经纪商，在MT4平台上
 - 无加密货币
 - 有限的交易工具
 - 教材有限
-
 
 ## 经纪商简介
 
@@ -29,6 +29,8 @@ Blueberry Markets提供的点差低，从原始ECN帐户的0点起，具有竞�
 流动性来自12个一级银行和ECN的汇总，以提供实时定价。 他们实施了一个复杂而强大的基础架构，其中整合了创新的交易技术，以确保交易能够快速执行，并且价差保持尽可能小。
 
 ![经纪商特征](https://cdn.fendou.la/funstoutiao/2020/10/Blueberry-Markets-Broker-Features-1024x53.png "经纪商特征")
+
+经纪商特征
 
 经纪商特征
 
@@ -58,6 +60,8 @@ Blueberry Markets提供了最受欢迎的交易平台之一，MetaTrader 4（MT4
 
 交易平台
 
+交易平台
+
 ### MetaTrader（MT4）平台
 
 MT4在全球范围内被数以千计的所有技能水平的交易者所使用。 它具有易于使用的界面和多种交易工具，包括30多种内置的技术分析指标，23种分析对象以及对与专家顾问（EA）进行自动交易的支持。
@@ -69,6 +73,8 @@ MT4的其他功能包括市场观察窗口中的实时价格报价，9个时间�
 MT4平台的网络版本可以直接在大多数现代网络浏览器中运行，而无需安装任何其他软件。 对于那些希望通过互联网连接随时随地访问其交易帐户并进行交易的人，该移动应用程序非常有用。 可从相关应用程序商店在Android和iOS设备上下载该文件。
 
 ![MetaTrader 4（MT4）](https://cdn.fendou.la/funstoutiao/2020/10/Blueberry-Markets-MetaTrader-4-MT4-1024x692.png "MetaTrader 4（MT4）")
+
+MetaTrader 4（MT4）
 
 MetaTrader 4（MT4）
 
@@ -84,6 +90,8 @@ Blueberry Markets为每个日历月内每轮最少交易10手的客户提供免�
 
 虚拟专用服务器（VPS）
 
+虚拟专用服务器（VPS）
+
 ## 投资者教育
 
 目前，Blueberry Markets目前不提供任何教育材料。 作为一个相对较新的经纪商，这在未来几年可能会改变。
@@ -96,6 +104,8 @@ Blueberry Markets在包括外汇，大宗商品，指数，金属，能源和差
 
 交易工具
 
+交易工具
+
 外汇货币对包括EURUSD和GBPUSD等主要货币，以及次要和奇异的交叉货币。 一些最受欢迎的指数包括AUS200，UK100，GER30，JPN225，SPX500，FRA40，EUSTX50和US30。 他们还提供现货黄金（XAU / USD）和白银（XAG / USD）的在线交易，同时有两种等级的石油（WIT和Brent）可供交易。
 
 ## 交易帐户和费用
@@ -103,6 +113,8 @@ Blueberry Markets在包括外汇，大宗商品，指数，金属，能源和差
 Blueberry Markets提供两种主要帐户类型： 标准和专业。 它们汇总了来自各种不同流动性提供商的价格信息，从而保证了紧密的点差和良好的执行力。 客户交易的点差将取决于他们选择开设的交易账户的类型。 开设真实账户之前，可以使用模拟账户测试不同的平台和条件。
 
 ![帐户类型](https://cdn.fendou.la/funstoutiao/2020/10/Blueberry-Markets-Account-Types-1024x548.png "帐户类型")
+
+帐户类型
 
 帐户类型
 
@@ -134,11 +146,15 @@ Blueberry Markets有多种方便的方法可以在您的交易帐户中存入和
 
 资金选择
 
+资金选择
+
 ## 开户步骤
 
 为了开通Blueberry Markets帐户，需要填写简短的在线表格。 申请人将需要提供身份证明，例如有效护照的复印件和地址证明，例如水电费账单。 这是“了解客户”（KYC）流程的正常部分。 地址证明文件不得超过3个月，并清楚显示申请人的姓名和地址。 帐户小组成员验证了您的文件后，您将可以使用任何一种方便的付款方式为您的帐户注资，然后就可以开始交易了。
 
 ![帐户申请表](https://cdn.fendou.la/funstoutiao/2020/10/Blueberry-Markets-Account-Application-Form.png "帐户申请表")
+
+帐户申请表
 
 帐户申请表
 

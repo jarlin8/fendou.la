@@ -1,15 +1,16 @@
 ---
 title: "Deribit外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Deribit是一个专业的，完全专用的加密货币，期货和期权交易平台。 该平台创建了一个具有与传统衍生产品市场相同标准的流动性市场。 他们为全球交易者提供在线交易服务，包括24/7即时和多语言客户服务以及一系列专有技术，例如匹配引擎，风险指标，投资组合保证金等。
 
 ## 优点和缺点
+
 - 复杂的交易平台
 - 多种交易工具
 - 精选教材
@@ -17,7 +18,6 @@ Deribit是一个专业的，完全专用的加密货币，期货和期权交易�
 - 有限的帐户资金选择
 - 无MetaTrader平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -45,6 +45,8 @@ Deribit由DRB Panama Inc.经营，DRB Panama Inc.是根据巴拿马法律注册�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 Deribit为交易者提供了一系列有用的专有交易工具，以使他们的交易尽可能顺利。 它们包括匹配引擎，风险指标，投资组合保证金，图表和API。
@@ -53,11 +55,15 @@ Deribit为交易者提供了一系列有用的专有交易工具，以使他们�
 
 图表
 
+图表
+
 ## 投资者教育
 
 交易者还可以访问大量的教育资源，例如“交易博客”，“信息”局部，“视频”以及组织良好的“常见问题”局部。
 
 ![培训视频](https://cdn.fendou.la/funstoutiao/2020/11/Deribit-Review-Training-Videos-.jpg "培训视频")
+
+培训视频
 
 培训视频
 
@@ -84,6 +90,8 @@ Deribit为交易者提供了一个迅速而多语种的客户服务团队； 它
 要打开一个帐户，请单击“创建帐户”标签，然后填写所需的信息。 确保创建一个安全的密码，以更好地保护您的帐户。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Deribit-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

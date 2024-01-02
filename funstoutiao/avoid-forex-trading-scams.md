@@ -1,17 +1,17 @@
 ---
 title: "如何避免外汇交易骗局"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao"
- post_tag: 
-  - "股票"
-  - "foreign-exchange"
-  - "加密"
-  - "交易"
-  - "货币"
-  - "提供"
+  category:
+        - "toutiao"
+  post_tag:
+        - "foreign-exchange"
+        - "加密"
+        - "交易"
+        - "货币"
+        - "提供"
+        - "股票"
 ---
 
 外汇市场每天的交易额高达数万亿美元。  

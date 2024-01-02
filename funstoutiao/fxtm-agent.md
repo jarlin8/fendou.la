@@ -1,12 +1,12 @@
 ---
 title: "FXTM富拓外汇平台怎么代理加盟？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-broker"
 ---
 
 FXTM富拓外汇平台怎么代理加盟？FXTM富拓品牌面世于2011年，有志于在外汇行业提供无可比拟的优越交易条件、完善的教育和先进的交易工具。  

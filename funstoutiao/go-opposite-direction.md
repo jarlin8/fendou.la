@@ -1,15 +1,15 @@
 ---
 title: "消息面是利多或者是利空为什么行情还会往相反方向走呢?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
- post_tag: 
-  - "消息面"
-  - "外汇消息面"
-  - "利多"
-  - "利空"
+  category:
+        - "ganhuo"
+  post_tag:
+        - "消息面"
+        - "外汇消息面"
+        - "利多"
+        - "利空"
 ---
 
 其实你看到放出来的利好利空消息，可能不是第一手消息，有可能真正的行情你已经错过了。
@@ -19,8 +19,6 @@ taxonomy:
 说实话真正的利好利空消息会大摇大摆的放出来给大家看吗？
 
 就算不小心真的泄露出来，被你知道了，你敢全部梭哈进去吗？
-
- 
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/114851505.jpg)
 

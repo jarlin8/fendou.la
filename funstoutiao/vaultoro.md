@@ -1,15 +1,16 @@
 ---
 title: "Vaultoro外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Vaultoro总部位于英国，是一家完整的订单簿交易所，交易员可以使用比特币和其他加密货币买卖实物黄金，而无需支付任何交易费。 他们为交易者提供了一系列交易工具，教育资源和客户支持团队。
 
 ## 优点和缺点
+
 - 直观的基于网络的交易平台
 - 多种交易工具
 - 教育资源
@@ -19,7 +20,6 @@ Vaultoro总部位于英国，是一家完整的订单簿交易所，交易员可
 - 资金选择有限
 - 无实时聊天支持
 - 不接受美国客户
-
 
 ## 经纪商简介
 

@@ -1,15 +1,16 @@
 ---
 title: "Zerodha外汇经纪商测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Zerodha是印度在线交易的直观投资平台。 他们提供一系列交易工具，教育资料和市场见解。 但是，与其他在线经纪商相比，它们不提供MT4且帐户/资金选择有限。
 
 ## 优点和缺点
+
 - 受监管
 - 有竞争力的费用
 - 新手友好的交易平台

@@ -1,15 +1,16 @@
 ---
 title: "Bitstamp交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Bitstamp是基于欧洲的[加密货币](https://baike.baidu.com/item/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/22415288?fr=aladdin "加密货币")交易所，它允许来自世界各地的交易者在线购买和出售加密货币。 他们为交易者提供了直观的Bitstamp交易平台，可用于多种加密货币的在线交易，包括[比特币](https://funstoutiao.com/%e6%af%94%e7%89%b9%e5%b8%81%e8%bd%ae%e6%8d%a2%e5%8a%a0%e5%89%a7%ef%bc%8c%e9%87%91%e4%bb%b7%e5%9b%9e%e8%90%bd%e5%a4%96%e6%b1%87%e5%a4%b4%e6%9d%a1.html)，以太坊，比特币现金，XRP，Litecoin和Stellar。 客户可以使用各种交易工具和教育资源。 但是，经纪商不受监管，仅提供加密交易。
 
 ## 优点和缺点
+
 - 新手友好的交易平台
 - 多种交易工具
 - 各种资金选择
@@ -17,7 +18,6 @@ Bitstamp是基于欧洲的[加密货币](https://baike.baidu.com/item/%E5%8A%A0%
 - 无MetaTrader平台
 - 仅加密货币交易
 - 无在线聊天支持
-
 
 ## 经纪商简介
 
@@ -45,11 +45,15 @@ Bitstamp指出，其98％的资产安全地离线存储并且具有高度加密�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 交易所为交易者提供了一系列完善的交易工具，例如HTTP API，它使客户可以使用自定义编写的软件来访问和控制其帐户； 公共FIX接口； WebSocket； 闪电网络，允许比特币每秒处理数百万笔交易，而费用几乎为零； 和TradingView。
 
 ![交易视图](https://cdn.fendou.la/funstoutiao/2020/11/Bitstamp-Review-Trading-View.jpg "交易视图")
+
+交易视图
 
 交易视图
 
@@ -64,6 +68,7 @@ Bitstamp网站提供的教育资源有限。 但是，有一个新闻部分，�
 ## 交易账户和费用
 
 该交易所提供以下帐户选项：
+
 - 个人账户
 - 公司账户
 
@@ -76,6 +81,7 @@ Bitstamp通过电话，电子邮件和特定的社交媒体句柄（Twitter，Li
 ## 存款和取款
 
 客户可以通过以下任何一种付款方式从交易中入金和出金：
+
 - 国际电汇
 - 借记卡/信用卡
 - ACH转移
@@ -86,6 +92,8 @@ Bitstamp通过电话，电子邮件和特定的社交媒体句柄（Twitter，Li
 希望在交易所开设交易账户的新交易者可以通过单击“注册”按钮，选择所需的账户类型（个人或公司账户）并填写表格来做到这一点。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Bitstamp-Review-Account-Opening-Page.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

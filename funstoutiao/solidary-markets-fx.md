@@ -1,15 +1,16 @@
 ---
 title: "Solidary Markets FX交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Solidary Markets FX的总部位于新西兰但尼丁，是一家在线交易经纪商，为从新手到专业交易员的所有类型的交易员提供竞争性的交易条件。 除了执行STP（直通式处理）和紧密点差外，Solidary Markets FX还提供社交交易和“协同交易项目”，这是一个新概念，本质上是一种先进的管理帐户/证券投资策略。
 
 ## 优点与缺点
+
 - 选择先进的交易平台
 - 精选教育资源
 - 各种各样的交易产品
@@ -17,7 +18,6 @@ Solidary Markets FX的总部位于新西兰但尼丁，是一家在线交易经�
 - 取消交易经纪
 - 无MetaTrader 5平台
 - 不是最低的佣金
-
 
 ## 经纪商简介
 
@@ -74,6 +74,7 @@ Solidary Markets的客户可以使用一些有用的交易工具。 其中包括
 ## 存款和取款
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡
 - 银行转帐
 - 在线支付处理器，例如Neteller和Skrill

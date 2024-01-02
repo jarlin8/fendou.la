@@ -1,15 +1,15 @@
 ---
 title: "自己的交易系统遇到大幅回撤怎么办?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
- post_tag: 
-  - "trading-system"
-  - "建立稳固的交易系统"
-  - "mt4外汇交易系统"
-  - "稳定盈利的交易系统"
+  category:
+        - "ganhuo"
+  post_tag:
+        - "trading-system"
+        - "mt4外汇交易系统"
+        - "稳定盈利的交易系统"
+        - "建立稳固的交易系统"
 ---
 
 自己的交易系统遇到大幅度回撤，需要确定几个问题：
@@ -32,8 +32,6 @@ taxonomy:
 
 坚持执行交易系统，不过大前提是你的交易系统是稳定持续可执行的，稳定的交易者的资金曲线都是应该有可行性范围内合理回撤的，
 
- 
-
 给大家一个参考关于交易系统的构建思维
 
 ![](https://cdn.fendou.la/funstoutiao/2020/11/094809880.jpg)
@@ -54,11 +52,7 @@ taxonomy:
 
 7月16日交易日记，大A闪崩，黄金回调，只有我的美瑞依旧如故，收获7刀！ 每天赚一点，天天都开心！
 
- 
-
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/075432050.jpg)
-
- 
 
 ![dachshund](https://cdn.fendou.la/funstoutiao/2020/11/075432253.jpg)
 

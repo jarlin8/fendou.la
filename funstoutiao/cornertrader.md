@@ -1,15 +1,16 @@
 ---
 title: "Cornertrader交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Cornertrader总部位于瑞士，是一家于2012年开始提供在线交易服务的银行。该经纪商提供外汇，差价合约，股票，商品，期权，加密货币，资金以及股票期权和债券。 有不同的帐户类型可以满足不同客户的需求。
 
 ## 优点和缺点
+
 - 一系列的交易和学习资源
 - 各种各样的交易产品
 - 灵活的交易平台
@@ -18,7 +19,6 @@ Cornertrader总部位于瑞士，是一家于2012年开始提供在线交易服�
 - 点差是固定的，不是最低点
 - 不接受美国客户
 - 无实时聊天支持
-
 
 ## 经纪商简介
 
@@ -44,6 +44,8 @@ Cornertrader为交易者提供了针对交易者和投资者的Cornertrader交�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 经纪商为交易者提供了一系列交易工具，可帮助确保交易顺利进行，其中包括交易信号，多资产管理器，汇率等。
@@ -56,11 +58,15 @@ Cornertrader为交易者提供了针对交易者和投资者的Cornertrader交�
 
 视频教程
 
+视频教程
+
 ## 交易工具
 
 Cornertrader提供以下交易产品：外汇，差价合约，股票，商品，期权，加密货币，基金，股票期权和债券。
 
 ![交易工具](https://cdn.fendou.la/funstoutiao/2020/11/Cornertrader-Review-Trading-Instruments.jpg "交易工具")
+
+交易工具
 
 交易工具
 
@@ -83,6 +89,8 @@ Cornertrader提供了一个知识渊博的客户支持团队，可以在工作�
 要开户，请点击“开户”按钮并正确填写注册表格，并提供所有必需的文件。
 
 ![交易员点评：帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Cornertrader-Review-Account-Opening-Page.jpg "交易员点评：帐户开设页面")
+
+交易员点评：帐户开设页面
 
 交易员点评：帐户开设页面
 

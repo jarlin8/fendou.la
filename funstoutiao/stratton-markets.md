@@ -1,15 +1,16 @@
 ---
 title: "Stratton Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Stratton Markets是一家在塞浦路斯运营的在线金融服务提供商。 他们为客户提供MT4及其基于网络的专有交易平台，可用于跨不同资产类别的293种金融工具进行交易，包括外汇货币对，加密货币和差价合约。 为交易者提供多种账户选择，最低存款额为250美元。
 
 ## 优点和缺点
+
 - 超过293种金融工具
 - 多个复杂的交易平台
 - 教育资源
@@ -18,7 +19,6 @@ Stratton Markets是一家在塞浦路斯运营的在线金融服务提供商。 
 - 无英国或美国客户
 - 不是最紧密的点差
 - 无用于DMA交易的FIX API
-
 
 ## 经纪商简介
 
@@ -79,6 +79,7 @@ Stratton Markets提供各种不同的交易帐户选项，以满足客户的个�
 ## 存款和取款
 
 经纪商允许客户通过以下任何一种付款方式存入和提取资金：
+
 - 信用卡/借记卡
 - 预付卡
 - 电汇

@@ -1,15 +1,16 @@
 ---
 title: "Markets-Soft外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Markets-Soft是一家在线交易经纪商，通过所提供的交易平台提供跨不同资产类别（例如外汇，股票，商品，指数和加密货币）的1,000多种交易工具，用于在线交易。经纪商提供竞争性的交易条件，包括快速充值，固定的低成本点差，高达1:200的杠杆率以及专门的客户支持团队。但是，它们不受监管，因此无法提供受监管经纪商可以提供的相同投资者保护。
 
 ## Markets Soft优缺点
+
 - 灵活的交易平台
 - 多种账户类型
 - 超过1,000种金融工具
@@ -19,7 +20,6 @@ Markets-Soft是一家在线交易经纪商，通过所提供的交易平台提�
 - 无MetaTrader平台
 - 价差加价
 - 不接受美国客户
-
 
 ## 经纪商简介
 

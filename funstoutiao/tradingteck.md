@@ -1,15 +1,16 @@
 ---
 title: "TradingTeck外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 TradingTeck是一家国际在线金融服务提供商，为世界各地的零售交易者提供经纪服务。 该经纪商提供了一个专有的交易平台，可以在线交易1,000多种主要资产，包括外汇，股票，指数，商品和加密货币。 他们没有受到监管，这可能是许多潜在客户的危险信号。
 
 ## 优点与缺点
+
 - 专有交易平台
 - 超过1,000种交易工具
 - 多个帐户选项
@@ -21,7 +22,6 @@ TradingTeck是一家国际在线金融服务提供商，为世界各地的零售
 - 点差偏高
 - 最低$250入金
 - 有限的帐户资金选择
-
 
 ## 经纪商简介
 
@@ -78,6 +78,7 @@ TradingTeck平台可作为Windows和Mac计算机的桌面应用程序使用，�
 ## 存款和取款
 
 TradingTeck接受以下付款方式：
+
 - 银行转帐
 - 信用卡/借记卡（Visa，万事达卡）
 - 电子支付

@@ -1,17 +1,17 @@
 ---
 title: "NAGA外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "naga"
-  - "银行"
-  - "技术指标"
-  - "加密"
-  - "经纪商"
-  - "测评"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "技术指标"
+        - "加密"
+        - "测评"
+        - "经纪商"
+        - "naga"
+        - "银行"
 ---
 
 NAGA是一个社会投资网络，交易者可以在其中喜欢，共享和复制500多种交易工具（包括外汇，股票和CFDS）上的投资。Naga具有竞争性的交易条件，以及适用于多种设备的用户友好的交易平台，以及便捷的帐户注资选项供您选择。 [![](https://cdn.jsdelivr.net/gh/jarlin8/img@main/imgHD/1622700989493-hot-naga.jpg)](https://www.ifttt.fun/go/naga/)
@@ -99,6 +99,7 @@ NAGA用户个人资料
 NAGAMessenger
 
 NAGA社交交易平台功能：
+
 - 新闻提要
 - 发布，赞，测评和分享帖子
 - 复制信号并提供信号
@@ -201,9 +202,10 @@ NAGA提供以白银，黄金和石油交易的商品。保证金要求根据工�
 
 NAGA提供约17种ETF的交易，例如Spdr DJIA ETF Trust，Ishares Msci Emerging Markets ETF，Ishares Msci EAFE Index ETF，Ishares Msci Pac X-JP ETF，Ishares MSCI Spain Capped ETF，Ishares Taiwan Index ETF，Ishares South Korea Index ETF ，Ishares巴西指数ETF等。ETF的保证金要求为20％，还收取0.10％的佣金。除此之外，还有多头/空头掉期和点差费用。
 
-*保证金要求和点差可能会根据市场情况而变化。
+\*保证金要求和点差可能会根据市场情况而变化。
 
 考虑到公司已在欧盟管辖范围内注册，Naga Markets完全遵守这些法规要求，因此对于零售客户而言，杠杆限制如下：
+
 - 1:30外汇主要货币对
 - 1:20外汇小额货币对
 - 1:1加密

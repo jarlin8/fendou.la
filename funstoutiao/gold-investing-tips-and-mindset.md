@@ -1,12 +1,12 @@
 ---
 title: "黄金投资技巧和心态哪个重要？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "贵金属交易"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "贵金属交易"
 ---
 
 黄金 投资技巧和心态哪个重要，我选择技术，因为技术难练，心态易练。  

@@ -1,15 +1,16 @@
 ---
 title: "WH Selfinvest外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 WH Selfinvest是一家在线交易经纪公司，成立于1998年，并在多个司法管辖区进行监管。 经纪商使用户可以使用内部交易平台和其他直观的交易平台来交易多个金融市场，包括期货，差价合约，外汇和股票。 客户可以选择多种交易工具和教育资源。
 
 ## 优点和缺点
+
 - 多个金融市场
 - 各种强大而直观的交易平台
 - 一些有用的交易工具
@@ -26,6 +27,7 @@ WH Selfinvest总部位于卢森堡，是一家受多方监管的交易经纪商�
 ## 监管信息
 
 WH SelfInvest受以下机构监管：
+
 - 金融监督委员会（卢森堡CSSF）
 - 卢森堡财政部
 - 金融服务和市场管理局（比利时FSMA）

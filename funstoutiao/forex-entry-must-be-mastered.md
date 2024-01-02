@@ -1,12 +1,12 @@
 ---
 title: "炒外汇入门必须要掌握的秘籍是什么？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 新手在刚刚进行炒外汇操作时，一般都会产生这样的想法，炒外汇难吗?炒外汇风险大吗?炒外汇赚钱吗?其实，炒外汇说难也不难，说容易也不容易。关键就在于新手在入门炒外汇时有没有相应的准备和入门秘籍。这里为大家整理了在进入外汇市场时一些比较有用的方法和技巧，希望大家可以轻松炒外汇、快乐赚大钱。

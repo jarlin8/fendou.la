@@ -1,15 +1,16 @@
 ---
 title: "澳大利亚外汇交易平台Fusion Markets开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Fusion Markets是一家受监管的澳大利亚经纪商平台，提供具有竞争力的费用的灵活交易平台和账户类型。他们提供VPS和PAMM / MAM帐户，但缺少交易工具和教育材料。
 
 ## FusionMarkets测评
+
 - 严格监管
 - 客户资金隔离
 - 免佣金交易
@@ -19,7 +20,6 @@ Fusion Markets是一家受监管的澳大利亚经纪商平台，提供具有竞
 - 不接受美国客户
 - 有限的交易工具
 - 教材有限
-
 
 ## 经纪商简介
 
@@ -106,6 +106,7 @@ Fusion MarketsMetaTrader 4（MT4）移动版
 Fusion Markets MAM系统通过MetaFX平台为资金经理提供了高性能的多客户经理解决方案。该平台以其稳定性，灵活性和执行速度而闻名。由于他们试图保持较低的执行和交易成本，因此MAM平台上所有产品的执行成本增加了0.1点。
 
 #### MetaFX主要功能
+
 - 跨无限数量的交易账户进行交易
 - 订单类型的灵活性–选择按批次，百分比或净值分配
 - 任意大小的交易–完整（标准手），迷你（0.1），迷你（0.01）

@@ -1,12 +1,12 @@
 ---
 title: "外汇交易中如何把握加仓时机？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 外汇交易中如何把握加仓时机？外汇交易中不管如何加仓，都必须有对后市的判断，如果判断失误，也可能导致不必要的损失。

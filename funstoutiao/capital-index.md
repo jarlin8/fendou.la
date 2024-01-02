@@ -1,15 +1,16 @@
 ---
 title: "Capital Index外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Capital Index是一家在线经纪公司，位于英国（UK），通过用户友好的MetaTrader 4（MT4）平台为全球客户提供差价合约和点差交易。他们拥有可以满足各种经验水平的交易者的交易技术和解决方案，包括零售，专业和机构客户。尽管经纪商确实有多种账户类型，交易工具和教材，但是交易经纪商审查小组发现，账户资金选择有限，而与其他在线经纪商相比，点差并不是我们看到的最低。
 
 ## Capital Index测评
+
 - 监管经纪
 - MetaTrader 4平台
 - 虚拟专用服务器（VPS）
@@ -22,7 +23,6 @@ Capital Index是一家在线经纪公司，位于英国（UK），通过用户�
 - 黑色帐户的最低存款额为50,000美元
 - 不接受美国客户
 - 当日取款费用
-
 
 ## 经纪商简介
 
@@ -43,6 +43,8 @@ Capital Index在LD4和NY4中托管其MT4交易服务器，这使服务器与经�
 他们通过The Greg Secker基金会开展的慈善工作，对交易经纪商团队来说很重要，并且将Capital Index与其他经纪商区分开来的一件事。该基金会由Capital Index的所有者Greg Secker于2010年成立，是一家致力于积极改善世界各地人们生活质量的非营利组织。
 
 ![ 慈善工作](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Charitable-Work.png " 慈善工作")
+
+慈善工作
 
 慈善工作
 
@@ -74,6 +76,8 @@ Capital index可以满足大多数国家/地区的交易者的需求，尽管有
 
 ![ MetaTrader 4平台](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-MetaTrader-4-Platforms-1024x342.jpg " MetaTrader 4平台")
 
+MetaTrader 4平台
+
 Capital index评论– MetaTrader 4平台
 
 Capital index通过MetaTrader 4（MT4）平台为客户提供进入全球金融市场的途径，全球数百万交易者都在使用该平台。MT4被广泛认为是各种经验水平的交易者最受欢迎的在线外汇和差价合约交易平台。
@@ -87,6 +91,7 @@ Capital index通过MetaTrader 4（MT4）平台为客户提供进入全球金融�
 MT4平台可作为Windows的桌面程序使用。如果您希望通过手机或平板电脑实时进行交易，分析或监控头寸，则可以下载Android或iOS应用。
 
 MT4的一些主要功能包括：
+
 - 完全可定制的交易环境
 - 多种订单类型
 - 一键直接从图表交易
@@ -110,6 +115,8 @@ Capital Index可以为希望在不开启自己的计算机的情况下以24/7远
 
 ![ 经济日历](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Economic-Calendar-1024x473.png " 经济日历")
 
+经济日历
+
 Capital index评论–经济日历
 
 ## 投资者教育
@@ -120,11 +127,15 @@ Capital index提供全面的教育计划，可通过姊妹公司“学习交易�
 
 ![ 交易指南](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Trading-Guides.jpg " 交易指南")
 
+交易指南
+
 Capital index评论–交易指南
 
 经纪商网站上有大量的交易术语表，使您可以熟悉一些常见的交易和投资术语。
 
 ![ 交易和投资术语](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Trading-and-Investment-Glossary-Capital-Index.png " 交易和投资术语")
+
+交易和投资术语
 
 Capital index评论–交易和投资术语
 
@@ -154,6 +165,8 @@ Capital index提供差价合约，外汇和点差交易的在线交易。
 
 帐户类型
 
+帐户类型
+
 每个账户都支持通过桌面，移动或网络平台进行交易，对冲，专家顾问，并且无需交易商干预。这可以帮助消除经纪商和交易者之间的任何潜在利益冲突。但应注意，由 Capital index合并的流动性提供者可以充当做市商。
 
 每种账户类型之间的主要区别是所需的最低存款，点差和佣金。您选择的帐户类型可能取决于您的交易策略。例如，由于利差较小，黄牛可能更喜欢黑账户。可能需要策略如此依赖点差的波动交易者可以考虑其他账户之一。
@@ -161,18 +174,21 @@ Capital index提供差价合约，外汇和点差交易的在线交易。
 可以开设英镑，美元，欧元账户。不同的货币选项很有用，因为以您自己的货币使用帐户时不收取货币转换费。
 
 ### 进阶帐户
+
 - 点差从1.4点开始
 - 无佣金
 - 最低入金$100
 - 01最小手数
 
 ### 专业账户
+
 - 点差低至1.0点
 - 无佣金
 - $5,000最低存款
 - 01最小手数
 
 ### 黑账户
+
 - 点差从0.4点开始
 - 手续费
 - $50,000最低存款
@@ -190,6 +206,7 @@ Capital index提供差价合约，外汇和点差交易的在线交易。
 ### 机构客户
 
 Capital index还可以通过创建定制的流动资金池来迎合机构客户。由于他们的主要经纪商关系和市场领先的技术，他们能够为客户提供这种环境。机构客户包括基金，家族办公室，经纪商，银行和专业交易员。机构解决方案包括：
+
 - API和流动性解决方案（_LD4和NY4_）
 - IB与合作伙伴
 - 白色标签
@@ -211,11 +228,15 @@ Capital index还可以通过创建定制的流动资金池来迎合机构客户�
 
 联系支持
 
+联系支持
+
 ## 存款和取款
 
 Capital Index的客户可以通过两个安全的支付服务提供商之一进行银行转帐和银行卡存款。不能在第三方帐户中进行存款和取款。您可以从安全的客户门户网站存入或提取资金。除了当日取款外，尽管您的银行或卡提供商可能会收取费用，但它们不收取存款或取款费用。
 
 ![ 存款和取款](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Deposit-Withdrawals-1024x348.png " 存款和取款")
+
+存款和取款
 
 存款和取款
 
@@ -226,6 +247,8 @@ Capital Index的客户可以通过两个安全的支付服务提供商之一进�
 申请 Capital index帐户既快速又容易。在线申请大约需要5分钟才能完成，可以使用经纪商网站上的“创建帐户”链接进行访问。
 
 ![ 开户流程](https://cdn.fendou.la/funstoutiao/2020/11/Capital-Index-Review-Account-Opening-Process-1024x432.png " 开户流程")
+
+开户流程
 
 开户流程
 

@@ -1,15 +1,16 @@
 ---
 title: "Global Prime外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Global Prime为正在寻求透明，灵活和具有成本效益的交易解决方案的零售和机构交易者提供定制的流动性解决方案。他们使用带有MT4和FIX API交易平台的ECN NDD模型。
 
 ## Global Prime测评
+
 - 合规经纪商
 - 客户资金隔离
 - FIX API
@@ -21,7 +22,6 @@ Global Prime为正在寻求透明，灵活和具有成本效益的交易解决�
 - 无固定利差账户
 - 有限的非外汇工具
 - 无MAM ​​/ PAMM
-
 
 ## 经纪商简介
 

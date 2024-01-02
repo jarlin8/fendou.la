@@ -1,12 +1,12 @@
 ---
 title: "你靠运气赚来的钱，也会靠你的实力输掉！"
 post_status: publish
-post_date: "2022-12-22"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
- post_tag: 
-  - "交易心理"
+  category:
+        - "experience"
+  post_tag:
+        - "交易心理"
 ---
 
 在交易员这一领域，对综合能力的要求是非常高的，并不是只会交易就可以了。所谓师父领进门，修行在个人，读一本好书可以迅速的给予你这一领域大佬们的“知识”和“经验”。但这并不意味着这会变成你的思考能力。

@@ -1,15 +1,16 @@
 ---
 title: "Admiral Markets外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Admiral Markets是一家屡获殊荣且受监管的经纪商平台，可在先进的交易平台上提供多种交易工具，这些交易工具具有灵活的账户，紧密的点差，快速的执行和多种融资选择。
 
 ## Admiral Markets的利与弊
+
 - 严格监管
 - 客户资金隔离
 - 负余额保护
@@ -19,7 +20,6 @@ Admiral Markets是一家屡获殊荣且受监管的经纪商平台，可在先�
 - 不接受美国客户
 - 最低入金$200
 - 无固定利差账户
-
 
 在这份详细的Admiral Markets测评中，我们的在线经纪商平台研究团队涵盖了一些最重要的方面，供您在选择适合您的在线交易需求的最佳经纪商平台时考虑。
 
@@ -67,6 +67,8 @@ Admiral Markets提供了流行和可靠的MetaTrader交易平台的良好选择�
 
 交易平台
 
+交易平台
+
 ### MetaTrader 4
 
 MetaTrader 4（MT4）是一个外汇和CFD交易平台，用于分析实时图表并在多个市场上交易金融工具。它是免费使用的，适合所有级别的交易者，具有友好的用户界面和可根据您的喜好定制的灵活性。
@@ -74,6 +76,8 @@ MetaTrader 4（MT4）是一个外汇和CFD交易平台，用于分析实时图�
 MT4具有先进的交易工具和操作，包括技术分析指标，交易策略模板，自动交易，一键交易等等。它还具有对30多种语言的多语言支持。要使用MT4，您只需下载并安装它，登录到您的交易帐户即可开始交易。
 
 ![MetaTrader 4（MT4）](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-MetaTrader-4-MT4.jpg "MetaTrader 4（MT4）")
+
+MetaTrader 4（MT4）
 
 MetaTrader 4（MT4）
 
@@ -85,11 +89,15 @@ MetaTrader 5（MT5）是MT4的高级版本，具有一些其他功能。它具�
 
 MetaTrader 5（MT5）
 
+MetaTrader 5（MT5）
+
 ### MetaTrader网络交易者
 
 MetaTrader WebTrader基本上是MetaTrader平台，无需下载任何软件，因为它仅在浏览器中运行。不需要特定的操作系统，只要有互联网连接，就可以随时随地启动它。Admiral Markets提供WebTrader平台的MT4和MT5版本。
 
 ![MetaTrader WebTrader](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-MetaTrader-WebTrader.png "MetaTrader WebTrader")
+
+MetaTrader WebTrader
 
 MetaTrader WebTrader
 
@@ -101,11 +109,15 @@ MT4和MT5的最高版本提供了最先进的工具，可以进一步改善您�
 
 MetaTrader至尊版
 
+MetaTrader至尊版
+
 #### 交易中心
 
 Trading Central在您选择的任何市场上提供全自动和可定制的高级技术分析。它使用了屡获殊荣的模式识别功能，可用于分析多个时间范围内的市场和工具，从而有助于识别潜在的交易机会。
 
 ![交易中心](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Trading-Central-2-1024x555.png "交易中心")
+
+交易中心
 
 交易中心
 
@@ -117,11 +129,15 @@ Global Opinion为MetaTrader Supreme Edition提供了一组功能强大的小部�
 
 全球舆论
 
+全球舆论
+
 #### 迷你终端
 
 迷你终端用于更有效的交易管理。它允许您根据预设的止损，获利和追踪止损开立和调整订单。它包括一个集成的手数和保证金计算器，用于不同订单类型的模板，用于快速调整价格的智能订单行以及单击按钮即可撤消或对冲订单的选项。
 
 ![迷你航站楼](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Mini-Terminal.png "迷你航站楼")
+
+迷你航站楼
 
 迷你航站楼
 
@@ -133,11 +149,15 @@ Global Opinion为MetaTrader Supreme Edition提供了一组功能强大的小部�
 
 交易站
 
+交易站
+
 #### 刻度图交易者
 
 报价图交易者使您可以相对轻松地密切跟踪走势图，从而可以查看不同类型的报价图上的每种价格走势。您可以直接从报价表进行交易，并将数据导出到Excel中进行分析。
 
 ![滴答图交易者](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Tick-Chart-Trader.png "滴答图交易者")
+
+滴答图交易者
 
 滴答图交易者
 
@@ -149,11 +169,15 @@ Global Opinion为MetaTrader Supreme Edition提供了一组功能强大的小部�
 
 News Connect
 
+News Connect
+
 #### 指标包
 
 该指标包包括最新的高级交易指标，可用于更详细地分析图表并帮助查找交易信号。值得注意的功能包括蜡烛倒数，枢轴点，Renko图表等。
 
 ![指标包](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Indicator-Package.png "指标包")
+
+指标包
 
 指标包
 
@@ -165,11 +189,15 @@ News Connect
 
 交易模拟器
 
+交易模拟器
+
 #### 迷你图
 
 迷你图表可让您从一个主图表中查看多个不同的图表时间范围和图表类型。这些图表可以移动并根据您的喜好调整大小，还可以在其上附加指标。此外，它还包含许多时间范围，例如3分钟和3秒的图表以及带有新图表类型的图表，供您探索，例如点和图，Kagi或Range。
 
 ![迷你图表](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Mini-Chart.png "迷你图表")
+
+迷你图表
 
 迷你图表
 
@@ -185,11 +213,15 @@ Admiral Markets拥有丰富的交易工具，可用于在您选择的任何资�
 
 高级分析
 
+高级分析
+
 #### 经济日历
 
 通过日历，您可以免费访问可能影响全球市场的事件，以便您可以随时了解最新的经济新闻并为市场变化做好准备。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Economic-Calendar.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -201,6 +233,8 @@ Admiral Markets拥有丰富的交易工具，可用于在您选择的任何资�
 
 市场新闻
 
+市场新闻
+
 #### 交易中心
 
 交易中心可以帮助您完成技术分析，并且只需单击几下即可为您提供所有主要市场的交易机会，从而摆脱了技术分析的麻烦。
@@ -209,11 +243,15 @@ Admiral Markets拥有丰富的交易工具，可用于在您选择的任何资�
 
 交易中心
 
+交易中心
+
 ### 全球情绪
 
 在Acuity的支持下，高级全球情感指标使用关键字汇总汇总来向您显示全球媒体对所有主要市场的情感。
 
 ![全球情绪](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Global-Sentiment.png "全球情绪")
+
+全球情绪
 
 全球情绪
 
@@ -233,6 +271,8 @@ Admiral Markets交易者博客提供有关涵盖不同市场的广泛主题的�
 
 情绪
 
+情绪
+
 ### 市场热点图
 
 市场热点图可用于跟踪价格上涨和下跌的趋势，以分析每日趋势，波动率和其他关键指标。这有助于根据市场动向找到潜在的交易机会。
@@ -241,11 +281,15 @@ Admiral Markets交易者博客提供有关涵盖不同市场的广泛主题的�
 
 热图
 
+热图
+
 ### 加密货币泡泡计
 
 Cryptocurrency Bubble-O-Meter工具具有将比特币与其他Cryptocurrency和令牌进行比较的功能。这可用于评估基础资产并找到定价最高或最低的资产。
 
 ![Cryptocurrency Bubble-O-Meter](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Cryptocurrency-Bubble-O-Meter-1024x619.png "Cryptocurrency Bubble-O-Meter")
+
+Cryptocurrency Bubble-O-Meter
 
 Cryptocurrency Bubble-O-Meter
 
@@ -261,11 +305,15 @@ Admiral Markets优先考虑使客户能够在交易时做出更明智的决定�
 
 网络研讨会和研讨会
 
+网络研讨会和研讨会
+
 ### 交易视频
 
 Admiral Markets拥有一个受欢迎的YouTube频道，其中包含数百个交易视频和数千名订阅者。无论您的专业水平如何，它都会通过详尽且演示清楚的视频进行定期更新，以帮助您提高交易技能和知识。
 
 ![交易视频](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Trading-Videos-1024x574.png "交易视频")
+
+交易视频
 
 交易视频
 
@@ -277,6 +325,8 @@ Admiral Markets拥有一个受欢迎的YouTube频道，其中包含数百个交�
 
 零英雄
 
+零英雄
+
 ### 常见问题
 
 Admiral Markets有一个常见问题部分，您可以在其中找到有关其服务和一般交易的常见问题的答案。
@@ -285,11 +335,15 @@ Admiral Markets有一个常见问题部分，您可以在其中找到有关其�
 
 常见问题
 
+常见问题
+
 ### 交易者词汇
 
 交易者的词汇表提供了交易术语和定义的可用区，以帮助您了解行业中使用的一些较常见的阶段。
 
 ![交易商词汇](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Traders-Glossary.png "交易商词汇")
+
+交易商词汇
 
 交易商词汇
 
@@ -309,11 +363,15 @@ Admiral Markets拥有40多种次要，主要和外来货币对，可以24：5的
 
 外汇交易
 
+外汇交易
+
 ### 加密货币交易
 
 加密货币可以24/7全天候使用，竞争杠杆高达1:5，并且可以对某些最受欢迎的加密货币（例如比特币，Litecoin和以太坊）做多或做空。
 
 ![加密货币交易](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Cryptocurrency-Trading.png "加密货币交易")
+
+加密货币交易
 
 加密货币交易
 
@@ -325,11 +383,15 @@ Admiral Markets拥有40多种次要，主要和外来货币对，可以24：5的
 
 指数交易
 
+指数交易
+
 ### 股票交易
 
 您可以在一些全球最大的蓝筹公司（包括Apple，Google，Facebook，BMW，BP等）上交易差价合约。杠杆率高达1:20，可以在任何方向进行交易，而卖空交易无需额外费用。使用差价合约，不需要股票所有权。
 
 ![股票交易](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Share-Trading.png "股票交易")
+
+股票交易
 
 股票交易
 
@@ -341,6 +403,8 @@ Admiral Markets拥有40多种次要，主要和外来货币对，可以24：5的
 
 债券交易
 
+债券交易
+
 ### 商品交易
 
 您只需200美元的初始投资即可在石油，天然气，黄金，白银等产品上进行差价合约交易。杠杆高达1:500，无额外佣金和24/5交易。
@@ -349,11 +413,15 @@ Admiral Markets拥有40多种次要，主要和外来货币对，可以24：5的
 
 商品交易
 
+商品交易
+
 ## 交易账户和费用
 
 Admiral Markets拥有一系列灵活的交易帐户，具有竞争性的交易条款和各种服务，以适应不同的交易者需求。有2个MT4和2个MT5帐户可供选择。一些账户比其他账户拥有更多的交易工具，而最低存款，杠杆和佣金可能会有所不同。开设真实账户之前，可以使用模拟账户测试不同的交易平台和条件。
 
 ![交易账户](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Trading-Accounts.png "交易账户")
+
+交易账户
 
 交易账户
 
@@ -391,11 +459,15 @@ Admiral Markets有多种不同的帐户存款和提款方法，包括银行转�
 
 存款和取款选项
 
+存款和取款选项
+
 ## 开户步骤
 
 Admiral Markets的帐户开设过程非常简单快捷。有一个简短的在线表格，只需几分钟即可完成。然后，您需要验证您的电子邮件地址，并上载身份证明（例如护照或驾照）以及最近的水电费账单以验证您的地址。客户小组验证了您的文件后，您可以将其存入您的帐户并开始交易。
 
 ![注册表格](https://cdn.fendou.la/funstoutiao/2020/12/Admiral-Markets-Sign-Up-Form.png "注册表格")
+
+注册表格
 
 注册表格
 

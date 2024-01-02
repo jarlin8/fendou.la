@@ -1,12 +1,12 @@
 ---
 title: "什么是国际收支模式？国际收支是怎么样的？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 **什么是国际收支模式？**

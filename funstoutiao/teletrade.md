@@ -1,15 +1,16 @@
 ---
 title: "TeleTrade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 TeleTrade是一家屡获殊荣，受监管和透明的在线交易经纪商，提供超过200种工具，包括外汇，加密货币和差价合约。他们提供灵活的帐户类型，交易工具和教材。
 
 ## TeleTrade测评
+
 - 合规经纪商
 - 客户资金隔离
 - 负余额保护
@@ -21,7 +22,6 @@ TeleTrade是一家屡获殊荣，受监管和透明的在线交易经纪商，�
 - 限制欧盟客户的杠杆
 - 无固定利差账户
 - 并非所有帐户都提供MT5
-
 
 ## 经纪商简介
 

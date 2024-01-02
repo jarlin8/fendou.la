@@ -1,12 +1,12 @@
 ---
 title: "炒外汇入门基础知识：如何分析外汇行情走势？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
        不管是炒黄金还是炒外汇，只要是在多空双向交易的市场中，判断价格走势是很重要的一步，投资者需要对市场行情有一个清晰的判断再进行下单交易，这样才能保持较高的成功率，这也是炒外汇入门基础知识中比较重要的一部分。那么，外汇交易时，如何分析外汇行情走势呢?

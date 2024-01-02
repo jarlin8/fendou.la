@@ -1,15 +1,16 @@
 ---
 title: "MaxiTrade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 MaxiTrade由Day Dreams Investment Limited在马绍尔群岛成立，是一家创新的加密货币经纪商，为交易者提供功能强大且用户友好的交易平台，用于交易货币和商品以及多种加密货币（例如比特币，以太坊，门罗币，涟漪等等。 他们提供多种交易账户选择权，要求的最低存款额为250美元。
 
 ## 优点和缺点
+
 - 多个交易平台
 - 教育资源
 - 有用的交易工具
@@ -17,7 +18,6 @@ MaxiTrade由Day Dreams Investment Limited在马绍尔群岛成立，是一家创
 - 与其他经纪商相比交易工具有限
 - 点差偏高
 - 无DMA的FIX API
-
 
 ## 经纪商简介
 

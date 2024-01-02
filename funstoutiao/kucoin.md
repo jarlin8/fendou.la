@@ -1,15 +1,16 @@
 ---
 title: "KuCoin交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 KuCoin主要是一个在线加密货币交易所，它的交易者可以使用直观的KuCoin交易平台来访问多种加密货币，包括[比特币](https://baike.baidu.com/item/%E6%AF%94%E7%89%B9%E5%B8%81/4143690)，[以太坊](https://baike.baidu.com/item/%E4%BB%A5%E5%A4%AA%E5%9D%8A/20865117)，莱特币，Ripple，KuCoins（KCS）等，该版本可在网络和移动版本中使用。 。 客户还享受一系列交易工具和教育资源以及24/7全天候客户支持。 该交易所提供了一些市场上最具竞争力的费用，但并未受到监管，这对许多潜在客户而言可能是一个危险信号。
 
 ## 优点＆缺点
+
 - 新手友好的交易平台
 - 多种加密货币可用于在线交易
 - 24/7全天候客户支持
@@ -17,7 +18,6 @@ KuCoin主要是一个在线加密货币交易所，它的交易者可以使用�
 - 无[MetaTrader](https://funstoutiao.com/%e5%a6%82%e4%bd%95%e9%aa%8c%e8%af%81mt4%e8%bd%af%e4%bb%b6%e6%98%af%e4%b8%8d%e6%98%af%e6%ad%a3%e7%89%88%ef%bc%9f-%e5%a4%96%e6%b1%87%e4%ba%a4%e6%98%93.html)平台
 - 不接受美国客户
 - 金融工具选择有限
-
 
 ## 经纪商简介
 
@@ -66,6 +66,7 @@ KuCoin允许交易者持有，购买和出售多种加密货币，包括比特�
 ## 交易账户和费用
 
 交易所有两种账户类型：
+
 - 主账户
 - 交易账户
 
@@ -80,6 +81,7 @@ KuCoin允许交易者持有，购买和出售多种加密货币，包括比特�
 ## 存款和取款
 
 KuCoin允许交易者使用以下付款方式在他们的交易账户中存款和取款：
+
 - 信用卡/借记卡
 - 加密货币
 

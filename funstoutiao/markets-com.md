@@ -1,15 +1,16 @@
 ---
 title: "Markets.com外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Markets.com通过屡获殊荣的交易平台为全球交易者提供广泛的交易资产，低点差和先进的交易工具。
 
 ## Marketscom测评
+
 - 广泛的交易工具
 - 固定点差
 - 严格监管
@@ -19,7 +20,6 @@ Markets.com通过屡获殊荣的交易平台为全球交易者提供广泛的交
 - 不接受美国客户
 - 最佳交易条件需要专业账户
 - 未受FCA监管
-
 
 ## 经纪商简介
 

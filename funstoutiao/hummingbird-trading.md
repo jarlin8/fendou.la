@@ -1,13 +1,14 @@
 ---
 title: "Hummingbird Trading交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Hummingbird Trading公司成立于2017年，是一家多资产移动交易和金融技术公司，在伦敦，英国，纽约和柏林设有办事处。 经纪商为您的移动设备提供了一整套的外汇和加密货币交易工具。 交易者还可以从教育资源和客户支持团队中受益。
+
 - 直观的移动交易应用
 - 教育资源
 - 最低存款要求为$25

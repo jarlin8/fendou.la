@@ -1,17 +1,18 @@
 ---
 title: "OctaFX 外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
- post_tag: 
-  - "forex-broker"
+  category:
+        - "toutiao-basic"
+  post_tag:
+        - "forex-broker"
 ---
 
 成立于2011年的OctaFX提供强大的交易平台和灵活的账户，以适合所有类型的交易者。他们提供具有竞争力的费用和及时的客户支持的一系列外汇和差价合约工具。
 
 ## 优点和缺点
+
 - 免佣金账户
 - 固定利差账户
 - OctaFX Copytrading应用程序
@@ -20,7 +21,6 @@ taxonomy:
 - 允许对冲和剥头皮
 - 不接受美国客户
 - 交易工具有限
-
 
 ## 经纪商简介
 

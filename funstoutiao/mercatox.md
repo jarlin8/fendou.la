@@ -1,15 +1,16 @@
 ---
 title: "Mercatox交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Mercatox是一种加密货币交易所，可让交易者进入数字货币和加密货币市场。 它是用于交易和交换各种数字货币的便捷平台，可供经验丰富的交易者和初学者使用。 通过其专有的基于Web的交易平台可以在线交易各种各样的加密货币，例如[比特币](https://www.baike.com/wiki/%E6%AF%94%E7%89%B9%E5%B8%81),黄金，以太坊，XRP，EOS，[莱特币](https://www.baike.com/wiki/%E8%8E%B1%E7%89%B9%E5%B8%81 "莱特币")，狗狗币，DASH，以太坊经典等。
 
 ## 优点与缺点
+
 - 新手友好的交易平台
 - 多种加密货币
 - 多币种钱包
@@ -18,7 +19,6 @@ Mercatox是一种加密货币交易所，可让交易者进入数字货币和加
 - 无MetaTrader平台
 - 资金选择有限
 - 无在线聊天支持
-
 
 ## 经纪商简介
 

@@ -1,15 +1,16 @@
 ---
 title: "TradeDirect365外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 TradeDirect365是一家经纪公司，其成立是为了提供一种经济实惠且简便的方法，以便在适用于不同经验水平和交易方式的尖端平台上进行外汇和差价合约交易。该经纪商仅在其专有的CloudTrade平台和流行的MetaTrader 4（MT4）平台上提供固定点差。
 
 ## TradeDirect365测评
+
 - 合规经纪商
 - MetaTrader 4和CloudTrade交易平台
 - 大量选择股票交易工具
@@ -17,7 +18,6 @@ TradeDirect365是一家经纪公司，其成立是为了提供一种经济实惠
 - 有限的外部库存工具
 - 仅通过银行电汇提款
 - 点差偏高
-
 
 ## 经纪商简介
 
@@ -92,6 +92,7 @@ TradeDirect365网站上的此页面专用于CFD术语和短语及其解释的列
 ## 交易工具
 
 TradeDirect365提供以下交易工具。
+
 - 34种外汇货币对
 - 14个指数
 - 12种商品

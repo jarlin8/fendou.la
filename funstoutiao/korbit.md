@@ -1,10 +1,10 @@
 ---
 title: "Korbit外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Korbit成立于2014年，是一家韩国加密货币交易所，致力于为交易者提供一个安全的平台，使他们能够购买，出售和存储比特币，以太坊，Litecoin，Ripple，比特币现金，Chainlink，EOS，以太坊经典以及其他加密货币在网络和移动设备上。 他们被誉为韩国第一个也是最稳定的比特币交易所。
@@ -18,7 +18,6 @@ Korbit成立于2014年，是一家韩国加密货币交易所，致力于为交�
 - 交易工具有限
 - 资金选择有限
 - 无实时聊天支持
-
 
 ## 经纪商简介
 

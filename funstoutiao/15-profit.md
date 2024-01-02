@@ -1,12 +1,12 @@
 ---
 title: "外汇市场的年收益能达到15%吗？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 在理财顾问眼中对于风险较高的炒汇作业白云峰这样能保持冷静的头脑又输得起的人是最合适的**做到15%的收益也不是不可能**。

@@ -1,15 +1,16 @@
 ---
 title: "Lykke外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Lykke是一家总部位于瑞士的金融服务提供商，致力于弥合传统金融与区块链之间的鸿沟，同时运营数字资产和加密货币的无佣金交易。 交易所为交易者提供了一个安全且功能丰富的钱包，可轻松转移和存储其资产。
 
 ## 优点和缺点
+
 - 先进的交易平台
 - 多种加密货币
 - 精选教育资源
@@ -17,7 +18,6 @@ Lykke是一家总部位于瑞士的金融服务提供商，致力于弥合传统
 - 仅加密货币交易
 - 无MetaTrader或cTrader平台
 - 无实时聊天支持
-
 
 ## 经纪商简介
 

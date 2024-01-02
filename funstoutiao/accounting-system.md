@@ -1,10 +1,10 @@
 ---
 title: "欧美股票市场的会计制度详解#投资的头号法则"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
+  category:
+        - "forexbook"
 ---
 
 在潜在意识中，投资人很不喜欢拥有那些股价下跌的股票，却对那些一路上涨的股票非常着迷。高价买进低价卖出当然赚不到钱。—沃伦·巴菲特

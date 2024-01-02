@@ -1,15 +1,16 @@
 ---
 title: "ViTrade外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 ViTrade是一家德国经纪商，通过一系列适用于iOS上运行的台式机，Web和移动设备的专业交易平台，向其客户提供多种交易产品。 ViTrade具有一些先进的交易工具，但是帐户类型和资金选择的选择有限。 他们还没有流行的MetaTrader平台，因此许多交易者已经熟悉并且主要针对德国市场。
 
 ## ViTrade测评
+
 - 监管经纪
 - 资产类别范围
 - 专业交易平台
@@ -21,7 +22,6 @@ ViTrade是一家德国经纪商，通过一系列适用于iOS上运行的台式�
 - 无MetaTrader平台
 - 不是最便宜的经纪商费用或最低的点差
 - 模拟账户即将到期
-
 
 ## 经纪商简介
 

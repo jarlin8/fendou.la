@@ -1,15 +1,16 @@
 ---
 title: "FINEXO外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FINEXO是一家总部位于塞浦路斯的在线交易经纪商，提供大量可交易资产，例如股票，外汇，加密货币，指数，商品，债券和ETF，以便使用多个交易平台进行在线交易。 经纪商还提供多种账户选择，最低存款额为100美元。
 
 ## 优点和缺点
+
 - 复杂的交易平台
 - 经济日历和其他交易工具
 - 超过2,100种交易工具
@@ -18,7 +19,6 @@ FINEXO是一家总部位于塞浦路斯的在线交易经纪商，提供大量�
 - 不是最紧密的点差
 - 无FIX API交易
 - 无MetaTrader 5平台
-
 
 ## 经纪商简介
 

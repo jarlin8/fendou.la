@@ -1,15 +1,16 @@
 ---
 title: "Coinhouse外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Coinhouse是一个加密货币交易所，可让客户购买，出售，交流，存入，提取或存储众多加密货币，包括比特币，比特币现金，以太坊，Ripple，Litecoin和以太币。 交易所依靠COINHOUSE托管服务的专有技术和技术来保护其客户的数字资产。
 
 ## Coinhouse 优点与缺点
+
 - 新手友好的交易平台
 - 多种加密货币
 - 一系列交易和学习工具
@@ -17,7 +18,6 @@ Coinhouse是一个加密货币交易所，可让客户购买，出售，交流�
 - 不接受美国客户
 - 仅加密货币交易
 - 无MetaTrader或cTrader交易平台
-
 
 ## 经纪商简介
 
@@ -43,6 +43,8 @@ Coinhouse已在法国金融市场管理局（AMF）注册，用于买卖编号�
 
 交易平台
 
+交易平台
+
 ## 交易工具
 
 联交所网站上有多种交易工具，包括技术分析，图表等。
@@ -52,6 +54,8 @@ Coinhouse已在法国金融市场管理局（AMF）注册，用于买卖编号�
 客户可以从一系列教育资源中受益，这些教育资源旨在增强他们的交易知识，并让他们了解金融市场的最新动态。 教育资源包括视频，文章，常见问题解答，交易学院和新闻。
 
 ![新闻](https://cdn.fendou.la/funstoutiao/2020/11/Coinhouse-Review-News-1024x298.jpg "新闻")
+
+新闻
 
 新闻
 
@@ -72,6 +76,7 @@ Coinhouse为交易者提供了专门的客户支持团队，他们随时可以�
 ## 存款和取款
 
 交易者可以使用以下任何一种付款方式在他们的交易账户中存入和提取资金：
+
 - 信用卡/借记卡
 - 银行转帐
 
@@ -80,6 +85,8 @@ Coinhouse为交易者提供了专门的客户支持团队，他们随时可以�
 要开设一个帐户，请单击“打开帐户”标签，如果您已经有一个Google帐户或Google Mail地址，则可以选择使用该Google帐户访问Coinhouse平台并开始交易。 或者，您可以使用您的Facebook帐户。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Coinhouse-Review-Account-Opening-Page.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

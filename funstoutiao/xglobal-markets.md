@@ -1,15 +1,16 @@
 ---
 title: "XGLOBAL Markets平台经纪商测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 XGLOBAL Markets是一家零售交易经纪商，为五种资产类别提供77多种金融工具，包括外汇，金属，能源，商品和指数，以便在复杂的MetaTrader 5交易平台上进行交易。 他们提供多种账户选择，最低存款额为500美元。
 
 ## XGLOBAL Markets测评
+
 - 合规经纪商
 - 完善的MetaTrader 5交易平台
 - 教育资源
@@ -21,7 +22,6 @@ XGLOBAL Markets是一家零售交易经纪商，为五种资产类别提供77多
 - 不是最低的佣金
 - 无在线聊天支持
 - 最低入金$500
-
 
 ## 经纪商简介
 
@@ -74,6 +74,7 @@ XGLOBAL Markets提供包括外汇，金属，商品，指数和能源在内的5�
 ## 存款和取款
 
 XGLOBAL Markets接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡，包括Visa和MasterCard
 - 银行电汇和内部转帐
 - 电子钱包，例如Skrill，Neteller等。

@@ -1,15 +1,16 @@
 ---
 title: "FxGrow外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 FxGrow是一家受多方监管的在线交易经纪商，通过MT4 / MT5交易平台提供多种可交易资产，以及一系列交易工具和教育资源。
 
 ## 优点和缺点
+
 - MetaTrader平台
 - 有用的交易工具和教材
 - 多种金融工具
@@ -18,7 +19,6 @@ FxGrow是一家受多方监管的在线交易经纪商，通过MT4 / MT5交易�
 - 不是最低的佣金
 - 无固定利差账户
 - 上限杠杆
-
 
 ## 经纪商简介
 
@@ -77,6 +77,7 @@ FxGrow使交易者可以通过MT4和MT5交易平台交易多种可交易资产�
 ## 存款和取款
 
 经纪商接受以下付款方式：
+
 - 信用卡/借记卡-例如Visa，MasterCard，Maestro
 - 电子钱包-包括Neteller，Skrill，YandexMoney，QIWI
 - 电汇

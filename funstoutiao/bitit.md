@@ -1,15 +1,16 @@
 ---
 title: "Bitit外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Bitit总部位于法国巴黎，是一家由三位朋友于2015年成立的加密货币交易所，他们希望为交易者提供一个简单的交易平台来买卖加密资产而不会让人头疼。 交易所提供以下加密货币以太坊，比特币，Ripple，Chainlink，Tether，Litecoin，Cardano等。
 
 ## Bitit测评 优点和缺点
+
 - 直观的加密平台
 - 精选教育资源
 - 多种加密货币
@@ -20,7 +21,6 @@ Bitit总部位于法国巴黎，是一家由三位朋友于2015年成立的加�
 - 无移动交易应用
 - 资金选择有限
 - 无联系电话号码或实时聊天支持
-
 
 ## 经纪商简介
 
@@ -54,6 +54,8 @@ Bitit为交易者提供了丰富的教育资源，旨在提高他们的交易技
 
 交易博客
 
+交易博客
+
 ## 交易工具
 
 Bitit提供以下数字资产：以太坊，比特币，Ripple，Chainlink，Tether，Litecoin，Cardano等。
@@ -71,10 +73,13 @@ Bitit有一个客户支持团队，可以24/7全天候响应交易员的询问�
 ## 存款和取款
 
 Bitit接受以下用于帐户存款和取款的付款方式：
+
 - 信用卡/借记卡
 - 银行转帐
 
 ![存款和取款方法](https://cdn.fendou.la/funstoutiao/2020/10/Bitit-Review-Deposit-and-Withdrawal-Methods--1024x185.jpg "存款和取款方法")
+
+存款和取款方法
 
 存款和取款方法
 
@@ -83,6 +88,8 @@ Bitit接受以下用于帐户存款和取款的付款方式：
 开设帐户很简单，只需单击网站上的“创建您的帐户”按钮，然后填写所需的信息即可。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/10/Bitit-Review-Account-Opening-Page.jpg "开户页面")
+
+开户页面
 
 开户页面
 

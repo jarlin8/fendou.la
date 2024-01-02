@@ -1,10 +1,10 @@
 ---
 title: "如何理解“会买是徒弟，会卖是师傅”这句话?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 此问题在开始之初很多人都不明白，还记得17年在公司操盘的时候也问了指导老师这个问题，老师的原话是

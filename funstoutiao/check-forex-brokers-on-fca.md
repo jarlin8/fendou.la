@@ -1,12 +1,12 @@
 ---
 title: "如何在FCA上查询外汇经纪商的受监管状况？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 随着外汇保证金交易逐步深入人心，越来越多的骗子经纪商也开始将魔爪伸向这个相对不够成熟的市场。 在光怪陆离的外汇世界中，拥有辨别骗子经纪商的一技之长显得尤为重要。

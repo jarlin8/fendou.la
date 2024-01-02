@@ -1,15 +1,16 @@
 ---
 title: "Xcoins外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 自2016年推出以来，Xcoins已迅速成长为领先的加密货币交易所，为来自167个国家/地区的250,000多名满意的客户提供服务，并帮助他们交换多种数字货币。 他们已经处理了超过2.5亿美元的数字现金。
 
 ## 优点＆缺点
+
 - 新手友好的交易平台
 - 精选教育资源
 - 多种加密货币
@@ -18,7 +19,6 @@ taxonomy:
 - 仅限数字货币
 - 资金选择有限
 - 不接受美国客户
-
 
 ## 经纪商简介
 

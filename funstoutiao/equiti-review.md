@@ -1,15 +1,16 @@
 ---
 title: "Equiti外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Equiti在安曼设有注册办事处，是一家受监管的交易经纪商，为交易者提供了多个交易平台，可以交易跨不同资产类别（例如外汇，指数，商品和股票）的多种金融工具。 有多个帐户选项可供选择。
 
 ## 优点和缺点
+
 - 复杂的交易平台
 - 提供实用的交易辅助工具
 - 精选教育资源
@@ -18,7 +19,6 @@ Equiti在安曼设有注册办事处，是一家受监管的交易经纪商，�
 - 不是最紧密的点差
 - 不是最低的佣金
 - 最低入金$500
-
 
 ## 经纪商简介
 
@@ -43,6 +43,8 @@ Equiti是Equiti UK Limited（公司注册号：07216039）的注册商标，该�
 还有一个Equiti Trader，它是一个基于Web的交易平台，不需要安装。 它具有许多内置的技术指标，形状和绘图工具，以及其他功能。
 
 ![交易平台](https://cdn.fendou.la/funstoutiao/2020/11/Equiti-Review-Trading-Platform--1024x463.jpg "交易平台")
+
+交易平台
 
 交易平台
 
@@ -71,6 +73,7 @@ Equiti是Equiti UK Limited（公司注册号：07216039）的注册商标，该�
 ## 入金和出金
 
 经纪商接受以下用于帐户存款和取款的付款方式：
+
 - 银行电汇
 - 信用卡/借记卡，包括万事达卡，Maestro和Visa
 - 电子钱包，例如Neteller，Skrill等。
@@ -79,11 +82,15 @@ Equiti是Equiti UK Limited（公司注册号：07216039）的注册商标，该�
 
 存款和取款方法
 
+存款和取款方法
+
 ## 开户步骤
 
 要开设一个新的交易账户，您只需单击“开设真实账户”按钮，然后继续填写将显示的表格。 之后，您点击了提交按钮。
 
 ![开户页面](https://cdn.fendou.la/funstoutiao/2020/11/Equiti-Review-Account-Opening-Page--288x1024.jpg "开户页面")
+
+开户页面
 
 开户页面
 

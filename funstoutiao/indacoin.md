@@ -1,15 +1,16 @@
 ---
 title: "Indacoin外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Indacoin是一种加密货币交易所，它提供了一种简便的方法，可通过Visa和MasterCard立即购买比特币和数十种山寨币。 交易所拥有最受好评的手机钱包，可以从相关的应用商店中下载该钱包，并用于购买和存储硬币。 交易者受益于一系列有利的交易条件，包括快速交易和无隐藏费用。
 
 ## 优点和缺点
+
 - 直观的移动交易应用
 - 精选教育资源
 - 比特币计算器以及其他交易工具
@@ -18,7 +19,6 @@ Indacoin是一种加密货币交易所，它提供了一种简便的方法，可
 - 付款方式有限
 - 无MetaTrader平台
 - 不接受美国客户
-
 
 ## 经纪商简介
 

@@ -1,17 +1,17 @@
 ---
 title: "您需要了解的期权交易"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "experience"
+  category:
+        - "experience"
 ---
 
-[ad-1]  
+\[ad-1\]
 
 ![较高-iq选项的较低选项](https://iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option.jpg)
 
-<img class="alignnone size-full wp-image-2075" src="https://iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option.jpg" alt="较高-iq选项的较低选项" width="1600" height="1143" srcset="https://www.iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option.jpg 1600w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option-300x214.jpg 300w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option-768x549.jpg 768w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option-1024x732.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px">
+![较高-iq选项的较低选项](https://iqoptionwiki.com/wp-content/uploads/2019/02/higher-lower-option.jpg)
 
 随着互联网的兴起，出现了许多在线赚钱机会。 金融经纪商建立了在线平台，使交易者可以轻松地投资于不同的金融工具。
 
@@ -31,7 +31,7 @@ taxonomy:
 
 ![期权获利](https://iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options.jpg)
 
-<img class="alignnone size-full wp-image-2077" src="https://iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options.jpg" alt="期权获利" width="1600" height="1143" srcset="https://www.iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options.jpg 1600w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options-300x214.jpg 300w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options-768x549.jpg 768w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options-1024x732.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px">
+![期权获利](https://iqoptionwiki.com/wp-content/uploads/2019/02/profit-with-options.jpg)
 
 ## Overview-of-options">选项概述
 
@@ -53,7 +53,7 @@ taxonomy:
 
 ![与IQ Option交易的期权](https://iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option.png)
 
-<img class="alignnone size-full wp-image-2076" src="https://iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option.png" alt="与IQ Option交易的期权" width="1127" height="610" srcset="https://www.iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option.png 1127w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option-300x162.png 300w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option-768x416.png 768w, https://www.iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option-1024x554.png 1024w" sizes="(max-width: 1127px) 100vw, 1127px">
+![与IQ Option交易的期权](https://iqoptionwiki.com/wp-content/uploads/2019/02/options-trading-at-iq-option.png)
 
 ## Is-options-trading-a-form-of-gambling">期权交易是赌博形式吗？
 
@@ -72,7 +72,7 @@ taxonomy:
 
 ![关于期权的真相](https://iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options.jpg)
 
-<img class="alignnone size-full wp-image-2079" src="https://iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options.jpg" alt="关于期权的真相" width="1600" height="1600" srcset="https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options.jpg 1600w, https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options-150x150.jpg 150w, https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options-300x300.jpg 300w, https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options-768x768.jpg 768w, https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options-1024x1024.jpg 1024w, https://www.iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options-100x100.jpg 100w" sizes="(max-width: 1600px) 100vw, 1600px">
+![关于期权的真相](https://iqoptionwiki.com/wp-content/uploads/2019/01/truth-about-options.jpg)
 
 选项有些不同。 您实际上是在猜测资产的价格在指定时间内会上升还是下降。 因此，如果您购买期权，卖方实质上就是您的经纪商，而不是另一位交易员。 因此，经纪商有权设定您获胜交易的收益。 这样可以确保即使您的交易是赢家，经纪商仍然可以赚钱。
 
@@ -115,5 +115,4 @@ taxonomy:
 IQ Option Wiki提供了许多可以改善交易性能的工具。 你会找到  
 关于如何使用IQ Option Wiki损益计算器
 
-  
-[ad-2]
+\[ad-2\]

@@ -1,12 +1,12 @@
 ---
 title: "外汇黄金返佣能返多少呢？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "foreign-exchange"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "foreign-exchange"
 ---
 
 外汇返佣能返多少？返佣是外汇黄金交易特有的一个形式，其主要的目的是帮助外汇 黄金交易平台 争夺国内的市场份额。  

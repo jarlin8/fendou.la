@@ -1,15 +1,16 @@
 ---
 title: "RJO Futures期货交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 RJO Futures总部位于芝加哥，是一家商品和金融期货经纪公司，可快速可靠地进入全球期货市场。 他们拥有内部经纪商团队，他们对期货市场有广泛的了解，可以帮助您进入衍生品市场。
 
 ## RJO Futures测评
+
 - 多个直观的交易平台
 - 多种有用的交易工具
 - 精选教育资源

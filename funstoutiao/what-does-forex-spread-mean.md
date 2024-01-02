@@ -1,12 +1,12 @@
 ---
 title: "外汇点差是什么意思？"
 post_status: publish
-post_date: "2023-03-01"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 外汇点差就是外汇交易中买入价和卖出价之间的差价，它是外汇交易商收取的服务费用，也是他们的主要盈利来源。点差越小，对于投资者来说成本越低，交易越有利。

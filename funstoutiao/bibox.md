@@ -1,15 +1,16 @@
 ---
 title: "Bibox外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Bibox是一个在线加密货币交易所，交易者可以通过提供的交易平台买卖多种加密货币，例如比特币，以太坊，Litecoin，比特币现金，以太坊经典，DASH，Ripple等。
 
 ## Bibox测评 优点＆缺点
+
 - 完善的交易平台
 - 多种加密货币
 - 大量的教育资源
@@ -19,12 +20,13 @@ Bibox是一个在线加密货币交易所，交易者可以通过提供的交易
 - 无MetaTrader平台
 - 不接受美国客户
 
-
 ## 经纪商简介
 
 Bibox成立于爱沙尼亚共和国，是一个致力于数字资产交易的平台。 它由中国区块链和加密货币专家团队运营。 他们为交易者提供他们专有的交易平台，以及一系列交易工具和教育资源。
 
 ![功能概述](https://cdn.fendou.la/funstoutiao/2020/11/Bibox-Review-Features-Overview.png "功能概述")
+
+功能概述
 
 功能概述
 
@@ -48,6 +50,8 @@ Bibox为交易者提供了功能丰富的网络交易平台，可直接从Bibox�
 
 交易平台
 
+交易平台
+
 还有一个移动交易应用程序版本，可在运行Android和iOS的移动设备上提供平台的全部功能。
 
 ## 交易工具
@@ -55,6 +59,8 @@ Bibox为交易者提供了功能丰富的网络交易平台，可直接从Bibox�
 Bibox Exchange提供了REST API和WebSocket API，某些投资者可以方便地查看市场和交易。 他们还具有TradingView提供的图表。
 
 ![图表](https://cdn.fendou.la/funstoutiao/2020/11/Bibox-Review-Charts.png "图表")
+
+图表
 
 图表
 
@@ -85,6 +91,8 @@ Bibox Exchange允许交易者买卖多种加密货币，例如比特币，以太
 打开Bibox交易帐户是免费的，可以通过单击“打开免费帐户”按钮并填写表格来完成。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Bibox-Review-Account-Opening-Page.png "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

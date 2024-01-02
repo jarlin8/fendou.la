@@ -1,7 +1,8 @@
 ---
 title: "Learning to postpone gratification during a transaction really makes a difference!"
 post_status: publish
-post_date: "2022-12-22"
+post_post_status: publish
+skip_file: no
 taxonomy:
  category: 
   - "faq"

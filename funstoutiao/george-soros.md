@@ -1,12 +1,12 @@
 ---
 title: "乔治·索罗斯——击败英格兰银行的人"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forexbook"
- post_tag: 
-  - "forex-markets"
+  category:
+        - "forexbook"
+  post_tag:
+        - "forex-markets"
 ---
 
 乔治·索罗斯——击败英格兰银行的人

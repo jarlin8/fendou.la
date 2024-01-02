@@ -1,12 +1,12 @@
 ---
 title: "炒外汇入门有几个雷区要远离？"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "forex-answer"
- post_tag: 
-  - "forex-beginner"
+  category:
+        - "forex-answer"
+  post_tag:
+        - "forex-beginner"
 ---
 
 这些问题我们在平时的炒外汇时是经常遇到的，稍加留意就能改正，并不需要我们在这些失误造成的失败中吸取教训。下面我们就来简单的讲讲其中的三个雷区。

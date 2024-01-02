@@ -1,10 +1,10 @@
 ---
 title: "如何看待目前国内的交易平台经营现状，合法性，盈利方式，及行业前景?"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "practical-information"
+  category:
+        - "ganhuo"
 ---
 
 谢邀，题主的问题好大，今天就来浅谈一下关于题主的问题，如有不对欢迎指正。

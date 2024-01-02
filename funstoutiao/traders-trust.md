@@ -1,15 +1,16 @@
 ---
 title: "Traders Trust外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Traders Trust是一家零售经纪商，通过MetaTrader 4平台提供各种金融资产用于在线交易。 它们提供有竞争力的点差和执行速度以及负余额保护。
 
 ## Traders Trust测评
+
 - 合规经纪商
 - 各种资金选择
 - 其他交易工具
@@ -20,7 +21,6 @@ Traders Trust是一家零售经纪商，通过MetaTrader 4平台提供各种金�
 - 无许多国家（包括美国）接受客户
 - 无社交交易平台集成
 - 无每日市场分析
-
 
 ## 经纪商简介
 
@@ -63,6 +63,7 @@ Traders Trust还为客户提供一些独立工具，例如经济日历，交易�
 ## 交易账户和费用
 
 Traders Trust提供不同的账户类型，并具有不同的最低存款要求，点差和佣金。 帐户类型包括：
+
 - 经典帐户： 最低入金$50，价差从1.5点差起，无佣金
 - 专业版帐户： 最低入金$2,000，点差从0点起，每手佣金$3
 - VIP帐户： $20,000最低存款，点差从0点开始，每手佣金$1.5

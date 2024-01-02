@@ -1,15 +1,16 @@
 ---
 title: "Vestle外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Vestle是一家金融服务公司，致力于促进外汇，商品，指数，股票，ETF，CFD和加密货币的在线交易。作为iFOREX集团的成员，它在金融市场上提供现代技术进步以及交易工具，教育资源和分析工具。
 
 ## 优点和缺点
+
 - 监管经纪商
 - 超过800种交易工具
 - 交易信号，市场情绪及其他交易工具
@@ -22,7 +23,6 @@ Vestle是一家金融服务公司，致力于促进外汇，商品，指数，�
 - 点差偏高
 - 无实时聊天支持
 - 闲置费
-
 
 ## 经纪商简介
 

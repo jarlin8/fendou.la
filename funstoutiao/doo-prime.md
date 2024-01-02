@@ -1,15 +1,16 @@
 ---
 title: "Doo Prime德璞资本交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Doo Prime是一个在线交易平台和一家多资产经纪公司，致力于为全球客户提供金融交易服务。 Doo Prime在伦敦，台北，吉隆坡，巴哈马设有办事处，并且是著名的Doo Holding Group Limited的全资子公司之一。
 
 ## 优点和缺点
+
 - 用户友好和灵活的交易平台
 - 精选教材
 - 多种交易工具
@@ -19,12 +20,13 @@ Doo Prime是一个在线交易平台和一家多资产经纪公司，致力于�
 - 点差偏高
 - 不接受美国客户
 
-
 ## 经纪商简介
 
 Doo Prime总部位于瓦努阿图，是一家知名的在线交易经纪商，在全球设有国际办事处。 他们为交易者提供完善的MT4和MT5交易平台，用于在线交易多种金融资产，包括外汇，金属，期货，差价合约等。 有不同的帐户选项可以满足客户的交易需求。 交易者还可以从一系列交易和学习工具中受益。 该经纪商已获得众多行业奖项，例如2017年最佳服务提供商和2017年最佳MT5提供商。
 
 ![奖项和提名](https://cdn.fendou.la/funstoutiao/2020/11/Doo-Prime-Review-Awards-and-Recognitions.jpg "奖项和提名")
+
+奖项和提名
 
 奖项和提名
 
@@ -48,6 +50,8 @@ Doo Prime Vanuatu Limited是一家持牌金融交易商，受瓦努阿图金融�
 
 MetaTrader平台
 
+MetaTrader平台
+
 MT5交易平台具有MT4的所有功能，但具有更多功能，例如多语言用户界面，对21个时限的支持以及先进的技术和基础分析工具。 MT4和MT5交易平台均可作为Windows和Mac计算机的桌面应用程序，WebTraders以及Android和iOS设备的移动应用程序使用。
 
 ## 交易工具
@@ -58,11 +62,15 @@ MT5交易平台具有MT4的所有功能，但具有更多功能，例如多语�
 
 市场观察
 
+市场观察
+
 ## 投资者教育
 
 经纪商的网站上摆满了精选的教育材料，旨在提高交易者的知识。 它们包括新闻，新闻稿，博客等。
 
 ![交易博客](https://cdn.fendou.la/funstoutiao/2020/11/Doo-Prime-Review-Blogs-1024x323.jpg "交易博客")
+
+交易博客
 
 交易博客
 
@@ -89,6 +97,8 @@ Doo Prime可用的交易工具包括外汇，金属，期货，差价合约等�
 开设帐户很容易，只需单击“注册真实帐户”标签，然后正确填写注册表格即可提供您的详细信息。
 
 ![帐户开设页面](https://cdn.fendou.la/funstoutiao/2020/11/Doo-Prime-Review-Account-Opening-Page-321x1024.jpg "帐户开设页面")
+
+帐户开设页面
 
 帐户开设页面
 

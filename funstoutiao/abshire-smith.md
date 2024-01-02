@@ -1,15 +1,16 @@
 ---
 title: "Abshire-Smith外汇交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 Abshire-Smith是一家外汇/差价合约经纪商，提供货币，商品，指数，期货，债券，股票和期权的交易。经纪商提供多种交易平台，具有竞争力的点差，市场新闻和分析以及快速的交易执行。
 
 ## Abshire-Smith利弊
+
 - 监管经纪商
 - 多个交易平台，包括MT4，Straticator和Vertex FX 10
 - 具有高流动性的STP经纪模式
@@ -17,7 +18,6 @@ Abshire-Smith是一家外汇/差价合约经纪商，提供货币，商品，指
 - $500最低存款
 - 缺乏教育资源
 - 不接受美国客户
-
 
 ## 经纪商简介
 
@@ -55,6 +55,8 @@ Abshire-Smith在MT4平台上提供固定点差。可以在该平台上交易40�
 
 MT4平台
 
+MT4平台
+
 ### VertexFX 10
 
 VertexFX 10交易平台由Abshire-Smith提供，作为可下载的桌面平台和网络交易者。它预装了图表软件包和技术分析工具以及自动交易功能和新闻提要。它具有订单管理工具，还可以一键执行交易。
@@ -62,6 +64,8 @@ VertexFX 10交易平台由Abshire-Smith提供，作为可下载的桌面平台�
 还有想要使用DMA帐户的客户的VertexFX Bridge。只有美元可以在该平台上进行交易。Abshire-Smith在VertexFX 10平台上提供超过35种货币对以及固定点差的商品交易。
 
 ![VertexFX](https://cdn.fendou.la/funstoutiao/2020/11/Abshire-Smith-Review-VertexFX.png "VertexFX")
+
+VertexFX
 
 VertexFX
 
@@ -79,6 +83,8 @@ Straticator也可以作为移动应用程序下载，可从iOS和Android设备�
 
 Straticator
 
+Straticator
+
 ## 交易工具
 
 ### 经济日历
@@ -86,6 +92,8 @@ Straticator
 Abshire-Smith的网站上提供了经济日历。它具有经济报告和事件的日期和时间，以及它们对市场的潜在影响。经济日历由FXStreet提供支持；著名的外汇新闻，汇率，实时分析，图表，经济日历等网站。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/11/Abshire-Smith-Review-Economic-Calendar-1024x591.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -127,6 +135,8 @@ Abshire-Smith为希望通过API / FIX连接直接进入市场的交易者设计�
 
 交易帐户
 
+交易帐户
+
 由于经纪商费用可能会发生变化，因此可能会有其他费用未在此Abshire-Smith评论中列出。在打开Abshire-Smith经纪商帐户进行在线交易之前，必须确保您检查并了解所有最新信息。
 
 ## 客户服务
@@ -155,6 +165,8 @@ Skrill，Neteller和CashU是用于在Abshire-Smith经纪行中进行存款和取
 
 付款方式
 
+付款方式
+
 ## 开户步骤
 
 要在Abshire-Smith开户，您必须在经纪商网站上填写账户申请表。个人和公司客户有两种形式。个人表单有三页，而公司表单有四页，其中包括所有权和董事结构。
@@ -162,6 +174,8 @@ Skrill，Neteller和CashU是用于在Abshire-Smith经纪行中进行存款和取
 对于个人申请表，填写您的个​​人详细信息，例如姓名，电子邮件，电话号码和地址，以及您的财务和就业详细信息。第三页包括验证页，您必须在其中上传您的身份和居住证明。提交表单后，将显示一条消息，通知您合规部门必须审查该申请并与您联系以获取更多详细信息。如果在工作时间内收到申请，则会在一小时内处理申请。
 
 ![注册表](https://cdn.fendou.la/funstoutiao/2020/11/Abshire-Smith-Review-Registration-Form.png "注册表")
+
+注册表
 
 注册表
 

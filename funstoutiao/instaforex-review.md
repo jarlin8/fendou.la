@@ -1,15 +1,16 @@
 ---
 title: "InstaForex 外汇交易平台测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 成立于2007年，受到监管和屡获殊荣的InstaForex是最大的在线交易经纪商之一。他们提供300多种工具，包括灵活的帐户，平台，交易工具和教学资料。
 
 ## 优点和缺点
+
 - 300多种乐器
 - 严格监管
 - 免佣金账户
@@ -21,7 +22,6 @@ taxonomy:
 - 不接受美国客户
 - 限制欧盟客户的杠杆
 - 做市商
-
 
 ## 经纪商简介
 

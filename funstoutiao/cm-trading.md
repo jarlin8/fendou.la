@@ -1,13 +1,14 @@
 ---
 title: "CM Trading 交易平台开户测评"
 post_status: publish
-post_date: "2022-03-08"
+skip_file: no
 taxonomy:
- category: 
-  - "toutiao-basic"
+  category:
+        - "toutiao-basic"
 ---
 
 CM Trading是南非最大的在线经纪商，它为全球的交易者提供了在流行的交易平台上进行广泛的外汇和CFD工具交易的途径，并提供了丰富的教育材料和定期的市场分析。
+
 - 合规经纪商
 - 免佣金账户
 - 每日市场分析
@@ -18,7 +19,6 @@ CM Trading是南非最大的在线经纪商，它为全球的交易者提供了�
 - 最低$250入金
 - 无固定的专用帐户
 
-
 ## CM交易摘要
 
 CM Trading是一家在线经纪商，其为全球客户提供跨多个市场的交易工具的交易服务，包括外汇，商品，加密货币，股票，股票，指数，金属，能源和差价合约。
@@ -26,6 +26,8 @@ CM Trading是一家在线经纪商，其为全球客户提供跨多个市场的�
 CM Trading由经验丰富的交易员于2012年成立，是南非最大的经纪商，荣获“ 2017年非洲最佳表现经纪商”，“ 2019年非洲最佳金融经纪商”和“ 2019年非洲最佳表现经纪商”奖项。
 
 ![奖](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Award-1024x144.png "奖")
+
+奖
 
 获奖
 
@@ -59,6 +61,8 @@ CM Trading提供了一系列功能强大的交易平台，可满足不同级别�
 
 平台
 
+平台
+
 ### MetaTrader 4
 
 MetaTrader 4（MT4）是全球最受欢迎的交易平台，于2005年发布，由俄罗斯软件公司MetaQuotes Software Corp.开发，该公司向全球500多家银行和经纪商授权该平台。它允许零售交易者在各种不同的工具和市场上以实时价格访问和交易。
@@ -72,6 +76,8 @@ MT4适用于所有级别的交易者，它对初学者具有基本功能，而�
 如果您想随时随地进行交易，可以在Android和iOS上下载MT4移动平台。使用移动平台，您可以通过Internet连接在世界任何地方访问和管理帐户。
 
 ![MetaTrader 4（MT4）平台](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-MetaTrader-4-MT4-Platform.jpg "MetaTrader 4（MT4）平台")
+
+MetaTrader 4（MT4）平台
 
 MetaTrader 4平台
 
@@ -89,6 +95,8 @@ WebTrader支持对频繁交易功能（例如手数和订单类型）的预配�
 
 Sirix WebTrader
 
+Sirix WebTrader
+
 ### CopyKat交易
 
 可通过Sirix Webtrader平台访问CopyKat Trading，并允许用户观看，研究和复制其他交易者使用的策略。您可以根据效果搜索和过滤策略。如果您想从特定策略中复制交易，则只需单击一个按钮，每次交易时，相同的交易就会自动存入您的帐户。应该特别指出的是，过去的表现绝不能保证未来的表现。您可以随时在要复制的信号中添加或删除信号。
@@ -98,6 +106,8 @@ Sirix WebTrader
 CM Trading提供多种交易工具，可用于提高交易效率和产生交易想法。
 
 ![教育与工具](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Education-Tools-1024x638.png "教育与工具")
+
+教育与工具
 
 教育与工具
 
@@ -113,6 +123,8 @@ CM Trading网站的flexi信号区域共享定期更新的图表分析，可以�
 
 Flexi Signals
 
+Flexi Signals
+
 ### 每日市场分析
 
 CM Trading提供免费的每日市场回顾视频，内容涵盖各种不同的市场，并通过详细的技术图表分析提供当天的重点提示。您可以订阅他们的YouTube频道，以获取最新的视频或直接从网站获取它们。
@@ -121,11 +133,15 @@ CM Trading提供免费的每日市场回顾视频，内容涵盖各种不同的�
 
 每日市场分析
 
+每日市场分析
+
 ### 经济日历
 
 CM Trading的经济日历显示会影响市场的最新金融新闻事件。每个新闻发布都有一个日期/时间，根据预期影响和预测/实际/先前结果进行评级。该日历可以用于基本分析，以发现潜在的交易机会或要避免的市场。
 
 ![经济日历](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Economic-Calendar.png "经济日历")
+
+经济日历
 
 经济日历
 
@@ -141,11 +157,15 @@ CM Trading的详尽电子书可帮助交易员了解一些关键交易概念，�
 
 电子书
 
+电子书
+
 ### 培训视频
 
 除了电子书，CM Trading还提供精选的详细培训视频，分为两个部分，分别是初学者课程和深入课程。这些讲解清楚的视频提供了很多交易知识。主题包括交易平台，交易工具和社交交易。
 
 ![培训视频教程](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Training-Video-Tutorials.png "培训视频教程")
+
+培训视频教程
 
 培训视频教程
 
@@ -161,11 +181,15 @@ CM Trading网站上有专门的图表分析部分，显示实时图表分析，�
 
 图表分析
 
+图表分析
+
 ### 视频分析
 
 视频分析类似于图表分析，其信息显示在易于消化但又详细的视频中并进行了说明。
 
 ![视频分析](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Video-Analysis.png "视频分析")
+
+视频分析
 
 视频分析
 
@@ -181,11 +205,15 @@ CM Trading拥有来自各个市场的一系列交易工具，包括外汇，商�
 
 外汇
 
+外汇
+
 ### 差价合约交易
 
 差价合约（CFD）允许交易者在无需实际拥有证券的情况下推测证券是上涨还是下跌。CM Trading提供200多种CFD产品，包括货币，金属，商品和指数。
 
 ![差价合约](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-CFDs.jpg "差价合约")
+
+差价合约
 
 差价合约
 
@@ -197,11 +225,15 @@ CM Trading拥有来自各个市场的一系列交易工具，包括外汇，商�
 
 商品
 
+商品
+
 ### 金属交易
 
 金属被归类为从地球开采的商品资产，数百年来，各国政府一直将其用作价值和交换手段的指标。CM Trading提供一些最受欢迎的交易金属，例如黄金，白银，铂和铜。
 
 ![金属](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Metals.jpg "金属")
+
+金属
 
 金属
 
@@ -213,6 +245,8 @@ CM Trading拥有来自各个市场的一系列交易工具，包括外汇，商�
 
 指数
 
+指数
+
 ### 加密交易
 
 加密货币是一种分散的虚拟货币，它使用复杂的数学算法来保护和验证交易。CM Trading提供了交易流行的加密货币（例如比特币，Litecoin，Ripple和Etherium）的选择。
@@ -221,11 +255,15 @@ CM Trading拥有来自各个市场的一系列交易工具，包括外汇，商�
 
 加密
 
+加密
+
 ## 交易账户和费用
 
 CM Trading提供各种不同的账户类型，以满足不同交易者的需求。它们提供浮动点差，这意味着它们并不总是相同，而是随市场波动。有时，当市场开盘或发生导致高波动的市场事件时，价差也会扩大。开设真实账户之前，可以使用模拟账户测试不同的交易平台和条件。也有符合伊斯兰教法的伊斯兰无掉期账户。
 
 ![帐户](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Accounts.png "帐户")
+
+帐户
 
 帐户
 
@@ -255,11 +293,15 @@ CM Trading提供各种不同的账户类型，以满足不同交易者的需求�
 
 客户服务
 
+客户服务
+
 ## 存款和取款
 
 有很多不同的存款和取款选项，包括银行电汇，信用卡和一些在线支付处理程序，例如Neteller。比特币资金也可用。
 
 ![存取款方法](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Deposit-Withdrawal-Methods-1024x150.png "存取款方法")
+
+存取款方法
 
 存取款方法
 
@@ -270,6 +312,8 @@ CM Trading提供各种不同的账户类型，以满足不同交易者的需求�
 在线注册表格很短，可以在CM Trading注册。填写完表格后，您需要验证电子邮件地址并上传验证文件以用于KYC。这将是一种身份证明形式，例如护照和住址证明，可能是水电费。在客户小组验证了您的文件并批准了您的帐户之后，您就可以为您的帐户注资并开始交易。
 
 ![注册表](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Registration-Form.png "注册表")
+
+注册表
 
 注册表
 
