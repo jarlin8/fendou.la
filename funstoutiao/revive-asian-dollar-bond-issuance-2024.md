@@ -49,5 +49,627 @@ post_excerpt:
 <details><summary>这是什么模块</summary>
 
 <p>文字？段落？</p>
+<h1>标题一</h1>
+<h2>标题二</h2>
+<h3>标题三</h3>
+<blockquote>我是BLOCK引用
+第三第四</blockquote>
+<li>快吃饭客单数狂饭</li>
+<li>多多多死多哦打死佛</li>
+<li>东老佛哦对睡戳</li>
+<li>老热or哦</li>
+<li>二看诶诶诶金耳环</li>
+<pre><code class="javascript">// 全局变量
+var notionToken =
+  PropertiesService.getScriptProperties().getProperty("notionToken"); // Notion API密钥
+var databaseId = "83db87faf6a64609ab70fed435a23ca7"; // Notion数据库ID
+var githubToken =
+  PropertiesService.getScriptProperties().getProperty("GITHUB_TOKEN"); // GitHub访问令牌
+var repo = "jarlin8/fendou.la"; // 替换为您的GitHub用户名和仓库名
+var path = "funstoutiao"; // 文件路径
+var branch = "main"; // 分支名
+
+function getNotionPages(databaseId, notionToken) {
+  var headers = {
+    Authorization: "Bearer " + notionToken,
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28",
+  };
+
+  var allPages = [];
+  var hasMore = true;
+  var startCursor = null;
+
+  while (hasMore) {
+    var apiUrl = "https://api.notion.com/v1/databases/" + databaseId + "/query";
+
+    var postBody = {
+      page_size: 100, // 可以请求最多100条数据
+    };
+
+    if (startCursor) {
+      postBody["start_cursor"] = startCursor;
+    }
+
+    var response = UrlFetchApp.fetch(apiUrl, {
+      method: "post",
+      headers: headers,
+      payload: JSON.stringify(postBody),
+    });
+
+    var data = JSON.parse(response.getContentText());
+    allPages = allPages.concat(data.results);
+
+    hasMore = data.has_more;
+    startCursor = data.next_cursor;
+  }
+
+  return allPages;
+}
+
+function convertPagesToMarkdown(pages) {
+  return pages.map((page) => {
+    var title = page.properties["title"].title[0]?.text?.content;
+    var slug = page.properties["slug"].rich_text[0].text.content;
+    var post_status = page.properties["post_status"].select
+      ? page.properties["post_status"].select.name
+      : "";
+    var skip_file = page.properties["skip_file"].select
+      ? page.properties["skip_file"].select.name
+      : "";
+    var category = page.properties["category"].multi_select
+      .map((option) => `        - ${option.name}`)
+      .join("\n");
+    var post_tag = page.properties["post_tag"].multi_select
+      .map((option) => `        - ${option.name}`)
+      .join("\n");
+    var post_excerpt = "";
+
+    // 检查post_excerpt属性是否存在，并且它的rich_text数组是否有元素
+    if (
+      page.properties["Description"] &&
+      Array.isArray(page.properties["Description"].rich_text) &&
+      page.properties["Description"].rich_text.length > 0
+    ) {
+      post_excerpt = page.properties["Description"].rich_text[0].text.content;
+    }
+
+    // 获取子页面内容
+    var childrenContent = getChildrenContent(page.id, notionToken);
+
+    // 构造YAML表头
+    var yamlHeader = `---
+title: ${title}
+post_status: ${post_status}
+skip_file: ${skip_file}
+taxonomy:
+  category:
+${category}
+  post_tag:
+${post_tag}
+post_excerpt: ${post_excerpt}
+---\n`;
+
+    var markdownContent = convertNotionBlocksToMarkdown(childrenContent);
+    var markdown = yamlHeader + markdownContent;
+    // 如果页面的 post_status 为 draft 或 skip_file 为 true，就跳过该页面，不转换为 Markdown 格式
+    if (post_status === "draft" || skip_file === "true") {
+      markdown = "";
+    }
+    return { slug, markdown };
+  });
+}
+
+function getChildrenContent(pageId, notionToken) {
+  var headers = {
+    Authorization: "Bearer " + notionToken,
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28",
+  };
+  var apiUrl = `https://api.notion.com/v1/blocks/${pageId}/children`;
+
+  try {
+    var response = UrlFetchApp.fetch(apiUrl, {
+      method: "get",
+      headers: headers,
+    });
+    var blocks = JSON.parse(response.getContentText()).results;
+
+    console.log("Blocks for page ID " + pageId + ": ", blocks); // 日志输出
+
+    if (blocks.length === 0) {
+      console.log("No child blocks found for page ID:", pageId);
+    }
+
+    return blocks;
+  } catch (e) {
+    console.error(
+      "Error fetching child blocks for page ID:",
+      pageId,
+      "; Error:",
+      e
+    );
+    return []; // 返回空数组以防错误
+  }
+}
+
+function convertNotionBlocksToMarkdown(blocks) {
+  var markdown = blocks
+    .map((block) => {
+      switch (block.type) {
+        case "paragraph": //富文本段落
+          return convertRichTextToMarkdown(block.paragraph.rich_text);
+        case "heading_1": //H1
+          return "# " + convertRichTextToMarkdown(block.heading_1.rich_text);
+        case "heading_2": //H2
+          return "## " + convertRichTextToMarkdown(block.heading_2.rich_text);
+        case "heading_3": //H3
+          return "### " + convertRichTextToMarkdown(block.heading_3.rich_text);
+        case "bulleted_list_item": //子弹列表
+          return (
+            "* " + convertRichTextToMarkdown(block.bulleted_list_item.rich_text)
+          );
+        case "numbered_list_item": //数字列表
+          return (
+            "1. " +
+            convertRichTextToMarkdown(block.numbered_list_item.rich_text)
+          );
+        case "table": //表格
+          return convertTableBlockToMarkdown(block);
+        case "quote": //引用
+          return processQuoteBlock(block);
+        case "toggle": //点击折叠行
+          return processToggleBlock(block);
+        case "synced_block": //同步块
+          return processSyncedBlock(block);
+        case "image": //图片
+          if (block.image && (block.image.file || block.image.external)) {
+            var imageUrl =
+              block.image.type === "file"
+                ? block.image.file.url
+                : block.image.external.url;
+            return `![Image](${imageUrl})`;
+          }
+          return "";
+        case "code": //代码
+          var codeText = block.code.rich_text
+            .map((text) => text.plain_text)
+            .join("\n");
+          if (codeText.includes("\n")) {
+            // 多行代码块
+            var language = block.code.language || "";
+            return `\`\`\`${language}\n${codeText}\n\`\`\``;
+          } else {
+            // 单行代码块
+            return `\`${codeText}\``;
+          }
+        default:
+          return "";
+      }
+    })
+    .join("\n\n");
+
+  return markdown;
+}
+
+function convertRichTextToMarkdown(richTexts) {
+  if (!Array.isArray(richTexts)) {
+    return "";
+  }
+  return richTexts
+    .map((text) => {
+      if (text.href) {
+        // 处理链接
+        return `[${text.plain_text}](${text.href})`;
+      } else if (text.annotations && text.annotations.code) {
+        // 处理内联代码
+        return `\`${text.plain_text}\``;
+      } else {
+        // 支持粗体和颜色
+        var markdownText = text.plain_text;
+        if (text.annotations && text.annotations.bold) {
+          markdownText = `**${markdownText}**`;
+        }
+        if (text.color && text.color !== "default") {
+          markdownText = `<span style="color:${text.color}">${markdownText}</span>`;
+        }
+        return markdownText;
+      }
+    })
+    .join("");
+}
+
+//开始处理表格
+// 新增函数来获取表格行
+function getTableRows(blockId) {
+  var apiUrl = "https://api.notion.com/v1/blocks/" + blockId + "/children";
+  var headers = {
+    Authorization: "Bearer " + notionToken,
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28",
+  };
+  var params = {
+    method: "get",
+    headers: headers,
+    muteHttpExceptions: true,
+  };
+
+  var results = [];
+  var hasMore = true;
+  var startCursor = "";
+
+  while (hasMore) {
+    var fullUrl = apiUrl + (startCursor ? "?start_cursor=" + startCursor : "");
+    var response = UrlFetchApp.fetch(fullUrl, params);
+    var json = JSON.parse(response.getContentText());
+
+    if (json.object === "error") {
+      Logger.log("Error fetching table rows: " + json.message);
+      return [];
+    }
+
+    results = results.concat(json.results);
+    hasMore = json.has_more;
+    startCursor = json.next_cursor;
+  }
+
+  return results
+    .map((blockObject) => {
+      if (blockObject.type === "table_row" && blockObject.table_row) {
+        return blockObject.table_row.cells
+          .map((cell) => {
+            // 处理单元格中的富文本内容
+            return convertCellToMarkdown(cell);
+          })
+          .join(" | ");
+      }
+      return null;
+    })
+    .filter((row) => row !== null);
+}
+
+function convertCellToMarkdown(cell) {
+  var markdownContent = [];
+  var inList = false;
+
+  cell.forEach((richTextItem) => {
+    if (richTextItem.type === "text") {
+      if (richTextItem.text.link) {
+        // 处理链接
+        markdownContent.push(
+          `[${richTextItem.plain_text}](${richTextItem.text.link.url})`
+        );
+      } else if (richTextItem.annotations && richTextItem.annotations.bold) {
+        // 处理加粗文本
+        markdownContent.push(`**${richTextItem.plain_text}**`);
+      } else {
+        // 普通文本
+        markdownContent.push(richTextItem.plain_text);
+      }
+    } else if (richTextItem.type === "bulleted_list_item") {
+      // 处理无序列表项
+      inList = true;
+      markdownContent.push(`* ${richTextItem.plain_text}`);
+    } else if (richTextItem.type === "image") {
+      // 处理图片
+      var imageUrl =
+        richTextItem.image.type === "file"
+          ? richTextItem.image.file.url
+          : richTextItem.image.external.url;
+      markdownContent.push(`![Image](${imageUrl})`);
+    }
+
+    // 检查是否是列表的结尾
+    if (inList && richTextItem.type !== "bulleted_list_item") {
+      inList = false;
+      markdownContent.push("\n"); // 在列表后添加换行
+    }
+  });
+
+  return markdownContent.join(inList ? "\n" : " "); // 列表内部使用换行符，普通文本使用空格
+}
+
+function convertTableBlockToMarkdown(tableBlock) {
+  // 获取表格行
+  var tableRows = getTableRows(tableBlock.id);
+
+  // 如果没有表格行，则直接返回空字符串
+  if (!tableRows.length) {
+    return "";
+  }
+
+  // 生成表头行（假设第一行为表头）
+  var headerRow = tableRows[0];
+
+  // 根据表头行生成表头分隔行
+  var headerSeparator = "|" + " :--- |".repeat(headerRow.split(" | ").length);
+
+  // 生成表格Markdown，包括表头行和表头分隔行
+  var tableMarkdown = `| ${headerRow} |\n${headerSeparator}\n`;
+  tableMarkdown += tableRows
+    .slice(1)
+    .map((row) => `| ${row} |`)
+    .join("\n"); // 添加剩余的数据行
+
+  return tableMarkdown;
+}
+// 处理表格结束
+
+//开始为toggle处理HTML
+function convertNotionBlocksToHTML(blocks) {
+  var html = blocks
+    .map((block) => {
+      switch (block.type) {
+        case "paragraph":
+          return `<p>${convertRichTextToHTML(block.paragraph.rich_text)}</p>`;
+        case "heading_1":
+          return `<h1>${convertRichTextToHTML(block.heading_1.rich_text)}</h1>`;
+        case "heading_2":
+          return `<h2>${convertRichTextToHTML(block.heading_2.rich_text)}</h2>`;
+        case "heading_3":
+          return `<h3>${convertRichTextToHTML(block.heading_3.rich_text)}</h3>`;
+        case "bulleted_list_item":
+          return `<li>${convertRichTextToHTML(
+            block.bulleted_list_item.rich_text
+          )}</li>`;
+        case "numbered_list_item":
+          return `<li>${convertRichTextToHTML(
+            block.numbered_list_item.rich_text
+          )}</li>`;
+        case "quote":
+          return `<blockquote>${convertRichTextToHTML(
+            block.quote.rich_text
+          )}</blockquote>`;
+        case "image":
+          if (block.image && (block.image.file || block.image.external)) {
+            var imageUrl =
+              block.image.type === "file"
+                ? block.image.file.url
+                : block.image.external.url;
+            return `<img src="${imageUrl}" alt="Image">`;
+          }
+          return "";
+        case "code":
+          var codeText = block.code.rich_text
+            .map((text) => text.plain_text)
+            .join("\n");
+          if (codeText.includes("\n")) {
+            var language = block.code.language || "";
+            return `<pre><code class="${language}">${codeText}</code></pre>`;
+          } else {
+            return `<code>${codeText}</code>`;
+          }
+        default:
+          return "";
+      }
+    })
+    .join("\n\n");
+
+  return html;
+}
+
+function convertRichTextToHTML(richTexts) {
+  if (!Array.isArray(richTexts)) {
+    return "";
+  }
+  return richTexts
+    .map((text) => {
+      if (text.href) {
+        return `<a href="${text.href}">${text.plain_text}</a>`;
+      } else if (text.annotations && text.annotations.code) {
+        return `<code>${text.plain_text}</code>`;
+      } else {
+        var htmlText = text.plain_text;
+        if (text.annotations && text.annotations.bold) {
+          htmlText = `<strong>${htmlText}</strong>`;
+        }
+        if (text.color && text.color !== "default") {
+          htmlText = `<span style="color:${text.color}">${htmlText}</span>`;
+        }
+        return htmlText;
+      }
+    })
+    .join("");
+}
+//为toggle处理HTML结束
+
+// toggle处理
+function processToggleBlock(blockObject) {
+  if (blockObject.type === "toggle" && blockObject.toggle) {
+    // 提取Toggle块的标题
+    var toggleTitle = blockObject.toggle.rich_text
+      .map((text) => text.plain_text)
+      .join("");
+
+    // 获取子块（如果有）
+    var childrenBlocks = [];
+    if (blockObject.has_children) {
+      childrenBlocks = getChildrenContent(blockObject.id, notionToken);
+    }
+
+    // 将子块转换为Markdown
+    var childrenMarkdown = childrenBlocks
+      .map((childBlock) => convertNotionBlocksToHTML([childBlock]))
+      .join("\n");
+
+    // 构造Markdown表示的Toggle块
+    var toggleMarkdown = `<details><summary>${toggleTitle}</summary>\n\n${childrenMarkdown}\n</details>`;
+
+    return toggleMarkdown;
+  }
+  return "";
+}
+
+//处理同步模块synced_block
+function processSyncedBlock(blockObject) {
+  if (blockObject.type === "synced_block" && blockObject.synced_block) {
+    var syncedBlockContent = [];
+
+    // 获取同步块的子块
+    if (blockObject.has_children) {
+      syncedBlockContent = getChildrenContent(blockObject.id, notionToken);
+    }
+
+    // 将子块转换为Markdown
+    var childrenMarkdown = syncedBlockContent
+      .map((childBlock) => convertNotionBlocksToMarkdown([childBlock]))
+      .join("\n");
+
+    return childrenMarkdown;
+  }
+  return "";
+}
+//处理引用quote模块
+function processQuoteBlock(blockObject) {
+  if (blockObject.type === "quote" && blockObject.quote) {
+    // 提取Quote块的内容
+    var quoteContent = blockObject.quote.rich_text
+      .map((text) => text.plain_text)
+      .join("");
+    // 构造Markdown表示的Quote块
+    var quoteMarkdown = `> ${quoteContent}`;
+    return quoteMarkdown;
+  }
+  return "";
+}
+
+function push2GitHub(pages) {
+  var githubApiUrl = "https://api.github.com/repos/" + repo; // GitHub的API地址
+  // 定义一个headers对象
+  var headers = {
+    Authorization: "token " + githubToken,
+    "Content-Type": "application/json",
+  };
+
+  // 获取分支的最新commit sha
+  var getRefResponse = UrlFetchApp.fetch(
+    githubApiUrl + "/git/ref/heads/" + branch,
+    { method: "get", headers: headers, muteHttpExceptions: true }
+  );
+  if (getRefResponse.getResponseCode() !== 200) {
+    Logger.log("Error getting ref: " + getRefResponse.getContentText());
+    return;
+  }
+  var latestCommitSha = JSON.parse(getRefResponse.getContentText()).object.sha;
+
+  // 创建一个tree对象，包含所有要修改的文件
+  var tree = [];
+  pages.forEach((page) => {
+    var fileUrl =
+      githubApiUrl +
+      "/contents/" +
+      path +
+      "/" +
+      encodeURIComponent(page.slug) +
+      ".md" +
+      "?ref=" +
+      branch;
+    var headers = {
+      Authorization: "token " + githubToken,
+      "Content-Type": "application/json",
+    };
+    var sha = null; // 初始化sha为null
+    var fileExists = false; // 标记文件是否存在
+
+    // 尝试获取文件信息以检查文件是否存在
+    var getFileResponse = UrlFetchApp.fetch(fileUrl, {
+      method: "get",
+      headers: headers,
+      muteHttpExceptions: true,
+    });
+    if (getFileResponse.getResponseCode() === 200) {
+      sha = JSON.parse(getFileResponse.getContentText()).sha;
+      fileExists = true; // 文件存在
+    }
+
+    // 获取页面的 Markdown 内容
+    var markdownContent = page.markdown;
+
+    // 如果文件存在，则获取文件内容并与新的内容比较
+    if (fileExists) {
+      var existingContent = Utilities.base64Decode(sha).toString();
+      if (markdownContent === existingContent) {
+        Logger.log("No changes for file: " + page.slug);
+        return; // 跳过当前循环
+      }
+    }
+
+    // 添加文件信息到tree对象
+    tree.push({
+      path: path + "/" + page.slug + ".md",
+      mode: "100644",
+      type: "blob",
+      content: markdownContent,
+    });
+  });
+
+  var treePayload = {
+    base_tree: latestCommitSha,
+    tree: tree,
+  };
+  var postTreeResponse = UrlFetchApp.fetch(githubApiUrl + "/git/trees", {
+    method: "post",
+    headers: headers,
+    payload: JSON.stringify(treePayload),
+    muteHttpExceptions: true,
+  });
+  if (postTreeResponse.getResponseCode() !== 201) {
+    Logger.log("Error creating tree: " + postTreeResponse.getContentText());
+    return;
+  }
+  var treeSha = JSON.parse(postTreeResponse.getContentText()).sha;
+
+  // 创建一个新的commit对象，引用tree对象和父commit sha，以及提交的信息
+  var commitPayload = {
+    message: "GoogleAppsScript for " + path,
+    tree: treeSha,
+    parents: [latestCommitSha],
+  };
+  var postCommitResponse = UrlFetchApp.fetch(githubApiUrl + "/git/commits", {
+    method: "post",
+    headers: headers,
+    payload: JSON.stringify(commitPayload),
+    muteHttpExceptions: true,
+  });
+  if (postCommitResponse.getResponseCode() !== 201) {
+    Logger.log("Error creating commit: " + postCommitResponse.getContentText());
+    return;
+  }
+  var newCommitSha = JSON.parse(postCommitResponse.getContentText()).sha;
+
+  // 更新分支的 ref，指向新的 commit sha
+  var refPayload = {
+    sha: newCommitSha,
+  };
+
+  var patchRefResponse = UrlFetchApp.fetch(
+    githubApiUrl + "/git/refs/heads/" + branch,
+    {
+      method: "patch",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "token " + githubToken,
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      payload: JSON.stringify(refPayload),
+      muteHttpExceptions: true,
+    }
+  );
+
+  if (patchRefResponse.getResponseCode() !== 200) {
+    Logger.log("Error updating ref: " + patchRefResponse.getContentText());
+    return;
+  }
+
+  Logger.log("Successfully pushed to GitHub");
+}
+
+function updateMarkdownInGitHub() {
+  Logger.log("updateMarkdownInGitHub called"); // 添加日志
+  var pages = getNotionPages(databaseId, notionToken);
+  var markdownPages = convertPagesToMarkdown(pages);
+  push2GitHub(markdownPages);
+  Logger.log("updateMarkdownInGitHub completed"); // 添加日志
+}</code></pre>
 <img src="https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb" alt="Image">
 </details>
