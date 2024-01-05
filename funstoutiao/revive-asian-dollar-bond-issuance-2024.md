@@ -3,8 +3,6 @@ title: 稳定利率为 2024 年亚洲美元债券发行注入活力
 post_status: publish
 skip_file: no
 post_date: 2024-01-04T08:45:00.000Z
-custom_fields: 
-  Post_format: aside
 taxonomy:
   category:
         - toutiao

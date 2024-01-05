@@ -3,8 +3,6 @@ title: 回顾生成式AI野蛮生长的2023年
 post_status: publish
 skip_file: no
 post_date: 2024-01-03T13:14:00.000Z
-custom_fields: 
-  Post_format: aside
 taxonomy:
   category:
         - toutiao

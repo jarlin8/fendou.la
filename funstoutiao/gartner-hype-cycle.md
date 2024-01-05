@@ -3,8 +3,6 @@ title: 揭秘科技投资新利器：Gartner技术成熟度曲线助您识别潜
 post_status: publish
 skip_file: no
 post_date: 2023-12-29T13:30:00.000Z
-custom_fields: 
-  Post_format: aside
 taxonomy:
   category:
         - toutiao
