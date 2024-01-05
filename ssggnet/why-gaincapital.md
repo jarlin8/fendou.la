@@ -3,8 +3,6 @@ title: 为什么这么多人做外汇时，会选择嘉盛集团？
 post_status: publish
 skip_file: no
 post_date: 2022-05-26T10:53:00.000Z
-custom_fields: 
-  post_format: aside
 taxonomy:
   category:
         - forex-com

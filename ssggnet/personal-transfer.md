@@ -3,8 +3,6 @@ title: 嘉盛集团账户出金怎么是个人外贸公司转账，不是平台�
 post_status: publish
 skip_file: no
 post_date: 2023-12-29T06:39:00.000Z
-custom_fields: 
-  post_format: aside
 taxonomy:
   category:
         - forex-com
