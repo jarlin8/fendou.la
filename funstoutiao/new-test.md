@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 post_date: 2024-01-02T04:46:00.000Z
 custom_fields: 
-  post_format: aside
+  Post_format: aside
 taxonomy:
   category:
         - toutiao
