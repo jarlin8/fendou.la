@@ -1,10 +1,10 @@
 ---
 title: 嘉盛集团怎么做现货黄金等贵金属？
 post_status: publish
-post_date: 2023-12-09 02:46:36
 skip_file: no
+post_date: 2022-05-26T10:53:00.000Z
 custom_fields: 
-  post-format: aside
+  post_format: aside
 taxonomy:
   category:
         - forex-com

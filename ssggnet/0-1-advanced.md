@@ -1,10 +1,10 @@
 ---
 title: 嘉盛集团外汇平台从0开始交易新手教程
 post_status: publish
-post_date: 2023-07-14 23:41:03
 skip_file: no
+post_date: 2023-12-29T06:39:00.000Z
 custom_fields: 
-  post-format: aside
+  post_format: aside
 taxonomy:
   category:
         - forex-com

@@ -1,10 +1,10 @@
 ---
 title: Plus500嘉五百CFD差价合约交易平台
 post_status: publish
-post_date: 2023-08-23 15:38:13
 skip_file: no
+post_date: 2022-05-26T10:53:00.000Z
 custom_fields: 
-  post-format: aside
+  post_format: aside
 taxonomy:
   category:
         - forex-com

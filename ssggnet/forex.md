@@ -1,10 +1,10 @@
 ---
 title: 嘉盛集团外汇交易平台MT4 MT5软件下载 嘉盛账户对比
 post_status: publish
-post_date: 2023-07-30 16:28:47
 skip_file: no
+post_date: 2022-05-26T10:52:00.000Z
 custom_fields: 
-  post-format: aside
+  post_format: aside
 taxonomy:
   category:
         - forex-com
