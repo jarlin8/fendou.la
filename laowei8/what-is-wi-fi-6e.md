@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 post_date: 2024-01-13T13:35:00.000Z
 custom_fields:
-  _cegg_keywordAmazonNoApi: B0B3SQK74L,B09VW5JHPH->Wi-Fi 6E
+  _cegg_keywordAmazonNoApi: B0B3SQK74L,B09VW5JHPH->Wi-Fi 6E,Wi-Fi6
 taxonomy:
   category:
         - digital
@@ -47,6 +47,8 @@ Wi-Fi 频谱拥塞是导致连接问题和缓冲等问题的常见原因。当�
 ![Image](https://cdn.fendou.la/tuoss/wifi-6e-4tips.jpg)
 
 ## Wi-Fi 6E 有哪些优势？
+
+[content-egg module=AmazonNoApi template=list groups="Wi-Fi6"]
 
 选择 Wi-Fi 6E 的主要原因是什么呢？6GHz 频段不仅支持超过 1Gbps 的高速网速，还大幅减少了网络延迟，这对于网络游戏、视频通话或虚拟计算会话至关重要。您可以享受到低至一毫秒的响应速度，确保键盘、语音或鼠标操作的即时反馈。
 
