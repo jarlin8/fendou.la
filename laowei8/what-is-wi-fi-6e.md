@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 post_date: 2024-01-13T13:35:00.000Z
 custom_fields:
-  _cegg_keywordAmazonNoApi: B0B3SQK74L,B09VW5JHPH->Wi-Fi 6E,Wi-Fi 6E
+  _cegg_keywordAmazonNoApi: B0B3SQK74L,B09VW5JHPH->Wi-Fi 6E
 taxonomy:
   category:
         - digital
