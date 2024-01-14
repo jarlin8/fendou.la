@@ -5,12 +5,12 @@ skip_file: no
 custom_fields:
   rank_math_title: Acetop领峰测评 %currentyear% 开户必看 %sep% %sitename%
   _review_post_pros_text: |
-  2011年成立
-FCASTP直通式牌照,SCB金融衍生品牌照,FINTRAC普通金融公司
-50美元最低入金
-到账时间快,专人24小时在线跟进
+    2011年成立
+    FCASTP直通式牌照,SCB金融衍生品牌照,FINTRAC普通金融公司
+    50美元最低入金
+    到账时间快,专人24小时在线跟进
   _review_post_cons_text: |
-  不支持美国客户
+    不支持美国客户
 taxonomy:
   category:
         - fca
