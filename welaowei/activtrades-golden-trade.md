@@ -3,7 +3,7 @@ title: ActivTrades 是正规的贵金属交易平台吗？
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - faq

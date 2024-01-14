@@ -3,7 +3,7 @@ title: 高杠杆靠谱外汇经纪商推荐
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

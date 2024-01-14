@@ -3,7 +3,7 @@ title: 什么是外汇交易技术分析？常用形态解析
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

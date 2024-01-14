@@ -3,7 +3,7 @@ title: XM 外汇的 4 种账户类型选哪个
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - faq

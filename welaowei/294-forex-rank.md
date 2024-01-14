@@ -3,7 +3,7 @@ title: 294 家外汇黄金交易平台评测排行榜
 post_status: publish
 skip_file: no
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - compare-forex-brokers

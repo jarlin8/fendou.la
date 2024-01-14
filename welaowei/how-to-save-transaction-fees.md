@@ -3,7 +3,7 @@ title: 境外汇款如何节省手续费?
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

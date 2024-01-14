@@ -3,7 +3,7 @@ title: 欧元是什么?你想了解的都在这里
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

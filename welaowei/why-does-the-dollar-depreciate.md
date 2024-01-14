@@ -3,7 +3,7 @@ title: 美元为何会贬值，对经济有什么影响？
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

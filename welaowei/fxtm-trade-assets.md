@@ -3,7 +3,7 @@ title: FXTM 富拓可以交易的金融交易产品有哪些？
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - forex-college

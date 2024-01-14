@@ -3,7 +3,7 @@ title: mt4 免费下载 MT4 与 MT5 的区别是什么？
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - compare-forex-brokers

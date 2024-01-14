@@ -3,7 +3,7 @@ title: ActivTrades 的手续费用如何收取？
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - faq

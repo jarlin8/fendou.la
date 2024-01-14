@@ -3,7 +3,7 @@ title: 如何在外汇市场上避免亏钱：45 个实用的建议
 post_status: publish
 skip_file: yes
 custom_fields:
-  rank_math_title: %title% %sep% %sitename%
+  rank_math_title: "%title% %sep% %sitename%"
 taxonomy:
   category:
         - compare-forex-brokers
