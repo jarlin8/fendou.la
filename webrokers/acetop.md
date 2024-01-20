@@ -2,6 +2,7 @@
 title: Acetop领峰
 post_status: publish
 skip_file: no
+comment_status: open
 custom_fields:
   rank_math_title: Acetop领峰测评 %currentyear% 开户必看 %sep% %sitename%
   _review_post_pros_text: |
@@ -25,8 +26,8 @@ Acetop领峰，一家源自巴哈马的在线外汇交易平台，以其全面�
 
 | <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/pros1.svg" height="auto"> | <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/cons1.svg" height="auto"> |
 | :--- | :--- |
-| 优点 | 缺点 |
+| 优点是什么? | 缺点是什么? |
 
 ## 开户通推荐的经纪商
 
-[wpsm_top postid="20641,10424,11542,10447,10406" title="优秀经纪商平台推荐"]
+[wpsm_top postid=20641,10424,11542,10447,10406 title=优秀经纪商平台推荐]
