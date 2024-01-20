@@ -22,8 +22,6 @@ Wi-Fi 6E 标准的推出，为 6GHz 频段的支持带来了革命性的变化�
 
 ## Wi-Fi 6E路由器推荐
 
-[content-egg-block template=offers_list groups="Wi-Fi 6E"]
-
 [content-egg-block template=price_comparison_card currency=USD groups="Wi-Fi 6E" title="Google Nest Wifi Pro Wi-Fi 6E Router Mesh System"]
 
 ## Wi-Fi 6 与 Wi-Fi 6E：有什么区别？
@@ -57,6 +55,8 @@ Wi-Fi 频谱拥塞是导致连接问题和缓冲等问题的常见原因。当�
 Wi-Fi 6E 的另一个显著优势是在家庭网络流量管理上。较少的频谱拥塞意味着您的家庭网络可以实现更高效的数据传输。全家千兆位覆盖和多千兆位 Wi-Fi 容量将为您带来前所未有的计算体验，您可以在家中任何角落享受虚拟现实游戏或参加增强现实商务演示，而不必担心因家庭成员观看 Netflix 或邻居浏览 YouTube 而受到网络速度的影响。
 
 ## Wi-Fi 6E 有哪些短板?
+
+[content-egg-block template=offers_list groups="Wi-Fi 6E"]
 
 新技术总是伴随着不易察觉的弱点。Wi-Fi 6E使用的6GHz无线频谱，其波长较短。这种短波长虽然能加速数据传输，但在跨越长距离和穿透密集的建筑物墙壁或地板时，效果受限。
 
