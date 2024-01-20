@@ -4,7 +4,9 @@ post_status: publish
 skip_file: no
 post_date: 2024-01-13T13:35:00.000Z
 custom_fields:
-  _cegg_keywordAmazonNoApi: B0B3SQK74L,B09VW5JHPH->Wi-Fi 6E,Wi-Fi6
+  _cegg_keywordAmazonNoApi: 0193575031408->Wi-Fi 6E
+  _cegg_keywordEbay: 0193575031408->Wi-Fi 6E
+  _cegg_keywordWalmart: 0193575031408->Wi-Fi 6E
 taxonomy:
   category:
         - digital
@@ -20,7 +22,9 @@ Wi-Fi 6E 标准的推出，为 6GHz 频段的支持带来了革命性的变化�
 
 ## Wi-Fi 6E路由器推荐
 
-[content-egg module=AmazonNoApi template=list groups="Wi-Fi 6E"]
+[content-egg-block template=offers_list groups="Wi-Fi 6E"]
+
+[content-egg-block template=price_comparison_card currency=USD groups="Wi-Fi 6E" title="Google Nest Wifi Pro Wi-Fi 6E Router Mesh System"]
 
 ## Wi-Fi 6 与 Wi-Fi 6E：有什么区别？
 
