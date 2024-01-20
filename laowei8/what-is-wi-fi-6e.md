@@ -5,7 +5,7 @@ skip_file: no
 post_date: 2024-01-13T13:35:00.000Z
 custom_fields:
   _cegg_keywordAmazonNoApi: 0193575031408->Wi-Fi 6E
-  _cegg_keywordEbay: 0193575031408->Wi-Fi 6E
+  _cegg_keywordeBay: 0193575031408->Wi-Fi 6E
   _cegg_keywordWalmart: 0193575031408->Wi-Fi 6E
 taxonomy:
   category:
