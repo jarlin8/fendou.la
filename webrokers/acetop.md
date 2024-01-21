@@ -24,7 +24,7 @@ Acetop领峰，一家源自巴哈马的在线外汇交易平台，以其全面�
 
 **Acetop领峰**不仅提供了丰富的交易品种和灵活的交易条件，还通过低门槛和优质的客户服务，确保了用户体验的高标准。这使得Acetop领峰成为一家值得信赖的在线外汇交易平台。
 
-| <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/pros1.svg" height="auto"> | <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/cons1.svg" height="auto"> |
+| <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/pros1.svg" width="100%" height="auto"> | <img src="https://cdn.ifttt.fun/gh/jarlin8/OSS@main/icons/customize/cons1.svg" width="100%" height="auto"> |
 | :--- | :--- |
 | 在线客服回复速度快，电话回复快。 | 点差和成本太高，过夜利高达百分之一点七。 |
 | 点差固定，出金快。 | 固定点差证明完全对赌，存在风险。 |
