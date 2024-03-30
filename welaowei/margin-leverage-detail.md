@@ -1,9 +1,9 @@
 ---
-title: 杠杆保证金以及它们的关系
+title: 一文讲透杠杆保证金以及它们的关系
 post_status: publish
 skip_file: no
 custom_fields:
-  rank_math_title: "%title% %sep% %sitename%"
+  rank_math_title: "%title% %sep% %currentyear%新手交易外汇必读 %sitename%"
 taxonomy:
   category:
         - forex-college
