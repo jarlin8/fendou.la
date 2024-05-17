@@ -64,4 +64,4 @@ post_excerpt:
 
 ### 嘉盛集团账户怎么入金？
 
-登录到嘉盛集团账户后台：[嘉盛网址](https://ssgg.net/go/forexcom)
+登录到嘉盛集团账户后台：[嘉盛网址](https://s.ifttt.fun/jsmt4)
