@@ -1,7 +1,7 @@
 ---
 title: 一篇博客文章最佳的 SEO 状态应该是这样的！
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:

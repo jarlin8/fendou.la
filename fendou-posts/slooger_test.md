@@ -1,7 +1,7 @@
 ---
 title: 如何在家里做到高效学习?
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:

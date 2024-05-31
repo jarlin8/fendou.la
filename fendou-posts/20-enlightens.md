@@ -1,7 +1,7 @@
 ---
 title: 最会赚钱的人给我的 20 个启发！坚持比什么都重要！
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:

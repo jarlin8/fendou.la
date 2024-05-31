@@ -1,7 +1,7 @@
 ---
 title: 多站点 WPMU 注意事项/屏蔽 IP 方法
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2023-12-29T04:10:00.000Z
 taxonomy:
   category:
