@@ -1,7 +1,7 @@
 ---
 title: 揭秘科技投资新利器：Gartner技术成熟度曲线助您识别潜力股
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2023-12-29T13:30:00.000Z
 taxonomy:
   category:

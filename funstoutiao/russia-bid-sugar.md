@@ -1,7 +1,7 @@
 ---
 title: 俄罗斯政府暂时禁止食糖出口？给你讲讲背后的原因
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2024-05-09T07:03:00.000Z
 taxonomy:
   category:
