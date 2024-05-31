@@ -1,7 +1,7 @@
 ---
 title: 黄金EA常见问题
 post_status: publish
-skip_file: no
+skip_file: yes
 post_date: 2024-01-04T08:09:00.000Z
 taxonomy:
   category:
