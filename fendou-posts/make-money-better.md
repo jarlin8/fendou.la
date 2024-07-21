@@ -91,10 +91,28 @@ return true;
 
 **content-egg/application/components/LManager.php** 379
 
+application\admin\EggMetabox.php 30:31
+
+application\components\ModuleManager.php 202::204
+
 ```php
 public static function isNulled(){
-return false;​
+return false;
 }
+```
+
+```php
+    public function __construct()
+    {
+        // if (Plugin::isActivated() && LManager::isNulled())
+        //     return; 注释掉这两行
+
+        \add_action('wp_ajax_cegg_update_products', array($this, 'ajaxUpdateProducts'));
+
+        \add_action('add_meta_boxes', array($this, 'addMetabox'));
+        \add_action('save_post', array($this, 'saveMeta'));
+    }
+
 ```
 
 ### 3. 比价模板添加商家 logo ✔
