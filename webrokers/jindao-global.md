@@ -4,7 +4,7 @@ post_status: publish
 skip_file: no
 comment_status: open
 custom_fields:
-  rank_math_title: %title% 测评 %currentyear% 开户必看 %sep% %sitename%
+  rank_math_title: 金道环球投资(聚合金融服務有限公司)测评 %currentyear% 开户必看 %sep% %sitename%
   _review_post_pros_text: |
     2009年成立
     FCASTP直通式牌照,SFC证券牌照、期货牌照
