@@ -91,7 +91,11 @@ post_excerpt:
 ### 隔夜利息是如何计算的？
 
 假如欧元的利率为4.25%，美元的利率为3.5%。当我们卖出1手的EURUSD时，意味着卖出息率较高的货币（EUR — 4.25%），买入息率较低的货币（USD — 3.5%）。因此需要支付隔夜利息 — 年利率为0.75%（4.25% − 3.5%），因为您正支付欧元利息，赚取美元利息。
-假如交易商还会收取0.25%的手续费用，因此隔夜利息总计为1%（0.75% + 0.25%），[隔夜利息计算公式](https://a.c-dn.net/b/3P0y5M.png)。**空头掉期费用**：
+假如交易商还会收取0.25%的手续费用，因此隔夜利息总计为1%（0.75% + 0.25%），[隔夜利息计算公式](https://a.c-dn.net/b/3P0y5M.png)。
+
+![Image](https://a.c-dn.net/b/3P0y5M.png)
+
+**空头掉期费用**：
 此处我们将买入USD，卖出EUR。由于我们正在卖出息率较高的货币（EUR — 4.25%），买入息率较低的货币（USD — 3.5%），因此需要支付掉期费用。**空头隔夜利息计算公式：** SWAP = (Contract × (InterestRateDifferential + Markup) / 100) × Рrice / DaysPerYear**多头掉期费用**
 此处我们将买入EUR，卖出USD。由于我们正在买入息率较高的货币（EUR — 4.25%），卖出息率较低的货币（USD — 3.5%），因此需要可以获得利息。**多头隔夜利息计算公式：**SWAP = (Contract × (InterestRateDifferential − Markup) / 100) × Рrice / DaysPerYear。**指数差价合约隔夜利息计算公式**：SWAP = 年利率 / 100 / 360 × ClosePrice × Lots × Contract。
 
