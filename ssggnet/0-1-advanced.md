@@ -28,15 +28,15 @@ post_excerpt:
 
 点击上面对应的开户链接，进入开户界面，参考下图“张三”的MT4账户开户流程。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/7a167aea-686b-400d-af59-4e18eb607a40/640.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T101318Z&X-Amz-Expires=3600&X-Amz-Signature=a19a4d0996d087705f813a85e1fba0b2f39ff87eadbabb0bcd50d79b5f64b6c9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/7a167aea-686b-400d-af59-4e18eb607a40/640.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T161311Z&X-Amz-Expires=3600&X-Amz-Signature=949a39262a73262a0a94dab6b314cd99a9617fe5fed9c1c6a2531b77cf4cfcce&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 您将收到第一封开户邮件，其中包含账户管理中心登录链接、嘉盛账户号码以及您注册时设置的密码。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/eaa1c6b3-2877-4284-a0e1-530e222c27fb/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T101318Z&X-Amz-Expires=3600&X-Amz-Signature=4cf2d22d6d2ffc24c72c30e8a7a029e3704e45b22d7e0f6fd0dc5460d3dfbc49&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/eaa1c6b3-2877-4284-a0e1-530e222c27fb/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T161311Z&X-Amz-Expires=3600&X-Amz-Signature=8bef4d978e1349fa3b0ec6cefbbbdbf92edc62de9774947555fc328bb7ba2091&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 登录账户管理中心，点击右上角“上传文件”，上传身份证正反面完成实名验证。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/54090639-09fc-46b4-a135-e0289f707147/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T101318Z&X-Amz-Expires=3600&X-Amz-Signature=9ee81dd31e9e731588cae424588d33e0ed84ad3f933d242352a2d013d58eb44c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/54090639-09fc-46b4-a135-e0289f707147/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250107T161311Z&X-Amz-Expires=3600&X-Amz-Signature=b8468a03248e7006f1c672dc53f7f852362a4ab4bbd2df9db2006f988253c09d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 上传身份证是开户成功的必要条件，只有完成实名认证才能操作账户。上传后请耐心等待开户成功的邮件通知。
 
