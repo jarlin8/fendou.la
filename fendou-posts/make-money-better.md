@@ -245,15 +245,15 @@ return true;
 **affiliate-egg/application/admin/LManager.php**:302
 
 ```php
-public static function isNulled()​    {​
-$l = LicConfig::getInstance()->option('license_key');​​
-if (!$l && Plugin::isEnvato())​
-return false;​​
-if (!LManager::isValidLicFormat($l))​
+public static function isNulled()    {
+$l = LicConfig::getInstance()->option('license_key');
+if (!$l && Plugin::isEnvato())
+return false;
+if (!LManager::isValidLicFormat($l))
 return true;
-if (in_array(md5($l), LManager::getNulledLics()))​
-return true;​​
-return false;​}
+if (in_array(md5($l), LManager::getNulledLics()))
+return true;
+return false;}
 ```
 
 替换成
@@ -353,7 +353,7 @@ del /a /f /s /q  "*.iml"
 
 ## thrive 插件的下载更新
 
-`# thrive leadshttp://download.thrivethemes.com/thrive-leads-3.6.zip​# thrive-architecthttp://download.thrivethemes.com/thrive-architect-3.8.zip​Thrive Plugins Package Nulled - April 6, 2022​Thrive Automator v0.9Thrive Optimize v2.6Thrive Comments v2.6Thrive Clever Widgets v2.9.1Thrive Headline Optimizer v2.3.1Thrive Ovation v3.6Thrive Leads v3.6Thrive Ultimatum v3.6Thrive Quiz Builder v3.6Thrive Apprentice v4.2Thrive Architect v3.8`
+`# thrive leadshttp://download.thrivethemes.com/thrive-leads-3.6.zip# thrive-architecthttp://download.thrivethemes.com/thrive-architect-3.8.zipThrive Plugins Package Nulled - April 6, 2022Thrive Automator v0.9Thrive Optimize v2.6Thrive Comments v2.6Thrive Clever Widgets v2.9.1Thrive Headline Optimizer v2.3.1Thrive Ovation v3.6Thrive Leads v3.6Thrive Ultimatum v3.6Thrive Quiz Builder v3.6Thrive Apprentice v4.2Thrive Architect v3.8`
 
 ## DeepLink 链接汇总
 
