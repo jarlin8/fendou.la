@@ -260,7 +260,7 @@ return false;}
 
 ```php
 public static function isNulled(){
-return false;​ }
+return false; }
 ```
 
 ## Linux 批量删除.DS_Store
