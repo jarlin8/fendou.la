@@ -71,5 +71,3 @@ post_excerpt:
 - 美国主体 GAIN Capital Group LLC、CFTC 注册、NFA 会员 #0339826：[Forex.com](http://Forex.com) 官方监管页 https://www.forex.com/en-us/about-us/regulation/
 - StoneX Group（NASDAQ: SNEX）为母公司：StoneX 官网 https://www.stonex.com/en-us/about/
 - 受监管法域与产品地区限制：[Forex.com](http://Forex.com) 官方 https://www.forex.com/en-us/learn-forex-trading/forex-regulations/ ；[Commodity.com](http://Commodity.com) 评测（美国不提供 CFD）
-- StoneX Markets 被 NFA 处罚记录：Finance Magnates / NFA 决定文书
-- 参考旧文过时信息（GCAP 上市说法）：https://www.ssgg.net/28190.html
