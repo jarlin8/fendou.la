@@ -10,7 +10,7 @@ taxonomy:
         - 外汇平台
 post_excerpt: 
 ---
-![嘉盛集团的点差怎么计算](forexcom-spread-calculation-hero.png)
+![嘉盛集团的点差怎么计算](https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/article-pic/forexcom-spread-calculation-hero.png)
 *原创图解：报价点差只是第一层，完整交易成本还要加入佣金、滑点和隔夜费。*
 
 嘉盛的基础点差等于 Ask 买价减去 Bid 卖价，再换算成 pips。真正落到账户里的金额，还要乘以每点价值和交易手数。若使用 RAW Pricing 账户，完整成本还要加上开仓佣金和平仓佣金。嘉盛不同地区、账户实体和账户类型的费率并不完全相同，因此不能拿官网一个最低点差代表自己的实际成本。
@@ -72,7 +72,7 @@ Ask：1.1002
 0.01手：2 × 0.1美元 = 0.2美元
 ```
 
-![点差换算为账户金额的公式](forexcom-spread-to-cash-cost.png)
+![点差换算为账户金额的公式](https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/article-pic/forexcom-spread-to-cash-cost.png)
 *原创图解：以美元账户交易EUR/USD为例。交叉盘和非美元账户还需要按实时汇率换算。*
 
 这个计算只适用于报价货币与账户货币容易直接对应的场景。若交易 EUR/GBP，而账户使用美元，GBP 计价的每点价值还要按照实时 GBP/USD 汇率换算。
@@ -116,7 +116,7 @@ RAW Pricing 账户的屏幕点差通常更窄，但会另外收取佣金。完�
 RAW总成本 = RAW点差成本 + 开仓佣金 + 平仓佣金
 ```
 
-![嘉盛Standard与RAW账户总成本对比](forexcom-standard-vs-raw-all-in-cost.png)
+![嘉盛Standard与RAW账户总成本对比](https://testingcf.jsdelivr.net/gh/jarlin8/OSS@main/article-pic/forexcom-standard-vs-raw-all-in-cost.png)
 *原创图解：RAW账户点差较窄，但比较时必须加入双边佣金。不同地区实体的佣金标准可能不同。*
 
 美国 FOREX.com 当前公开的 RAW Pricing 费率为每交易 100,000 美元名义价值收取 7 美元佣金，而且开仓和平仓分别计费。
