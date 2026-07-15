@@ -182,4 +182,4 @@ https://www.tradingview.com/support/solutions/43000765987-can-i-use-my-mt4-mt5-t
 
 ## Tickmill 更好的经纪商替代
 
-[wpsm_woocharts ids=“20641,10424,10447” disable=“brand,stock,userrate,review”]
+[wpsm_woocharts ids=“20641,11542,10424,10406” disable=“brand,stock,userrate,review”]
