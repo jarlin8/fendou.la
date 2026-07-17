@@ -28,15 +28,15 @@ post_excerpt: ""
 
 点击上面对应的开户链接，进入开户界面，参考下图“张三”的MT4账户开户流程。
 
-![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/5f32559036a05ee990919bfc2fa936ce.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/ssggnet/images/5f32559036a05ee990919bfc2fa936ce.png)
 
 您将收到第一封开户邮件，其中包含账户管理中心登录链接、嘉盛账户号码以及您注册时设置的密码。
 
-![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2caa393d4ab2fbe7841d573349ced9c7.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/ssggnet/images/2caa393d4ab2fbe7841d573349ced9c7.png)
 
 登录账户管理中心，点击右上角“上传文件”，上传身份证正反面完成实名验证。
 
-![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/3a2dd9414fbfeb19a99d010584aa74e3.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/ssggnet/images/3a2dd9414fbfeb19a99d010584aa74e3.png)
 
 上传身份证是开户成功的必要条件，只有完成实名认证才能操作账户。上传后请耐心等待开户成功的邮件通知。
 

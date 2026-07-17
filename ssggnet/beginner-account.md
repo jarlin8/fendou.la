@@ -16,7 +16,7 @@ post_excerpt: ""
 
 这个时候咱们可以开一个嘉盛集团的 Mt4账户，最低入金是100美元，的杠杆，由0.01手来尝试着做一下，如果能够达到做模拟账户的心态，到最后仍然有盈利的部分就可以加大资金。
 
-![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/1b93bc128b17eb0f7a0edddbb84df151.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/ssggnet/images/1b93bc128b17eb0f7a0edddbb84df151.png)
 
 ## 下面是嘉盛集团的三个平台，账户的区别和入金规则
 
