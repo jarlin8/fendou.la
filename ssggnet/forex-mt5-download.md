@@ -22,7 +22,7 @@ post_excerpt: ""
 
 ## 嘉盛MT5电脑版如何登录？
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dc4bbd99e9bfae770c28d40643415ae6.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dc4bbd99e9bfae770c28d40643415ae6.png)
 
 嘉盛MT5电脑版登录界面
 

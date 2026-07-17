@@ -30,7 +30,7 @@ post_excerpt: ""
 
 隔夜利息数值在平台上有显示。专属平台客户可以在平台上点击“i”图标，查看该产品的当前隔夜利息报价。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0fe1c290f103a0714f0bc731a672b37d.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0fe1c290f103a0714f0bc731a672b37d.png)
 
 ## 嘉盛集团隔夜利息常见问题
 
@@ -93,7 +93,7 @@ post_excerpt: ""
 假如欧元的利率为4.25%，美元的利率为3.5%。当我们卖出1手的EURUSD时，意味着卖出息率较高的货币（EUR — 4.25%），买入息率较低的货币（USD — 3.5%）。因此需要支付隔夜利息 — 年利率为0.75%（4.25% − 3.5%），因为您正支付欧元利息，赚取美元利息。
 假如交易商还会收取0.25%的手续费用，因此隔夜利息总计为1%（0.75% + 0.25%），[**隔夜利息计算公式**](https://a.c-dn.net/b/3P0y5M.png)。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0dc2b753166e123b8f5b94fb5b66a134.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0dc2b753166e123b8f5b94fb5b66a134.png)
 
 **空头掉期费用**：
 此处我们将买入USD，卖出EUR。由于我们正在卖出息率较高的货币（EUR — 4.25%），买入息率较低的货币（USD — 3.5%），因此需要支付掉期费用。**空头隔夜利息计算公式：** SWAP = (Contract × (InterestRateDifferential + Markup) / 100) × Рrice / DaysPerYear**多头掉期费用**

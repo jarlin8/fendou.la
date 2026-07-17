@@ -75,7 +75,7 @@ post_excerpt: ""
 
 **出金需要手续费吗？** 嘉盛对客户出金不收取任何手续费。电汇美元出金银行可能会收取手续费。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c2b2304264300221e07abeef3132e1b1.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c2b2304264300221e07abeef3132e1b1.png)
 
 **出金需要提供文件吗？** 根据国际反洗黑钱法政策，财务部门在审核递交的出金后，可能会需要提供银行流水或者入金证明。在这样的情况下，[**嘉盛集团的客服专员**](http://www.ssgg.net/forex-customer-service.html)会在邮件中详细说明需要提供的相关凭证。
 

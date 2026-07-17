@@ -19,7 +19,7 @@ post_excerpt: ""
 
 该列表包含嘉盛MT4账户开户链接，以及电脑版、苹果版和安卓版嘉盛MT4软件下载链接。由于嘉盛官网在国内访问不便，以上链接均为官网备份，可放心下载安装使用。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dc4bbd99e9bfae770c28d40643415ae6.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dc4bbd99e9bfae770c28d40643415ae6.png)
 
 嘉盛MT4电脑版下载后登录界面
 

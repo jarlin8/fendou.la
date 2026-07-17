@@ -22,7 +22,7 @@ post_excerpt: ""
 
 在某种程度上也算是对投资者、交易者的保护。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c85c93353994ef744a441c57129f0aa5.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c85c93353994ef744a441c57129f0aa5.jpg)
 
 ## 嘉盛集团的强制平仓规则是怎样的呢？
 
@@ -80,7 +80,7 @@ post_excerpt: ""
 
 风险管理究竟指什么？现在，我们将逐个为您解释这些金融交易核心概念。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/6bed84d744cd7b86a1c85d05aac575f9.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/6bed84d744cd7b86a1c85d05aac575f9.png)
 
 避免强制平仓的仓位控制阀
 
@@ -122,7 +122,7 @@ post_excerpt: ""
 
 ### 4. 避免周末跳空
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/686ba50bc035a8f787e22487ed210dbb.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/686ba50bc035a8f787e22487ed210dbb.png)
 
 导致强制平仓的跳空现象
 

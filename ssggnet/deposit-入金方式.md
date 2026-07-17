@@ -39,7 +39,7 @@ post_excerpt: ""
 **嘉盛人民币入金时美元兑人民币的汇率是多少？有无手续费？**
 人民币入金的美元兑人民币汇率是由第三方平台确定的，会根据每日市场上的银行报价浮动。嘉盛不收取任何手续费。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/8dd4bf96cf91d074cdf1558af723122b.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/8dd4bf96cf91d074cdf1558af723122b.jpg)
 
 ## 嘉盛入金其他相关问题
 
@@ -69,7 +69,7 @@ post_excerpt: ""
 
 记住，将按原来的入资方式处理提款。因此，单次提款请求会通过多张银行卡进行处理。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/93de5fb79babad85a88a39852ec14d05.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/93de5fb79babad85a88a39852ec14d05.png)
 
 **如果我用于存入账户资金的银行卡已注销、遗失、被盗、或不能用于提款，应该怎么办？**
 根据嘉盛集团的反洗黑钱条例，嘉盛集团有法律义务在办理退款至另一个途径时，确认注资资金的来源和状态。

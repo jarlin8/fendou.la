@@ -34,7 +34,7 @@ post_excerpt: ""
 
 一些监管机构虽然也要求隔离客户资金，但具体规定和执行力度有所不同，有些甚至允许豁免隔离要求（例如澳大利亚证券和投资委员会ASIC）。开曼CIMA和FCA一样，不允许任何资金隔离豁免。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d3bf07a8a9eaf1e73c7f135c90f61a48.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d3bf07a8a9eaf1e73c7f135c90f61a48.png)
 
 受开曼CIMA隔离资金要求影响，部分FCA、ASIC监管的经纪商，其开曼CIMA平台的客户资金仍存放在母公司托管银行。这引发了我对开曼监管的兴趣，因为资金隔离和托管账户是监管有效性的重要保障。
 

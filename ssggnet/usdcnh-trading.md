@@ -20,7 +20,7 @@ post_excerpt: ""
 
 因为嘉盛集团上面可以交易的资产品种非常的多，包括加密货币股票现货黄金和农副产品等等，美元对离岸人民币也是其中的一个资产品种。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/11418d5c19f7e3c4e55b9d8b3454178a.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/11418d5c19f7e3c4e55b9d8b3454178a.png)
 
 USDCNH美元兑离岸人民币
 

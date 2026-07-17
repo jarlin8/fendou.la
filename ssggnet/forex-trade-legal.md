@@ -30,7 +30,7 @@ post_excerpt: ""
 
 另外，中国国家并不干预公民的个人投资行为，并且交易中选择的是国外平台开设的外汇账户，交易行为也发生在国外。外汇按照交易模式的不同可以分为虚盘和实盘两种模式。很多投资人，特别是新手对于外汇虚盘和实盘的了解并不是特别的多。外汇实盘交易可以去银行进行开户，投资。而外汇保证金交易则需要找一个专业正规的外汇交易平台上开户。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/b7a6952c08c1b620a2ffc276930f5a98.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/b7a6952c08c1b620a2ffc276930f5a98.png)
 
 中国银行的外汇宝业务
 

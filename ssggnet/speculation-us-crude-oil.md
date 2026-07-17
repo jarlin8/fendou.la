@@ -20,7 +20,7 @@ post_excerpt: ""
 
 Eg.中国大陆的客户开的账户都是离岸账户【CIMA[**开曼群岛的监管**](https://baike.baidu.com/item/CIMA/20309720)】 也不要担心，开曼是避税天堂，同样致力于打造成金融中心之一。是属于英国的海外领地，所有的监管都在像FCA看齐。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/236629b5f6626817959dd8c3ed37df47.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/236629b5f6626817959dd8c3ed37df47.png)
 
 炒外汇的监管地 CIMA 开曼群岛
 
@@ -28,10 +28,10 @@ Eg.中国大陆的客户开的账户都是离岸账户【CIMA[**开曼群岛的�
 
 ## 嘉盛与stonX的关系？
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/7ee738231544de0d2ff833068e0fc59f.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/7ee738231544de0d2ff833068e0fc59f.png)
 
 如图所示，forex.com嘉盛集团被上市公司stonx收购。
 
 stonx在美国财富500强排名58位，居于高盛之上。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/9096840fff780a7e2441bc79957095b6.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/9096840fff780a7e2441bc79957095b6.png)

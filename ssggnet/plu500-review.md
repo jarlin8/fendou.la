@@ -30,6 +30,6 @@ Plus500 Ltd 通过其下属机构运营CFD 业务：
 
 * Plus500SEY Ltd 由塞舌尔金融服务局（#SD039）授权并接受其监管。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/8f27fbf3ce14321dfe4de1cf2c90d8fe.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/8f27fbf3ce14321dfe4de1cf2c90d8fe.png)
 
 plus500嘉五百差价合约服务

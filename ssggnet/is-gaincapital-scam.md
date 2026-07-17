@@ -10,7 +10,7 @@ taxonomy:
         - 嘉盛集团
 post_excerpt: "想在嘉盛集团开户交易？认准官网，谨防虚假套牌平台！本文将提供嘉盛集团的官方网站链接，并教你如何识别虚假套牌平台，确保你的资金安全。"
 ---
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/72d3edf8d46a23dd99ee69f9bab4d2a2.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/72d3edf8d46a23dd99ee69f9bab4d2a2.png)
 
 嘉盛集团是StoneX旗下全球知名外汇零售平台，办事机构遍布英美、澳大利亚和日本，受美国CFTC、NFA、英国FCA等多家权威机构监管。嘉盛是正规平台，若您遇到出金问题，可能是遭遇了假冒嘉盛的黑平台。
 
@@ -64,7 +64,7 @@ CIMA秉持公开透明原则，交易者可查阅包括证券投资经营许可�
 
 通过与[开曼群岛金融监管局（CIMA](https://www.cima.ky/)）核实，CIMA确实是监管外汇的。下面的文件是开曼群岛CIMA的证券投资业务经营许可证持有人名单（List of Securities Investment Business Licensees），[可以点击这里查看源文件](https://www.cima.ky/upimages/commonfiles/QuarterlyListofSecuritiesInvestmentBusinessLicensees-30June2022_1658238085.pdf)。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/a9f03926ff038591b0cbc46f42cb77ee.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/a9f03926ff038591b0cbc46f42cb77ee.png)
 
 ## **嘉盛集团的全球监管情况**
 

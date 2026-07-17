@@ -36,7 +36,7 @@ post_excerpt: ""
 
 浮动点差根据基础流动性或市场波动性等不同因素在一天内波动。嘉盛集团用固定点差为你提供可能的最低点差，在此基础上加上既定历史时段的平均点差。[**请查看嘉盛的实时点差。**](https://www.jiashengjituan.com/cn/why-us/pricing/?ibcode=JIAW)
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dd007fd3a76b038bdc308dcbcc238786.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dd007fd3a76b038bdc308dcbcc238786.png)
 
 ## 嘉盛集团收取佣金吗？
 

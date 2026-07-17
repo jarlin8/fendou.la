@@ -30,7 +30,7 @@ post_excerpt: ""
 
 迎新春新客户开户交易赠金优惠活动*与您如约而至。完成一手“**合资格交易**”*，即可把嘉盛新春红包领回家。 您需在活动期间2021年2月8日至2021年2月19日关注并绑定嘉盛服务号，根据要求完成活动报名, 并满足入金和交易等要求。根据注资等级和完成的“合资格交易”，客户每手合资格交易可获得相应赠金 （如下）*。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/5d96d6c8315c5acd6238d3a34be9c85a.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/5d96d6c8315c5acd6238d3a34be9c85a.png)
 
 嘉盛集团交易赠金活动详情
 
@@ -38,6 +38,6 @@ post_excerpt: ""
 
 1.  客户必须在活动期间进行新账户注资 USD1,000 美元(或USD 等值)或以上*； 2.  只适用于成功完成首次开户尚未入金的新客户。已入金现有客户不享有此优惠。 3.    用于计算赠金的“合资格交易”*须在活动期间完成。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/ca97750b2ed3c1cec7609c16a96f44c3.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/ca97750b2ed3c1cec7609c16a96f44c3.jpg)
 
 [嘉盛mt5下载官网](http://www.ssgg.net/forex-mt5-download.html) [嘉盛mt4官网下载](http://www.ssgg.net/forex-mt4-download.html)

@@ -32,7 +32,7 @@ MT5是一款由MetaQuotes Software Corp开发的先进的外汇交易平台，�
 
 嘉盛集团是一家与MetaQuotes Software Corp合作的外汇经纪商，它为客户提供了一个兼容MT5平台的交易账户，让客户可以在MT5平台上进行无手续费的外汇交易。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/5b61ec0fe4670879b20f7aff070ac6ee.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/5b61ec0fe4670879b20f7aff070ac6ee.jpg)
 
 要下载嘉盛集团交易账户的MT5软件，客户需要访问嘉盛集团官网，并选择“MetaTrader 4”选项，然后输入自己的个人信息，获取下载链接，并根据自己的设备类型选择相应的下载按钮，并按照提示完成安装过程。最后，客户需要打开MT5软件，并输入自己在嘉盛集团注册时获得的用户名和密码，就可以开始进行实时交易了。
 

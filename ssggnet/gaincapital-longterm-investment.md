@@ -66,7 +66,7 @@ FOREX.com嘉盛集团是美国嘉盛集团（Gain Capital）的全球领先零�
 
 [caption id="" align=“alignnone” width=“998”] 嘉盛集团外汇平台香港铜锣湾办公点[/caption]
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/6326732f7d09e582c4002b9916e93dde.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/6326732f7d09e582c4002b9916e93dde.jpg)
 
 为了完成本期实勘，实勘人员根据监管信息与地图导航，找到了锣湾谢斐大道535号大楼。从大楼外的门牌标识可知，这里就是FOREX.com嘉盛集团香港持牌公司的办公地。
 

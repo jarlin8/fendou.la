@@ -16,7 +16,7 @@ post_excerpt: ""
 
 GAIN Capital经营零售外汇和差价合约交易品牌FOREX.com和City Index，以及完全独立的外汇ECN–多交易商外汇交易平台GTX，为对冲基金和机构提供服务。它还拥有咨询差价合约业务SALT Invest和期货提供商Daniels Trading。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/49a8bf54429738f6556421338c3ce365.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/49a8bf54429738f6556421338c3ce365.png)
 
 **GAIN Capital Holdings, Inc.**
 

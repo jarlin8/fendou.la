@@ -12,7 +12,7 @@ post_excerpt: ""
 ---
 中国内地的客户开的嘉盛集团的外汇账户杠杆默认是200倍，有需求的可以打电话给[**嘉盛的客服**](http://www.ssgg.net/forex-customer-service.html)最高可以调到400倍，所以用来指数和差价合约是足够的。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/aebdc3946033de06d154d490767d1750.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/aebdc3946033de06d154d490767d1750.jpg)
 
 嘉盛集团交易差价合约
 

@@ -12,7 +12,7 @@ post_excerpt: ""
 ---
 中国内地的客户开的嘉盛集团的外汇账户杠杆默认是200倍，有需求的可以打电话给[**嘉盛的客服**](http://www.ssgg.net/forex-customer-service.html)最高可以调到400倍。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/685a4de5c095787bdbe567cdbdd75a6a.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/685a4de5c095787bdbe567cdbdd75a6a.jpg)
 
 嘉盛集团账户的杠杆最高400倍
 
@@ -81,7 +81,7 @@ post_excerpt: ""
 
 但是，如果杠杆比例为50:1（或要求2％的保证金），那么交易者只需要2000美元的资金来开立和维持10万美元/加元的头寸。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/4fd124558532a740f8319f8abe056a93.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/4fd124558532a740f8319f8abe056a93.png)
 
 尽管开立此交易只需要交易者的保证金为实际交易规模的1/50，而交易的任何利润或亏损将相当于全部10万美元的加杠杆后金额加杠杆金额。
 

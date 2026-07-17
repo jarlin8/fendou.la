@@ -32,6 +32,6 @@ post_excerpt: ""
 
 * 中文客服时间：北京时间周一早上5点至周六早上5点
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/379793e8d02d53ce71b8b8fab055b452.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/379793e8d02d53ce71b8b8fab055b452.png)
 
 嘉盛集团中文客服联系方式

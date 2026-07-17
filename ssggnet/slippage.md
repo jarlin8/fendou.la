@@ -10,7 +10,7 @@ taxonomy:
         - 外汇平台
 post_excerpt: ""
 ---
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
 
 嘉盛集团的跳空缺口
 
@@ -36,13 +36,13 @@ post_excerpt: ""
 
 ### 向上跳空 (EUR/JPY, 1 小时)
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/4bfd678da22f274c1205486e58e67076.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/4bfd678da22f274c1205486e58e67076.png)
 
 向上跳空
 
 ### 向下跳空 （AUD/USD，1小时）
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d96781d2f67d9679d2eb2743ac998c5b.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d96781d2f67d9679d2eb2743ac998c5b.png)
 
 向下跳空
 

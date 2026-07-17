@@ -46,7 +46,7 @@ post_excerpt: ""
 
 因为百度是国人最常用的搜索软件，在国家严令禁止的领域，自然信息很少。而且收录的全是中文或者是大陆官网，不定期域名被封也不会在百度上排得上前。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/349fcff3f369cf429d06325e7aebec94.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/349fcff3f369cf429d06325e7aebec94.png)
 
 gaincapital嘉盛集团的bing.com展示
 
@@ -56,7 +56,7 @@ gaincapital是嘉盛集团的英文名，而且是纽交所的上市公司，所
 
 咱们再看看gaincapital百度的结果：清一色的水贴。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/160c79eae2db170abd7ba1b9baaeb6c5.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/160c79eae2db170abd7ba1b9baaeb6c5.png)
 
 嘉盛集团forex.com的百度结果
 
@@ -68,11 +68,11 @@ gaincapital是嘉盛集团的英文名，而且是纽交所的上市公司，所
 
 [gaincapital这个域名的信息和截图](http://seo.chinaz.com/www.gaincapital.com)
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/7173172c75c8bb44393fc4d0a46718bf.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/7173172c75c8bb44393fc4d0a46718bf.png)
 
 对比一下嘉盛的官网：https://forex.com/cn的信息，都是23年的老域名。注册人/机构： MarcMorgan-Davies。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/e81dc88893e2505634ec00a29c2bd37d.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/e81dc88893e2505634ec00a29c2bd37d.png)
 
 嘉盛集团官网域名资料信息
 

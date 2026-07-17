@@ -12,7 +12,7 @@ post_excerpt: ""
 ---
 嘉盛集团外汇交易平台 FOREXTrader,[嘉盛MT4平台开户](https://we.laowei8.com/go/forexcomchina)
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/e4e4aa82c93a50da99227196a8bc5319.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/e4e4aa82c93a50da99227196a8bc5319.png)
 
 | 公司名称 | 所属国家 | 成立时间 | 经营模式 |
 | :--- | :--- | :--- | :--- |

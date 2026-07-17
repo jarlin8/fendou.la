@@ -37,7 +37,7 @@ post_excerpt: ""
 
 比如，交易期货品种的时候，**专属交易平台可以在下单的时候设定自动展期**。嘉盛专属交易平台在出**入金方面也比MT4/MT5要方便一些，MT4/MT5需要在网页端进入嘉盛账户管理中心操作，而专属交易平台可以直接在软件内完成出入金的操作。**
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/96e559b369f3a08439af01183772d1ae.svg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/96e559b369f3a08439af01183772d1ae.svg)
 
 [**Forex.com嘉盛集团**](https://s.ifttt.fun/jsmt4)
 <span style="color:orange">1999年成立的美股挂牌上市平台，入金秒到出金一般两天内到账，中国内地出入金稳定，整体口碑好，NFA/FCS/ASIC/MAS监管中。</span>[<span style="color:gray_background">**官网开户**</span>](https://s.ifttt.fun/jsmt4)
@@ -114,7 +114,7 @@ post_excerpt: ""
 
 这一节，我们来测评一下大家在交易时比较关注的三个速度。首先测评的就是**订单执行速度。**
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/9766137a6ed22d678a5d3aab0380f816.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/9766137a6ed22d678a5d3aab0380f816.png)
 
 如图所示，**嘉盛订单执行的平均速度跟前面测评的四家平台比相对快一些，但开仓和平仓的平均时间都处于中游水平。**但速度不是很稳定，波动相对比较大。
 
@@ -167,7 +167,7 @@ post_excerpt: ""
 
 测评完嘉盛的交易环境后，这一部分，我将从背景实力来分析嘉盛。关于嘉盛的发展历程，以及它为何走到被StoneX收购的地步。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c188bf372f19eb53b7bb626e407b609f.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c188bf372f19eb53b7bb626e407b609f.png)
 
 这部分，我将根据我们的调查结果，从3个角度评价嘉盛的综合背景&实力：
 

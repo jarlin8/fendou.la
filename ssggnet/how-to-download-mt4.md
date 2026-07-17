@@ -24,6 +24,6 @@ post_excerpt: ""
 
 [wpsm_comparison_table id=“6” title=“嘉盛MT4软件下载开户”]
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d28a3d26cde584e901ef93ea1d2dba2b.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d28a3d26cde584e901ef93ea1d2dba2b.png)
 
 嘉盛集团-值得信赖的经纪商品牌

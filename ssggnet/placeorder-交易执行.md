@@ -50,7 +50,7 @@ post_excerpt: ""
 
 ## 什么是跳空和滑点？
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
 
 跳空指的在价格出现急剧差异，但是，在此期间无交易发生的情况。无论当市场向上或向下移动时，都有可能出现跳空缺口。在外汇市场上，跳空缺口主要出现在周末，因为，这是外汇市场关闭的唯一时间。跳空缺口出现的时间可能非常短，比如，新数据或重大新闻之后的一分钟。
 

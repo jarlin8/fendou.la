@@ -18,7 +18,7 @@ post_excerpt: ""
 
 这跟国内A股市场一样，这个交易市场上并不可能产生资金，都是投资者之间的[**零和博弈**](https://baike.baidu.com/item/%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88/3562463)。财富的流动而已。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0ef971a3560ace8f611e73f50a0a99a7.jpg)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0ef971a3560ace8f611e73f50a0a99a7.jpg)
 
 > 一方的收益必然意味着另一方的损失，博弈各方的收益和损失相加总和永远为“零”，双方不存在合作的可能。
 

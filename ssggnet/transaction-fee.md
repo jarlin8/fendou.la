@@ -12,7 +12,7 @@ post_excerpt: ""
 ---
 手续费是外汇经纪商平台向交易者收取的交易费用,部分经纪商平台取消了手续费。目前嘉盛集团只对股票差价合约交易收取佣金，可以根据客户的需求提供固定点差或者浮动点差服务。下面是嘉盛官网公布的部分产品的实时点差。
 
-![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d39b797433ee1bb4cff97447e7a320ff.png)
+![image](https://testingcf.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d39b797433ee1bb4cff97447e7a320ff.png)
 
 [嘉盛集团部分产品的实时点差，详情查看官网链接](https://www.forex.com/cn/why-us/pricing/)
 
