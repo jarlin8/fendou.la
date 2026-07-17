@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团是正规的外汇交易平台吗，受到监管吗？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "嘉盛集团是正规的外汇交易平台吗，受到监管吗？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: 
+post_excerpt: ""
 ---
 嘉盛集团是GAIN Capital的子公司，GAIN Capital是一家总部位于美国的在线交易服务提供商，总部位于新泽西州的贝德明斯特， **嘉盛集团是正规的外汇交易平台。**
 
@@ -16,7 +16,7 @@ post_excerpt:
 
 GAIN Capital经营零售外汇和差价合约交易品牌FOREX.com和City Index，以及完全独立的外汇ECN–多交易商外汇交易平台GTX，为对冲基金和机构提供服务。它还拥有咨询差价合约业务SALT Invest和期货提供商Daniels Trading。
 
-![Image](https://cdn.fendou.la/tuoss/Gain-capital-logo.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/49a8bf54429738f6556421338c3ce365.png)
 
 **GAIN Capital Holdings, Inc.**
 
@@ -62,7 +62,7 @@ Forex.com(也就是我们常说的嘉盛集团)是Gain Capital最大的零售外
 
 ### 嘉盛集团是黑平台吗？
 
-嘉盛集团不是黑平台，是受到正规监管的经纪商公司。但是咱们在开账户的时候一定要认准官网[https://www.forex.com/en](https://www.ssgg.net/go/forexcom/)，不要被虚假套牌的嘉盛集团给忽悠了。
+嘉盛集团不是黑平台，是受到正规监管的经纪商公司。但是咱们在开账户的时候一定要认准官网[**https://www.forex.com/en**](https://www.ssgg.net/go/forexcom/)，不要被虚假套牌的嘉盛集团给忽悠了。
 
 ### 嘉盛集团的最低入金是多少？
 

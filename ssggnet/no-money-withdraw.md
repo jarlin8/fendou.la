@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团出不了金怎么办？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "嘉盛集团出不了金怎么办？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: 
+post_excerpt: ""
 ---
 嘉盛集团的账户极少会出现不能出金的情况，看时间长短的问题。
 

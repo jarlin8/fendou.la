@@ -1,14 +1,14 @@
 ---
-title: 为什么说开曼监管是外汇离岸监管中最好的？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "为什么说开曼监管是外汇离岸监管中最好的？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: 
+post_excerpt: ""
 ---
 在中国内地、台湾或东南亚其他国家，交易CFD、数字货币、期货等资产，能开户的平台百分百都是离岸监管的。
 
@@ -34,7 +34,7 @@ post_excerpt:
 
 一些监管机构虽然也要求隔离客户资金，但具体规定和执行力度有所不同，有些甚至允许豁免隔离要求（例如澳大利亚证券和投资委员会ASIC）。开曼CIMA和FCA一样，不允许任何资金隔离豁免。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/bd849744-3fcb-4a37-8312-357962c8f065/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VV3DMESF%2F20260717%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260717T041515Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDzw4X0qopiZjg1f%2BqD9xZGYTkuhy3mmdKJ7In6P0LRbgIhAMaXqzv5Jlr0MXTnbvEj3Fap61gTAoMgvylbG%2BMkr0dJKv8DCFQQABoMNjM3NDIzMTgzODA1IgxJ%2FYErcfoP71SMtGsq3ANEloSwAoXf0s7mLg24b%2FUKVyRMI3K%2Fzqw26lV9rc00zAvaZiAdPytfAAoPl76WGlUX%2B71NBdQ2LtRZQWbDhdKCD2iny83XUOapFAduVWnPIUmi488rEMo%2F4bYYC42%2FViG8tVkuAbOA31KyeNej9ji%2BMcVyJc2kevZNEqd01OEQeMuNUphcRhKzm6Al3g891j2sbBFx4GoTrNDXjZFb0kVAf%2B8w%2FgEalKpApNlIEUqjWHA%2BKILvCdd9LPlH4Os%2F22WXCi3ygGOMyJbQThB6v0tTgx3t17Y7ZQj%2FAHb1tbWWg1FOaoeOOi99Xn5ttDQmc6jwbBRfupmSv6SuTtrxQLLbD%2BjSqSoyijOKoZb6L0GdcKvoFbd1E888cQL2ulAaGY5jgU9M1M0EFQQIyf77j8TBNjWz5DzvTZdh%2F6IitHmps1LN3eckzPnA8CKTZYekyuB7cuacaJEyZTkDxz3tencNzVR44v13wYhRwZUWVmGyEYu8qHbm7v3KPmma1CAsC0cS8Fb089iGUJe%2FvKC6rKI38welBQ6GpcA76Dfmxhm02yPxFrtvSUMmcOoDOGlPH7N%2FUFuWxoOJDnTyoPV4MIzMTRDEe9G4de2CT5leHGsmNzQI1N1hCFMrph7v7zDyqObSBjqkATMRVB5LWYkXdBt%2FJfNXZxZytE6wKnVh1AJ%2FG087j08AoDMeXDbA%2BbUAXPzHEyV%2FKqpCR0dlLcOZloqxp3XoINAdv%2FdVT8sQ%2BfgFZI3dUEnxxDEGG4jExwbgT1pL7j1TjwkUdgk7iEpCHVVi7clkYn6R4535DjGhfV%2F4xrBr7%2Fi89FCZCZH%2F3F3G7XEwn3%2FpYTg2vcohpr6yTXq96wiM0Q%2Fzi1hZ&X-Amz-Signature=062ee32fe4d96a061635c3411dfdcf385de27cf94bdc215734f5265590eaafc4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d3bf07a8a9eaf1e73c7f135c90f61a48.png)
 
 受开曼CIMA隔离资金要求影响，部分FCA、ASIC监管的经纪商，其开曼CIMA平台的客户资金仍存放在母公司托管银行。这引发了我对开曼监管的兴趣，因为资金隔离和托管账户是监管有效性的重要保障。
 

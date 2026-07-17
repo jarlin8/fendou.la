@@ -1,14 +1,14 @@
 ---
-title: 用嘉盛集团开户炒外汇合法吗？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "用嘉盛集团开户炒外汇合法吗？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: 
+post_excerpt: ""
 ---
 炒外汇是众多投资理财方式中的一种，跟国内炒股票，买基金，买房理财等渠道不同的是，炒外汇这个渠道，在国内的知名度或者普及度没有那么高，很多人仍然停留在去银行购买先抄，然后等一段时间换成另外一种货币赚差价的阶段。
 
@@ -24,13 +24,13 @@ post_excerpt:
 
 > 我的观点
 
-
+---
 
 但是，国内的外汇平台虽然都是国外企业，但只要是受监管的正规平台，交易者就不必担心是否合法，因为这些平台的交易商在境外有严格的监管，如果发生违法违规现象，在境外一样是可以吊销牌照的。
 
 另外，中国国家并不干预公民的个人投资行为，并且交易中选择的是国外平台开设的外汇账户，交易行为也发生在国外。外汇按照交易模式的不同可以分为虚盘和实盘两种模式。很多投资人，特别是新手对于外汇虚盘和实盘的了解并不是特别的多。外汇实盘交易可以去银行进行开户，投资。而外汇保证金交易则需要找一个专业正规的外汇交易平台上开户。
 
-![Image](https://pic2.zhimg.com/v2-8efb74c9391a29ff04bcc2d531a6bb91_r.jpg)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/b7a6952c08c1b620a2ffc276930f5a98.png)
 
 中国银行的外汇宝业务
 

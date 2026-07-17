@@ -1,14 +1,14 @@
 ---
-title: 2024精准测评：嘉盛集团靠谱吗
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "2024精准测评：嘉盛集团靠谱吗"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: 
+post_excerpt: ""
 ---
 嘉盛，作为行业内的资深经纪商，不仅名声显赫，而且拥有大量忠实的用户和粉丝。为了更准确地评估其服务质量，我们将结合实际数据，从四个关键维度深入剖析嘉盛的交易环境。通过本次分析，相信每位读者都能得出自己的结论。
 
@@ -37,9 +37,10 @@ post_excerpt:
 
 比如，交易期货品种的时候，**专属交易平台可以在下单的时候设定自动展期**。嘉盛专属交易平台在出**入金方面也比MT4/MT5要方便一些，MT4/MT5需要在网页端进入嘉盛账户管理中心操作，而专属交易平台可以直接在软件内完成出入金的操作。**
 
-![Image](https://cdn.fendou.la/tuoss/forex.svg)
-[Forex.com嘉盛集团](https://s.ifttt.fun/jsmt4)
-1999年成立的美股挂牌上市平台，入金秒到出金一般两天内到账，中国内地出入金稳定，整体口碑好，NFA/FCS/ASIC/MAS监管中。[官网开户](https://s.ifttt.fun/jsmt4)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/96e559b369f3a08439af01183772d1ae.svg)
+
+[**Forex.com嘉盛集团**](https://s.ifttt.fun/jsmt4)
+<span style="color:orange">1999年成立的美股挂牌上市平台，入金秒到出金一般两天内到账，中国内地出入金稳定，整体口碑好，NFA/FCS/ASIC/MAS监管中。</span>[<span style="color:gray_background">**官网开户**</span>](https://s.ifttt.fun/jsmt4)
 
 在上述表格中，我已经突出了一些关键点，以便用最简洁明了的方式向大家介绍适合不同类型投资者的账户选择。
 
@@ -81,25 +82,25 @@ post_excerpt:
 
 | **经纪商** | **账户类型** | **单边手续费(每手)** | **最低点差** |
 | :--- | :--- | :--- | :--- |
-| **IC Markets** | 标准账户 | 0 | 1点 |
+| <span style="color:red">**IC Markets**</span> | 标准账户 | 0 | 1点 |
 |  | 原始点差账户 | 3.5美元 | 0点 |
 |  | 原始点差账户(cTrader) | 3美元 | 0点 |
-| **Tickmill** | 专业账户 | 2基础货币 | 0点 |
+| <span style="color:red">**Tickmill**</span> | 专业账户 | 2基础货币 | 0点 |
 |  | 经典账户 | 无 | 1.6点 |
 |  | VIP账户 | 1基础货币 | 0点 |
-| **Exness** | 裸点账户 | 固定3.5美元/手 | 0 |
+| <span style="color:red">**Exness**</span> | 裸点账户 | 固定3.5美元/手 | 0 |
 |  | 零点账户 | 分级收取,最低3.5美元/手 | 0 |
 |  | 先锋账户 | 0 | 0.1 |
 |  | 标准账户 | 无 | 0.3 |
 |  | 美分账户 | 无 | 0.3 |
 |  | 尊享账户 | 无 | 1 |
-| **富拓FXTM** | 标准账户 | 无佣金 | 1.3起 |
+| <span style="color:red">**富拓FXTM**</span> | 标准账户 | 无佣金 | 1.3起 |
 |  | 美分账户 | 无佣金 | 1.5起 |
 |  | 股票CFD账户 | 无佣金 | 0.1开始 |
 |  | ECN 账户  | 2美金 | 0.1起 |
 |  | 零佣金账户 | 无佣金 | 1.5起 |
 |  | 富拓Pro账户 | 无佣金 | 0起 |
-| **嘉盛** | MT4账户 | 无佣金 | 从0.8起 |
+| <span style="color:red">**嘉盛**</span> | MT4账户 | 无佣金 | 从0.8起 |
 |  | MT5账户 | 只对股票收取,美股1.8美分/股 | 从0.8起 |
 |  | 专属账户 | 无佣金 | 从0.8起 |
 
@@ -113,7 +114,7 @@ post_excerpt:
 
 这一节，我们来测评一下大家在交易时比较关注的三个速度。首先测评的就是**订单执行速度。**
 
-![Image](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1624622777671-订单执行速度.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/9766137a6ed22d678a5d3aab0380f816.png)
 
 如图所示，**嘉盛订单执行的平均速度跟前面测评的四家平台比相对快一些，但开仓和平仓的平均时间都处于中游水平。**但速度不是很稳定，波动相对比较大。
 
@@ -166,7 +167,7 @@ post_excerpt:
 
 测评完嘉盛的交易环境后，这一部分，我将从背景实力来分析嘉盛。关于嘉盛的发展历程，以及它为何走到被StoneX收购的地步。
 
-![Image](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1624622777676-嘉盛实力背景.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c188bf372f19eb53b7bb626e407b609f.png)
 
 这部分，我将根据我们的调查结果，从3个角度评价嘉盛的综合背景&实力：
 

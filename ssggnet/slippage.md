@@ -1,16 +1,16 @@
 ---
-title: 跳空缺口和滑点是什么意思？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "跳空缺口和滑点是什么意思？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇平台
-post_excerpt: 
+post_excerpt: ""
 ---
-![Image](https://cdn.fendou.la/tuoss/gap-slippage.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
 
 嘉盛集团的跳空缺口
 
@@ -36,13 +36,13 @@ post_excerpt:
 
 ### 向上跳空 (EUR/JPY, 1 小时)
 
-![Image](https://cdn.fendou.la/tuoss/UnderstandingMarketGaps.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/4bfd678da22f274c1205486e58e67076.png)
 
 向上跳空
 
 ### 向下跳空 （AUD/USD，1小时）
 
-![Image](https://cdn.fendou.la/tuoss/UnderstandingMarketGapsAUDUSD.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/d96781d2f67d9679d2eb2743ac998c5b.png)
 
 向下跳空
 

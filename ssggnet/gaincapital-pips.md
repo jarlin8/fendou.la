@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团的点差是怎么计算的？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "嘉盛集团的点差是怎么计算的？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇平台
-post_excerpt: 
+post_excerpt: ""
 ---
 与交易货币相关的最常见的成本是点差和隔夜利息。
 
@@ -34,9 +34,9 @@ post_excerpt:
 
 固定点差不会根据波动或流动性等市场情况变化。根据市场不同，在一天的既定时段或整个交易时间提供固定点差。
 
-浮动点差根据基础流动性或市场波动性等不同因素在一天内波动。嘉盛集团用固定点差为你提供可能的最低点差，在此基础上加上既定历史时段的平均点差。[请查看嘉盛的实时点差。](https://www.jiashengjituan.com/cn/why-us/pricing/?ibcode=JIAW)
+浮动点差根据基础流动性或市场波动性等不同因素在一天内波动。嘉盛集团用固定点差为你提供可能的最低点差，在此基础上加上既定历史时段的平均点差。[**请查看嘉盛的实时点差。**](https://www.jiashengjituan.com/cn/why-us/pricing/?ibcode=JIAW)
 
-![Image](https://cdn.fendou.la/tuoss/forexcom-pits.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/dd007fd3a76b038bdc308dcbcc238786.png)
 
 ## 嘉盛集团收取佣金吗？
 

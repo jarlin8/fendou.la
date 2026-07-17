@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团的400倍杠杆对保证金有什么限制？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "嘉盛集团的400倍杠杆对保证金有什么限制？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: 
+post_excerpt: ""
 ---
 嘉盛集团的账户默认杠杆是200倍的，400倍杠杆问保证金是否有限制，需要根据实际情况来分析。
 
@@ -22,7 +22,7 @@ post_excerpt:
 
 目前市场上提供最高的杠杆比例是英国经纪商FXGlory提供的，为1:3000；接下来最高的为1:2000，Exness, AAFX Trading, FBS, 及Forex-Metal，这些都是比较高的杠杆，再下面的杠杆就有比较多的外汇经纪商提供了。
 
-[杠杆比率](https://baike.baidu.com/item/%E6%9D%A0%E6%9D%86%E6%AF%94%E4%BE%8B/5909433)=正股现货价÷(认股证价格x换股比率)
+[**杠杆比率**](https://baike.baidu.com/item/%E6%9D%A0%E6%9D%86%E6%AF%94%E4%BE%8B/5909433)=正股现货价÷(认股证价格x换股比率)
 Delta值：所谓的delta值，是指“当股票价格变动一单位，预期权证价格会随之变动的单位量”。它是经B-S 模型等估值模型经过数学上的微分计算所产生的数值，而且也是随时变动的。
 实际杠杆比率（Effective Gearing）：Delta 值乘以另一个重要指标Gearing 就可以得到权证的动态杠杆系数Effective Gearing，该系数反映了权证交易价格对于标的股票价格的敏感性，表示当正股升跌1%时，认股权证的理论价格会变动多少个百分点。
 
@@ -36,6 +36,6 @@ Delta值：所谓的delta值，是指“当股票价格变动一单位，预期�
 
 1×100000（欧元）×1.11902÷100=1119.02（USD）
 
+---
 
-
-易信easymarkets [开户链接](https://www.ssgg.net/go/easymarket) [易信MT4下载链接](https://download.mql5.com/cdn/web/blue.capital.markets/mt4/easyforex4setup.exe)
+易信easymarkets [**开户链接**](https://www.ssgg.net/go/easymarket) [易信MT4下载链接](https://download.mql5.com/cdn/web/blue.capital.markets/mt4/easyforex4setup.exe)

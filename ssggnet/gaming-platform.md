@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团是不是对赌平台？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "嘉盛集团是不是对赌平台？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: 
+post_excerpt: ""
 ---
 这个看你是怎么理解这个对赌平台含义的。
 
@@ -16,9 +16,9 @@ post_excerpt:
 
 大部分平台都是做市商，所谓的对赌模式，很多平台都有多种账户类型可供选择，通过我们可以无条件无资金要求申请各类ECN和STP平台账户。
 
-这跟国内A股市场一样，这个交易市场上并不可能产生资金，都是投资者之间的[零和博弈](https://baike.baidu.com/item/%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88/3562463)。财富的流动而已。
+这跟国内A股市场一样，这个交易市场上并不可能产生资金，都是投资者之间的[**零和博弈**](https://baike.baidu.com/item/%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88/3562463)。财富的流动而已。
 
-![Image](https://cdn.fendou.la/tuoss/duidu.jpg)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/0ef971a3560ace8f611e73f50a0a99a7.jpg)
 
 > 一方的收益必然意味着另一方的损失，博弈各方的收益和损失相加总和永远为“零”，双方不存在合作的可能。
 

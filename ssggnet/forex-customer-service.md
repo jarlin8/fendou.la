@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团中文客服联系方式
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "嘉盛集团中文客服联系方式"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛开户
-post_excerpt: 
+post_excerpt: ""
 ---
 很多有过外汇交易经验（尤其是被外汇黑平台骗过）的客户，在选择交易平台的时候，最重要的一条就是看平台的资金安全性。
 
@@ -24,7 +24,7 @@ post_excerpt:
 
 1. 电邮: cn.support@forex.com
 
-
+---
 
 ## 嘉盛集团的中文客服服务时间
 
@@ -32,7 +32,6 @@ post_excerpt:
 
 * 中文客服时间：北京时间周一早上5点至周六早上5点
 
-![Image](https://cdn.fendou.la/tuoss/forexservice.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/379793e8d02d53ce71b8b8fab055b452.png)
 
 嘉盛集团中文客服联系方式
-

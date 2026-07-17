@@ -1,14 +1,14 @@
 ---
-title: 人民币汇率持续升值,这几个平台可以交易USDCNH
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "人民币汇率持续升值,这几个平台可以交易USDCNH"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - MT4
-post_excerpt: 
+post_excerpt: ""
 ---
 从2021年4月1日到2021年6月1日,人民币对美元汇率罕见持续大涨，中间价位一度突破了6.3，汇率大涨超过2000点。通俗点说就是4月1号你手里有1万美金可以换到65,800元人民币，但是6月1号到现在只能换到63,000人民币了，损失超过2000块。
 
@@ -20,13 +20,13 @@ post_excerpt:
 
 因为嘉盛集团上面可以交易的资产品种非常的多，包括加密货币股票现货黄金和农副产品等等，美元对离岸人民币也是其中的一个资产品种。
 
-![Image](https://fastly.jsdelivr.net/gh/jarlin8/img@main/imgHD/1622536852770-usdcnh.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/11418d5c19f7e3c4e55b9d8b3454178a.png)
 
 USDCNH美元兑离岸人民币
 
 ### 打开嘉盛官网
 
-[点击这里，直接打开嘉盛官网。](http://www.ssgg.net/go/forexcom)
+[**点击这里，直接打开嘉盛官网。**](http://www.ssgg.net/go/forexcom)
 输入必须的个人资料信息，并且提交。
 开户是没有任何费用的，记得邮箱（最好是商用邮箱，QQ邮箱也是可以的）等信息一定要填写正确。
 这个是需要后来接受账号信息的。

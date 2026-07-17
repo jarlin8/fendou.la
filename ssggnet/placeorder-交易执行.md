@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团账户下单与交易执行过程及注意事项
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "嘉盛集团账户下单与交易执行过程及注意事项"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛外汇
-post_excerpt: 
+post_excerpt: ""
 ---
 下单与交易执行是我们判断一个平台交易环境好坏非常重要的参考，一个交易命令不管多么高明，最终只有顺利执行了，才会有结果。纵然你是诸葛神算，心中谋划100%成事，扔到蜀汉这个大环境下，也一样无力回天。
 
@@ -50,11 +50,11 @@ post_excerpt:
 
 ## 什么是跳空和滑点？
 
-![Image](https://cdn.fendou.la/tuoss/gap-slippage.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/2271b970a38fe8e9ba6eab21aa09ffce.png)
 
 跳空指的在价格出现急剧差异，但是，在此期间无交易发生的情况。无论当市场向上或向下移动时，都有可能出现跳空缺口。在外汇市场上，跳空缺口主要出现在周末，因为，这是外汇市场关闭的唯一时间。跳空缺口出现的时间可能非常短，比如，新数据或重大新闻之后的一分钟。
 
-滑点是交易预期价格和交易实际执行价格之间的差额。跳空缺口可造成滑点，从而影响止损和限价委托 - 这意味着这些委托并不会以要价成交。[跳空缺口和滑点是什么意思？](http://www.ssgg.net/slippage.html)
+滑点是交易预期价格和交易实际执行价格之间的差额。跳空缺口可造成滑点，从而影响止损和限价委托 - 这意味着这些委托并不会以要价成交。[**跳空缺口和滑点是什么意思？**](http://www.ssgg.net/slippage.html)
 
 ## 我如何避免无法预测的市场跳空？
 
@@ -88,6 +88,6 @@ post_excerpt:
 
 在任何情况下，您都有责任监控您的交易账户，并满足保证金要求， 以维持您的开仓头寸。
 
-在任何时候，如果您的可用资金低于持仓保证金要求时，我们会执行强制平仓。[更多信息请查看强制平仓常见问题。](http://www.ssgg.net/forced-%e5%bc%ba%e5%88%b6%e5%b9%b3%e4%bb%93.html)
+在任何时候，如果您的可用资金低于持仓保证金要求时，我们会执行强制平仓。[**更多信息请查看强制平仓常见问题。**](http://www.ssgg.net/forced-%e5%bc%ba%e5%88%b6%e5%b9%b3%e4%bb%93.html)
 
-如您对您的头寸被平仓仍有疑问， [请点击此处联系嘉盛。](http://www.ssgg.net/forex-customer-service.html)
+如您对您的头寸被平仓仍有疑问， [**请点击此处联系嘉盛。**](http://www.ssgg.net/forex-customer-service.html)

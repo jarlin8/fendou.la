@@ -1,20 +1,20 @@
 ---
-title: 嘉盛集团是骗子平台吗？嘉盛外汇是黑平台吗？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:53:00.000Z
+title: "嘉盛集团是骗子平台吗？嘉盛外汇是黑平台吗？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:53:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 嘉盛集团
-post_excerpt: 想在嘉盛集团开户交易？认准官网，谨防虚假套牌平台！本文将提供嘉盛集团的官方网站链接，并教你如何识别虚假套牌平台，确保你的资金安全。
+post_excerpt: "想在嘉盛集团开户交易？认准官网，谨防虚假套牌平台！本文将提供嘉盛集团的官方网站链接，并教你如何识别虚假套牌平台，确保你的资金安全。"
 ---
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/11766e16-b822-4d36-961a-9a11107588e4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466S4V3BIY5%2F20260717%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260717T041442Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDIU0J0molg8b1WEiB9hNivvAN9tWAL8HyKf9DfV7nyAwIgITEOdBgTJ8I6EAwm0l8yKo1ADs%2FC%2FAkZypyGlMbkXpIq%2FwMIVBAAGgw2Mzc0MjMxODM4MDUiDLeCbzVsGizOCBDGQyrcAzIwM%2FwUTMeqtIiQb8bFRjjRpR%2Blj1BkS1OkADhuG4OFUUepisT2uKG8%2FwKzyu8qp%2FZx4TaX05Y3yYEFkidBAz63SP%2FbLX%2B2Q19S0NVqvOLawA9SciGXsPyRLP2L%2FHnOGR%2FhaZX3bAyEdL8FK6pqnHeX0KMzfhPXzBfmNo8fVxhqbsZAk1N4z6O7IEB5IY71lQkwtrO7FpkU3ZyWmwpsN%2FDg7xj5NoMqYAVKnLGaiD%2Ba2zcI%2FTuuLvnTprmV2vQvMlldZtP9eZKP93qtLTE%2B3TRl4EEOgt2CQMXoLgawhAORId2VzSbR9kfvufADzGvr6hYq9GqAcFrid9bghlyE4POKqfcQo1t3SBNIVFZ4YMavLO9ngBhgJXgLH3aoS28aqLA3jXutenJIVzbnomOI%2F%2BB3L9PBz81w3pqla0yBY%2F5D6TJo6BHbE4a9ItYzRCpZqLDwcSXQZH6TGCa0TnIN4npIVost6%2BhKKPUUxWl1OoPqyQpmnXgvsOCttgT3XyFPVeQhPa4l8wXUxiNXkTPvoGhRMEA8%2F5tH%2FxOlwNprAleHpL%2B3O2NpgoW1KKZp2jK6wiS5SpvoW2aLP8CYp%2BZ6u5q3Xn%2Fd%2BJqQ00h94dqk%2FNdb0BKcALH7nRJMsZjZMKOm5tIGOqUBmuv6k%2FfYyLLCo74Fy2n4ID2SbPrlGGMScPOezmHeNtnoRB%2FiffeixpFfA24BTPbeOwX7SLQWEsAu0FlK%2BhDOR1INg2db9x9BruWHCFVYisWBkKlYEKykGCgmNqIQdF842Jqr0I%2FYu7lS2tNkum8vtArdhMzmrNMFHXax8NQSjXPlPS1sefaiZqmu0dbteAthClE5lG%2Fr%2B3Iu3dst2gZdigUh5BON&X-Amz-Signature=5f5e54a6649de6d69353f9fc7ce0e70a573c5e236fb268cf89677c7b9b67af7e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/72d3edf8d46a23dd99ee69f9bab4d2a2.png)
 
 嘉盛集团是StoneX旗下全球知名外汇零售平台，办事机构遍布英美、澳大利亚和日本，受美国CFTC、NFA、英国FCA等多家权威机构监管。嘉盛是正规平台，若您遇到出金问题，可能是遭遇了假冒嘉盛的黑平台。
 
-虽然嘉盛集团是受到正规监管的经纪商，但是在开账户的时候一定要认准加成集团的官网[https://www.forex.com/en](https://s.ifttt.fun/jsmt4)，不要被虚假套牌的嘉盛集团给忽悠了。
+虽然嘉盛集团是受到正规监管的经纪商，但是在开账户的时候一定要认准加成集团的官网[**https://www.forex.com/en**](https://s.ifttt.fun/jsmt4)，不要被虚假套牌的嘉盛集团给忽悠了。
 
 ## 嘉盛集团怎么会被国家封？
 
@@ -34,7 +34,7 @@ CIMA于1997年1月1日根据金融法成立，旨在维护和提升开曼群岛�
 
 开曼CIMA与英国FCA在牌照发放和监管环境方面高度相似，均保障资金安全，监管力度强。两者都实施严格的反洗钱制度、客户资金保护条例和净资产规定等，对经纪商监管要求高。例如，两者均要求客户资产账户按法定抬头存放，确保资金安全，并要求经纪商每日对客户资金进行清算和对账。  CIMA和FCA都要求客户资金完全隔离存放，防止挪用，且均为少数不允许资金隔离豁免的监管机构。
 
-扩展阅读👉🏼 [为什么说开曼是所有离岸监管中最好的？](/30f0a9dcf47d49448a926e2c51e6bb78)
+扩展阅读👉🏼 [**为什么说开曼是所有离岸监管中最好的？**](/30f0a9dcf47d49448a926e2c51e6bb78)
 
 ### 受开曼CIMA监管的经纪商需履行以下义务：
 
@@ -64,7 +64,7 @@ CIMA秉持公开透明原则，交易者可查阅包括证券投资经营许可�
 
 通过与[开曼群岛金融监管局（CIMA](https://www.cima.ky/)）核实，CIMA确实是监管外汇的。下面的文件是开曼群岛CIMA的证券投资业务经营许可证持有人名单（List of Securities Investment Business Licensees），[可以点击这里查看源文件](https://www.cima.ky/upimages/commonfiles/QuarterlyListofSecuritiesInvestmentBusinessLicensees-30June2022_1658238085.pdf)。
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/39ed1227-6d7d-4570-be36-9ccd4a2c4241/06ed3ba8-c3c3-4d4e-958c-ac38cb466808/%E5%BC%80%E6%9B%BC%E7%9B%91%E7%AE%A1%E5%90%8D%E5%8D%95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466S4V3BIY5%2F20260717%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260717T041442Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDIU0J0molg8b1WEiB9hNivvAN9tWAL8HyKf9DfV7nyAwIgITEOdBgTJ8I6EAwm0l8yKo1ADs%2FC%2FAkZypyGlMbkXpIq%2FwMIVBAAGgw2Mzc0MjMxODM4MDUiDLeCbzVsGizOCBDGQyrcAzIwM%2FwUTMeqtIiQb8bFRjjRpR%2Blj1BkS1OkADhuG4OFUUepisT2uKG8%2FwKzyu8qp%2FZx4TaX05Y3yYEFkidBAz63SP%2FbLX%2B2Q19S0NVqvOLawA9SciGXsPyRLP2L%2FHnOGR%2FhaZX3bAyEdL8FK6pqnHeX0KMzfhPXzBfmNo8fVxhqbsZAk1N4z6O7IEB5IY71lQkwtrO7FpkU3ZyWmwpsN%2FDg7xj5NoMqYAVKnLGaiD%2Ba2zcI%2FTuuLvnTprmV2vQvMlldZtP9eZKP93qtLTE%2B3TRl4EEOgt2CQMXoLgawhAORId2VzSbR9kfvufADzGvr6hYq9GqAcFrid9bghlyE4POKqfcQo1t3SBNIVFZ4YMavLO9ngBhgJXgLH3aoS28aqLA3jXutenJIVzbnomOI%2F%2BB3L9PBz81w3pqla0yBY%2F5D6TJo6BHbE4a9ItYzRCpZqLDwcSXQZH6TGCa0TnIN4npIVost6%2BhKKPUUxWl1OoPqyQpmnXgvsOCttgT3XyFPVeQhPa4l8wXUxiNXkTPvoGhRMEA8%2F5tH%2FxOlwNprAleHpL%2B3O2NpgoW1KKZp2jK6wiS5SpvoW2aLP8CYp%2BZ6u5q3Xn%2Fd%2BJqQ00h94dqk%2FNdb0BKcALH7nRJMsZjZMKOm5tIGOqUBmuv6k%2FfYyLLCo74Fy2n4ID2SbPrlGGMScPOezmHeNtnoRB%2FiffeixpFfA24BTPbeOwX7SLQWEsAu0FlK%2BhDOR1INg2db9x9BruWHCFVYisWBkKlYEKykGCgmNqIQdF842Jqr0I%2FYu7lS2tNkum8vtArdhMzmrNMFHXax8NQSjXPlPS1sefaiZqmu0dbteAthClE5lG%2Fr%2B3Iu3dst2gZdigUh5BON&X-Amz-Signature=9179f5c2b8d5896ff76266ab0cda0588b7dc229d1ca5ade6be7dec5881bc1819&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/a9f03926ff038591b0cbc46f42cb77ee.png)
 
 ## **嘉盛集团的全球监管情况**
 

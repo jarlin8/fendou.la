@@ -1,14 +1,14 @@
 ---
-title: 嘉盛集团平台的强制平仓规则是怎样的？如何避免强制平仓？
-post_status: publish
-skip_file: no
-post_date: 2022-05-26T10:52:00.000Z
+title: "嘉盛集团平台的强制平仓规则是怎样的？如何避免强制平仓？"
+post_status: "publish"
+skip_file: "no"
+post_date: "2022-05-26T10:52:00.000Z"
 taxonomy:
   category:
         - forex-com
   post_tag:
         - 外汇黑平台
-post_excerpt: 
+post_excerpt: ""
 ---
 强制平仓，斩仓、被砍仓、爆仓都是一个意思。一般分为以下几种情形：
 
@@ -22,7 +22,7 @@ post_excerpt:
 
 在某种程度上也算是对投资者、交易者的保护。
 
-![Image](https://cdn.fendou.la/tuoss/forced-cang.jpg)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/c85c93353994ef744a441c57129f0aa5.jpg)
 
 ## 嘉盛集团的强制平仓规则是怎样的呢？
 
@@ -80,7 +80,7 @@ post_excerpt:
 
 风险管理究竟指什么？现在，我们将逐个为您解释这些金融交易核心概念。
 
-![Image](https://cdn.fendou.la/tuoss/PositionSizes.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/6bed84d744cd7b86a1c85d05aac575f9.png)
 
 避免强制平仓的仓位控制阀
 
@@ -122,7 +122,7 @@ post_excerpt:
 
 ### 4. 避免周末跳空
 
-![Image](https://cdn.fendou.la/tuoss/Managing%20your%20forex%20risks%20efficiently%20chart.png)
+![image](https://cdn.jsdelivr.net/gh/jarlin8/fendou.la@main/ssggnet/images/686ba50bc035a8f787e22487ed210dbb.png)
 
 导致强制平仓的跳空现象
 
@@ -130,7 +130,7 @@ post_excerpt:
 
 这就是市场价格“跳空”现象，会导致预设止损点或获利目标失效。获利目标失效带来的并不一定都是坏结果，而止损点失效则不然。一旦止损点失效，则订单命令被触发后，止损订单将按照市场流动性实际情况，以最优市场价执行。 这种情况下，交易者蒙受的损失可能远超其可承受水平。
 
-尽管跳空现象并不常见，但它确确实实存在，而且总会在措手不及时发生。如下图所示，有时，价格跳空幅度很大，如果止损点恰在该跳空范围内，则该止损点就会失效。要避免这一点并不难，只需在周末前退出所有交易即可，甚至，您也可以选用跳空交易技术利用跳空现象获利。要避免这一点并不难，只需在周末前退出所有交易即可，甚至，您也可以选用跳空交易技术利用[跳空现象](http://www.ssgg.net/slippage.html)获利。
+尽管跳空现象并不常见，但它确确实实存在，而且总会在措手不及时发生。如下图所示，有时，价格跳空幅度很大，如果止损点恰在该跳空范围内，则该止损点就会失效。要避免这一点并不难，只需在周末前退出所有交易即可，甚至，您也可以选用跳空交易技术利用跳空现象获利。要避免这一点并不难，只需在周末前退出所有交易即可，甚至，您也可以选用跳空交易技术利用[**跳空现象**](http://www.ssgg.net/slippage.html)获利。
 
 ### 5. 关注新闻
 
