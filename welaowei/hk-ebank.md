@@ -1,7 +1,7 @@
 ---
 title: "2026 大陆居民开香港银行账户全攻略：3 种方式 + 银行对比 + 内地见证网点速查"
 post_status: "publish"
-skip_file: "yes"
+skip_file: "no"
 post_date: "2023-12-28T14:47:00.000Z"
 taxonomy:
   category:
