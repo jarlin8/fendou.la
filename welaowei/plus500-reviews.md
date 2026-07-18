@@ -47,11 +47,9 @@ Plus500 是伦敦证券交易所主板上市、FTSE 250 成分股 Plus500 Ltd �
 
 ## 如何分辨假冒的 Plus500 钓鱼网站？
 
-<details><summary>常用假冒网站辨别方法</summary>
-
 **官方 Plus500 主站域名是 ****`plus500.com`****。** 任何额外插入字母、数字或换成 `.io`、`.online`、`.pro` 的变体，都要高度怀疑。英国 FCA 已多次警示假冒 Plus500 的克隆站，例如 `plus500un.com`、`p500.io`、`plus500pro.com`、`fxplus500.co.uk`、`p500.online`。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-## 官方与克隆对照
+### 官方与克隆对照
 
 | 核对项 | 官方特征 | 常见假冒特征 |
 | :--- | :--- | :--- |
@@ -62,17 +60,11 @@ Plus500 是伦敦证券交易所主板上市、FTSE 250 成分股 Plus500 Ltd �
 | 入金要求 | 走平台内正规入金渠道，不要求把钱打给个人 | 要求转账到私人账户、加密货币钱包，或先缴解冻费、手续费 [[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)] |
 | 推广方式 | 可从官网、应用商店官方页面进入 | 搜索广告、Telegram、WhatsApp、短信、冷呼叫、高收益带单链接 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
 
-## 五步快速核验
-
-## 1. 看地址栏，不点链接
+### 五步快速核验
 
 手动输入 `www.plus500.com`，不要点击邮件、短信、社交私信或搜索广告中的短链接。假站常用形近字，如数字 `0` 替字母 `o`、`1` 替 `l`，或在品牌名后加 `pro`、`un`、`fx`。[[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)]
 
-## 2. 查 SSL 证书主体
-
 点击浏览器地址栏锁图标，查看证书颁发给谁。正规站证书主体应与 Plus500 相关实体一致；证书显示无关公司、个人姓名，或只有廉价通用证书且域名可疑时，应立刻离开。HTTPS 本身不能证明网站合法，因为假站也可以申请证书。[[blog.csdn](https://blog.csdn.net/2301_81771576/article/details/152448143)]
-
-## 3. 到监管官网交叉验证
 
 打开 FCA Register，搜索 **Plus500UK Ltd** 或 FRN **509909**，核对：
 
@@ -86,8 +78,6 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 也可在 FCA 未授权企业警示页搜索 `Plus500`，核对当前域名是否已被点名。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-## 4. 核对入金与客服行为
-
 出现下列任一情况，优先按假站处理：
 
 * 要求把资金转到个人银行卡、支付宝、微信或私人加密钱包[[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)]
@@ -98,11 +88,9 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 * 页面文案充斥拼写错误、低质图片、紧急恐吓话术，例如账户即将冻结[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
-## 5. 用官方入口二次确认
-
 在伦敦证券交易所投资者关系页 `investors.plus500.com` 或官方 App 商店页面核对品牌信息。真 Plus500 是上市公司，公开资料可查；假站通常只有交易页，没有可核验的投资者披露。[[investors.plus500](https://investors.plus500.com/Reports/Presentation)]
 
-## 已曝光的假冒域名样本
+### 已曝光的假冒域名样本
 
 以下域名曾被监管或行业媒体点名，仅作识别参考，不构成完整黑名单：
 
@@ -116,7 +104,9 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 * `p500.online`：FCA 警示的最新克隆之一[[fastbull](https://www.fastbull.com/brokersview/news/fraudsters-impersonating-plus500-offer-trading-services-to-uk-investors-269238)]
 
-## 若已访问可疑站
+## 如何在FCA官网查询经纪商是否被克隆？
+
+### 若已访问可疑站
 
 1. 立刻停止输入密码、验证码和银行卡信息。[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
@@ -127,13 +117,10 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 1. 用杀毒软件全盘扫描，检查是否安装了远程控制软件。[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
 最稳妥的习惯是：**把 ****`plus500.com`**** 加入浏览器书签，只从书签进入**；任何客服、代理或广告发来的登录链接，一律回到书签自行打开后再操作。
-</details>
-
-<details><summary>如何在FCA官网查询经纪商是否被克隆？</summary>
 
 在 FCA 官网查是否被克隆，核心是**同时核对真公司登记信息与未授权警示名单**，不要只看公司名或 FRN 是否存在。克隆站会盗用真公司名称、地址甚至监管号，但网站、电话、邮箱通常不同。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-## 方法一：Firm Checker（最适合个人）
+### 方法一：Firm Checker（最适合个人）
 
 1. 打开 FCA 官网：`https://www.fca.org.uk/`
 
@@ -149,7 +136,7 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 任何一项不一致，例如域名多了 `pro`、`un`，或邮箱变成 Gmail，都应按克隆处理。若 Firm Checker 上没有联系方式，或对方声称登记信息过期，可致电 FCA 消费者热线 **0800 111 6768** 核实。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-## 方法二：Financial Services Register（信息更全）
+### 方法二：Financial Services Register（信息更全）
 
 1. 打开 FS Register：`https://register.fca.org.uk/s/`
 
@@ -161,7 +148,7 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 克隆公司常出现在未授权企业名单中，并标注 **Clone of FCA authorised firm**。[[fca.org](https://www.fca.org.uk/firms/financial-services-register)]
 
-## 方法三：Warning List（查已知假公司）
+### 方法三：Warning List（查已知假公司）
 
 1. 打开未授权企业警示名单：
 
@@ -173,11 +160,7 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 名单上找不到，不等于安全。FCA 明确说明：名单只收录已知案例，新克隆可能尚未被列入。因此仍须回到 Firm Checker 或 Register 做对照。[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
-## 实操核对清单
-
-| 核对项 | 正确做法 | 克隆常见破绽 |
-| :--- | :--- | :--- |
-
+### 实操核对清单
 
 | 核对项 | 正确做法 | 克隆常见破绽 |
 | :--- | :--- | :--- |
@@ -188,7 +171,7 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 | 业务权限 | 有你需要的产品权限 | 声称做外汇/CFD，但 Permissions 里没有对应权限 [[fca.org](https://www.fca.org.uk/firms/financial-services-register)] |
 | 警示标记 | 真公司页无 clone 警告 | 条目标题含 Clone of FCA authorised firm [[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)] |
 
-## 建议查询顺序
+### 建议查询顺序
 
 1. 用 **Firm Checker** 查真公司是否授权，并抄下官方联系方式。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
@@ -201,13 +184,12 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 1. 若已怀疑被骗，停止转账，联系银行，并向 FCA 报告：电话 **0800 111 6768**，或通过官网联系表单。[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
 查询时始终确认浏览器地址栏是 `fca.org.uk` 或 `register.fca.org.uk`，避免打开仿冒的监管查询页。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
-</details>
 
-<details><summary>FCA 监管下的资金补偿计划（FSCS）如何理赔？</summary>
+## FCA 监管下的资金补偿计划（FSCS）如何理赔？
 
 **FSCS 不是自动全额赔付交易亏损的保险。** 它只在英国受监管公司无力偿还客户合法债权时，向合格索赔人支付有限补偿。对 CFD 或外汇账户，常见情形是经纪商进入违约状态，且客户资金隔离账户出现缺口。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
 
-## 先确认是否符合资格
+### 先确认是否符合资格
 
 索赔通常需同时满足这些条件：
 
@@ -223,7 +205,7 @@ FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站�
 
 FSCS 明确不赔偿投资表现不佳或交易本身的亏损。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
 
-## 投资类赔偿上限
+### 投资类赔偿上限
 
 | 公司违约时间 | 每人每家公司上限 |
 | :--- | :--- |
@@ -233,13 +215,9 @@ FSCS 明确不赔偿投资表现不佳或交易本身的亏损。[[fscs.org](htt
 
 限额按**每人每家授权公司**计算，不是按每个账户。超过上限的部分通常只能作为破产程序中的普通债权人继续追偿。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
 
-## 理赔流程
-
-## 1. 确认公司是否已进入 FSCS 处理
+### 理赔流程
 
 访问 `www.fscs.org.uk`，在失败公司名单中搜索经纪商全称或 FRN。只有 FSCS 宣布该公司 default 后，才会正式开放投资类索赔。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
-
-## 2. 准备材料
 
 建议提前整理：
 
@@ -257,8 +235,6 @@ FSCS 明确不赔偿投资表现不佳或交易本身的亏损。[[fscs.org](htt
 
 这些材料用于证明你是客户、余额多少、资金路径是否清晰。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
 
-## 3. 在线提交索赔
-
 1. 打开 `https://www.fscs.org.uk/`
 
 1. 进入 **Make a claim**
@@ -273,19 +249,11 @@ FSCS 明确不赔偿投资表现不佳或交易本身的亏损。[[fscs.org](htt
 
 FSCS 可要求你把对失败公司的法律权利**转让**给 FSCS，之后由 FSCS 代位追偿；若追回金额超过已付赔偿，差额应退还给你。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
 
-## 4. 等待审核与付款
-
 FSCS 会核验资格、保护范围、损失计算和限额。符合条件后，通常通过银行转账支付。处理时间因案件复杂程度而异；规则要求在满足条件后按规定时限支付，但调查、清算配合、跨境材料可能延长周期。[[handbook.fca.org](https://www.handbook.fca.org.uk/handbook/COMP/INTRO/A/?view=chapter)]
-
-## 5. 对结果有异议
 
 若索赔被拒或部分赔付，可按 FSCS 通知中的程序申请复核，并保留全部证据。必要时可咨询英国金融申诉专员服务或专业律师，但这与 FSCS 本身是不同渠道。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
 
-## 对 CFD 或外汇客户的特别提醒
-
-| 问题 | 说明 |
-| :--- | :--- |
-
+### 对 CFD 或外汇客户的特别提醒
 
 | 问题 | 说明 |
 | :--- | :--- |
@@ -295,7 +263,7 @@ FSCS 会核验资格、保护范围、损失计算和限额。符合条件后，
 | 中国客户常见风险 | 若实际签约的是集团离岸实体，而不是英国 FCA 实体，通常不能直接适用 FSCS。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
 | 专业客户 | 转为专业客户后，可能失去部分零售保护，FSCS 资格也可能受影响，需逐案核验。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
 
-## 实用联系方式
+### 实用联系方式
 
 * 官网：`https://www.fscs.org.uk/`
 
@@ -304,4 +272,3 @@ FSCS 会核验资格、保护范围、损失计算和限额。符合条件后，
 * 邮寄：Financial Services Compensation Scheme, 10th Floor, Beaufort House, 15 St Botolph Street, London EC3A 7QU[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
 
 开户前就应确认客户协议中的**英国法人全称与 FRN**，并保存完整出入金记录。一旦经纪商出现无法出金、进入清算或监管介入，先到 FSCS 官网查是否已列入失败公司，再按在线流程提交索赔。
-</details>
