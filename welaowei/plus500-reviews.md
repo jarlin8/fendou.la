@@ -1,194 +1,307 @@
 ---
-title: Plus500 是黑平台吗?资金安全评测
-post_status: publish
-skip_file: no
-custom_fields:
-  rank_math_title: "%title% %sep% %sitename%"
+title: "Plus500 是黑平台吗?资金安全评测"
+post_status: "publish"
+skip_file: "no"
+post_date: "2023-12-28T14:47:00.000Z"
 taxonomy:
   category:
         - forex-college
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
-![Image](https://testingcf.jsdelivr.net/gh/jarlin8/img@main/FxLogos/Plus500.png)
-
-plus500嘉伍佰在线交易平台
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/welaowei/images/8f27fbf3ce14321dfe4de1cf2c90d8fe.png)
 
 **风险警告：**请记住，差价合约是一种杠杆产品，可能会导致你的全部资本损失。差价合约交易可能不适合你。请确保你完全了解其中的风险。在使用我们的服务之前，请考虑我们的风险披露声明和用户协议。
 
 [wpsm_woobox id=20638]
 
-plus500 成立于 2008 年，同年，plus500 Group 推出了基于 PC 的在线交易平台。
+Plus500 是伦敦证券交易所主板上市、FTSE 250 成分股 Plus500 Ltd 旗下的老牌 CFD 服务商,从合规资质看,它不属于问题平台。但它把交易服务拆在多家彼此独立的法律实体下:英国用户签 Plus500UK(FCA 监管),欧盟用户签 Plus500EE(爱沙尼亚),一部分国际用户会被导向 Plus500SEY(塞舌尔),而这几家的赔付保障差距极大。它不接受中国大陆居民注册。所以你在首页看到的 FCA,大概率不是你账户真正适用的那一张。本文事实核查于 2026 年 7 月。
 
-* 2009 年，plus500 Group 提供无任何佣金的股票差价合约。
+我第一次帮朋友看这个平台,是他截了张官网图问我靠不靠谱。图上并排挂着 FCA、CySEC、ASIC 五个监管标志,他说这么多牌照总归稳了吧。我让他先别看首页,去翻开户时弹出的那份客户协议,看开头第一段写的是哪家公司。翻完他愣住了,签约方既不是 Plus500 Ltd,也不是 Plus500UK。
 
-* 2010 年，它推出了网络版的交易平台，向使用 Linux、Mac 或智能手机的用户开放了在线交易的能力。也是在这一年，plus500 将 ETF 加入其交易组合。
+**你担心的从来不是 Plus500 这个品牌,而是你的钱最终签给了它旗下哪一家公司。**
 
-* 2011 年，plus500 集团每个月的交易量超过 200 万笔。这一年，推出了第一款 iPad 和 iPhone 应用程序，让客户可以随时随地完全控制。随后，plus500 成为苹果应用商店中评分最高的差价合约交易应用程序。同样在 2011 年，plus500 增加了其国际投资组合，包括来自全球市场的 1,000 多只不同股票。
+| 你实际签的实体 | 监管 / 牌照 | 保护力度 |
+| :--- | :--- | :--- |
+| Plus500UK Ltd | FCA(FRN 509909) | FSCS 最高 £120,000 |
+| Plus500CY Ltd | CySEC(250/14) | ICF 最高 €20,000 |
+| Plus500EE AS | 爱沙尼亚 EFSA;欧盟用户的发行方 | ICF 体系 |
+| Plus500AU Pty Ltd | ASIC(AFSL 417727)等 | 无零售赔付基金 |
+| Plus500SEY Ltd | 塞舌尔 FSA(SD039) | 基本无对等保护 |
+| Plus500US LLC | CFTC / NFA(仅美国期货) | 不做 CFD |
 
-* 2012 年，plus500 集团的安卓智能手机和平板电脑应用到来，也是在这一年，plus500 集团提出了成为全球顶级差价合约交易公司的目标。
+大多数人把监管理解错了一层。监管牌照约束的是一个具体的法律实体,不是一个商标。Plus500 Ltd 是在伦交所上市的集团母公司,它负责对股东披露业绩,并不直接持有你的零售账户。真正和你签协议、持有你资金的,是下面某一家子公司:英国是 Plus500UK Ltd,受 FCA 监管,牌照号 509909,英国合资格零售客户受 FSCS 保护,单一机构破产时最高赔付 12 万英镑;塞浦路斯是 Plus500CY Ltd,牌照号 250/14,走欧盟 ICF,上限约 2 万欧元;而塞舌尔的 Plus500SEY,几乎没有对等的零售赔付基金。同一个 Plus500 的界面背后,你的钱可能落在保护力度差好几个量级的实体里。
 
-* 2013 年，**plus500 集团在伦敦证券交易所 AIM 版块上市**。也是在这一年，plus500 向全球推出了第一个比特币差价合约，创造了历史。
+这件事对中文读者尤其关键,因为 Plus500 不接受中国大陆居民注册。这意味着你几乎不可能签到那家挂着 FCA 的 Plus500UK。你能签到哪家,取决于你注册时提交的居住地,而不是首页展示了几张牌照。把首页的监管标志当成自己账户的保障,是最常见也最贵的一次误读。
 
-* 2014 年 2 月 26 日，plus500 有限公司在伦敦证券交易所 AIM 版块的市场估值达到 10 亿美元。这一年，plus500 还推出了担保止损机制。
+顺着这条线,还有一个被官网参数带偏的地方:杠杆。原始资料里常写最大杠杆 300,但受 FCA、CySEC、ASIC 监管的零售账户,主要外汇杠杆被限制在 30:1 一带,黄金和指数更低。300:1 这种数字只出现在离岸实体。换句话说,**能给你高杠杆的那家公司,往往正是保护最弱的那家**。高杠杆和强监管很少同时落在同一个账户上,这不是巧合,是监管设计的结果。
 
-* 2016 年，plus500 引入了展期功能，增加了期权的 CFDs，并推出了新的 Web Trader，兼容移动和桌面设备。
+再说成本,这也是 Plus500 容易被低估的一块。它不收佣金,主要靠点差获利,这也意味着它是你的交易对手方,而不是把单子撮合到外部市场的中介。除了浮动点差,有几笔费用值得你在开仓前就算进去:持仓过夜按公式计收隔夜费;账户货币与交易品种货币不一致时,按最高 0.70% 收取货币转换费;保证止损单虽然能锁死最坏亏损,但点差更宽;账户连续三个月不登录,每月最高扣 10 美元不活跃费。这些数字单看都不大,叠加在高频或长期持仓上就会明显啃掉收益。
 
-* 2017 年，plus500 集团与 2017 年澳大利亚超级橄榄球大会冠军“plus500 Brumbies”达成赞助协议。
+如果你打算真的用它,核验只要三步。第一步,开户前把客户协议拉到最上面,确认签约主体是哪家 Plus500 实体。第二步,拿协议里的牌照号去对应监管机构的公开数据库反查,FCA 查 509909,CySEC 查 250/14,确认状态有效且业务范围覆盖 CFD。第三步,确认你所在地区被导向的实体,是否提供对等的客户资金隔离和赔付安排。这三步做完,你才知道自己面对的到底是英国那套规则,还是离岸那套。
 
-2018 年至今，plus500 有限公司的普通股已经在伦敦证券交易所上市公司主板市场上市交易，并加入了英国富时 250 指数，成为领先的中型市值上市公司。
+核验通过,也不等于没有风险。CFD 是杠杆产品,方向做反时亏损会被放大;市场跳空时,普通止损只能按下一个可用价格成交,滑点无法避免;负余额保护能挡住穿仓,但挡不住你在正常波动里持续亏掉本金。这些是产品本身的属性,和平台是否正规无关。
 
-## plus500 上交易哪些资产？
+**判断 Plus500 值不值得用,先别数它有几张牌照,先弄清楚你会签给哪一家,以及那一家能给你多少保护。**
 
-plus500 支持交易指数、加密货币、大宗商品、股票、期权和 ETF 的**差价合约**。
+## 如何分辨假冒的 Plus500 钓鱼网站？
 
-总共超过 2,000 种交易工具可在 plus500 平台进行交易。
+<details><summary>常用假冒网站辨别方法</summary>
 
-其网站上有一份完整的交易工具列表，这个列表包括 32 种指数、22 种商品、19 种加密货币、65 种外汇对、96 种 ETF、各种股票和期权。
+**官方 Plus500 主站域名是 ****`plus500.com`****。** 任何额外插入字母、数字或换成 `.io`、`.online`、`.pro` 的变体，都要高度怀疑。英国 FCA 已多次警示假冒 Plus500 的克隆站，例如 `plus500un.com`、`p500.io`、`plus500pro.com`、`fxplus500.co.uk`、`p500.online`。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-对加密货币有浓厚兴趣的交易者可以在 plus500 上交易加密货币对，包括 ETH/BTC、BTC/USD、LTC/USD、ETH/USD、NEO/USD、IOT/USD 和 EOS/USD。
+## 官方与克隆对照
 
-支持比特币、Ethereum（以太坊）、莱特币、NEO、Ripple（瑞波币）、IOTA、Monero 和 EOS 等。
+| 核对项 | 官方特征 | 常见假冒特征 |
+| :--- | :--- | :--- |
+| 域名 | `https://www.plus500.com/` 及地区路径，如 `/en/`、`/zh/` | `plus500un.com`、`p500.io`、`plus500pro.com`、`p500.online` 等 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
+| 监管号 | 英国实体 Plus500UK Ltd，FCA FRN **509909** | 抄写同一监管号，但域名与 FCA 登记网址不符 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
+| 地址 | 以 FCA 登记地址为准，例如 8 Angel Court, Copthall Avenue, London EC2R 7HJ | 地址拼写错误、与监管官网不一致，或只写模糊办公地址 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
+| 客服邮箱 | 官方域名邮箱，如 `compliance@plus500.co.uk`、`support@plus500.com` | `@gmail.com`、`@outlook.com` 或与网站域名不一致的邮箱 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
+| 入金要求 | 走平台内正规入金渠道，不要求把钱打给个人 | 要求转账到私人账户、加密货币钱包，或先缴解冻费、手续费 [[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)] |
+| 推广方式 | 可从官网、应用商店官方页面进入 | 搜索广告、Telegram、WhatsApp、短信、冷呼叫、高收益带单链接 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
 
-## 使用 plus500 进行交易，您必须知道的！
+## 五步快速核验
 
-交易者应注意：根据 plus500 用户协议，对冲、剥头皮或被视为内幕交易或其他类型的市场滥用的交易。
+## 1. 看地址栏，不点链接
 
-如果您使用了禁止的交易方式，plus500 有权取消交易并关闭您的账户。
+手动输入 `www.plus500.com`，不要点击邮件、短信、社交私信或搜索广告中的短链接。假站常用形近字，如数字 `0` 替字母 `o`、`1` 替 `l`，或在品牌名后加 `pro`、`un`、`fx`。[[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)]
 
-**负余额保护：**您的损失不可能超过您账户中的资金。plus500 提供保证金追加，以避免此情况。保證金催繳是指如果您的資產淨值降至低於維持保證金的要求，plus500 會關閉您的任何或所有未平倉合約。
+## 2. 查 SSL 证书主体
 
-## plus500 的保证金交易
+点击浏览器地址栏锁图标，查看证书颁发给谁。正规站证书主体应与 Plus500 相关实体一致；证书显示无关公司、个人姓名，或只有廉价通用证书且域名可疑时，应立刻离开。HTTPS 本身不能证明网站合法，因为假站也可以申请证书。[[blog.csdn](https://blog.csdn.net/2301_81771576/article/details/152448143)]
 
-plus500 上的交易是在保证金的情况下进行的，因此交易者必须了解保证金的计算方法。
+## 3. 到监管官网交叉验证
 
-请记住，初始和维持保证金水平的保证金要求因每种金融工具而异。plus500 在其 FAQ 部分提供了这些计算的简单说明。
+打开 FCA Register，搜索 **Plus500UK Ltd** 或 FRN **509909**，核对：
 
-初始保证金是开仓价格乘以交易规模乘以初始保证金百分比。维持保证金是开仓价格乘以交易规模乘以维持保证金百分比。
+* 公司状态为 Authorised
 
-## plus500 的模拟账户
+* 登记网站是否为 `plus500.com`
 
-Plus500 **提供了一个模拟账户**，使用该账户完全没有风险，因为您在使用该账户时不会损失任何资金。
+* 注册地址与电话是否与页面底部一致
 
-模拟账户是免费的，您可以在注册时选择这种类型的账户。你会注意到真钱账户和模拟账户的唯一区别是，在模拟账户中，你并没有真正用真钱进行交易。
+FCA 明确写过：真公司网站是 `https://www.plus500.com/en/`，克隆站会盗用名称、电话、地址甚至 FRN。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-其他一切，从市场条件到平台设置，都是相同的。
+也可在 FCA 未授权企业警示页搜索 `Plus500`，核对当前域名是否已被点名。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-为了帮助您了解平台、交易差价合约，如果模拟账户的余额降至 200 欧元（或等值），交易者可以将其重新充值至 40 000 欧元。
+## 4. 核对入金与客服行为
 
-模拟账户也**没有时间限制**，这是 plus500 区别于许多竞争对手的一个特点。方便的是，您可以在模拟账户和真钱账户之间进行切换。
+出现下列任一情况，优先按假站处理：
 
-这让您可以在模拟账户中磨练更复杂的交易或策略的技能，同时在真实账户中投资真钱。在账户类型之间切换的选项将出现在应用程序菜单或主平台屏幕上。
+* 要求把资金转到个人银行卡、支付宝、微信或私人加密钱包[[cloud.tencent](https://cloud.tencent.com/developer/article/2631079)]
 
-## plus500 的账户类型
+* 未完成正规 KYC 却催促大额入金，或出金时要求先缴税费、解冻费
 
-plus500 建议客户只开立一个交易账户，公司保留关闭任何后续开立账户的权利。
+* 客服主动加私人聊天软件，并索要密码、验证码、远程控制权限
 
-如果 plus500 允许开设一个额外的交易账户，客户资金**不能在相关账户之间转移**，它们必须独立运作。
+* 页面文案充斥拼写错误、低质图片、紧急恐吓话术，例如账户即将冻结[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
-请注意，在 plus500 中，您只能使用个人交易账户，**不提供企业或公司账户**。
+## 5. 用官方入口二次确认
 
-## plus500 账户验证
+在伦敦证券交易所投资者关系页 `investors.plus500.com` 或官方 App 商店页面核对品牌信息。真 Plus500 是上市公司，公开资料可查；假站通常只有交易页，没有可核验的投资者披露。[[investors.plus500](https://investors.plus500.com/Reports/Presentation)]
 
-为了账户安全，plus500的客户必须验证账户有效性。这需要验证姓名、住址、出生日期、电子邮件地址、电话号码和付款方式。要验证电话号码，请进入账户页面并点击“验证账户”。在“验证手机”选项旁，点击“验证”，输入电话号码（不包括国家代码），然后选择“拨打我的手机”或“给我发短信”。
+## 已曝光的假冒域名样本
 
-您会收到一个三位数的代码，请在账户页面输入此代码。验证plus500账户可能还需提供身份证明、地址证明和资金来源证明文件。身份证明需是政府发放的有效证件，包含身份证号、照片、全名、出生日期和有效期。地址证明应包含您的全名和地址，由公用事业公司、金融机构、司法或政府机构签发。可选文件包括网络账单、电视服务账单、电话账单、税务信函、煤气/水费账单、电费账单、银行对账单、信用卡账单等。
+以下域名曾被监管或行业媒体点名，仅作识别参考，不构成完整黑名单：
 
-上传文件时，请访问账户页面，选择“验证账户”或“上传文件”，也可通过手机应用操作。若需更新账户信息，可联系plus500并说明更改信息及原因。plus500将审查您的请求，并通知是否需要其他文件。
+* `www.plus500un.com`：FCA 认定克隆 Plus500UK Ltd[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-## plus500 出金渠道
+* `p500.io`：仿冒官网页面与法律信息[[financefeeds](https://financefeeds.com/plus500-clone-draws-attention-of-uks-financial-watchdog/)]
 
-如果您使用信用卡或借记卡存款，您可能需要上传您的卡的扫描件或照片、银行的文件或信用卡对账单。
+* `plus500pro.com`：以 Plus 500 Pro 名义运营[[leaprate](https://www.leaprate.com/financial-services/rules-and-regulation/fca-warns-against-plus-500-pro-firm/)]
 
-如果是银行转账，您可能需要上传付款证明的照片或扫描件或银行对账单。
+* `www.fxplus500.co.uk`：冒充授权经纪商[[financemagnates](https://www.financemagnates.com/forex/uk-flags-plus500-clone-italy-blocks-xtb-empire-3-others/)]
 
-对于 Skrill 和 PayPal，plus500 会在几个工作日内或立即进行在线验证。
+* `p500.online`：FCA 警示的最新克隆之一[[fastbull](https://www.fastbull.com/brokersview/news/fraudsters-impersonating-plus500-offer-trading-services-to-uk-investors-269238)]
 
-## plus500 存款入金
+## 若已访问可疑站
 
-在大多数情况下，**plus500 将承担与存款相关的任何支付处理费用**。在极少数情况下，您可能会因将资金转入或转出 plus500 帐户而产生费用，但这些费用并非来自 plus500，而是来自您的银行或支付发行人。
+1. 立刻停止输入密码、验证码和银行卡信息。[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
-这些情况包括：当您使用国际信用卡并通过国外收单机构处理交易时，在银行转入或转出的情况下，以及在外汇兑换的情况下，如果您存入所选支付方式不支持的货币。
+1. 若已输入登录信息，马上用另一台设备改密码，并启用二次验证。[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
-使用 Plus500 交易时没有存款和取款费用。
+1. 若已转账，保留聊天记录、转账凭证、域名截图，联系收款银行或支付机构申请拦截，并向当地警方及监管机构报告。[[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)]
 
-## plus500 成本费用
+1. 用杀毒软件全盘扫描，检查是否安装了远程控制软件。[[kaspersky.com](https://www.kaspersky.com.hk/resource-center/preemptive-safety/how-to-spot-fake-login-pages)]
 
-大多数Plus500服务是免佣金的。这包括存款、实时报价、实时股票CFD价格、开仓或平仓交易、持续头寸和动态图表。该公司主要通过买卖价差（点差）盈利。
+最稳妥的习惯是：**把 ****`plus500.com`**** 加入浏览器书签，只从书签进入**；任何客服、代理或广告发来的登录链接，一律回到书签自行打开后再操作。
+</details>
 
-尽管如此，Plus500仍提供业内极具竞争力的点差，这得益于其内部监控系统。
+<details><summary>如何在FCA官网查询经纪商是否被克隆？</summary>
 
-您可以登录账户，搜索感兴趣的工具，点击详情图标（i）来查看Plus500的点差。
+在 FCA 官网查是否被克隆，核心是**同时核对真公司登记信息与未授权警示名单**，不要只看公司名或 FRN 是否存在。克隆站会盗用真公司名称、地址甚至监管号，但网站、电话、邮箱通常不同。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-在某些情况下，Plus500可能会收取额外费用，具体取决于交易活动。对于以非账户货币计价的交易，将收取货币转换费。
+## 方法一：Firm Checker（最适合个人）
 
-持仓过夜需要支付费用，这将根据持仓时间从您的账户中扣除或加入。
+1. 打开 FCA 官网：`https://www.fca.org.uk/`
 
-使用保证止损单可以降低风险，确保以特定汇率平仓，但这会导致点差大于普通订单。
+1. 进入 **FCA Firm Checker**：`https://www.fca.org.uk/consumers/fca-firm-checker`
 
-此外，若账户三个月内未登录交易平台，Plus500将收取最高10美元的非活动费。
+1. 用**公司全称**或 **FRN** 搜索，例如 Plus500UK Ltd / 509909
 
-## plus500 风险管理工具
+1. 选择对方声称提供的产品或服务
 
-由于交易差价合约（CFD）和外汇具有较高风险，plus500提供了多种工具帮助降低风险。首先，您可以设置盈利平仓（限价）或亏损平仓（止损）订单。这些订单可以在您开仓或修改现有仓位时设定，允许您自动平仓以保护利润或减少损失。但请注意，由于市场价格的快速变动，这些订单可能无法按照您设定的价格执行，可能会以下一个可用的价格平仓。
+1. 确认状态为 **Authorised**，且具备相应业务权限
 
-此外，plus500提供的风险管理功能是免费的，可以帮助您锁定利润和限制损失。保证止损与普通止损类似，但提供了对潜在亏损的绝对限制。即使市场对您不利，您的头寸也会在指定价格自动平仓，且不会出现滑点。但保证止损仅适用于特定工具，且不能添加到现有订单中，只能在新订单上设置。保证止损单在激活或编辑时需要交易工具处于开放状态，且无法在活动中删除，不同于普通止损单。此外，保证止损单需要支付额外的点差费用，该费用在下单前会明确显示，且不可退还。要使用保证止损，您的设置必须与交易工具的当前价格有一定距离。虽然点差较大，但它限制了您的最大损失。
+1. 核对该页列出的**网站、电话、邮箱、地址**是否与你手里的链接或名片完全一致[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-**plus500还提供跟踪止损策略，帮助您锁定利润**。只要市场价格对您有利，跟踪止损就会保持订单开放。当价格反转并超过您设定的点数时，订单会自动关闭。跟踪止损允许您设置亏损平仓订单，随市场走势自动更新，但当市场不利时会激活。由于滑点，不能保证跟踪止损总能在准确的平仓水平执行，但此功能也是免费提供的。
+任何一项不一致，例如域名多了 `pro`、`un`，或邮箱变成 Gmail，都应按克隆处理。若 Firm Checker 上没有联系方式，或对方声称登记信息过期，可致电 FCA 消费者热线 **0800 111 6768** 核实。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-## plus500 交易者预警
+## 方法二：Financial Services Register（信息更全）
 
-为减少交易损失，Plus500提供设置各种警报功能。这些警报免费、易用，可在所有设备上设置。在交易屏幕上点击铃铛图标或应用菜单中的“警报”标签来管理警报。设置时，选定工具旁的图标，指定警报细节如数值，满足条件即收实时通知，可通过推送、邮件或短信发送。价格提醒在达到指定买卖价时通知，变化百分比警报在价格变动达特定水平时通知。警报可设为日或月重复，交易员情绪警报在达到特定买卖比例时触发。
+1. 打开 FS Register：`https://register.fca.org.uk/s/`
 
-## plus500 安全和隐私功能
+1. 在搜索框输入公司名、交易名称或 FRN
 
-plus500 并没有提供大量关于其安全协议的信息，但确实表示他们采用了多种方法来维护其平台的完整性，这些方法包括使用安全套接字层（SSL）加密。
+1. 点进真公司详情页，重点查看：
 
-由于平台服务的性质，plus500 处理了大量的敏感数据，如个人身份证件，以及信用卡和银行细节，所有提交到公司网站或平台的数据在传输过程中都会进行加密，这极大地阻碍了客户数据被恶意行为者拦截和滥用的可能性。
+1. 把详情页里的官方网址，与你浏览器地址栏里的域名逐字对比[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-在客户资金方面，plus500 将所有客户资金存储在独立的银行账户中，不对零售客户的资金进行投资，而是使用自己的储备金进行对冲。
+克隆公司常出现在未授权企业名单中，并标注 **Clone of FCA authorised firm**。[[fca.org](https://www.fca.org.uk/firms/financial-services-register)]
 
-## plus500 适合交易新手吗？
+## 方法三：Warning List（查已知假公司）
 
-作为CFD和杠杆交易领头羊，plus500吸引众多关注，提供2000多种交易工具。CFD交易复杂，不适新手，可能导致巨额亏损。差价合约基于其他资产价值，如黄金CFD随黄金价格波动。交易者实际未持有基础资产，如加密货币CFD。差价合约以资产价格差赚取收益。CFD风险较高，适合经验丰富者。plus500提供多功能交易平台，支持多市场操作，技术分析和实时报价。平台有网页、桌面版和移动应用，支持32种语言，提供全天候电邮和即时聊天，但无电话支持。平台还有价格警报、投资组合和费用报告功能。
+1. 打开未授权企业警示名单：
 
-## plus500 客戶支持
+1. 用对方**公司名、品牌名、完整域名**搜索
 
-在可以使用 plus500 的大多数国家和地区，平台通过电子邮件和实时聊天提供 24/7 支持。
+1. 若结果写明 **Clone of FCA authorised firm**，即可确认是假冒站
 
-大多数问题将通过 FAQ 部分回答，该部分有一个搜索栏和账户验证流程、存款、费用和收费、金融工具、开立账户、监管机构、提交财务文件、交易和提款的分类。许多常见问题的解答还包括视频，向您展示平台。
+1. 点开条目，核对假站使用的网址、电话、邮箱，以及它冒充的真公司 FRN[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
-如果您在该页面上没有找到您的问题的解决方案，请转到常见问题页面左侧的类别下面。
+名单上找不到，不等于安全。FCA 明确说明：名单只收录已知案例，新克隆可能尚未被列入。因此仍须回到 Firm Checker 或 Register 做对照。[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
-在这里，你会看到一个给客户支持发邮件的按钮和一个开始在线聊天的按钮。
+## 实操核对清单
 
-你可以在第一时间通过主导航栏上的“公司”选项卡或点击页面右下角“**24/7 支持**”的浮动按钮进入 FAQ 页面。
+| 核对项 | 正确做法 | 克隆常见破绽 |
+| :--- | :--- | :--- |
 
-## 嘉伍佰 plus500 是黑平台吗？
 
-plus500 是一家受监管的交易平台，在伦敦设有办事处，有 2,000 多种工具可供交易。可以通过网络浏览器或其移动应用程序 plus500 进行交易。plus500 交易平台专注于差价合约，提供外汇差价合约，加密货币、指数、商品、股票、期权和 ETF。 plus500 平台使用起来相当简单，24/7 的客户支持。 需要注意的是，差价合约交易，尤其是使用杠杆的交易并不适合初学者。您应该对市场如何运作有很强的知识基础，并在开始之前进行全面的研究，我们建议您先利用模拟账户。 plus500UK Ltd 受 FCA 监管的事实是一个巨大的优势，这个交易平台在英国法律范围内正常运作。plus500 Ltd 公司还在伦敦证券交易所上市，这将再次向您保证这是一家大型合法公司，不是黑平台。
+| 核对项 | 正确做法 | 克隆常见破绽 |
+| :--- | :--- | :--- |
+| 公司名与 FRN | 与 Register 完全一致 | 名称相似，或 FRN 抄真公司但域名不同 [[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)] |
+| 官方网站 | 只用 Register / Firm Checker 列出的网址 | `plus500un.com`、`p500.io` 这类变体域名 [[fca.org](https://www.fca.org.uk/news/warnings/wwwplus500uncom-clone-fca-authorised-firm)] |
+| 电话与邮箱 | 用登记页上的联系方式回拨/回邮 | 私人邮箱、未知号码、聊天软件私聊 [[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)] |
+| 地址 | 与登记地址一致 | 地址拼写错误，或与真公司不同楼层/城市 [[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)] |
+| 业务权限 | 有你需要的产品权限 | 声称做外汇/CFD，但 Permissions 里没有对应权限 [[fca.org](https://www.fca.org.uk/firms/financial-services-register)] |
+| 警示标记 | 真公司页无 clone 警告 | 条目标题含 Clone of FCA authorised firm [[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)] |
 
-## 嘉伍佰 plus500 是哪里的监管？
+## 建议查询顺序
 
-金融行为监管局 ([FCA](https://www.fca.org.uk/)) 授权并监管 plus500 UK Ltd 提供 FRN 509909 的[差价合约](https://baike.baidu.com/item/%E5%B7%AE%E4%BB%B7%E5%90%88%E7%BA%A6/1100973)。 plus500 UK Ltd 是 plus500 Ltd 的子公司，plus500 Ltd 在伦敦证券交易所上市公司主市场上市，总部位于海法。 在世界各地，plus500 受其他机构的监管有：
+1. 用 **Firm Checker** 查真公司是否授权，并抄下官方联系方式。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-* Plus500UK Ltd 由 FCA 授权和监管 ( #509909 )。
+1. 用 **FS Register** 细查 FRN、地址、网站、权限。[[fca.org](https://www.fca.org.uk/firms/financial-services-register)]
 
-* Plus500CY Ltd 由 CySEC ( #250 /14) 授权和监管。
+1. 用 **Warning List** 搜索对方给你的域名、公司名和电话。[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
-* Plus500SG Pte Ltd，获得 MAS (#CMS100648-1) 。
+1. 只通过 Register 上的官网登录或开户，不要点击邮件、短信、广告里的链接。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
 
-* Plus500SEY Ltd 由塞舌尔金融服务管理局授权和监管（许可证编号 SD039）。
+1. 若已怀疑被骗，停止转账，联系银行，并向 FCA 报告：电话 **0800 111 6768**，或通过官网联系表单。[[fca.org](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)]
 
-* Plus500AU Pty Ltd (ACN 153301681)，许可方：澳大利亚 ASIC AFSL 417727。FMA 新西兰 FSP 486026，南非授权金融服务提供商 FSP 47546。 **您不拥有标的资产或对标的资产不享有任何权利。请参阅网站上提供的披露档。**
+查询时始终确认浏览器地址栏是 `fca.org.uk` 或 `register.fca.org.uk`，避免打开仿冒的监管查询页。[[fca.org](https://www.fca.org.uk/consumers/clone-firms-individuals)]
+</details>
 
-## 嘉伍佰 plus500 是否值得信赖？
+<details><summary>FCA 监管下的资金补偿计划（FSCS）如何理赔？</summary>
 
-plus500 采取额外措施，确保客户资金始终受到保护。 实现这一目标的最重要步骤之一是以隔离方式持有客户资金，因为这遵循了金融行为监管局的客户资金规则。
+**FSCS 不是自动全额赔付交易亏损的保险。** 它只在英国受监管公司无力偿还客户合法债权时，向合格索赔人支付有限补偿。对 CFD 或外汇账户，常见情形是经纪商进入违约状态，且客户资金隔离账户出现缺口。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
 
-* Plus500SEY不会使用客户资金进行对冲、投资或任何商业活动。
+## 先确认是否符合资格
 
-* Plus500SEY将所有客户资金存放于独立的客户银行账户中。
+索赔通常需同时满足这些条件：
 
-* Plus500SEY不会在市场上发起任何投机性交易。
+* 你是**合格索赔人**，一般为个人或小型企业。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+* 对方是 FCA 或 PRA 授权的**相关公司**，且该业务属于受保护活动。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
+
+* 你的损失属于**受保护索赔**，例如客户资金短缺、不良投资建议导致的损失，而不是正常的市场波动亏损。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
+
+* 该公司已被 FSCS 宣布为 **in default**，即无力或很可能无力偿付。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+* 你在规定时限内提出索赔，通常为自对相关公司产生索赔权之日起 **6 年**内。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+FSCS 明确不赔偿投资表现不佳或交易本身的亏损。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
+
+## 投资类赔偿上限
+
+| 公司违约时间 | 每人每家公司上限 |
+| :--- | :--- |
+| 2019 年 4 月 1 日之后 | 最高 **85,000 英镑** [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+| 2010 年 1 月 1 日 至 2019 年 3 月 31 日 | 最高 **50,000 英镑** [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+| 2010 年 1 月 1 日之前 | 前 30,000 英镑 100%，其后 20,000 英镑的 90%，合计最高约 48,000 英镑 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+
+限额按**每人每家授权公司**计算，不是按每个账户。超过上限的部分通常只能作为破产程序中的普通债权人继续追偿。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
+
+## 理赔流程
+
+## 1. 确认公司是否已进入 FSCS 处理
+
+访问 `www.fscs.org.uk`，在失败公司名单中搜索经纪商全称或 FRN。只有 FSCS 宣布该公司 default 后，才会正式开放投资类索赔。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+## 2. 准备材料
+
+建议提前整理：
+
+* 护照或身份证、地址证明
+
+* 客户协议、开户确认邮件、账户号
+
+* 入金与出金记录、银行对账单
+
+* 交易报告、月结单、客户资金余额截图
+
+* 与经纪商的往来邮件、投诉记录
+
+* 清算人或管理人发出的通知
+
+这些材料用于证明你是客户、余额多少、资金路径是否清晰。[[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)]
+
+## 3. 在线提交索赔
+
+1. 打开 `https://www.fscs.org.uk/`
+
+1. 进入 **Make a claim**
+
+1. 选择 **Investments** 或对应产品类别
+
+1. 按提示填写个人信息、公司名称、损失金额
+
+1. 上传证明文件
+
+1. 提交后保存索赔编号
+
+FSCS 可要求你把对失败公司的法律权利**转让**给 FSCS，之后由 FSCS 代位追偿；若追回金额超过已付赔偿，差额应退还给你。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+## 4. 等待审核与付款
+
+FSCS 会核验资格、保护范围、损失计算和限额。符合条件后，通常通过银行转账支付。处理时间因案件复杂程度而异；规则要求在满足条件后按规定时限支付，但调查、清算配合、跨境材料可能延长周期。[[handbook.fca.org](https://www.handbook.fca.org.uk/handbook/COMP/INTRO/A/?view=chapter)]
+
+## 5. 对结果有异议
+
+若索赔被拒或部分赔付，可按 FSCS 通知中的程序申请复核，并保留全部证据。必要时可咨询英国金融申诉专员服务或专业律师，但这与 FSCS 本身是不同渠道。[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+## 对 CFD 或外汇客户的特别提醒
+
+| 问题 | 说明 |
+| :--- | :--- |
+
+
+| 问题 | 说明 |
+| :--- | :--- |
+| 赔交易亏损吗 | 不赔。杠杆交易导致的正常亏损不在 FSCS 范围内。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+| 赔什么 | 主要针对公司违约后，客户资金或资产短缺、以及符合条件的受保护投资业务损失。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+| 是否必须英国居民 | 关键看你的账户是否与 FCA 授权实体签约，以及你是否为合格索赔人，不以国籍单独判断。 [[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)] |
+| 中国客户常见风险 | 若实际签约的是集团离岸实体，而不是英国 FCA 实体，通常不能直接适用 FSCS。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+| 专业客户 | 转为专业客户后，可能失去部分零售保护，FSCS 资格也可能受影响，需逐案核验。 [[fscs.org](https://www.fscs.org.uk/what-we-cover/investments/)] |
+
+## 实用联系方式
+
+* 官网：`https://www.fscs.org.uk/`
+
+* 电话：`0800 678 1100`（英国）
+
+* 邮寄：Financial Services Compensation Scheme, 10th Floor, Beaufort House, 15 St Botolph Street, London EC3A 7QU[[handbook.fca.org](https://handbook.fca.org.uk/handbook/comp1/comp1s3)]
+
+开户前就应确认客户协议中的**英国法人全称与 FRN**，并保存完整出入金记录。一旦经纪商出现无法出金、进入清算或监管介入，先到 FSCS 官网查是否已列入失败公司，再按在线流程提交索赔。
+</details>
