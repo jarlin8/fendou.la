@@ -1,5 +1,5 @@
 ---
-title: "费曼学习法实践："
+title: "费曼学习法实践之"
 post_status: "publish"
 skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
@@ -16,7 +16,7 @@ post_excerpt: ""
 
 ![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/32e0923c459d219711389759d059dfc0.png)
 
-## 🎓 费曼学习法介绍
+## 费曼学习法介绍
 
 * 费曼学习法的四个步骤：概念（Concept）、教给他人（Teach to Others）、复习（Review）、简化（Simplify）。
 
