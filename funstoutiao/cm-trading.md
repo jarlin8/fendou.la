@@ -1,329 +1,181 @@
 ---
-title: "CM Trading 交易平台开户测评"
-post_status: publish
-post_date: 2023-12-30 19:03:08
-skip_file: no
+title: "CMTrading怎么样？FSP 38782持牌人、塞舌尔实体与真实门槛(2026核查)"
+post_status: "publish"
+skip_file: "no"
+post_date: "2024-01-03T13:14:00.000Z"
 taxonomy:
   category:
-        - "toutiao-basic"
+        - toutiao-basic
+  post_tag:
+        - 投资
+post_excerpt: ""
 ---
+CMTrading 的南非牌照 FSP 38782，持有人不叫 CMTrading。这张牌照登记在 Blackstone Marketing SA (Pty) Ltd 名下，用 CMTrading 这个商号做生意的 GCMT South Africa (Pty) Ltd，在牌照体系里的身份是法定代表人。如果你不是南非居民，你签约的对象大概率是塞舌尔的 GCMT Limited，持塞舌尔 FSA 的 SD070 牌照，南非那套客户保护规则对你不适用。适合能自己核验实体、只做小额且明确接受离岸监管的人；
 
-CM Trading是南非最大的在线经纪商，它为全球的交易者提供了在流行的交易平台上进行广泛的外汇和CFD工具交易的途径，并提供了丰富的教育材料和定期的市场分析。
+[mark_c]
 
-- 合规经纪商
-- 免佣金账户
-- 每日市场分析
-- 各种教育资源
-- CopyKat交易
-- 允许对冲和剥头皮
-- 不接受美国客户
-- 最低$250入金
-- 无固定的专用帐户
+最大的局限是它在尼日利亚被 SEC 公开警告过，而且官网对自己牌照归属的表述前后不一致。本文未开立真实账户，未实测，核查日期 2026-07-25。本文不含任何合作推广链接。
 
-## CM交易摘要
+[/mark_c]
 
-CM Trading是一家在线经纪商，其为全球客户提供跨多个市场的交易工具的交易服务，包括外汇，商品，加密货币，股票，股票，指数，金属，能源和差价合约。
+看一家做了十四年的经纪商，最快见分晓的方式是把它自己写的监管页和它自己写的帮助中心放在一起读。这两个地方通常由不同的人在不同的时间写，如果说法能对上，说明内部有人在管；如果对不上，那个缝隙里往往就是它真正的样子。
 
-CM Trading由经验丰富的交易员于2012年成立，是南非最大的经纪商，荣获“ 2017年非洲最佳表现经纪商”，“ 2019年非洲最佳金融经纪商”和“ 2019年非洲最佳表现经纪商”奖项。
+CMTrading 的监管页和帮助中心两处，用的是同一句话：GCMT SOUTH AFRICA PTY LTD Trading as CMTRADING，注册号 2013/045335/07，是 BLACKSTONE MARKETING SA (PTY) LTD（注册号 2010/010099/07，FSP No. 38782）的法定代表人与代理人。这是官方信息。
 
-![奖](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Award-1024x144.png "奖")
+然后我打开它的另一个官方页面，标题是 CMTrading 在哪些地区获得授权。那一页写的是，CMTrading 的南非实体持有 FSCA 的 FSP No. 38782 牌照。
 
-奖
+同一家公司，同一个牌照号，两种归属。
 
-获奖
+## 法定代表人，改变的是投诉对象
 
-他们使用最新技术，努力使交易变得尽可能简单和愉快，同时不断创新和改善服务以帮助客户实现其目标。
+在南非的 FAIS 体系下，法定代表人是获授权在某家持牌金融服务提供商名下开展业务的法人。它自己不持牌，它的合规义务、客户资金安排、行为责任，最终落在那张牌照的持有人身上。
 
-CM Trading认为，诚信和诚实是核心价值观，以透明的方式运作，客户的安全和保障至关重要。他们使用SSL安全系统，客户资金存放在单独的帐户中。
+**那张 FSCA 牌照上，写的不是 CMTrading 的名字。**
 
-他们提供了一系列受欢迎的交易平台，包括MetaTrader 4（MT4）。全天24小时提供一系列交易工具，免费教育材料和全球支持。向所有级别的客户提供相同的高标准服务和支持。
+这不是文字游戏，它有一个非常具体的后果。假设你是南非客户，出金卡住三个月，你决定去 FAIS Ombud 投诉。你在表格上填被投诉方的时候，填 CMTrading 是查不到持牌记录的，你需要填 Blackstone Marketing SA (Pty) Ltd 和 FSP 38782。绝大多数在广告上认识这个品牌的人，不知道这个名字的存在。
 
-## 监管信息
+反过来说，这个结构本身并不违法。南非有大量金融服务通过法定代表人的形式提供，FSCA 认这个安排。问题不在结构，在于它的官方页面把持牌人写成了自己，让一个本来清楚的关系变模糊了。你能查到牌照是真的，和这张牌照罩着你，中间还隔着一层。
 
-CM Trading是全球资本市场交易和BLACKSTONE Marketing SA（PTY）LTD（GCMT SA）的商标名称。CM Trading受南非金融部门行为监管局（FSCA）和金融服务委员会（FSB）监管。
+## 你签的到底是哪一份协议
 
-FSCA是一家独立机构，负责监控南非的金融服务，以确保消费者保护和市场行为。该法规有助于向客户保证其存款是安全的，并且他们使用的是可信任的经纪商。
+CMTrading 的法律文件页把客户协议分成两套并排放着，一套抬头是 FSCA Client Service Agreement，一套是 FSA Client Service Agreement。这是官方页面的结构，不是我的推断。
 
-除这些规定外，它们还将客户资金保存在隔离帐户中，以确保不将其用于任何其他目的，仅用于客户交易。客户必须始终可以随时使用资金，以便他们随时随地取款。
+塞舌尔那一侧的实体是 GCMT Limited，公司注册号 8425982-1，持 FSA 证券交易商牌照 SD070，官方称自 2021 年起生效，服务对象是非南非的国际客户。也就是说，非洲以外的绝大多数用户，走的是这条路径。
 
-## 交易者国籍限制
+这条路径上没有 FAIS Ombud，没有南非的客户保护规则，剩下的是一个人口约十万的岛国的金融服务管理局。它是真实的监管机构，牌照也是真的，但跨境执行能力和你在南非本地能拿到的救济渠道不是一回事。
 
-CM Trading接受来自世界各地的客户，但由于法规的限制，包括美国，某些欧盟国家，香港，以色列和某些第三世界国家/地区也存在一些例外情况。
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/funstoutiao/images/bf4a522bdc7cf3b84afb43ceaf2151e7.png)
 
-由于法律限制，某些国家/地区的交易者可能无法使用此CM交易评论中提到的某些CM交易经纪商功能和产品。
+*示意图：CMTrading 品牌下的两条监管路径、对应法律实体与投诉渠道对照，实体名称与牌照号取自官方公开表述。*
 
-如果您要在特定国家/地区寻找交易经纪商，请参阅我们最好的经纪商美国，英国最好的经纪商，澳大利亚最好的经纪商，南非最好的经纪商，加拿大最好的经纪商或加拿大所有其他国家的最好经纪商。
+开户前分清自己在哪条路径上，只需要做一件事：看你要签的客户协议抬头写的是 FSCA 还是 FSA。不用问客服，文件自己会说话。
 
-## 交易平台
+## 尼日利亚那份警告，和它自己给出的解释
 
-CM Trading提供了一系列功能强大的交易平台，可满足不同级别和需求的交易者。流行的MetaTrader 4（MT4）平台可用于台式机（Windows / Mac），网络和移动设备（iPhone / iPad / Android /平板电脑）。他们还提供了自己的用于信号复制的CopyKat平台和Sirix WebTrader社交平台。
+2025 年 6 月，尼日利亚证券交易委员会公开警告本国公众，CMTrading 未在该国注册。这条警告本身属于常规的管辖权提示，很多在多国展业的经纪商都收到过类似通知，单看它并不构成对一家公司品行的判断。
 
-![平台](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Platforms-1024x352.png "平台")
+但同一份警告里还有另一项内容：该平台克隆了 Channels Television、Punch、Vanguard、BBC、Arise Television 等媒体的网站，用来吸引潜在受害者。多家尼日利亚媒体在同期作了报道。
 
-平台
+这两项指控的性质完全不同。前一项说的是你没有在这里拿牌，后一项说的是你在用假新闻页面获客。
 
-平台
+CMTrading 官网有一个专门的页面回应监管通知，把通知分成管辖权警告和不当行为认定两类，说自己收到的属于前者，只是尚未在当地取得牌照，不代表存在过错。这个区分在法律上站得住，我认为它写得比多数同行都清楚。问题是这个解释覆盖不到克隆媒体网站那一项。截至核查日期，我没有找到 CMTrading 针对这项具体指控的公开回应，也没有找到独立第三方对指控真伪的核实结论。这一条我只能标为存疑，无法确认。
 
-### MetaTrader 4
+## 两条名字很像但不是它的警告
 
-MetaTrader 4（MT4）是全球最受欢迎的交易平台，于2005年发布，由俄罗斯软件公司MetaQuotes Software Corp.开发，该公司向全球500多家银行和经纪商授权该平台。它允许零售交易者在各种不同的工具和市场上以实时价格访问和交易。
+做这类核查最容易出错的地方，是把名字相近的实体算到同一家头上。这里有两条需要拆开。
 
-MT4以其用户友好的界面，易用性，快速学习曲线和众多内置功能而广为人知，这些功能包括一键执行，多种订单类型，实时报价，技术指标，新闻和其他工具。CM Trading MT4是免费使用的，包括增强的功能和支持。
+FSCA 在 2025 年 1 月 10 日发布过一份针对 CMFX Trading 的公众警告。这是另一个名字，不是 CMTrading。把这条算到 CMTrading 头上是错的。
 
-MT4适用于所有级别的交易者，它对初学者具有基本功能，而对于经验丰富的交易者则具有高级技术分析图表。它是完全可定制的，具有使用各种内置技术指标来分析多个时间范围内的图表以协助进行交易决策的能力。
+英国 FCA 的警告名单里有一个条目叫 CMTradingAssets，标注为未经授权公司。名称与 CMTrading 高度接近，但 FCA 的条目本身并未说明它与 GCMT 系公司的关系。塞舌尔 FSA 也发布过关于 [cmtradingfx.com](http://cmtradingfx.com/) 这一网址未经授权使用的提示。这两条更像是围绕这个品牌出现的仿冒问题，但我无法确认它们与官方实体的关联，所以不作为对 CMTrading 本身的指控使用。
 
-您可以使用MetaEditor中的MQL4编程语言创建自己的自定义指标和自动交易系统（专家顾问）。还有一个大型在线MQL4社区，用于访问更多交易工具以在平台内使用。
+顺带一个实操建议：这个品牌的仿冒域名不止一个，如果你决定开户，域名只认 [cmtrading.com](http://cmtrading.com/)，任何从社交媒体私信、广告落地页、短链跳过去的地址都要在浏览器地址栏里对一遍字母。
 
-如果您想随时随地进行交易，可以在Android和iOS上下载MT4移动平台。使用移动平台，您可以通过Internet连接在世界任何地方访问和管理帐户。
+## 门槛：从两百五十美元跳到十万美元
 
-![MetaTrader 4（MT4）平台](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-MetaTrader-4-MT4-Platform.jpg "MetaTrader 4（MT4）平台")
+官方入金页面写的是，EFT 单笔限额 100 到 10,000 美元，激活账户交易的最低入金为 100 美元。
 
-MetaTrader 4（MT4）平台
+第三方测评给出的账户阶梯是另一个量级。FxScouts 记录的入门账户最低入金为 250 美元，EURUSD 平均点差 1.5 点，并把它定性为做市商；同一份测评里，Premium 账户的最低入金要求是 100,000 美元，而点差并没有随之降到有竞争力的水平。[daytrading.com](http://daytrading.com/) 记录的分档是 Basic 账户 299 至 1,999 美元、Trader 账户 2,000 至 9,999 美元、Gold 账户（ECN）10,000 至 50,000 美元；investfox 记录的 Gold 账户区间是 10,000 至 99,999 美元，点差 0.9 点起，附带三次无风险交易。sashares 记录标准账户不收佣金，ECN 账户每边 5 到 7 美元。
 
-MetaTrader 4平台
+这些数字来自不同时间抓取的第三方页面，彼此并不完全对齐，我没有在官网找到一份把所有账户档的最低入金、点差、佣金列在同一张表上的公开文档。这本身就是一个信号。一家把点差和佣金摆在同一页上让人比价的经纪商，和一家需要你联系客户经理才知道自己能开哪一档的经纪商，销售模式是不一样的。
 
-### Sirix WebTrader
+真正值得算的是那个跳跃。从 1.5 点降到 0.9 点，EURUSD 标准手每次往返省下大约 6 美元，而门槛从 250 美元抬到 10,000 美元。如果你一个月做 20 个标准手往返，一年省下来大约 1,440 美元，代价是把接近一万美元压在一家离岸实体的账户里。这笔账划不划算，取决于你对那条监管路径的信任程度，不取决于点差表。
 
-SIrix WebTrader是流行的Sirix平台的在线版本。它由Leverate开发，是一个以18种语言提供的全方位社交交易平台。您可以从Web浏览器轻松执行交易，而无需安装任何软件。
+另外，官方入金页写的是零隐藏费用，而 FxScouts 的结论是它的存取款费用高于多数同行。这一条我同样无法用官方文档证实或证伪，建议在入金前直接向财务部门要一份书面的费用清单，把电汇费、退票费、币种转换费三项写进去。
 
-WebTrader支持对频繁交易功能（例如手数和订单类型）的预配置，从而使交易更加高效。有多种内置指标和图表选项可供选择，以帮助进行市场分析。集成的新闻提要和经济日历使用户能够了解最新的市场新闻。
+## 风险披露里那句最该被读到的话
 
-社交交易集成允许用户在活跃的在线社区中关注其他交易者，以增加他们的知识并复制其他交易者（CopyKat Trading）。
+CMTrading 官方的 Risk Disclosure 文件里有一段，明确写着：对已有交易账户的杠杆水平作任何调整，都会立即影响你的未平仓头寸，并可能导致强平；有可能你的所有仓位都被强平，不只是那些正在亏损的仓位。
 
-其他值得注意的功能包括24/7全天候用户更新，备份选项，加密服务，多个帐户管理，预测，实时交易提示等。WebTrader可用于Windows，Mac，Android和iOS。
+这段话在多数人的阅读顺序里排在最后，但它描述的是一个每年都在真实发生的场景。你持仓过夜，第二天平台因为临近数据或者账户升级调整了杠杆档位，占用保证金瞬间抬高，保证金水平掉进强平线，系统按亏损顺序往下砍，砍到最后连你那几笔浮盈的对冲仓位一起清掉。你醒来看到的是一个空账户和一串成交回执，价格却还在你原来判断的方向上。
 
-![Sirix WebTrader](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Sirix-WebTrader.jpg "Sirix WebTrader")
+可执行的动作只有一个：任何时候收到杠杆调整通知，第一件事不是算新的可开手数，是算你现有持仓在新杠杆下的保证金水平还剩多少。公式是净值除以占用保证金。如果这个数字掉到 200% 以下，先减仓再说。
 
-Sirix WebTrader
+公司简介页面标注的最高杠杆是 200:1，WikiFX 上有用户提到 400:1，后者是用户口径，未获官方文档证实。
 
-Sirix WebTrader
+## 三步核验，十分钟能做完
 
-### CopyKat交易
+第一步，打开 FSCA 官网的实体搜索，输入 38782，看返回的持牌人名字是不是 Blackstone Marketing SA (Pty) Ltd。如果是，说明官方监管页那套表述是准的，另一页的写法是疏漏。
 
-可通过Sirix Webtrader平台访问CopyKat Trading，并允许用户观看，研究和复制其他交易者使用的策略。您可以根据效果搜索和过滤策略。如果您想从特定策略中复制交易，则只需单击一个按钮，每次交易时，相同的交易就会自动存入您的帐户。应该特别指出的是，过去的表现绝不能保证未来的表现。您可以随时在要复制的信号中添加或删除信号。
+第二步，打开塞舌尔 FSA 的证券交易商名录，找 GCMT Limited 和 SD070，确认状态是有效而不是暂停或撤销。
 
-## 交易工具
+第三步，在开户流程走到签署环节时，把协议 PDF 下载下来，翻到第一页看抬头，翻到最后看签约主体。这一步决定了前两步里哪一条监管路径跟你有关。
 
-CM Trading提供多种交易工具，可用于提高交易效率和产生交易想法。
+三步都做完，你对这家公司的判断就不再依赖任何测评，包括这一篇。
 
-![教育与工具](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Education-Tools-1024x638.png "教育与工具")
+## 谁适合用，谁应该绕开
 
-教育与工具
+适合的是这几类人：人在南非、明确知道自己的持牌方是 Blackstone、需要 OZOW 这类本地即时入金通道、并且愿意用 FAIS Ombud 这条本地救济渠道的交易者；以及在非洲其他市场，已经接受了塞舌尔监管的现实、只投入可承受损失的小额资金、主要图它本地客服和语言支持的人。多份测评都提到它的本地客户服务质量不错，这一点在非洲市场是有分量的。
 
-教育与工具
+应该绕开的是这几类人：把资金安全排在第一位的；打算放进去五位数美元的；需要低成本高频交易的（做市商模式加 1.5 点的入门点差不适合）；以及所有在没弄清自己签的是哪一份协议之前就想入金的人。
 
-### 智能通讯系统
+还有一类人特别需要停一下：从社交媒体广告或者某个看起来像新闻网站的页面点进来的。尼日利亚 SEC 那份警告里指控的克隆媒体网站，针对的正是这个入口。无论那项指控最终是否成立，从一个你无法验证真伪的落地页进入一家离岸经纪商，这个动作本身的风险，比这篇文章里讨论的任何一项监管细节都大。
 
-CM交易智能通讯系统是免费提供给客户的，其目的是通过向您提供有关信号，分析和对交易活动的自动反馈的直接消息，使您保持最新状态，从而帮助客户从交易中获得最大收益。
+## 参考信息
 
-### 弹性信号
+**平台官方页面与法律文件（官方信息）**
 
-CM Trading网站的flexi信号区域共享定期更新的图表分析，可以为潜在的交易机会提供思路。
+* [CMTrading 监管页：FSCA 与 FSA 牌照表述及查询步骤](https://www.cmtrading.com/regulations/)
 
-![Flexi Signals](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Flexi-Signals.png "Flexi Signals")
+* [CMTrading 帮助中心：FSCA 牌照与监管](https://help.cmtrading.com/en/articles/6306296-fsca-license-and-regulation)
 
-Flexi Signals
+* [CMTrading 帮助中心：CMTrading 是否受监管](https://help.cmtrading.com/en/articles/6264797-is-cmtrading-regulated)
 
-Flexi Signals
+* [CMTrading 授权地区页（此页将 FSP 38782 描述为其南非实体持有）](https://www.cmtrading.com/where-is-cmtrading-authorized/)
 
-### 每日市场分析
+* [CMTrading 合规性说明页](https://www.cmtrading.com/regulations/is-cmtrading-legit/)
 
-CM Trading提供免费的每日市场回顾视频，内容涵盖各种不同的市场，并通过详细的技术图表分析提供当天的重点提示。您可以订阅他们的YouTube频道，以获取最新的视频或直接从网站获取它们。
+* [CMTrading 对监管通知的解释页](https://www.cmtrading.com/understanding-regulatory-notices/)
 
-![每日市场分析](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Daily-Market-Analysis.png "每日市场分析")
+* [CMTrading 法律文件页（FSCA 与 FSA 两套客户协议并列）](https://www.cmtrading.com/legal-documentation/)
 
-每日市场分析
+* [FSA 客户服务协议 PDF（2025 年 3 月版）](https://www.cmtrading.com/wp-content/uploads/2025/03/FSA-Client-Service-Agreement.pdf)
 
-每日市场分析
+* [FSA 客户服务协议 PDF（2024 年 2 月版）](https://www.cmtrading.com/wp-content/uploads/2024/02/FSA-Client-Service-Agreement.pdf)
 
-### 经济日历
+* [风险披露文件 PDF：杠杆调整与强平条款](https://www.cmtrading.com/wp-content/uploads/2025/03/Risk-Disclosure.pdf)
 
-CM Trading的经济日历显示会影响市场的最新金融新闻事件。每个新闻发布都有一个日期/时间，根据预期影响和预测/实际/先前结果进行评级。该日历可以用于基本分析，以发现潜在的交易机会或要避免的市场。
+* [赠金与奖励条款 PDF](https://www.cmtrading.com/wp-content/uploads/2024/04/FSCA-Terms-and-Conditions-for-Bonus-and-Awards-2024.pdf)
 
-![经济日历](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Economic-Calendar.png "经济日历")
+* [银行转账与最低入金页](https://www.cmtrading.com/bank-transfer/)
 
-经济日历
+* [出入金方式页](https://www.cmtrading.com/deposit-withdrawal-methods/)
 
-经济日历
+* [CMTrading 官网首页](https://www.cmtrading.com/)
 
-## 投资者教育
+**监管机构一手渠道**
 
-CM Trading提供各种免费的培训视频，技术分析教程，网络研讨会和电子书。该教材内容丰富，适合各种经验水平的交易者，其主题涵盖从最基础到更高级的主题。
+* [FSCA 官网](https://www.fsca.co.za/)
 
-### 电子书
+* [FSCA 实体与人员查询入口](https://www.fsca.co.za/Entity-Persons-Search/?iframe_target=financial-services-providers)
 
-CM Trading的详尽电子书可帮助交易员了解一些关键交易概念，同时增加他们的交易知识和技能。涵盖的主题包括对金融市场，策略，心理学，资金管理，技术分析等的介绍。
+* [FSCA 针对 CMFX Trading 的公众警告（2025-01-10，名称不同，非 CMTrading）](https://www.fsca.co.za/_api/cr3ad_newses%283776f38c-badb-f011-8544-000d3ab44730%29/cr3ad_document/$value)
 
-![电子书](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-eBooks.png "电子书")
+* [FSCA 监管行动报告（2024-04 至 2025-03）](https://www2.fsca.co.za/Documents/FSCA%20Regulatory%20Actions%20Report_30%20June%202025.pdf)
 
-电子书
+* [塞舌尔 FSA 资本市场持牌名录](https://fsaseychelles.sc/regulated-entities/capital-markets)
 
-电子书
+* [FCA 警告名单条目 CMTradingAssets（关联关系未获证实）](https://www.fca.org.uk/news/warnings/cmtradingassets)
 
-### 培训视频
+**尼日利亚 SEC 警告的媒体报道**
 
-除了电子书，CM Trading还提供精选的详细培训视频，分为两个部分，分别是初学者课程和深入课程。这些讲解清楚的视频提供了很多交易知识。主题包括交易平台，交易工具和社交交易。
+* [Channels Television：SEC 警告尼日利亚民众提防未注册平台 CMTrading（2025-06-21）](https://www.channelstv.com/2025/06/21/sec-warns-nigerians-against-unregistered-crypto-platform-cmtrading/)
 
-![培训视频教程](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Training-Video-Tutorials.png "培训视频教程")
+* [The Guardian Nigeria：SEC 就 CMTrading 发出警告](https://guardian.ng/news/sec-flags-cmtrading-for-ponzi-tactics-warns-public-to-avoid-platform/)
 
-培训视频教程
+**第三方测评与用户侧材料（口径不一，仅作参照）**
 
-培训视频教程
+* [FxScouts：CM Trading 测评（做市商定性、入门 250 美元、EURUSD 1.5 点、Premium 10 万美元）](https://fxscouts.com/broker/cm-trading/)
 
-### 网络研讨会
+* [DayTrading.com：CMTrading 2026 测评（账户分档与监管提示）](https://www.daytrading.com/cmtrading)
 
-尽管很少，但是CM Trading会举办免费的网络研讨会，您可以注册。与其他交易者的网络研讨会讨论可以帮助进一步提高您的交易知识。过去的网络研讨会也可以在网站上找到。
+* [investfox：CM Trading 账户类型与 Gold 账户条件](https://investfox.com/reviews/forex-brokers/cm-trading/)
 
-### 图表分析
+* [SA Shares：CM Trading 费用、点差与佣金](https://sashares.co.za/cm-trading-fees-spreads/)
 
-CM Trading网站上有专门的图表分析部分，显示实时图表分析，包括止损和不同工具的获利水平。图表旁边的交易按钮将启动Sirix WebTrader平台并打开相关图表。
+* [TradeFX：南非视角下的 CM Trading 测评](https://tradefx.co.za/review/cm-trading/)
 
-![图表分析](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Chart-Analysis.png "图表分析")
+* [Trustpilot：CMTrading 用户评价页（公司简介标注最高 200:1）](https://www.trustpilot.com/review/www.cmtrading.com)
 
-图表分析
+* [WikiFX：CM Trading 券商页与用户留言（400:1 为用户口径，未获官方证实）](https://www.wikifx.com/en/dealer/7041653829.html)
 
-图表分析
-
-### 视频分析
-
-视频分析类似于图表分析，其信息显示在易于消化但又详细的视频中并进行了说明。
-
-![视频分析](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Video-Analysis.png "视频分析")
-
-视频分析
-
-视频分析
-
-## 交易工具
-
-CM Trading拥有来自各个市场的一系列交易工具，包括外汇，商品，加密货币，股票，股票，指数，金属，能源和差价合约。
-
-### 外汇交易
-
-外汇（forex）市场是世界上最大的分散式全球市场，所有世界上的货币都在此进行交易。外汇交易包括两种货币的组合交易，并受多种不同因素的影响，包括通货膨胀，利率，政府政策，就业数字以及进出口需求。CM Trading为交易者提供45+种主要，次要和外来货币对。
-
-![外汇](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Forex.jpg "外汇")
-
-外汇
-
-外汇
-
-### 差价合约交易
-
-差价合约（CFD）允许交易者在无需实际拥有证券的情况下推测证券是上涨还是下跌。CM Trading提供200多种CFD产品，包括货币，金属，商品和指数。
-
-![差价合约](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-CFDs.jpg "差价合约")
-
-差价合约
-
-差价合约
-
-### 商品交易
-
-大宗商品经常被视为短期和长期投资组合多样化的一种方式。大宗商品在每个人的生活中都发挥着重要作用，CM Trading提供了一些最受欢迎的交易选项，例如原油（WTI，布伦特原油），天然气，咖啡，玉米，糖和小麦。
-
-![商品](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Commodities.jpg "商品")
-
-商品
-
-商品
-
-### 金属交易
-
-金属被归类为从地球开采的商品资产，数百年来，各国政府一直将其用作价值和交换手段的指标。CM Trading提供一些最受欢迎的交易金属，例如黄金，白银，铂和铜。
-
-![金属](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Metals.jpg "金属")
-
-金属
-
-金属
-
-### 指数交易
-
-指数允许交易者在一次交易中交易该指数所包含的特定部分的各种资产。CM Trading提供一些世界领先的指数，包括道琼斯，富时，DAX，JSE等。指数通常被用作使投资组合进一步多样化的一种方式。
-
-![指数](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Indices.jpg "指数")
-
-指数
-
-指数
-
-### 加密交易
-
-加密货币是一种分散的虚拟货币，它使用复杂的数学算法来保护和验证交易。CM Trading提供了交易流行的加密货币（例如比特币，Litecoin，Ripple和Etherium）的选择。
-
-![加密](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Cryptos-1024x253.png "加密")
-
-加密
-
-加密
-
-## 交易账户和费用
-
-CM Trading提供各种不同的账户类型，以满足不同交易者的需求。它们提供浮动点差，这意味着它们并不总是相同，而是随市场波动。有时，当市场开盘或发生导致高波动的市场事件时，价差也会扩大。开设真实账户之前，可以使用模拟账户测试不同的交易平台和条件。也有符合伊斯兰教法的伊斯兰无掉期账户。
-
-![帐户](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Accounts.png "帐户")
-
-帐户
-
-帐户
-
-### 迷你账户
-
-迷你帐户需要最低250美元的存款，并具有高达1:200的灵活杠杆。迷你帐户可以访问每日/每周分析和电子书。此帐户类型不收取任何佣金。
-
-### 经典帐户
-
-经典帐户的最低存款额为1,000美元，灵活的杠杆比例高达1:200。经典帐户的定期点差。此帐户类型不收取任何佣金。
-
-### 行政账户
-
-行政账户最低存款额为10,000美元，灵活杠杆比例高达1:200。高管账户的点差更小。此帐户类型不收取任何佣金。
-
-### 至尊帐号
-
-保费帐户至少需要存入$25,000，并具有高达1:200的灵活杠杆。此类帐户的点差更具竞争力，同时还包括免费交易策略。此帐户类型不收取任何佣金。
-
-由于经纪商费用可能会发生变化，因此可能会在此CM Trading评论中未列出其他费用。在打开CM Trading经纪商帐户进行在线交易之前，必须确保您检查并了解所有最新信息。
-
-## 客户服务
-
-通过在线聊天，电子邮件和各种国际电话号码提供客户支持。他们的反应迅速而有效。
-
-![客户服务](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Customer-Service-1024x455.png "客户服务")
-
-客户服务
-
-客户服务
-
-## 存款和取款
-
-有很多不同的存款和取款选项，包括银行电汇，信用卡和一些在线支付处理程序，例如Neteller。比特币资金也可用。
-
-![存取款方法](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Deposit-Withdrawal-Methods-1024x150.png "存取款方法")
-
-存取款方法
-
-存取款方法
-
-使用某些付款方式时，可能会收取一些费用。银行转帐可能需要几个工作日才能结清。可以美元，欧元，英镑开设账户。不同的货币选项很有用，因为以您自己的货币使用帐户时不收取货币转换费。
-
-## 开户步骤
-
-在线注册表格很短，可以在CM Trading注册。填写完表格后，您需要验证电子邮件地址并上传验证文件以用于KYC。这将是一种身份证明形式，例如护照和住址证明，可能是水电费。在客户小组验证了您的文件并批准了您的帐户之后，您就可以为您的帐户注资并开始交易。
-
-![注册表](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Registration-Form.png "注册表")
-
-注册表
-
-注册表
-
-## 总体评价
-
-CM Trading是一家在线经纪商，非常重视为交易者提供教育材料和详细的每日市场分析，以帮助他们取得成功的交易。他们有很好的交易平台选择和灵活的账户可供选择。在不同市场中有大量交易资产可供选择。
-
-![](https://cdn.fendou.la/funstoutiao/2020/10/CM-Trading-Logo.png)
-
-## 最低**$250**入金
-
-CM Trading是南非最大的在线经纪商，它为全球的交易者提供了在流行的交易平台上进行广泛的外汇和CFD工具交易的途径，并提供了丰富的教育材料和定期的市场分析。
+* [WikiFX：CM Trading 出入金相关用户投诉汇总（未经独立核实）](https://www.wikifx.com/en/newsdetail/202502199044417384.html)
