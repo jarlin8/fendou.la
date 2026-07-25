@@ -5,7 +5,7 @@ skip_file: "no"
 post_date: "2024-01-02T11:57:00.000Z"
 taxonomy:
   category:
-        - toutiao-basic
+        - review
   post_tag:
         - 投资
         - 股票

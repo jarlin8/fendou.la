@@ -5,7 +5,7 @@ skip_file: "no"
 post_date: "2024-01-03T13:14:00.000Z"
 taxonomy:
   category:
-        - toutiao-basic
+        - review
   post_tag:
         - 投资
 post_excerpt: ""
