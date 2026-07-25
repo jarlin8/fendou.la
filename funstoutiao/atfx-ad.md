@@ -135,40 +135,40 @@ AT Global Markets (UK) Limited,FCA 参考编号 760555,公司注册号 09827091,
 
 ## 参考信息
 
-* FCA 登记册,AT Global Markets (UK) Limited,FRN 760555:`https://register.fca.org.uk/s/firm?id=001b000003Wh27RAAR`
+* FCA 登记册,AT Global Markets (UK) Limited,FRN 760555:[`https://register.fca.org.uk/s/firm?id=001b000003Wh27RAAR`](https://register.fca.org.uk/s/firm?id=001b000003Wh27RAAR)
 
-* FCA 登记册,ATFX Global Markets (CY) Limited,参考号 750501,状态不再获授权:`https://register.fca.org.uk/s/firm?id=001b000003ObehGAAR`
+* FCA 登记册,ATFX Global Markets (CY) Limited,参考号 750501,状态不再获授权:[`https://register.fca.org.uk/s/firm?id=001b000003ObehGAAR`](https://register.fca.org.uk/s/firm?id=001b000003ObehGAAR)
 
-* FCA 克隆机构警告,ATFX Global Markets:`https://www.fca.org.uk/news/warnings/atfx-global-markets-clone-fca-authorised-firm`
+* FCA 克隆机构警告,ATFX Global Markets:[`https://www.fca.org.uk/news/warnings/atfx-global-markets-clone-fca-authorised-firm`](https://www.fca.org.uk/news/warnings/atfx-global-markets-clone-fca-authorised-firm)
 
-* FCA 未授权机构警告,ATFX Global Trading / ATFXcoin:`https://register.fca.org.uk/s/unauthorised-firm?id=0014G000030efugQAA`
+* FCA 未授权机构警告,ATFX Global Trading / ATFXcoin:[`https://register.fca.org.uk/s/unauthorised-firm?id=0014G000030efugQAA`](https://register.fca.org.uk/s/unauthorised-firm?id=0014G000030efugQAA)
 
-* CySEC 投资公司名录,ATFX Global Markets (CY) Ltd,牌照 285/15:`https://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/76537/`
+* CySEC 投资公司名录,ATFX Global Markets (CY) Ltd,牌照 285/15:[`https://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/76537/`](https://www.cysec.gov.cy/en-GB/entities/investment-firms/cypriot/76537/)
 
-* CySEC 批准域名清单:`https://www.cysec.gov.cy/en-GB/entities/investment-firms/approved-domains/`
+* CySEC 批准域名清单:[`https://www.cysec.gov.cy/en-GB/entities/investment-firms/approved-domains/`](https://www.cysec.gov.cy/en-GB/entities/investment-firms/approved-domains/)
 
-* 巴西 CVM 官方新闻页,第 24.870 号公告:`https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-alerta-para-atuacao-irregular-de-at-global-markets-international-limited-e-outras-empresas`
+* 巴西 CVM 官方新闻页,第 24.870 号公告:[`https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-alerta-para-atuacao-irregular-de-at-global-markets-international-limited-e-outras-empresas`](https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-alerta-para-atuacao-irregular-de-at-global-markets-international-limited-e-outras-empresas)
 
-* 巴西官方公报公告原文:`https://www.in.gov.br/en/web/dou/-/ato-declaratorio-cvm-n-24.870-de-26-de-fevereiro-de-2026-690212957`
+* 巴西官方公报公告原文:[`https://www.in.gov.br/en/web/dou/-/ato-declaratorio-cvm-n-24.870-de-26-de-fevereiro-de-2026-690212957`](https://www.in.gov.br/en/web/dou/-/ato-declaratorio-cvm-n-24.870-de-26-de-fevereiro-de-2026-690212957)
 
-* ATFX 全球版《标准业务条款》PDF,载明 AT Global Markets LLC 为合同方:`https://www.atfx.com/wp-content/uploads/2024/06/GM-ATFX-Standard-Terms-of-Business-v2-04102024_v4_24052024.pdf`
+* ATFX 全球版《标准业务条款》PDF,载明 AT Global Markets LLC 为合同方:[`https://www.atfx.com/wp-content/uploads/2024/06/GM-ATFX-Standard-Terms-of-Business-v2-04102024_v4_24052024.pdf`](https://www.atfx.com/wp-content/uploads/2024/06/GM-ATFX-Standard-Terms-of-Business-v2-04102024_v4_24052024.pdf)
 
-* ATFX 英国实体业务条款:`https://www.atfx.com/en/terms-of-business`
+* ATFX 英国实体业务条款:[`https://www.atfx.com/en/terms-of-business`](https://www.atfx.com/en/terms-of-business)
 
-* ATFX 澳大利亚客户协议(2025 年 10 月 V13):`https://www.atfx.com/wp-content/uploads/2025/11/ATFXAU-ClientAgreement-Oct-2025V13.pdf`
+* ATFX 澳大利亚客户协议(2025 年 10 月 V13):[`https://www.atfx.com/wp-content/uploads/2025/11/ATFXAU-ClientAgreement-Oct-2025V13.pdf`](https://www.atfx.com/wp-content/uploads/2025/11/ATFXAU-ClientAgreement-Oct-2025V13.pdf)
 
-* ATFX 官方监管实体清单:`https://www.atfx.com/en/about-us/atfx-regulators`
+* ATFX 官方监管实体清单:[`https://www.atfx.com/en/about-us/atfx-regulators`](https://www.atfx.com/en/about-us/atfx-regulators)
 
-* ATFX 官方香港 SFC 牌照公告,CE 编号 BUM667:`https://www.atfx.com/en/about-us/company-news/atfx-secures-hong-kong-sfc-license`
+* ATFX 官方香港 SFC 牌照公告,CE 编号 BUM667:[`https://www.atfx.com/en/about-us/company-news/atfx-secures-hong-kong-sfc-license`](https://www.atfx.com/en/about-us/company-news/atfx-secures-hong-kong-sfc-license)
 
-* ATFX 官方联合品牌声明:`https://atcopytrade.com/legal/`
+* ATFX 官方联合品牌声明:[`https://atcopytrade.com/legal/`](https://atcopytrade.com/legal/)
 
-* ATFX 账户规格与最低入金:`https://www.atfx.com/en/trading-accounts`
+* ATFX 账户规格与最低入金:[`https://www.atfx.com/en/trading-accounts`](https://www.atfx.com/en/trading-accounts)
 
-* ATFX 出入金规则(欧英站):`https://www.atfx.com/en/trading-accounts/deposits-and-withdrawals`
+* ATFX 出入金规则(欧英站):[`https://www.atfx.com/en/trading-accounts/deposits-and-withdrawals`](https://www.atfx.com/en/trading-accounts/deposits-and-withdrawals)
 
-* ATFX 出入金规则(柬埔寨站):`https://www.atfx.com.kh/en/trading-accounts/deposits-and-withdrawals`
+* ATFX 出入金规则(柬埔寨站):[`https://www.atfx.com.kh/en/trading-accounts/deposits-and-withdrawals`](https://www.atfx.com.kh/en/trading-accounts/deposits-and-withdrawals)
 
-* ATFX 澳大利亚 ASIC 杠杆上限公告:`https://www.atfx.com/en-au/about-us/asic-announcement`
+* ATFX 澳大利亚 ASIC 杠杆上限公告:[`https://www.atfx.com/en-au/about-us/asic-announcement`](https://www.atfx.com/en-au/about-us/asic-announcement)
 
-* ATFX 全球站首页香港使用限制声明:`https://www.atfx.com/`
+* ATFX 全球站首页香港使用限制声明:[`https://www.atfx.com/`](https://www.atfx.com/)
