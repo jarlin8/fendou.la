@@ -9,8 +9,6 @@ taxonomy:
 
 如果您正在寻找最好的PHP托管，那么您就走运了。幸运的是，许多最好的网站主机为那些希望构建动态网站的人提供了对PHP、MySQL和WordPress的一流支持。
 
-[content-egg-blocktemplate="offers_list_no_price"products="Feed__1:AF-004"]
-
 我们的专家对顶级PHP虚拟主机服务进行了测试，比较了价格、PHP版本、性能、定制和其他好处：
 
 ## Bluehost.com
@@ -41,7 +39,7 @@ taxonomy:
 - 访问管理器让你与其他开发人员一起工作
 - 直接从Git仓库中部署应用程序。
 - 高性能服务器，正常运行时间达99.9%。
-[content-egg-blocktemplate="offers_list_no_price"products="Envato:5484319"]
+
 ## InMotionHosting.com
 
 [wpsm_woobox id=49]
