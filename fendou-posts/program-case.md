@@ -7,7 +7,6 @@ taxonomy:
   category:
         - project
   post_tag:
-        - code
         - php
         - redis
 post_excerpt: ""
