@@ -18,7 +18,7 @@ post_excerpt: ""
 
 * [https://xianxie6.github.io/qingming-riverside/](https://xianxie6.github.io/qingming-riverside/) 清明上河图可交互版本 有声音与动画
 
-<details><summary>https://github.com/ByteByteGoHq/system-design-101</summary>
+<details><summary>ByteByteGoHq https://github.com/ByteByteGoHq/system-design-101</summary>
 
 
 </details>
