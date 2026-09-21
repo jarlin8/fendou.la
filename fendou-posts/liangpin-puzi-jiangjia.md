@@ -23,3 +23,5 @@ post_excerpt: ""
 1. **输入后必须进行主动输出（深化大脑思考）**
 
 ---
+
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/7d268c4b83a491cde64921271ce682c2.jpg)
