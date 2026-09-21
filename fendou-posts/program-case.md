@@ -12,9 +12,30 @@ taxonomy:
         - redis
 post_excerpt: ""
 ---
-## PHP 安装 Redis 扩展
+## 有趣的网站
 
-[https://www.gwern.net/index ](https://www.gwern.net/index) 这个是一个高度模仿wikipedia的悬停弹窗设计的网站，作者是因为很喜欢那种在同一个页面，浏览所有需要查看的主题，而不需要反复跳转。
+* [https://www.gwern.net/index ](https://www.gwern.net/index) 这个是一个高度模仿wikipedia的悬停弹窗设计的网站，作者是因为很喜欢那种在同一个页面，浏览所有需要查看的主题，而不需要反复跳转。
+
+* [https://xianxie6.github.io/qingming-riverside/](https://xianxie6.github.io/qingming-riverside/) 清明上河图可交互版本 有声音与动画
+
+<details><summary>https://github.com/ByteByteGoHq/system-design-101</summary>
+
+
+</details>
+
+[ByteByteGo](https://bytebytego.com/guides/?utm_source=gemini) 是一个专注于软件工程与系统设计（System Design）的技术学习平台，由知名技术图书《System Design Interview》作者 Alex Xu（许式伟）创立。
+
+该网站的核心特色是用**高度结构化的可视化图解（Infographics）**，将复杂晦涩的后端架构与底层技术拆解得直观易懂。
+
+页面展示的 **Visual Guides** 板块主要涵盖：
+
+* **核心技术主题**：包括 API 与 Web 开发、数据库与存储、缓存与性能优化、分布式系统、微服务架构、DevOps/CI-CD 及网络协议。
+
+* **真实系统案例分析**：解析 Netflix、Twitter、YouTube 等大型科技公司的实际架构方案。
+
+* **面试与编码进阶**：系统设计面试重点、编码规范、计算机基础及 AI/LLM 底层机制拆解。
+
+## Redis相关知识
 
 PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
 
