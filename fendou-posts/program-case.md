@@ -20,10 +20,10 @@ post_excerpt: ""
 
 <details><summary>ByteByteGoHq https://github.com/ByteByteGoHq/system-design-101</summary>
 
-
-</details>
-
 [ByteByteGo](https://bytebytego.com/guides/?utm_source=gemini) 是一个专注于软件工程与系统设计（System Design）的技术学习平台，由知名技术图书《System Design Interview》作者 Alex Xu（许式伟）创立。
+
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/a50567db3b2d508ca591fda6d7d14956.png)
+</details>
 
 该网站的核心特色是用**高度结构化的可视化图解（Infographics）**，将复杂晦涩的后端架构与底层技术拆解得直观易懂。
 
