@@ -18,9 +18,9 @@ post_excerpt: ""
 
 * [https://xianxie6.github.io/qingming-riverside/](https://xianxie6.github.io/qingming-riverside/) 清明上河图可交互版本 有声音与动画
 
-<details><summary>ByteByteGoHq https://github.com/ByteByteGoHq/system-design-101</summary>
+<details><summary>ByteByteGoHq</summary>
 
-[ByteByteGo](https://bytebytego.com/guides/?utm_source=gemini) 是一个专注于软件工程与系统设计（System Design）的技术学习平台，由知名技术图书《System Design Interview》作者 Alex Xu（许式伟）创立。
+[ByteByteGo](https://bytebytego.com/guides) 是一个专注于软件工程与系统设计（System Design）的技术学习平台，由知名技术图书《System Design Interview》作者 Alex Xu（许式伟）创立。
 
 ![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/a50567db3b2d508ca591fda6d7d14956.png)
 </details>
