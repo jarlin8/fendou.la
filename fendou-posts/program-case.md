@@ -18,6 +18,8 @@ post_excerpt: ""
 
 PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
 
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/9cbee606633834e6d48205cc95f8b463.png)
+
 ## argon 主题底部版权申明
 
 argon: Theme Footer (footer.php):5
