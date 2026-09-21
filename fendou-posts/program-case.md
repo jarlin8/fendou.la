@@ -1,8 +1,8 @@
 ---
-title: PHP&Linux 服务器配置基本笔记
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "PHP&Linux 服务器配置基本笔记"
+post_status: "publish"
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
         - project
@@ -10,78 +10,13 @@ taxonomy:
         - code
         - php
         - redis
-post_excerpt: 
+post_excerpt: ""
 ---
 ## PHP 安装 Redis 扩展
 
-[https://www.gwern.net/index 开始在](https://www.gwern.net/index%E5%BC%80%E5%A7%8B%E5%9C%A8) PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
+[https://www.gwern.net/index ](https://www.gwern.net/index) 这个是一个高度模仿wikipedia的悬停弹窗设计的网站，作者是因为很喜欢那种在同一个页面，浏览所有需要查看的主题，而不需要反复跳转。
 
-## oneinstack 中的 igbinary 编译问题
-
-```php
- C:UsershankOneDrive - teleworm桌面oneinstackincluderedis.sh （匹配2次）
-    行 50:   if [ -e "${php_install_dir}/bin/phpize" ]; then
-    行 60:     ${php_install_dir}/bin/phpize
-
-./configure --enable-redis-igbinary  --with-php-config=${php_install_dir}/bin/php-config
-```
-
-### 下载并安装
-
-```php
-git clone https://github.com/phpredis/phpredis.git
-cd phpredis
-phpize
-./configure  --enable-redis-igbinary --enable-redis-zstd --with-php-config=/www/server/php/74/bin/php-config
-make && make install
-
-// configure: error: Please reinstall the libzstd distribution报错
-sudo apt update && sudo apt install libzstd-dev
-
-// 设置的淘汰策略：
- 通过redis.conf 配置文件设置 重启redis
-maxmemory-policy allkeys-lru
-
-// object-redis-pro插件配置文件wp-config
-define('WP_REDIS_CONFIG', [
-    'token' => 'zupbuTFQtMatJv-RDp@+A#kIabgcMjdN0-iOr5w9AurifIenINk*v*TM7MKo',
-    'maxttl' => 3600 * 24, // 24 hours
-    'host' => '127.0.0.1',
-    'port' => 6379,
-    'database' => 0, // change for each site
-    'timeout' => 0.5,
-    'read_timeout' => 0.5,
-    'retry_interval' => 10,
-    'retries' => 3,
-    'backoff' => 'smart',
-    'compression' => 'zstd',
-    'serializer' => 'igbinary',
-    'async_flush' => true,
-    'split_alloptions' => true,
-    'prefetch' => true,
-    'debug' => false,
-    'save_commands' => false,
-]);
-
-define('WP_REDIS_DISABLED', getenv('WP_REDIS_DISABLED') ?: false);
-```
-
-### redis 配置文件
-
-在网上查询了许多的资料都是直接在`php.ini`文件中添加`extension=redis.so`.当我添加之后会出现错误:
-
-```php
-PHP Warning: PHP Startup: Unable to load dynamic library 'redis.so'
-(tried: /usr/lib64/php/modules/redis.so (/usr/lib64/php/modules/redis.so: ....
-```
-
-不要在 php.ini 里加入`extension=redis.so`这行，可在 php.d(`whereis php.d`查看在哪)文件夹下创建新文件 redis.ini，在 redis.ini 里加入`extension=redis.so`这行.
-
-重启 php
-
-### 查看 PHP 启动了哪些扩展和服务
-
-`php -m` 发现 redis 扩展加载上了
+PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且你的机器上能正常使用 PHP。 接下来让我们安装 PHP redis 驱动，下载地址为:[https://github.com/phpredis/phpredis/](https://github.com/phpredis/phpredis/)
 
 ## argon 主题底部版权申明
 
@@ -112,16 +47,6 @@ argontheme.js:2611
 ```php
 /*Console*/
 !function(){...}();
-```
-
-## 主题顶部 ajax 搜索添加
-
-```php
-// argon: Theme Header (header.php):421
-<div id="banner_container" class="banner-container container text-center">
-// <?php echo do_shortcode('[wpdreams_ajaxsearchpro id=1]'); ?> 
-// 禁止解析 造成代码无法展示
-</div>
 ```
 
 ## 禁用 wp-emoji-release.min.js
@@ -172,22 +97,6 @@ return $urls;
 }
 ```
 
-## sharelist 安装避雷
-
-### 忘记后台密码？
-
-`// 一般在路径./cache/config.jason里面 token="#$%******"`
-
-### nginx 配置反向代理
-
-```php
-端口：33001
-// 自行安装 docker和pm2
-// cd到根目录 bash install.sh 报错 npm comand not found
-使用文本编辑器打开install.sh文件
-不难发现PATH指定了NodeJs的路径，本人配置了全局NodeJs环境，所以注释掉该行（前面加个#号），保存即可。
-```
-
 ## jsDelivr 域名遭 DNS 污染解决方案
 
 ### 官方子域
@@ -216,26 +125,4 @@ proxy_set_header X-Real-IP $remote_addr;
 proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
 proxy_set_header REMOTE-HOST $remote_addr;
 }
-```
-
-### 360 静态库：`cdn.baomitu.com`
-
-完全同步的 cdnjs 内容，又要提供谷歌字体的加速，通过自己的 CDN 加速，前段时间启用了 AWS CloudFront 的海外节点，是目前国内公共 CDN 做的比较好的。
-
-## begin 主题将标题下的日期改为更新日期
-
-原代码以及替换后的代码
-
-```php
-        echo '<span class="meta-date">';
-        echo '<time datetime="';
-        echo get_the_date('Y-m-d');
-        echo ' ' . get_the_time('H:i:s');
-        echo '">';
-        time_ago( $time_type ='posts' );
-        echo '</time></span>';
-    -----------
-       echo '<span class="meta-date">';
-        echo '<time title="' . __('发布于') . ' ' . get_the_time('Y-n-d G:i:s') . ' | ' . __('编辑于',) . ' ' . get_the_modified_time('Y-n-d G:i:s') . '">' . get_the_modified_time('Y-n-d G:i') . '</time>';
-        echo '</span>';
 ```
