@@ -49,7 +49,7 @@ post_excerpt: ""
 
 * **新增密码文件**
 
-```plain text
+```json
 文件：/www/server/passwd/shuo.pass
 属主：www:www（重点：nginx worker 以 www 运行，属主不对会 500）
 权限：640
