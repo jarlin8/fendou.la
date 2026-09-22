@@ -1,7 +1,7 @@
 ---
 title: "抗短视频上瘾：前额叶修复与专注力重建笔记"
 post_status: "publish"
-user_pass: "123321"
+post_password: "123321"
 skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
