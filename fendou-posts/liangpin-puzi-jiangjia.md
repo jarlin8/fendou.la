@@ -8,8 +8,10 @@ taxonomy:
         - everyday
   post_tag:
 
+custom_fields:
+  post_password:
+123321
 post_excerpt: ""
-wp_posts.post_password: "123321"
 ---
 ![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/3b84530af30573cb980fc3a2ad1f3d90.png)
 
