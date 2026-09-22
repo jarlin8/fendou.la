@@ -8,7 +8,6 @@ taxonomy:
         - everyday
   post_tag:
 
-custom_fields:
   post_password: "123321"
 post_excerpt: ""
 ---
