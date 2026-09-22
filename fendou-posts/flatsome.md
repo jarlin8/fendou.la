@@ -1,7 +1,7 @@
 ---
 title: "奋斗博客主题和功能设定修改记录"
 post_status: "publish"
-post_password: "1"
+post_password: "123321"
 skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
