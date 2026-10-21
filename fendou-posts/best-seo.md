@@ -1,14 +1,15 @@
 ---
-title: 一篇博客文章最佳的 SEO 状态应该是这样的！
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "一篇博客文章最佳的 SEO 状态应该是这样的！"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - solopreneur
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
 文章标题的写法
 
@@ -58,13 +59,14 @@ post_excerpt:
 
 * 像短段，副标题和项目符号列表.“可扫描的”在线内容将可读性提高了 57％。
 
-![Image](https://fendou.la/wp-content/uploads/2021/01/982ca83afdfc9c7fc96faf387f7bef24.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/982ca83afdfc9c7fc96faf387f7bef24.png)
 
 **可以实操的文章易于被分享**
 
 * 高度实用的文章病毒传播率高出 34％。
 
 * 
+  ![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/3a8c0e3fd0d904eeae2d576bb95fb1fe.png)
 
 **使用高质量的图片**
 
@@ -74,7 +76,7 @@ post_excerpt:
 
 * 引发情绪’敬畏’，’惊讶’或’愤怒’的内容更容易传播病毒。
 
-![Image](https://fendou.la/wp-content/uploads/2021/01/e1668b97f2534dfdb7a06a9b93ffe93f.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/e1668b97f2534dfdb7a06a9b93ffe93f.png)
 
 **使用信息图表**
 
@@ -94,7 +96,7 @@ post_excerpt:
 
 * **CTA（call to action）**
 
-![Image](https://fendou.la/wp-content/uploads/2021/01/f7f7ed1766fecef2a26f061e4c158c82.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/f7f7ed1766fecef2a26f061e4c158c82.png)
 
 **发布长文章**
 
@@ -110,7 +112,7 @@ post_excerpt:
 
 **包含主题标签的推文**
 
-![Image](https://fendou.la/wp-content/uploads/2021/01/daef07467b7b6aee4c7306f9c725f1a6.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/daef07467b7b6aee4c7306f9c725f1a6.png)
 
 **发布时间为早上 8 点到中午 12 点**
 
@@ -118,4 +120,4 @@ post_excerpt:
 
 **下面是全部内容的图片附件：**
 
-![Image](https://fendou.la/wp-content/uploads/2021/01/f43feba72c3939f74ec41cdc8577cf62.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/f43feba72c3939f74ec41cdc8577cf62.png)

@@ -6,7 +6,7 @@ skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - log
+        - geek-workflow
   post_tag:
         - 代码
 post_excerpt: ""
@@ -43,7 +43,9 @@ post_excerpt: ""
 
 1. **新增保护配置**
 
-`文件：/www/server/panel/vhost/nginx/dir_auth/www.fendou.la/shuoshuo.conf`
+```php
+文件：/www/server/panel/vhost/nginx/dir_auth/www.fendou.la/shuoshuo.conf
+```
 
 内容：location 匹配所有 /shuoshuo 开头的请求，要求 Basic 认证，认证后交给 WordPress 处理。此文件被站点主配置 www.fendou.la.conf 中的 dir_auth include 自动加载。
 
@@ -59,7 +61,9 @@ post_excerpt: ""
 
 * **清理伪静态文件中的残留规则**
 
-`文件：/www/server/panel/vhost/rewrite/www.fendou.la.conf`
+```
+文件：/www/server/panel/vhost/rewrite/www.fendou.la.conf
+```
 
 删除了其中一段旧的手写 /shuo 保护规则（它引用已删除的 shuo.conf 当密码文件，导致旧路径弹框且认证后 500）。现只保留 WordPress 默认伪静态和 wp-admin 重定向。
 

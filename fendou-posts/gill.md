@@ -1,15 +1,16 @@
 ---
-title: Git it write 支持的 yaml 格式和使用说明
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "Git it write 支持的 yaml 格式和使用说明"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - log
+        - geek-workflow
   post_tag:
         - code
         - yaml
-post_excerpt: 
+post_excerpt: "详细介绍 WordPress 插件 Git it Write 支持的 YAML 头部字段、Front Matter 语法及自动同步 Markdown 文章到 WordPress 的实战配置技巧。"
 ---
 ## Git it write 支持的 yaml 字段
 
@@ -64,7 +65,7 @@ custom_fields:
 
 * 全部放在`_images`目录下
 
-![Image](https://cdn.fendou.la/tuoss/what-is-yaml.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/e31c41adbed953b44b8cd3fa73933189.png)
 
 > 图片可以正常插入 markdown 文件。所有图像都应存在于_images存储库根目录的文件夹中，而无需组织为文件夹。然后可以将它们用在比较像![alt text](/_images/pic4.jpg "This is pic4"). 文件夹中的所有图像_images都将上传到 WordPress 库，并且图像将在上传时自动链接到帖子。 这些图片只会上传一次，并且只要帖子更新或在另一篇帖子中使用相同的图片，它们就会被重复使用。
 

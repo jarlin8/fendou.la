@@ -6,10 +6,10 @@ skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - mindset
   post_tag:
 
-post_excerpt: ""
+post_excerpt: "深度解析短视频成瘾机制与前额叶功能自救，分享切断无意识漫游、微量启动与主动输出4大实操原则，助你重建深度工作专注力。"
 ---
 ![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/3b84530af30573cb980fc3a2ad1f3d90.png)
 

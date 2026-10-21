@@ -1,16 +1,17 @@
 ---
 title: "爬出低谷最快的方式(2026)"
 post_status: "publish"
+post_password: ""
 skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - mindset
   post_tag:
         - 阅读
-post_excerpt: ""
+post_excerpt: "身处人生低谷与焦虑时如何自救？亲身实测并拆解曾国藩“日日不断、结硬寨打呆仗”的行动系统，用最简单的日常秩序重建掌控感与自信心。"
 ---
-<details><summary>爬出低谷最快的方式：大量模仿曾国藩。</summary>
+<details><summary>**爬出低谷最快的方式：大量模仿曾国藩。**</summary>
 
 低谷的时候最怕的不是没钱、没资源，而是没有行动方向。
 

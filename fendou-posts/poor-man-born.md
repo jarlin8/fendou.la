@@ -1,24 +1,25 @@
 ---
-title: 一个人没有出息的九大根源！
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "一个人没有出息的九大根源！"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - mindset
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
 前些日子，《人民日报》的官微发布了一条哈佛大学分析一个人没有出息的九大根源。
 
 很多观看了研究视频的人们，纷纷在下方留言说是翻版的自己，答案真是扎心了。
 
-![Image](https://cdn.fendou.la/fendou/2020/03/2a1fb500a4f0131d2927b3600bb3bbb3.jpeg)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/2a1fb500a4f0131d2927b3600bb3bbb3.jpg)
 
 ## 一、犹豫不决
 
-![Image](https://cdn.fendou.la/fendou/2020/03/987879f9cb6ccc3558f27408efff4aab.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/987879f9cb6ccc3558f27408efff4aab.png)
 
 比鲁莽更糟糕的是犹豫不决。
 
@@ -28,7 +29,7 @@ post_excerpt:
 
 ## 二、拖延
 
-![Image](https://cdn.fendou.la/fendou/2020/03/e29a7f144ac467b0ec69087f02cffdd1.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/e29a7f144ac467b0ec69087f02cffdd1.png)
 
 计划很丰满，执行很骨感。
 
@@ -48,7 +49,7 @@ post_excerpt:
 
 ## 三、三分钟热度
 
-![Image](https://cdn.fendou.la/fendou/2020/03/ff838069cf495cc87edf759269840e21.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/ff838069cf495cc87edf759269840e21.png)
 
 世界上有 80%的失败都源于半途而废。
 
@@ -64,7 +65,7 @@ post_excerpt:
 
 ## 四、害怕拒绝
 
-![Image](https://cdn.fendou.la/fendou/2020/03/8fbfdcca3c13878e26588ec10216824a.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/8fbfdcca3c13878e26588ec10216824a.png)
 
 厚重而脆弱的自尊。
 
@@ -80,7 +81,7 @@ post_excerpt:
 
 ## 五、自我设限
 
-![Image](https://cdn.fendou.la/fendou/2020/03/989366943161bd5b761563d8e43957e7.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/989366943161bd5b761563d8e43957e7.png)
 
 这会杀死自己的潜能力。
 
@@ -98,7 +99,7 @@ post_excerpt:
 
 ## 六、逃避现实
 
-![Image](https://cdn.fendou.la/fendou/2020/03/179d7e743fd0cb0ed786ac1636d89589.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/179d7e743fd0cb0ed786ac1636d89589.png)
 
 白日梦患者逃避现实的人有 5 个特征。
 
@@ -116,7 +117,7 @@ post_excerpt:
 
 ## 七、总找借口
 
-![Image](https://cdn.fendou.la/fendou/2020/03/9f430785e24e6119d1e5c4ab7444b8df.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/9f430785e24e6119d1e5c4ab7444b8df.png)
 
 “错不在我”，人一旦犯了错，第一反应常常是自我辩护。
 
@@ -128,7 +129,7 @@ post_excerpt:
 
 ## 八、恐惧
 
-![Image](https://cdn.fendou.la/fendou/2020/03/cc74447c566f4aff526a7822d5484c7b.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/cc74447c566f4aff526a7822d5484c7b.png)
 
 他们在工作中总有这样的感受：害怕被领导批评、害怕别人觉得自己无能、害怕被别人知道自己的缺点、在意他人的评价、害怕犯错、害怕自己的付出得不到回报。
 
@@ -138,7 +139,7 @@ post_excerpt:
 
 ## 九、拒绝学习
 
-![Image](https://cdn.fendou.la/fendou/2020/03/7638104853f7f94d6ebd26c0e5c0840b.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/7638104853f7f94d6ebd26c0e5c0840b.png)
 
 你不是寂寞，只是不想学习。
 
@@ -150,4 +151,4 @@ post_excerpt:
 
 看完上面没出息的九大根源，你觉得自己中了几条，评论区或点赞说说呗。
 
-![Image](https://cdn.fendou.la/fendou/2020/03/01683cef470f36714d5be0b8b29bfbc2.jpeg)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/01683cef470f36714d5be0b8b29bfbc2.jpg)
