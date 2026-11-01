@@ -1,14 +1,15 @@
 ---
-title: Content Egg Pro 自助配置文档
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "Content Egg Pro 自助配置文档"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - geek-workflow
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
 ## Feed 模块
 
@@ -20,7 +21,7 @@ post_excerpt:
 
 ### Feed 中 csv 文件映射
 
-![Image](https://cdn.fendou.la/fendou/2022/04/feed-maping.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/ac4c71e118515584cc007953af02888a.png)
 
 * `id` - 每个产品对应的独立 ID.
 
@@ -40,7 +41,7 @@ post_excerpt:
 
 URL 搜索适用于直接链接映射字段。如果您没有在上一步映射它，插件将尝试从您的会员链接建立直接链接。
 
-![Image](https://cdn.fendou.la/fendou/2022/08/EAN-import.png)
+![image](https://cdn.jsdmirror.com/gh/jarlin8/fendou.la@main/fendou-posts/images/7634287bc474e8fca758c29a83e6aa49.png)
 
 ## 利用 feed 功能导入京东联盟
 
@@ -68,7 +69,9 @@ URL 搜索适用于直接链接映射字段。如果您没有在上一步映射�
 
 使用 Excel 对批量生成的产品码进行 EAN 校验
 
-`=A799&RIGHT(SUM(LEFT($A799,{0,1}+{1;3;5;7;9;11})*{9,7}))`
+```php
+=A799&RIGHT(SUM(LEFT($A799,{0,1}+{1;3;5;7;9;11})*{9,7}))
+```
 
 ## ContentEGG RPO
 
@@ -353,7 +356,9 @@ del /a /f /s /q  "*.iml"
 
 ## thrive 插件的下载更新
 
-`# thrive leadshttp://download.thrivethemes.com/thrive-leads-3.6.zip# thrive-architecthttp://download.thrivethemes.com/thrive-architect-3.8.zipThrive Plugins Package Nulled - April 6, 2022Thrive Automator v0.9Thrive Optimize v2.6Thrive Comments v2.6Thrive Clever Widgets v2.9.1Thrive Headline Optimizer v2.3.1Thrive Ovation v3.6Thrive Leads v3.6Thrive Ultimatum v3.6Thrive Quiz Builder v3.6Thrive Apprentice v4.2Thrive Architect v3.8`
+```php
+# thrive leadshttp://download.thrivethemes.com/thrive-leads-3.6.zip# thrive-architecthttp://download.thrivethemes.com/thrive-architect-3.8.zipThrive Plugins Package Nulled - April 6, 2022Thrive Automator v0.9Thrive Optimize v2.6Thrive Comments v2.6Thrive Clever Widgets v2.9.1Thrive Headline Optimizer v2.3.1Thrive Ovation v3.6Thrive Leads v3.6Thrive Ultimatum v3.6Thrive Quiz Builder v3.6Thrive Apprentice v4.2Thrive Architect v3.8
+```
 
 ## DeepLink 链接汇总
 
@@ -379,11 +384,11 @@ del /a /f /s /q  "*.iml"
 
 * Justhost `https://www.justhost.com/track/jialinwei/`
 
-* interServer [https://www.interserver.net/r/667363](https://www.interserver.net/r/667363) [[https://www.interserver.net/r/667363?url={{url_encoded](https://www.interserver.net/r/667363?url=%7B%7Burl_encoded)}}]
+* interServer [`https://www.interserver.net/r/667363`](https://www.interserver.net/r/667363) [[https://www.interserver.net/r/667363?url={{url_encoded](https://www.interserver.net/r/667363?url=%7B%7Burl_encoded)}}]
 
-* HostPapa [https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313](https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313)
+* HostPapa [`https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313`](https://tracking.opienetwork.com/aff_c?offer_id=437&aff_id=16860&file_id=1313)
 
-* A2hosting [http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3](http://www.a2hosting.com/?aid=jarlinwei&cid=edae5de3)
+* A2hosting [`http://www.a2hosting.com?aid=jarlinwei&cid=edae5de3`](http://www.a2hosting.com/?aid=jarlinwei&cid=edae5de3)
 
 * Hostwinds `https://www.hostwinds.com/10193.html`[ [https://affiliates.hostwinds.com/hostwinds.php?id=10193](https://affiliates.hostwinds.com/hostwinds.php?id=10193) ]
 

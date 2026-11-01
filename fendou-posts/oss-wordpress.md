@@ -1,14 +1,15 @@
 ---
-title: 7 个有用的 wordpress 图片云储存方案
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "7 个有用的 wordpress 图片云储存方案"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - geek-workflow
   post_tag:
 
-post_excerpt: 
+post_excerpt: "针对个人站长与独立博客的图片云存储避坑指南，实测阿里云 OSS、七牛云、又拍云、腾讯云 COS 及自建对象存储方案，提升网站访问速度。"
 ---
 储存图片一直是我们这些小站长的难题，本地占用空间大，速度还提不起来。
 

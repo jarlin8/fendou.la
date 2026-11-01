@@ -1,11 +1,12 @@
 ---
 title: "PHP&Linux 服务器配置笔记"
 post_status: "publish"
+post_password: ""
 skip_file: "no"
 post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - project
+        - geek-workflow
   post_tag:
         - php
         - redis
@@ -44,7 +45,9 @@ PHP 中使用 Redis 前，我们需要确保已经安装了 redis 服务，且�
 
 argon: Theme Footer (footer.php):5
 
-`<div>Theme <a href="https://github.com/solstice23/argon-theme" target="_blank"><strong>Argon</strong></a><?php if (get_option('argon_hide_footer_author') != 'true') {echo " By solstice23"; }?></div>`
+```php
+<div>Theme <a href="https://github.com/solstice23/argon-theme" target="_blank"><strong>Argon</strong></a><?php if (get_option('argon_hide_footer_author') != 'true') {echo " By solstice23"; }?></div>
+```
 
 argon: Theme Functions (functions.php):2007
 

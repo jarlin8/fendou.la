@@ -1,14 +1,15 @@
 ---
-title: 有哪些越早知道越好的人生经验？
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "有哪些越早知道越好的人生经验？"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - everyday
+        - mindset
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
 ## 当一件事只能让你产生短期快感，建议少做
 
@@ -209,3 +210,7 @@ post_excerpt:
 现在如果重来你会怎样做，这些对失败的反思会让你快速成长，不再稚嫩。
 
 ## 好道理的储量其实大家都差不多，核心是执行
+
+对于优质内容的敏感度和超强的执行力，是拉开人们差距的关键。
+
+## 深度思考、利用好碎片化时间能大大提升工作效率。

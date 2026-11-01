@@ -1,14 +1,15 @@
 ---
-title: 如何在家里做到高效学习?
-post_status: publish
-skip_file: yes
-post_date: 2023-12-29T04:10:00.000Z
+title: "如何在家里做到高效学习?"
+post_status: "publish"
+post_password: ""
+skip_file: "yes"
+post_date: "2023-12-29T04:10:00.000Z"
 taxonomy:
   category:
-        - log
+        - mindset
   post_tag:
 
-post_excerpt: 
+post_excerpt: ""
 ---
 自主学习的动力，一般来源于两种：
 
